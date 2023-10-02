@@ -1,6 +1,7 @@
 setTimeout(preloaderDisplayNone, 1000);
 window.addEventListener("load", function(){
     preloaderDisplayNone();
+    setAnimesInTrendingHover();
 });
     function preloaderDisplayNone(){
         try{
@@ -191,7 +192,6 @@ function addAnimeToList(){
                 animeImageUrl : animeImageUrl
             }
 
-        // let animeData_ = JSON.stringify(animeDataWatchList);
 
         let animeLocalData = localStorage.getItem("watchList");
         let anime___ = JSON.parse(animeLocalData);
@@ -203,7 +203,6 @@ function addAnimeToList(){
             }
         }
         anime___.push(animeDataWatchList);
-        // console.log(JSON.stringify(anime___));
 
         localStorage.setItem("watchList", JSON.stringify(anime___));
     }
@@ -290,7 +289,6 @@ setTrendingAnimeInSearch();
 
 
 const moreSeasonsOfThisSection = document.querySelectorAll(".anime-seasons-items__");
-// console.log(moreSeasonsOfThisSection);
 const wholeMoreSeasonsContainer = document.getElementsByClassName("more-season-anime-container__")[0];
 if(wholeMoreSeasonsContainer != undefined){
     if(moreSeasonsOfThisSection.length == 0)
@@ -309,7 +307,6 @@ function setCommentSection(){
         {let commentSectionButtonNew = document.querySelector(".show-more-comments button");
         // let commentSection = document.getElementsByClassName("data-comment-section_")[0];
 
-        // console.log(commentSection.offsetHeight <= 1000, commentSection.offsetHeight);
         if(commentSection.offsetHeight <= 1000){
             commentSectionButtonNew.style.display = "none";
         }else{
@@ -349,23 +346,27 @@ catch{}
 
 
 //for hovering animes
-const animeHover = document.getElementsByClassName("anime-in-trending")[0];
-const animesHover = document.getElementsByClassName("anime-in-trending");
-if(window.innerWidth >= 900)
-{
-    
-
-    for(let i = 0; i < animesHover.length; i ++){
-        animesHover[i].addEventListener("mouseover", () => {
-            showHoverDiv(i);
-        });
-        animesHover[i].addEventListener("mouseout", () => {
-            hideHoverDiv(i);
-        });
+function setAnimesInTrendingHover(){
+    let animeHover = document.getElementsByClassName("anime-in-trending")[0];
+    if(animeHover){
+        const animesHover = document.getElementsByClassName("anime-in-trending");
+        if(window.innerWidth >= 900)
+        {
+            for(let i = 0; i < animesHover.length; i ++){
+                animesHover[i].addEventListener("mouseover", () => {
+                    showHoverDiv(animesHover, i);
+                });
+                animesHover[i].addEventListener("mouseout", () => {
+                    hideHoverDiv(animesHover, i);
+                });
+            }
+        }    
+    }else{
+        setTimeout(setAnimesInTrendingHover, 2000);
     }
 }
 
-function showHoverDiv(index){
+function showHoverDiv(animesHover, index){
     let animeTrendingBound;
     if(!animesHover[index].getElementsByClassName("anime-hover-data")[0])
     {
@@ -378,7 +379,7 @@ function showHoverDiv(index){
                   </div>
                </div>`
         animesHover[index].append(newElementHover);
-        getDataFromAnilist2(Number(animesHover[index].getAttribute("anime-id")), index);
+        getDataFromAnilist2(animesHover, Number(animesHover[index].getAttribute("anime-id")), index);
     }
     else{
         animesHover[index].getElementsByClassName("anime-hover-data")[0].style.display = "flex";
@@ -393,7 +394,7 @@ function showHoverDiv(index){
         animesHover[index].getElementsByClassName("anime-hover-data")[0].style.left = "90%";
     }
 }
-function hideHoverDiv(index) {
+function hideHoverDiv(animesHover, index) {
     try{
         animesHover[index].getElementsByClassName("anime-hover-data")[0].style.display = "none";
     }
@@ -401,7 +402,8 @@ function hideHoverDiv(index) {
 }
 
 
-async function getDataFromAnilist2(animeKey, index){
+async function getDataFromAnilist2(animesHover, animeKey, index){
+    console.log(animesHover);
     // console.log(animeKey, "in");
     let query = `
     query ($id: Int) { # Define which variables will be used in the query (id)
