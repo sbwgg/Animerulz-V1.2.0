@@ -167,7 +167,7 @@ function addAnimeToList(){
     document.getElementsByTagName("body")[0].appendChild(notificationContainer);
     // notificationContainer.style.opactiy = "1 !important";
     watchListButton.textContent = "View Watch List";
-    watchListButton.setAttribute("onclick", "window.open('https://animerulz.in/WatchList/', '_self')");
+    watchListButton.setAttribute("onclick", "window.open('https://animerulz.in/watchlist/', '_self')");
     let animeLink = window.location.href;
     let animeName = document.getElementsByTagName("h1")[0].textContent;
     let animeImageUrl = document.getElementsByClassName("image-in-container-image-div")[0].getAttribute("src");
