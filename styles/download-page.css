@@ -876,3 +876,11 @@ iframe{
 #episodes-in-section{
   position: relative;
 }
+.anime-rec-div h2{
+  color: rgba(0,0,0,0.8);
+  padding-inline: 10px;
+  display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
