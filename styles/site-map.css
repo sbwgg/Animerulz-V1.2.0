@@ -1,0 +1,82 @@
+html{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.site-map-container{
+    padding-top: 80px;
+    width: 99vw;
+    max-width: 1500px;
+    margin-inline: auto;
+    /* padding-inline: 10px; */
+    background: linear-gradient(0deg, rgba(0,0,0,0.9), rgba(0,0,0,0.6)), url(/images/shanks.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: left;
+    background-attachment: fixed;
+}
+.site-map-container header h1{
+    font-size: 30px;
+}
+.site-map-container .data-container__{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.site-map-container .data-container__ .dataitem{
+    /* width: 100%; */
+    padding: 10px 20px;
+}
+.site-map-container .data-container__ .dataitem h2{
+    font-size: 18px;
+    color: #faa300;
+    color: rgba(255,255,255,0.8);
+}
+.site-map-container .data-container__ .dataitem .data-items-sub-data{
+    list-style: none;
+}
+.site-map-container .data-container__ .dataitem .data-items-sub-data li a{
+    all: unset;
+}
+.site-map-container .data-container__ .dataitem .data-items-sub-data li{
+    display: block;
+    color: rgba(255,255,255,0.7);
+    padding-block: 10px;
+}
+.site-map-container .data-container__ .dataitem .data-items-sub-data li i{
+    font-size: 12px;
+    margin-right: 5px;
+}
+.site-map-container .data-container__ .dataitem .data-items-sub-data li h3{
+    all: unset;
+    /* display: block; */
+}
+.site-map-container .data-container__ .dataitem h2:hover, .site-map-container .data-container__ .dataitem .data-items-sub-data li a:hover{
+    cursor: pointer;
+    color: #faa300;
+}
+.site-map-container .data-container__ .dataitem .data-items-sub-data .data-items-sub-sub-container_{
+    /* list-style: none; */
+    display: none;
+    position: relative;
+    list-style:disc;
+    transition: all 0.5s;
+    animation: showUp 0.5s both;
+}
+.site-map-container .data-container__ .dataitem .data-items-sub-data i{
+    transition: all 0.5s;
+}
+.site-map-container .data-container__ .dataitem .data-items-sub-data .data-items-sub-sub-container_ li{
+    display: list-item;
+}
+.site-map-container .div-show-animes_, .site-map-container .div-show-animes-by-genre_{
+    cursor: pointer;
+}
+.site-map-container .div-show-animes_:hover, .site-map-container .div-show-animes-by-genre_:hover{
+    color: #faa300;
+}
+
+@media only screen and (max-width:600px){
+    .site-map-container .data-container__{
+        grid-template-columns: 1fr;
+    }   
+}

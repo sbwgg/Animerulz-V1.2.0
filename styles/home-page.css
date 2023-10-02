@@ -1,0 +1,271 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Montserrat',Arial ;
+}
+a{
+    all:unset;
+}
+body{
+    background-color: rgba(0,0,0,0.9);
+    color: rgba(255, 255, 255, 0.6);
+    line-height: 1.5em;
+}
+body::-webkit-scrollbar{
+    display: none;
+}
+#xwrapper{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.background-image-container{
+    height: 860px;
+    width: 100vw;
+    max-width: 1700px;
+    margin-inline: auto;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.background-image-container .backgrounds{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+header{
+    background:linear-gradient(0deg, rgba(0,0,0,0.8), rgba(0,0,0,0.5)), url(/images/Freedom.png);
+    background-size: cover;
+    background-position-x: center;
+    background-repeat: no-repeat;
+}
+.background-image-container .backgrounds .backgrounds-main{
+    width: 80%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.left-bg{
+    background: url(/images/naruto-1-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-position-x: left;
+    background-position-y: 200px;
+}
+.right-bg{
+    background: url(/images/naruto-2-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: 200px;
+}
+#mw-top{
+    position: relative;
+}
+.container,.mwt-content, .mwt-icon, .mwt-icon img{
+    height: 100%;
+}
+.mwh-logo{
+    display: flex;
+    justify-content: center;
+}
+.mwh-logo img{
+    height: 80px;
+}
+#xheader .container #xheader_menu{
+    padding: 30px 0;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+#xheader .container .header_menu-list{
+    display: flex;
+    list-style: none;
+    gap: 0 20px;
+}
+#xheader .container .header_menu-list li a{
+    color: rgba(255, 255, 255, 0.7);
+    cursor: pointer;
+}
+.mwt-icon{
+   height: 400px;
+}
+#xsearch{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.xhashtag, .search-content{
+    width: 500px;
+}
+.xhashtag{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px 10px;
+}
+.xhashtag a{
+    color: rgba(255, 255, 255, 0.5);
+    cursor: pointer;
+    max-width: 200px;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+.xhashtag span{
+    color: rgba(255, 255, 255, 0.9);
+}
+#search-form{
+    display: flex;
+    flex-direction: row-reverse;
+    padding: 10px 0;
+    width: 100%;
+    text-align: center;
+}
+#search-form .search-submit, #search-form .search-input{
+    border-radius: 40px;
+    font-size: 18px;
+}
+#search-form .search-input{
+    width: 450px;
+    padding: 17px;
+    border: none;
+}
+#search-form .search-input:focus{
+    border: none;
+    outline: none;
+}
+#search-form .search-submit{
+    cursor: pointer;
+    width: 50px;
+    padding: 17px 8px;
+}
+#action-button{
+    margin-top: 200px;
+    height: 50px;
+    width: 80%;
+    margin-inline: auto;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+a.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    width: 100%;
+    height: 100%;
+    color: rgba(0,0,0,0.9);
+    font-weight: 600;
+    cursor: pointer;
+}
+.share-buttons-block{
+    width: 90%;
+    margin-inline: auto;
+    margin-top: 20px;
+    display: flex;
+    padding: 1%;
+    background-color: rgba(0,0,0,0.4);
+    border-radius: 10px;
+}
+.share-buttons-block .sbb-title{
+    padding-inline: 20px;
+    border-left: 2px solid #faa300;
+}
+
+.mw-body, #xfooter-about{
+    line-height: 2em;
+    padding: 20px 0;
+    width: 95vw;
+    max-width: 1000px;
+    margin-inline: auto;
+}
+h1, h2, h3{
+    margin-block: 10px;
+    color: rgba(255, 255, 255, 0.9);
+}
+.mw-body p{
+    color: rgba(255, 255, 255, 0.6);
+}
+@media only screen and (max-width:1550px){
+    .background-image-container .backgrounds .backgrounds-main, #action-button{
+        width: 90%;
+    }
+}
+@media only screen and (max-width:1400px){
+    .background-image-container .backgrounds .backgrounds-main{
+        width: 100%;
+    }
+}
+@media only screen and (max-width:1300px) {
+    #action-button{
+        margin-top: 50px;
+    }
+}
+@media only screen and (max-width:900px){
+    .background-image-container .backgrounds .backgrounds-main{
+        display: none;
+    }
+    .background-image-container{
+        height: 700px;
+    }
+    .xhashtag{
+        font-size: 14px;
+    }
+    #xmain-wrapper{
+        padding-block: 10px;
+    }
+    .share-buttons-block{
+        font-size: 12px;
+    }
+    h1, h2, h3{
+        font-size: 16px;
+    }
+    .mw-body p{
+        font-size: 11px;
+    }
+    #xheader_menu{
+        font-size: 13px;
+    }
+}
+@media only screen and (max-width:510px) {
+    .background-image-container{
+        height: auto;
+    }
+    .background-image-container{
+        gap: 100px;
+    }
+    .xhashtag, .search-content{
+        width: 95%;
+        margin-inline: auto;
+    }
+    .mwh-logo img{
+        display: block;
+        height: auto;
+        width: 80%;
+        margin-inline: auto;
+    }
+    .nav-item:nth-child(5){
+        display: none;
+    }
+    .xhashtag a{
+        max-width: 150px;
+    }
+    #search-form .search-input, #search-form .search-submit{
+        padding-block: 10px;
+    }
+    .search-submit{
+        min-width: 30px;
+    }
+    .share-buttons-block{
+        display: block;
+    }
+}
+@media only screen and (max-width:360px){
+    #xheader .container .header_menu-list{
+        display: none;
+    }
+}
