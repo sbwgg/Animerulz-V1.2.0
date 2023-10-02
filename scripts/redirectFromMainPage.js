@@ -20,7 +20,7 @@ const redirectTo = [
     "myheroacademia",
     "dragonballsuper",
     "jujutsukaisen2ndseason",
-    "tokyorevengerschirstmasshowdown",
+    "tokyorevengerschristmasshowdown",
     "rurounikenshinmeijikenkakuromantan2023",
     "attackontitanfinalseasonpart1",
     "bleachthousandyearbloodwararc"
