@@ -44,6 +44,10 @@ a{
   padding: 10px;
 }
 .home-main-info h1{
+  display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
   font-size: 80%;
   color: #faa300;
 }
