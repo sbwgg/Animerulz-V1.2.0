@@ -45,6 +45,7 @@ a{
 }
 .home-main-info h1{
   font-size: 80%;
+  color: #faa300;
 }
 .home-main-info svg{
   height: 20px;
@@ -202,9 +203,6 @@ a{
   .anime-in-trending{
     min-width: 200px;
   }
-  .vertical-container{
-    width: 35px;
-  }
   /* .anime-in-trending .image-container{
     width: 200px;
   } */
@@ -247,9 +245,9 @@ a{
     margin: 0;
 }
 .vertical-container span{
-  width: 30px;
-  height: 30px;
-  font-size: 16px;
+  /* width: 30px;
+  height: 30px; */
+  font-size: 40px;
   padding: 0 3px;
 }
 .anime-in-trending{
@@ -269,7 +267,7 @@ a{
 }
 .vertical-container{
   position: absolute;
-  background: linear-gradient(180deg,rgba(0,0,0,0.5) 0, rgba(0,0,0,0.1) 20%, rgba(0,0,0,0.1) 99%);
+  /* background: linear-gradient(180deg,rgba(0,0,0,0.5) 0, rgba(0,0,0,0.1) 20%, rgba(0,0,0,0.1) 99%); */
   /* background-color: #faa300; */
   /* rotate: 90deg; */
   width: 120px;
@@ -285,11 +283,11 @@ a{
   margin-top: 0;
   margin-left: 0;
   font-size: 60%;
-  background-color: rgba(0,0,0,0.5);
+  /* background-color: rgba(0,0,0,0.5); */
   height: 20px;
   padding-left: 10px;
   /* text-align: center; */
-  display: -webkit-box;
+  /* display: -webkit-box; */
     -webkit-line-clamp: 1;
     -webkit-box-orient: vertical;
     overflow: hidden;
@@ -299,7 +297,7 @@ a{
   margin: 0;
   height: auto;
   margin-top: -5px;
-  font-size: 12px;
+  font-size: 30px;
   /* padding: 0 3px; */
 }
 .home-main-info h1{
