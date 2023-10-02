@@ -33,6 +33,10 @@ async function getDataFromAnilist(animeKey){
               month
               day
             }
+            nextAiringEpisode {
+                timeUntilAiring
+                episode
+            }
           }
         }
       }
@@ -72,30 +76,40 @@ function handleResponse(response) {
 
 function handleData(data) {
     // console.log(data);
-    let count = 30;
     let temp = "";
     let animesSearchResult = data.data.Page.media;
-    for(let i = 0; i < animesSearchResult.length;i ++ ){
-        if(animesSearchResult[i].title.english != null){
-        temp = `
-        <a href="/${animesSearchResult[i].title.english.toLowerCase().replace(/[^a-zA-Z0-9]/g, "")}" title="${animesSearchResult[i].title.english}" class="main-data__container">
-            <div class="anime-info__res">
-                <div class="anime-des___">
-                    <div class="anime-epi___">Episodes-${animesSearchResult[i].episodes}</div>
-                    <div class="anime-type___">${animesSearchResult[i].format}</div>
+    if(animesSearchResult.length != 0){
+        for(let i = 0; i < animesSearchResult.length;i ++ ){
+            if(animesSearchResult[i].title.english != null){
+            temp = `
+            <a href="/${animesSearchResult[i].title.english.toLowerCase().replace(/[^a-zA-Z0-9]/g, "")}" class="main-data__container">
+                <div class="anime-info__res">
+                    <div class="anime-des___">
+                        <div class="anime-epi___">Episodes-${animesSearchResult[i].episodes ? animesSearchResult[i].episodes : animesSearchResult[i].nextAiringEpisode.episode - 1}</div>
+                        <div class="anime-type___">${animesSearchResult[i].format}</div>
+                    </div>
+                    <div class="anime-name__">
+                        <h2>${animesSearchResult[i].title.english}</h2>
+                    </div>
                 </div>
-                <div class="anime-name__">
-                    <h2>${animesSearchResult[i].title.english}</h2>
-                </div>
-            </div>
-        </a>
-    `;
-    let divElement = document.createElement("div");
-    divElement.setAttribute("class", "result-item-in-container___");
-    divElement.style = `background:linear-gradient(0deg, rgba(0,0,0,9) 0%,rgba(0,0,0,0.9) 20%,rgba(0,0,0,0.3) 40%, rgba(0,0,0,0.3) 60%, rgba(0,0,0,0.3) 80%, rgba(0,0,0,0.3) 100%), url(${animesSearchResult[i].coverImage.large}); background-size:100% auto;background-repeat:no-repeat;`;
-    divElement.innerHTML = temp;
-    animeContainerSearch.appendChild(divElement);
+            </a>
+        `;
+        let divElement = document.createElement("div");
+        divElement.setAttribute("class", "result-item-in-container___");
+        divElement.classList.add("anime-in-trending");
+        divElement.setAttribute("anime-id", `${animesSearchResult[i].id}`);
+        divElement.style = `background:linear-gradient(0deg, rgba(0,0,0,9) 0%,rgba(0,0,0,0.9) 20%,rgba(0,0,0,0.3) 40%, rgba(0,0,0,0.3) 60%, rgba(0,0,0,0.3) 80%, rgba(0,0,0,0.3) 100%), url(${animesSearchResult[i].coverImage.large}); background-size:100% auto;background-repeat:no-repeat;`;
+        divElement.innerHTML = temp;
+        animeContainerSearch.appendChild(divElement);
+        }
     }
+}
+else{
+    animeContainerSearch.style.display = "block";
+    animeContainerSearch.innerHTML = `
+    <div class="container-no-results" style="width: 100%;color:rgba(255, 255, 255, 0.8);padding: 100px 10px;text-align: center;">
+                    <span><b>No Results for ${searchAnime}</b></span>
+                  </div>`
 }
 }
 function handleError(e){
