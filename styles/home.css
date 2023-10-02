@@ -270,6 +270,7 @@ a{
   position: relative;
 }
 .vertical-container h3{
+  position: relative;
   transform: rotate(0deg);
   margin-top: 0;
   margin-left: 0;
@@ -283,21 +284,22 @@ a{
     -webkit-box-orient: vertical;
     overflow: hidden;
     line-height: 0.5cm;
-    margin-top: 20px;
+    /* margin-top: 20px; */
 }
 .vertical-container{
   position: absolute;
   width: 120px;
   /* height: 20px; */
   display: flex;
-  flex-direction: column;
-  bottom: 10px;
+  flex-direction: column-reverse;
+  /* bottom: 20px; */
 }
 .anime-in-trending .image-container img{
   width: 120px;
   height: 180px;
 }
 .vertical-container span{
+  display: block;
   position: static;
   margin: 0;
   height: auto;
