@@ -403,7 +403,7 @@ function hideHoverDiv(animesHover, index) {
 
 
 async function getDataFromAnilist2(animesHover, animeKey, index){
-    console.log(animesHover);
+    // console.log(animesHover);
     // console.log(animeKey, "in");
     let query = `
     query ($id: Int) { # Define which variables will be used in the query (id)
