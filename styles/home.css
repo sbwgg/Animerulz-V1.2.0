@@ -230,7 +230,7 @@ a{
 }
 .vertical-container{
   width: 100%;
-  height: 30px;
+  /* height: 30px; */
   /* display: flex; */
 }
 /* .anime-in-trending .image-container{
@@ -241,7 +241,7 @@ a{
   height: 220px;
 }
 .vertical-container h3{
-  position: static;
+  /* position: static; */
   font-size: 100%;
   transform: rotate(0);
     width: 100%;
@@ -269,38 +269,39 @@ a{
   min-height: 180px;
   position: relative;
 }
+.vertical-container h3{
+  transform: rotate(0deg);
+  margin-top: 0;
+  margin-left: 0;
+  font-size: 12px;
+  /* background-color: rgba(0,0,0,0.5); */
+  height: 20px;
+  padding-left: 10px;
+  /* text-align: center; */
+  display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    line-height: 0.5cm;
+    margin-top: 20px;
+}
 .vertical-container{
   position: absolute;
-  /* background: linear-gradient(180deg,rgba(0,0,0,0.5) 0, rgba(0,0,0,0.1) 20%, rgba(0,0,0,0.1) 99%); */
-  /* background-color: #faa300; */
-  /* rotate: 90deg; */
   width: 120px;
-  height: 20px;
+  /* height: 20px; */
   display: flex;
+  flex-direction: column;
+  bottom: 10px;
 }
 .anime-in-trending .image-container img{
   width: 120px;
   height: 180px;
 }
-.vertical-container h3{
-  transform: rotate(0deg);
-  margin-top: 0;
-  margin-left: 0;
-  font-size: 60%;
-  /* background-color: rgba(0,0,0,0.5); */
-  height: 20px;
-  padding-left: 10px;
-  /* text-align: center; */
-  /* display: -webkit-box; */
-    -webkit-line-clamp: 1;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-    line-height: 0.5cm;
-}
 .vertical-container span{
+  position: static;
   margin: 0;
   height: auto;
-  margin-top: -5px;
+  margin-top: -10px;
   font-size: 30px;
   /* padding: 0 3px; */
 }
