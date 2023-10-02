@@ -133,12 +133,15 @@ header{
     width: 450px;
     padding: 17px;
     border: none;
+    border: 1px solid rgba(0,0,0,0.8);
 }
 #search-form .search-input:focus{
     border: none;
     outline: none;
 }
 #search-form .search-submit{
+    border: 1px solid rgba(0,0,0,0.8);
+    color: rgba(0,0,0,0.9);
     cursor: pointer;
     width: 50px;
     padding: 17px 8px;
@@ -239,29 +242,31 @@ h1, h2, h3{
         gap: 100px;
     }
     .xhashtag, .search-content{
-        width: 95%;
+        width: 90%;
         margin-inline: auto;
     }
     .mwh-logo img{
         display: block;
         height: auto;
-        width: 80%;
+        width: 60%;
         margin-inline: auto;
     }
     .nav-item:nth-child(5){
         display: none;
     }
     .xhashtag a{
-        max-width: 150px;
+        max-width: 170px;
     }
     #search-form .search-input, #search-form .search-submit{
         padding-block: 10px;
+        font-size: 14px;
     }
     .search-submit{
         min-width: 30px;
     }
     .share-buttons-block{
-        display: block;
+        flex-direction: column;
+        gap: 10px;
     }
 }
 @media only screen and (max-width:360px){
