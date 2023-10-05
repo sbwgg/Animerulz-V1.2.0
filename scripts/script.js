@@ -271,7 +271,7 @@ function disableScroll(){
 function setTrendingAnimeInSearch(){
     let trendingAnimeInSearchContainer = document.getElementsByClassName("list-search-trending")[0];
     let trendingAnime = [
-        "One Piece", "Jujutsu Kaisen Season 2", "Bleach Thousand Year Blood War Season 2", "Zom 100", "Demon Slayer Swordsmith Village Arc"
+        "One Piece","Tokyo Revengers Season 3", "Jujutsu Kaisen Season 2", "Bleach Thousand Year Blood War Season 2", "Zom 100"
     ]
     let temppp = "";
     let counterrr = 0;
@@ -489,6 +489,8 @@ function handleData(data) {
         let hoursUntilAir = Math.floor(timeUntilAir % 24);
         nextEpisodeData = "next Episode-" + newData['nextAiringEpisode']['episode'] + " in " + daysUntilAir + "d " + hoursUntilAir + "h";
     }
+    let btnText = lastEpisode ? `<i class="fa-solid fa-circle-play small-font"></i> Watch Now` : `Coming Soon`;
+    let anchorToAnime = btnText == `<i class="fa-solid fa-circle-play small-font"></i> Watch Now` ? `href="${animeHref}Watch-Now/?ep=${lastEpisode}&aud=jap"` : "";
     animesHover[index].getElementsByClassName("anime-hover-data")[0].innerHTML = `
     <div class="anime-episode-data medium-font">
        <b>${nextEpisodeData}</b>
@@ -523,9 +525,8 @@ function handleData(data) {
      <div class="anime-genre-n">${newData['genres'][2]}</div>
   </div>
   <div class="watch-now-hover small-font">
-    <a href="${animeHref}Watch-Now/?ep=${lastEpisode}&aud=jap" title="Watch ${newData['title']['english']}"><button>
-    <i class="fa-solid fa-circle-play small-font"></i>
-    Watch Now
+    <a ${anchorToAnime} title="${newData['title']['english']}"><button>
+    ${btnText}
     </button></a>
  </div>`;
 }
