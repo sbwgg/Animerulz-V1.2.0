@@ -12,7 +12,8 @@ const redirectThis = [
     "tokyorevengersseason2",
     "rurounikenshin2023",
     "attackontitanfinalseason",
-    "bleachthousandyearbloodwar"
+    "bleachthousandyearbloodwar",
+    "tokyorevengersseason3"
 ]
 const redirectTo = [
     "myheroacademia2",
@@ -23,7 +24,8 @@ const redirectTo = [
     "tokyorevengerschristmasshowdown",
     "rurounikenshinmeijikenkakuromantan2023",
     "attackontitanfinalseasonpart1",
-    "bleachthousandyearbloodwararc"
+    "bleachthousandyearbloodwararc",
+    "tokyorevengerstenjikuhen"
 ]
 
 for(let i = 1; i <= redirectThis.length ; i ++){
