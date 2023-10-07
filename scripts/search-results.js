@@ -85,7 +85,7 @@ function handleData(data) {
             <a href="/${animesSearchResult[i].title.english.toLowerCase().replace(/[^a-zA-Z0-9]/g, "")}" class="main-data__container">
                 <div class="anime-info__res">
                     <div class="anime-des___">
-                        <div class="anime-epi___">Episodes-${animesSearchResult[i].episodes ? animesSearchResult[i].episodes : animesSearchResult[i].nextAiringEpisode.episode - 1}</div>
+                        <div class="anime-epi___">Episodes-${animesSearchResult[i].nextAiringEpisode == null ? animesSearchResult[i].episodes : animesSearchResult[i].nextAiringEpisode.episode - 1}</div>
                         <div class="anime-type___">${animesSearchResult[i].format}</div>
                     </div>
                     <div class="anime-name__">
