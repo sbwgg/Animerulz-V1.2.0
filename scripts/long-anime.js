@@ -2,7 +2,6 @@ const animeNameee = document.getElementById("a-active-page-tag").textContent.toL
 
 
 
-
 const longAnimes = ['one piece',
 'naruto',
 'naruto shippuden',
@@ -333,61 +332,96 @@ long_anime_file.onload = function(){
         else if(epi_aud == 'tel'){
             let current_short_anime_data_video_link = current_short_anime_data['tel']['link'];
             let newEpiNum1;
-            if(epi_num >= 1 && epi_num <= 9)
-                newEpiNum1 =  '00' + epi_num;
-            else if(epi_num >= 10 && epi_num <= 99)
-                newEpiNum1 = '0' + epi_num
-            else
-                newEpiNum1 = epi_num
+            if (current_short_anime_data['tel']['no_epi'] > 100) {
+                if(epi_num >= 1 && epi_num <= 9)
+                    newEpiNum1 =  '00' + epi_num;
+                else if(epi_num >= 10 && epi_num <= 99)
+                    newEpiNum1 = '0' + epi_num
+                else
+                    newEpiNum1 = epi_num
+            }else{
+                if(epi_num >= 1 && epi_num <= 9)
+                    newEpiNum1 = '0' + epi_num;
+                else
+                    newEpiNum1 = epi_num;
+            }
             current_short_anime_data_video_link = current_short_anime_data_video_link + newEpiNum1 + "&lang=tel";
             video_player.setAttribute("src", current_short_anime_data_video_link);
         }
         else if(epi_aud == 'tam'){
-            let current_short_anime_data_video_link = current_short_anime_data['tel']['link'];
+            let current_short_anime_data_video_link = current_short_anime_data['tam']['link'];
             let newEpiNum1;
-            if(epi_num >= 1 && epi_num <= 9)
-                newEpiNum1 =  '00' + epi_num;
-            else if(epi_num >= 10 && epi_num <= 99)
-                newEpiNum1 = '0' + epi_num
-            else
-                newEpiNum1 = epi_num
-            current_short_anime_data_video_link = current_short_anime_data_video_link + newEpiNum1 + "&lang=tel";
+            if (current_short_anime_data['tam']['no_epi'] > 100) {
+                if(epi_num >= 1 && epi_num <= 9)
+                    newEpiNum1 =  '00' + epi_num;
+                else if(epi_num >= 10 && epi_num <= 99)
+                    newEpiNum1 = '0' + epi_num
+                else
+                    newEpiNum1 = epi_num
+            }else{
+                if(epi_num >= 1 && epi_num <= 9)
+                    newEpiNum1 = '0' + epi_num;
+                else
+                    newEpiNum1 = epi_num;
+            }
+            current_short_anime_data_video_link = current_short_anime_data_video_link + newEpiNum1 + "&lang=tam";
             video_player.setAttribute("src", current_short_anime_data_video_link);
         }
         else if(epi_aud == 'ben'){
-            let current_short_anime_data_video_link = current_short_anime_data['tel']['link'];
+            let current_short_anime_data_video_link = current_short_anime_data['ben']['link'];
             let newEpiNum1;
-            if(epi_num >= 1 && epi_num <= 9)
-                newEpiNum1 =  '00' + epi_num;
-            else if(epi_num >= 10 && epi_num <= 99)
-                newEpiNum1 = '0' + epi_num
-            else
-                newEpiNum1 = epi_num
-            current_short_anime_data_video_link = current_short_anime_data_video_link + newEpiNum1 + "&lang=tel";
+            if (current_short_anime_data['ben']['no_epi'] > 100) {
+                if(epi_num >= 1 && epi_num <= 9)
+                    newEpiNum1 =  '00' + epi_num;
+                else if(epi_num >= 10 && epi_num <= 99)
+                    newEpiNum1 = '0' + epi_num
+                else
+                    newEpiNum1 = epi_num
+            }else{
+                if(epi_num >= 1 && epi_num <= 9)
+                    newEpiNum1 = '0' + epi_num;
+                else
+                    newEpiNum1 = epi_num;
+            }
+            current_short_anime_data_video_link = current_short_anime_data_video_link + newEpiNum1 + "&lang=ben";
             video_player.setAttribute("src", current_short_anime_data_video_link);
         }
         else if(epi_aud == 'mal'){
-            let current_short_anime_data_video_link = current_short_anime_data['tel']['link'];
+            let current_short_anime_data_video_link = current_short_anime_data['mal']['link'];
             let newEpiNum1;
-            if(epi_num >= 1 && epi_num <= 9)
-                newEpiNum1 =  '00' + epi_num;
-            else if(epi_num >= 10 && epi_num <= 99)
-                newEpiNum1 = '0' + epi_num
-            else
-                newEpiNum1 = epi_num
-            current_short_anime_data_video_link = current_short_anime_data_video_link + newEpiNum1 + "&lang=tel";
+            if (current_short_anime_data['mal']['no_epi'] > 100) {
+                if(epi_num >= 1 && epi_num <= 9)
+                    newEpiNum1 =  '00' + epi_num;
+                else if(epi_num >= 10 && epi_num <= 99)
+                    newEpiNum1 = '0' + epi_num
+                else
+                    newEpiNum1 = epi_num
+            }else{
+                if(epi_num >= 1 && epi_num <= 9)
+                    newEpiNum1 = '0' + epi_num;
+                else
+                    newEpiNum1 = epi_num;
+            }
+            current_short_anime_data_video_link = current_short_anime_data_video_link + newEpiNum1 + "&lang=mal";
             video_player.setAttribute("src", current_short_anime_data_video_link);
         }
         else if(epi_aud == 'hin'){
-            let current_short_anime_data_video_link = current_short_anime_data['tel']['link'];
+            let current_short_anime_data_video_link = current_short_anime_data['hin']['link'];
             let newEpiNum1;
-            if(epi_num >= 1 && epi_num <= 9)
-                newEpiNum1 =  '00' + epi_num;
-            else if(epi_num >= 10 && epi_num <= 99)
-                newEpiNum1 = '0' + epi_num
-            else
-                newEpiNum1 = epi_num
-            current_short_anime_data_video_link = current_short_anime_data_video_link + newEpiNum1 + "&lang=tel";
+            if (current_short_anime_data['hin']['no_epi'] > 100) {
+                if(epi_num >= 1 && epi_num <= 9)
+                    newEpiNum1 =  '00' + epi_num;
+                else if(epi_num >= 10 && epi_num <= 99)
+                    newEpiNum1 = '0' + epi_num
+                else
+                    newEpiNum1 = epi_num
+            }else{
+                if(epi_num >= 1 && epi_num <= 9)
+                    newEpiNum1 = '0' + epi_num;
+                else
+                    newEpiNum1 = epi_num;
+            }
+            current_short_anime_data_video_link = current_short_anime_data_video_link + newEpiNum1 + "&lang=hin";
             video_player.setAttribute("src", current_short_anime_data_video_link);
         }
         else{
@@ -799,61 +833,96 @@ else if(shortAnimes.includes(animeNameee)){
             else if(epi_aud == 'tel'){
                 let current_short_anime_data_video_link = current_short_anime_data['tel']['link'];
                 let newEpiNum1;
+                if (current_short_anime_data['tel']['no_epi'] > 100) {
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 =  '00' + epi_num;
                 else if(epi_num >= 10 && epi_num <= 99)
                     newEpiNum1 = '0' + epi_num
                 else
                     newEpiNum1 = epi_num
+            }else{
+                if(epi_num >= 1 && epi_num <= 9)
+                    newEpiNum1 = '0' + epi_num;
+                else
+                    newEpiNum1 = epi_num;
+            }
                 current_short_anime_data_video_link = current_short_anime_data_video_link + newEpiNum1 + "&lang=tel";
                 video_player.setAttribute("src", current_short_anime_data_video_link);
             }
             else if(epi_aud == 'tam'){
-                let current_short_anime_data_video_link = current_short_anime_data['tel']['link'];
+                let current_short_anime_data_video_link = current_short_anime_data['tam']['link'];
                 let newEpiNum1;
+                if (current_short_anime_data['tam']['no_epi'] > 100) {
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 =  '00' + epi_num;
                 else if(epi_num >= 10 && epi_num <= 99)
                     newEpiNum1 = '0' + epi_num
                 else
                     newEpiNum1 = epi_num
-                current_short_anime_data_video_link = current_short_anime_data_video_link + newEpiNum1 + "&lang=tel";
+            }else{
+                if(epi_num >= 1 && epi_num <= 9)
+                    newEpiNum1 = '0' + epi_num;
+                else
+                    newEpiNum1 = epi_num;
+            }
+                current_short_anime_data_video_link = current_short_anime_data_video_link + newEpiNum1 + "&lang=tam";
                 video_player.setAttribute("src", current_short_anime_data_video_link);
             }
             else if(epi_aud == 'ben'){
-                let current_short_anime_data_video_link = current_short_anime_data['tel']['link'];
+                let current_short_anime_data_video_link = current_short_anime_data['ben']['link'];
                 let newEpiNum1;
+                if (current_short_anime_data['ben']['no_epi'] > 100) {
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 =  '00' + epi_num;
                 else if(epi_num >= 10 && epi_num <= 99)
                     newEpiNum1 = '0' + epi_num
                 else
                     newEpiNum1 = epi_num
-                current_short_anime_data_video_link = current_short_anime_data_video_link + newEpiNum1 + "&lang=tel";
+            }else{
+                if(epi_num >= 1 && epi_num <= 9)
+                    newEpiNum1 = '0' + epi_num;
+                else
+                    newEpiNum1 = epi_num;
+            }
+                current_short_anime_data_video_link = current_short_anime_data_video_link + newEpiNum1 + "&lang=ben";
                 video_player.setAttribute("src", current_short_anime_data_video_link);
             }
             else if(epi_aud == 'mal'){
-                let current_short_anime_data_video_link = current_short_anime_data['tel']['link'];
+                let current_short_anime_data_video_link = current_short_anime_data['mal']['link'];
                 let newEpiNum1;
+                if (current_short_anime_data['mal']['no_epi'] > 100) {
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 =  '00' + epi_num;
                 else if(epi_num >= 10 && epi_num <= 99)
                     newEpiNum1 = '0' + epi_num
                 else
                     newEpiNum1 = epi_num
-                current_short_anime_data_video_link = current_short_anime_data_video_link + newEpiNum1 + "&lang=tel";
+            }else{
+                if(epi_num >= 1 && epi_num <= 9)
+                    newEpiNum1 = '0' + epi_num;
+                else
+                    newEpiNum1 = epi_num;
+            }
+                current_short_anime_data_video_link = current_short_anime_data_video_link + newEpiNum1 + "&lang=mal";
                 video_player.setAttribute("src", current_short_anime_data_video_link);
             }
             else if(epi_aud == 'hin'){
-                let current_short_anime_data_video_link = current_short_anime_data['tel']['link'];
+                let current_short_anime_data_video_link = current_short_anime_data['hin']['link'];
                 let newEpiNum1;
+                if (current_short_anime_data['hin']['no_epi'] > 100) {
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 =  '00' + epi_num;
                 else if(epi_num >= 10 && epi_num <= 99)
                     newEpiNum1 = '0' + epi_num
                 else
                     newEpiNum1 = epi_num
-                current_short_anime_data_video_link = current_short_anime_data_video_link + newEpiNum1 + "&lang=tel";
+            }else{
+                if(epi_num >= 1 && epi_num <= 9)
+                    newEpiNum1 = '0' + epi_num;
+                else
+                    newEpiNum1 = epi_num;
+            }
+                current_short_anime_data_video_link = current_short_anime_data_video_link + newEpiNum1 + "&lang=hin";
                 video_player.setAttribute("src", current_short_anime_data_video_link);
             }
             else{
@@ -1265,61 +1334,96 @@ else{
             else if(epi_aud == 'tel'){
                 let current_short_anime_data_video_link = current_short_anime_data['tel']['link'];
                 let newEpiNum1;
+                if (current_short_anime_data['tel']['no_epi'] > 100) {
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 =  '00' + epi_num;
                 else if(epi_num >= 10 && epi_num <= 99)
                     newEpiNum1 = '0' + epi_num
                 else
                     newEpiNum1 = epi_num
+            }else{
+                if(epi_num >= 1 && epi_num <= 9)
+                    newEpiNum1 = '0' + epi_num;
+                else
+                    newEpiNum1 = epi_num;
+            }
                 current_short_anime_data_video_link = current_short_anime_data_video_link + newEpiNum1 + "&lang=tel";
                 video_player.setAttribute("src", current_short_anime_data_video_link);
             }
             else if(epi_aud == 'tam'){
-                let current_short_anime_data_video_link = current_short_anime_data['tel']['link'];
+                let current_short_anime_data_video_link = current_short_anime_data['tam']['link'];
                 let newEpiNum1;
+                if (current_short_anime_data['tam']['no_epi'] > 100) {
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 =  '00' + epi_num;
                 else if(epi_num >= 10 && epi_num <= 99)
                     newEpiNum1 = '0' + epi_num
                 else
                     newEpiNum1 = epi_num
-                current_short_anime_data_video_link = current_short_anime_data_video_link + newEpiNum1 + "&lang=tel";
+            }else{
+                if(epi_num >= 1 && epi_num <= 9)
+                    newEpiNum1 = '0' + epi_num;
+                else
+                    newEpiNum1 = epi_num;
+            }
+                current_short_anime_data_video_link = current_short_anime_data_video_link + newEpiNum1 + "&lang=tam";
                 video_player.setAttribute("src", current_short_anime_data_video_link);
             }
             else if(epi_aud == 'ben'){
-                let current_short_anime_data_video_link = current_short_anime_data['tel']['link'];
+                let current_short_anime_data_video_link = current_short_anime_data['ben']['link'];
                 let newEpiNum1;
+                if (current_short_anime_data['ben']['no_epi'] > 100) {
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 =  '00' + epi_num;
                 else if(epi_num >= 10 && epi_num <= 99)
                     newEpiNum1 = '0' + epi_num
                 else
                     newEpiNum1 = epi_num
-                current_short_anime_data_video_link = current_short_anime_data_video_link + newEpiNum1 + "&lang=tel";
+            }else{
+                if(epi_num >= 1 && epi_num <= 9)
+                    newEpiNum1 = '0' + epi_num;
+                else
+                    newEpiNum1 = epi_num;
+            }
+                current_short_anime_data_video_link = current_short_anime_data_video_link + newEpiNum1 + "&lang=ben";
                 video_player.setAttribute("src", current_short_anime_data_video_link);
             }
             else if(epi_aud == 'mal'){
-                let current_short_anime_data_video_link = current_short_anime_data['tel']['link'];
+                let current_short_anime_data_video_link = current_short_anime_data['mal']['link'];
                 let newEpiNum1;
+                if (current_short_anime_data['mal']['no_epi'] > 100) {
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 =  '00' + epi_num;
                 else if(epi_num >= 10 && epi_num <= 99)
                     newEpiNum1 = '0' + epi_num
                 else
                     newEpiNum1 = epi_num
-                current_short_anime_data_video_link = current_short_anime_data_video_link + newEpiNum1 + "&lang=tel";
+            }else{
+                if(epi_num >= 1 && epi_num <= 9)
+                    newEpiNum1 = '0' + epi_num;
+                else
+                    newEpiNum1 = epi_num;
+            }
+                current_short_anime_data_video_link = current_short_anime_data_video_link + newEpiNum1 + "&lang=mal";
                 video_player.setAttribute("src", current_short_anime_data_video_link);
             }
             else if(epi_aud == 'hin'){
-                let current_short_anime_data_video_link = current_short_anime_data['tel']['link'];
+                let current_short_anime_data_video_link = current_short_anime_data['hin']['link'];
                 let newEpiNum1;
+                if (current_short_anime_data['hin']['no_epi'] > 100) {
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 =  '00' + epi_num;
                 else if(epi_num >= 10 && epi_num <= 99)
                     newEpiNum1 = '0' + epi_num
                 else
                     newEpiNum1 = epi_num
-                current_short_anime_data_video_link = current_short_anime_data_video_link + newEpiNum1 + "&lang=tel";
+            }else{
+                if(epi_num >= 1 && epi_num <= 9)
+                    newEpiNum1 = '0' + epi_num;
+                else
+                    newEpiNum1 = epi_num;
+            }
+                current_short_anime_data_video_link = current_short_anime_data_video_link + newEpiNum1 + "&lang=hin";
                 video_player.setAttribute("src", current_short_anime_data_video_link);
             }
             else{
