@@ -123,7 +123,7 @@ let epi_num = urlParams.get("ep");
 let epi_aud = urlParams.get("aud");
 // let flagg;
 let long_anime_file = new XMLHttpRequest();
-long_anime_file.open("get", "/scripts/JSON/long-anime.json", true);
+long_anime_file.open("get", "https://animerulz.in/scripts/JSON/long-anime.json", true);
 long_anime_file.send();
 
 document.getElementById("episode-number-in-video").innerHTML = epi_num;
@@ -609,7 +609,7 @@ else if(shortAnimes.includes(animeNameee)){
     let epi_aud = urlParams.get("aud");
 
     let short_anime_file = new XMLHttpRequest();
-    short_anime_file.open("get", "/scripts/JSON/short-anime.json", true);
+    short_anime_file.open("get", "https://animerulz.in/scripts/JSON/short-anime.json", true);
     short_anime_file.send();
 
     document.getElementById("episode-number-in-video").innerHTML = epi_num;
