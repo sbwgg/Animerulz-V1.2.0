@@ -2,6 +2,7 @@ const animeNameee = document.getElementById("a-active-page-tag").textContent.toL
 
 
 
+
 const longAnimes = ['one piece',
 'naruto',
 'naruto shippuden',
