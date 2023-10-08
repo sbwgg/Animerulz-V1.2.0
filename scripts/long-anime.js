@@ -1143,7 +1143,21 @@ else{
             let current_short_anime_data = JSON.parse(this.responseText);
             // let current_short_anime_data = short_anime_data[anime.textContent];
             anime = anime.textContent.replace(/[^a-zA-Z0-9]/g, "");
-            let current_short_anime_epi_num = current_short_anime_data['jap']['no_epi'];
+            let current_short_anime_epi_num;
+            if(current_short_anime_data['jap'] != undefined)
+                current_short_anime_epi_num = current_short_anime_data['jap']['no_epi'];
+            else if(current_short_anime_data['eng'] != undefined)
+                current_short_anime_epi_num = current_short_anime_data['eng']['no_epi'];
+            else if(current_short_anime_data['hin'] != undefined)
+                current_short_anime_epi_num = current_short_anime_data['hin']['no_epi'];
+            else if(current_short_anime_data['tel'] != undefined)
+                current_short_anime_epi_num = current_short_anime_data['tel']['no_epi'];
+            else if(current_short_anime_data['tam'] != undefined)
+                current_short_anime_epi_num = current_short_anime_data['tam']['no_epi'];
+            else if(current_short_anime_data['mal'] != undefined)
+                current_short_anime_epi_num = current_short_anime_data['mal']['no_epi'];
+            else if(current_short_anime_data['ben'] != undefined)
+                current_short_anime_epi_num = current_short_anime_data['ben']['no_epi'];
             // console.log(current_short_anime_epi_num);
             let temp = "";
             let temp_1 = "";
