@@ -436,11 +436,16 @@ iframe{
   /* white-space: no-wrap; */
   /* background-color: blue; */
   width: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .audios{
   width: 80%;
   display: flex;
   overflow-x: scroll;
+  flex-wrap: wrap;
+  gap: 10px 0;
   /* background-color: aqua; */
 }
 .audio-container-multi-audio-des{
