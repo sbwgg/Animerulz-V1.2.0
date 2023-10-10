@@ -37,8 +37,10 @@ searchBox.onkeyup = (e) => {
             trendingAnimeSearch.style.display = 'none';
             anilistContainer.style.display = "flex";
             // loaderAnilist.style.display = "flex";
-            if(searchBox.value.length >= 4)
+            if(searchBox.value.length >= 4){
+                // callGetData(searchBox.value);
                 setTimeout(getDataFromAnilist(searchBox.value), 500);
+            }
             anilistContainer.addEventListener("load", hideLoader());
         }
     }
@@ -51,7 +53,15 @@ searchBox.onkeyup = (e) => {
     // let data = e.target.value;
     // document.getElementsByClassName("search-results-container__")[0].innerHTML = data;
 }
+async function callGetData(searchKey){
+    await sleep(500);
+    if(searchContainer.querySelector(".input-box__").value == searchKey)
+        getDataFromAnilist(searchKey);
+}
 
+function sleep(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+}
 function hideLoader(){
     // loaderAnilist.style.display = "none";
 }
@@ -189,8 +199,8 @@ function handleData(data) {
         temp = "";
         if(requiredAnimeData[i].title.english != null){
         try{
-            temp = `<li class="item-search-data_" id="element-${i}" onclick="window.open('/search/?anime=${requiredAnimeData[i].title.english}', '_self')">
-            <img src="${requiredAnimeData[i].coverImage.medium}" alt="" class="img-search-res">
+            temp = `<li class="item-search-data_" id="element-${i}" onclick="window.open('https://animerulz.in/${requiredAnimeData[i].title.english.replace(/[^a-zA-Z0-9]/g, "").toLowerCase()}', '_self')">
+            <div class="image-data"><img src="${requiredAnimeData[i].coverImage.medium}" alt="" class="img-search-res"></div>
             <div class="search-anime-data-res">
             <div class="head-data-search-res">
                     <span class="anime-name-search-res">${requiredAnimeData[i].title.english}</span>
