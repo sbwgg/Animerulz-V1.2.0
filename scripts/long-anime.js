@@ -103,7 +103,8 @@ const shortAnimes = ['demon slayer kimetsu no yaiba',
 "akebi's sailor uniform"];
 
 const selfLongAnimes = [
-    'fairy tail'
+    'fairy tail',
+    "boruto naruto next generations"
 ]
 
 if(longAnimes.includes(animeNameee)){
