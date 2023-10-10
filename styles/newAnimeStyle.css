@@ -540,7 +540,7 @@ h1{
 .round-updated{
     border: 1px rgba(255,255,255,0.5) solid;
     border-radius: 10px;
-    padding: 1px 7px;
+    padding: 2px 7px;
 }
 .anime-description-more-char{
     display: flex;
@@ -2571,7 +2571,6 @@ body{
 }
 
 .anime-genres__{
-  display: flex;
   flex-wrap: wrap;
   gap: 10px 5px;
 }
@@ -3139,4 +3138,3 @@ body{
         display: block !important;
     }
 }
-
