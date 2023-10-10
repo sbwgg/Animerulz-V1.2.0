@@ -146,7 +146,8 @@ function callShortAnimeDirect(){
     request.onload = function() {
         if(this.readyState == 4 && this.status == 200){
             let animeData = JSON.parse(this.responseText);
-            setShortAnimes(animeData);
+            let anime = document.getElementById("a-active-page-tag");
+            setShortAnimes(animeData[anime.textContent]);
         }
     }
 }
@@ -766,10 +767,9 @@ function setShortAnimes(short_anime_data){
   
 
     document.getElementById("episode-number-in-video").innerHTML = epi_num;
-    let anime = document.getElementById("a-active-page-tag");
 
             var episodes_section = document.getElementById("episodes-in-section");
-            let current_short_anime_data = short_anime_data[anime.textContent];
+            let current_short_anime_data = short_anime_data;
             // console.log(current_short_anime_data);
             let current_short_anime_epi_num;
             anime = anime.textContent.replace(/[^a-zA-Z0-9]/g, "");
