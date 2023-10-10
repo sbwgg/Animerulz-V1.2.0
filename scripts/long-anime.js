@@ -841,7 +841,6 @@ function setShortAnimes(short_anime_data){
                 document.getElementsByClassName("button-2")[0].setAttribute("onclick", "window.open('https://animerulz.in/" + anime.toLowerCase() + "/Watch-Now/?ep=" + (Number(epi_num) + 1) + "&aud=" + epi_aud + "', '_self')"); 
             let newEpiNum;
             //for setting video and audio buttons
-            let current_short_anime_epi_num_dub = current_short_anime_data["eng"]['no_epi'];
             var audios_div = document.getElementsByClassName("audios")[0];
             outputNew = "";
             try{
