@@ -1024,6 +1024,14 @@ function setShortAnimes(short_anime_data){
                     else
                         newEpiNum1 = epi_num;
                 }
+                let pokemonCheckerList;
+                if(current_short_anime_data_video_link.split("?")[1].split('=')[1].split('-')[0] == 'pokemon'){
+                    let tempppp = current_short_anime_data_video_link.split('=');
+                    pokemonCheckerList = [tempppp[0], '=' , 'pokmon', tempppp[1].slice(7, tempppp.length)];
+                    current_short_anime_data_video_link = '';
+                    for(let it = 0; it < pokemonCheckerList.length; it ++)
+                        current_short_anime_data_video_link += pokemonCheckerList[it];
+                }
                 current_short_anime_data_video_link = current_short_anime_data_video_link + newEpiNum1 + "&lang=eng2";
                 video_player.setAttribute("src", current_short_anime_data_video_link);
                 }
@@ -1044,6 +1052,14 @@ function setShortAnimes(short_anime_data){
                 else
                     newEpiNum1 = epi_num;
             }
+            let pokemonCheckerList;
+                if(current_short_anime_data_video_link.split("?")[1].split('=')[1].split('-')[0] == 'pokemon'){
+                    let tempppp = current_short_anime_data_video_link.split('=');
+                    pokemonCheckerList = [tempppp[0], '=' , 'pokmon', tempppp[1].slice(7, tempppp.length)];
+                    current_short_anime_data_video_link = '';
+                    for(let it = 0; it < pokemonCheckerList.length; it ++)
+                        current_short_anime_data_video_link += pokemonCheckerList[it];
+                }
                 current_short_anime_data_video_link = current_short_anime_data_video_link + newEpiNum1 + "&lang=tel";
                 video_player.setAttribute("src", current_short_anime_data_video_link);
             }
@@ -1063,6 +1079,14 @@ function setShortAnimes(short_anime_data){
                 else
                     newEpiNum1 = epi_num;
             }
+            let pokemonCheckerList;
+                if(current_short_anime_data_video_link.split("?")[1].split('=')[1].split('-')[0] == 'pokemon'){
+                    let tempppp = current_short_anime_data_video_link.split('=');
+                    pokemonCheckerList = [tempppp[0], '=' , 'pokmon', tempppp[1].slice(7, tempppp.length)];
+                    current_short_anime_data_video_link = '';
+                    for(let it = 0; it < pokemonCheckerList.length; it ++)
+                        current_short_anime_data_video_link += pokemonCheckerList[it];
+                }
                 current_short_anime_data_video_link = current_short_anime_data_video_link + newEpiNum1 + "&lang=tam";
                 video_player.setAttribute("src", current_short_anime_data_video_link);
             }
@@ -1082,6 +1106,14 @@ function setShortAnimes(short_anime_data){
                 else
                     newEpiNum1 = epi_num;
             }
+            let pokemonCheckerList;
+                if(current_short_anime_data_video_link.split("?")[1].split('=')[1].split('-')[0] == 'pokemon'){
+                    let tempppp = current_short_anime_data_video_link.split('=');
+                    pokemonCheckerList = [tempppp[0], '=' , 'pokmon', tempppp[1].slice(7, tempppp.length)];
+                    current_short_anime_data_video_link = '';
+                    for(let it = 0; it < pokemonCheckerList.length; it ++)
+                        current_short_anime_data_video_link += pokemonCheckerList[it];
+                }
                 current_short_anime_data_video_link = current_short_anime_data_video_link + newEpiNum1 + "&lang=ben";
                 video_player.setAttribute("src", current_short_anime_data_video_link);
             }
@@ -1101,6 +1133,14 @@ function setShortAnimes(short_anime_data){
                 else
                     newEpiNum1 = epi_num;
             }
+            let pokemonCheckerList;
+                if(current_short_anime_data_video_link.split("?")[1].split('=')[1].split('-')[0] == 'pokemon'){
+                    let tempppp = current_short_anime_data_video_link.split('=');
+                    pokemonCheckerList = [tempppp[0], '=' , 'pokmon', tempppp[1].slice(7, tempppp.length)];
+                    current_short_anime_data_video_link = '';
+                    for(let it = 0; it < pokemonCheckerList.length; it ++)
+                        current_short_anime_data_video_link += pokemonCheckerList[it];
+                }
                 current_short_anime_data_video_link = current_short_anime_data_video_link + newEpiNum1 + "&lang=mal";
                 video_player.setAttribute("src", current_short_anime_data_video_link);
             }
@@ -1120,6 +1160,14 @@ function setShortAnimes(short_anime_data){
                 else
                     newEpiNum1 = epi_num;
             }
+            let pokemonCheckerList;
+                if(current_short_anime_data_video_link.split("?")[1].split('=')[1].split('-')[0] == 'pokemon'){
+                    let tempppp = current_short_anime_data_video_link.split('=');
+                    pokemonCheckerList = [tempppp[0], '=' , 'pokmon', tempppp[1].slice(7, tempppp.length)];
+                    current_short_anime_data_video_link = '';
+                    for(let it = 0; it < pokemonCheckerList.length; it ++)
+                        current_short_anime_data_video_link += pokemonCheckerList[it];
+                }
                 current_short_anime_data_video_link = current_short_anime_data_video_link + newEpiNum1 + "&lang=hin";
                 video_player.setAttribute("src", current_short_anime_data_video_link);
             }
