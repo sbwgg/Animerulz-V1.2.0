@@ -7,6 +7,7 @@ const resultsDataContainer = document.getElementsByClassName("anilist-search-dat
 const searchIcon = document.getElementsByClassName("search-box-icon__")[0];
 let key = 0;
 
+
 if(searchBox.value)
     anilistContainer.style.display = "flex";
 else
