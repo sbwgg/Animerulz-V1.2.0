@@ -124,7 +124,8 @@ function callLongAnimeDirect(){
     request.onload = function() {
         if(this.readyState == 4 && this.status == 200){
             let animeData = JSON.parse(this.responseText);
-            setLongAnimes(animeData);
+            let anime = document.getElementById("a-active-page-tag");
+            setLongAnimes(animeData[anime.textContent]);
         }
     }
 }
@@ -195,7 +196,7 @@ let anime = document.getElementById("a-active-page-tag");
         var episodes_section = document.getElementById("episodes-in-section");
         // console.log(anime.textContent);
         let current_long_anime_epi_num;
-        let current_short_anime_data = long_anime_data[anime.textContent];
+        let current_short_anime_data = long_anime_data;
             if(current_short_anime_data['jap'] != undefined)
                 current_long_anime_epi_num = current_short_anime_data['jap']['no_epi'];
             else if(current_short_anime_data['eng'] != undefined)
@@ -767,6 +768,7 @@ function setShortAnimes(short_anime_data){
   
 
     document.getElementById("episode-number-in-video").innerHTML = epi_num;
+    let anime = document.getElementById("a-active-page-tag");
 
             var episodes_section = document.getElementById("episodes-in-section");
             let current_short_anime_data = short_anime_data;
