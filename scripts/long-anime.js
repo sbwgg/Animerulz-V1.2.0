@@ -308,7 +308,7 @@ let anime = document.getElementById("a-active-page-tag");
     catch{
         try{
             if(epi_num <= current_short_anime_data['jap2']['no_epi'])
-                outputNew += "<div class='audio' name='jap2'>Japanese</div>";
+                outputNew += "<div class='audio' name='jap'>Japanese</div>";
         }
         catch{}
     }
@@ -363,10 +363,13 @@ let anime = document.getElementById("a-active-page-tag");
         try{
             if(epi_aud != 'jap')
                 document.getElementsByName("jap")[0].setAttribute("onclick", "window.open('https://animerulz.in/" + anime.toLowerCase() + "/Watch-Now/?ep=" + epi_num + "&aud=jap', '_self')");
-            if(epi_aud != 'eng')
-                document.getElementsByName("eng")[0].setAttribute("onclick", "window.open('https://animerulz.in/" + anime.toLowerCase() + "/Watch-Now/?ep=" + epi_num + "&aud=eng', '_self')");
             }
         catch{};
+        try{
+            if(epi_aud != 'eng')
+            document.getElementsByName("eng")[0].setAttribute("onclick", "window.open('https://animerulz.in/" + anime.toLowerCase() + "/Watch-Now/?ep=" + epi_num + "&aud=eng', '_self')");
+        }
+        catch{}
         try{
             if(epi_aud != 'mul')
             document.getElementsByName("mul")[0].setAttribute("onclick", "window.open('https://animerulz.in/" + anime.toLowerCase() + "/Watch-Now/?ep=" + epi_num + "&aud=mul', '_self')");
@@ -935,7 +938,7 @@ function setShortAnimes(short_anime_data){
         catch{
             try{
                 if(epi_num <= current_short_anime_data['jap2']['no_epi'])
-                    outputNew += "<div class='audio' name='jap2'>Japanese</div>";
+                    outputNew += "<div class='audio' name='jap'>Japanese</div>";
             }
             catch{}
         }
@@ -993,10 +996,13 @@ function setShortAnimes(short_anime_data){
             try{
                 if(epi_aud != 'jap')
                     document.getElementsByName("jap")[0].setAttribute("onclick", "window.open('https://animerulz.in/" + anime.toLowerCase() + "/Watch-Now/?ep=" + epi_num + "&aud=jap', '_self')");
+            }
+            catch{};
+            try{
                 if(epi_aud != 'eng')
                     document.getElementsByName("eng")[0].setAttribute("onclick", "window.open('https://animerulz.in/" + anime.toLowerCase() + "/Watch-Now/?ep=" + epi_num + "&aud=eng', '_self')");
-                }
-            catch{};
+            }
+            catch{}
             try{
                 if(epi_aud != 'mul')
                 document.getElementsByName("mul")[0].setAttribute("onclick", "window.open('https://animerulz.in/" + anime.toLowerCase() + "/Watch-Now/?ep=" + epi_num + "&aud=mul', '_self')");
