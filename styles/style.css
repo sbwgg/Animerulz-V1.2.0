@@ -1738,9 +1738,17 @@ body{
   background-color: rgba(255, 255, 255, 0.2);
   cursor: pointer;
 }
-.search-container .anilist-search-container .anilist-search-data-list .item-search-data_ img{
+.search-container .anilist-search-container .anilist-search-data-list .item-search-data_ .image-data{
   transition: all 0.5s;
   width: 70px;
+  overflow: hidden;
+}
+.search-container .anilist-search-container .anilist-search-data-list .item-search-data_ img{
+  transition: all 0.5s;
+  width: 100%;
+}
+.search-container .anilist-search-container .anilist-search-data-list .item-search-data_:hover  img{
+  transform: scale(1.1);
 }
 .search-container .anilist-search-container .anilist-search-data-list .item-search-data_ .search-anime-data-res .head-data-search-res{
   font-size: 22px;
@@ -1787,9 +1795,6 @@ body{
 }
 .search-container .anilist-search-container .anilist-search-data-list .item-search-data_:hover > .search-anime-data-res  .bottom-data-search-res{
   color: rgba(250, 163, 0, 0.9);
-}
-.search-container .anilist-search-container .anilist-search-data-list .item-search-data_:hover >  img{
-  transform: scale(1.1);
 }
 .search-container .anilist-search-container .anilist-search-data-list .item-search-data_.active{
   background-color: rgba(255, 255, 255, 0.2);
