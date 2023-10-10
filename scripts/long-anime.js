@@ -424,7 +424,7 @@ let anime = document.getElementById("a-active-page-tag");
             }else{
                 let current_short_anime_data_video_link = current_short_anime_data['jap2']['link'];
             let newEpiNum1;
-            if (current_short_anime_data['jap2']['no_epi'] > 100) {
+            if (current_short_anime_data['jap2']['no_epi'] > 100 || current_short_anime_data['jap2']['no_epi'] == 1) {
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 =  '00' + epi_num;
                 else if(epi_num >= 10 && epi_num <= 99)
@@ -457,7 +457,7 @@ let anime = document.getElementById("a-active-page-tag");
             }else{
                 let current_short_anime_data_video_link = current_short_anime_data['eng2']['link'];
             let newEpiNum1;
-            if (current_short_anime_data['eng2']['no_epi'] > 100) {
+            if (current_short_anime_data['eng2']['no_epi'] > 100 || current_short_anime_data['eng2']['no_epi'] == 1) {
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 =  '00' + epi_num;
                 else if(epi_num >= 10 && epi_num <= 99)
@@ -486,7 +486,7 @@ let anime = document.getElementById("a-active-page-tag");
         else if(epi_aud == 'tel'){
             let current_short_anime_data_video_link = current_short_anime_data['tel']['link'];
             let newEpiNum1;
-            if (current_short_anime_data['tel']['no_epi'] > 100) {
+            if (current_short_anime_data['tel']['no_epi'] > 100 || current_short_anime_data['tel']['no_epi'] == 1) {
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 =  '00' + epi_num;
                 else if(epi_num >= 10 && epi_num <= 99)
@@ -514,7 +514,7 @@ let anime = document.getElementById("a-active-page-tag");
         else if(epi_aud == 'tam'){
             let current_short_anime_data_video_link = current_short_anime_data['tam']['link'];
             let newEpiNum1;
-            if (current_short_anime_data['tam']['no_epi'] > 100) {
+            if (current_short_anime_data['tam']['no_epi'] > 100 || current_short_anime_data['tam']['no_epi'] == 1) {
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 =  '00' + epi_num;
                 else if(epi_num >= 10 && epi_num <= 99)
@@ -542,7 +542,7 @@ let anime = document.getElementById("a-active-page-tag");
         else if(epi_aud == 'ben'){
             let current_short_anime_data_video_link = current_short_anime_data['ben']['link'];
             let newEpiNum1;
-            if (current_short_anime_data['ben']['no_epi'] > 100) {
+            if (current_short_anime_data['ben']['no_epi'] > 100 || current_short_anime_data['ben']['no_epi'] == 1) {
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 =  '00' + epi_num;
                 else if(epi_num >= 10 && epi_num <= 99)
@@ -570,7 +570,7 @@ let anime = document.getElementById("a-active-page-tag");
         else if(epi_aud == 'mal'){
             let current_short_anime_data_video_link = current_short_anime_data['mal']['link'];
             let newEpiNum1;
-            if (current_short_anime_data['mal']['no_epi'] > 100) {
+            if (current_short_anime_data['mal']['no_epi'] > 100 || current_short_anime_data['mal']['no_epi'] == 1) {
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 =  '00' + epi_num;
                 else if(epi_num >= 10 && epi_num <= 99)
@@ -598,7 +598,7 @@ let anime = document.getElementById("a-active-page-tag");
         else if(epi_aud == 'hin'){
             let current_short_anime_data_video_link = current_short_anime_data['hin']['link'];
             let newEpiNum1;
-            if (current_short_anime_data['hin']['no_epi'] > 100) {
+            if (current_short_anime_data['hin']['no_epi'] > 100 || current_short_anime_data['hin']['no_epi'] == 1) {
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 =  '00' + epi_num;
                 else if(epi_num >= 10 && epi_num <= 99)
@@ -1056,7 +1056,7 @@ function setShortAnimes(short_anime_data){
                 }else{
                     let current_short_anime_data_video_link = current_short_anime_data['jap2']['link'];
                 let newEpiNum1;
-                if (current_short_anime_data['jap2']['no_epi'] > 100) {
+                if (current_short_anime_data['jap2']['no_epi'] > 100 || current_short_anime_data['jap2']['no_epi'] == 1) {
                     if(epi_num >= 1 && epi_num <= 9)
                         newEpiNum1 =  '00' + epi_num;
                     else if(epi_num >= 10 && epi_num <= 99)
@@ -1089,7 +1089,7 @@ function setShortAnimes(short_anime_data){
                 }else{
                     let current_short_anime_data_video_link = current_short_anime_data['eng2']['link'];
                 let newEpiNum1;
-                if (current_short_anime_data['eng2']['no_epi'] > 100) {
+                if (current_short_anime_data['eng2']['no_epi'] > 100 || current_short_anime_data['eng2']['no_epi'] == 1) {
                     if(epi_num >= 1 && epi_num <= 9)
                         newEpiNum1 =  '00' + epi_num;
                     else if(epi_num >= 10 && epi_num <= 99)
@@ -1118,7 +1118,7 @@ function setShortAnimes(short_anime_data){
             else if(epi_aud == 'tel'){
                 let current_short_anime_data_video_link = current_short_anime_data['tel']['link'];
                 let newEpiNum1;
-                if (current_short_anime_data['tel']['no_epi'] > 100) {
+                if (current_short_anime_data['tel']['no_epi'] > 100 || current_short_anime_data['tel']['no_epi'] == 1) {
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 =  '00' + epi_num;
                 else if(epi_num >= 10 && epi_num <= 99)
@@ -1146,7 +1146,7 @@ function setShortAnimes(short_anime_data){
             else if(epi_aud == 'tam'){
                 let current_short_anime_data_video_link = current_short_anime_data['tam']['link'];
                 let newEpiNum1;
-                if (current_short_anime_data['tam']['no_epi'] > 100) {
+                if (current_short_anime_data['tam']['no_epi'] > 100 || current_short_anime_data['tam']['no_epi'] == 1) {
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 =  '00' + epi_num;
                 else if(epi_num >= 10 && epi_num <= 99)
@@ -1174,7 +1174,7 @@ function setShortAnimes(short_anime_data){
             else if(epi_aud == 'ben'){
                 let current_short_anime_data_video_link = current_short_anime_data['ben']['link'];
                 let newEpiNum1;
-                if (current_short_anime_data['ben']['no_epi'] > 100) {
+                if (current_short_anime_data['ben']['no_epi'] > 100 || current_short_anime_data['ben']['no_epi'] == 1) {
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 =  '00' + epi_num;
                 else if(epi_num >= 10 && epi_num <= 99)
@@ -1202,7 +1202,7 @@ function setShortAnimes(short_anime_data){
             else if(epi_aud == 'mal'){
                 let current_short_anime_data_video_link = current_short_anime_data['mal']['link'];
                 let newEpiNum1;
-                if (current_short_anime_data['mal']['no_epi'] > 100) {
+                if (current_short_anime_data['mal']['no_epi'] > 100 || current_short_anime_data['mal']['no_epi'] == 1) {
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 =  '00' + epi_num;
                 else if(epi_num >= 10 && epi_num <= 99)
@@ -1230,7 +1230,7 @@ function setShortAnimes(short_anime_data){
             else if(epi_aud == 'hin'){
                 let current_short_anime_data_video_link = current_short_anime_data['hin']['link'];
                 let newEpiNum1;
-                if (current_short_anime_data['hin']['no_epi'] > 100) {
+                if (current_short_anime_data['hin']['no_epi'] > 100 || current_short_anime_data['hin']['no_epi'] == 1) {
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 =  '00' + epi_num;
                 else if(epi_num >= 10 && epi_num <= 99)
