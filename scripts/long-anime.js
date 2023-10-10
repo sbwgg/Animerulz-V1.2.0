@@ -111,7 +111,7 @@ if(longAnimes.includes(animeNameee)){
 }else if(shortAnimes.includes(animeNameee)){
     callShortAnimeDirect();
 }else{
-    if(setLongAnimes.includes(animeNameee))
+    if(selfLongAnimes.includes(animeNameee))
         callLongAnimeInDirect();
     else
         callShortAnimeInDirect();
