@@ -809,10 +809,14 @@ function setShortAnimes(short_anime_data){
                     first = 1;
                     second = 2;
                 }
-                if(!episodesNames[i - 1])
-                    episodeNameNew = `Episode - ${i}`
-                else
-                    episodeNameNew = episodesNames[i - 1]
+                if(episodesNames){
+                    if(!episodesNames[i - 1])
+                        episodeNameNew = `Episode ${i}`;
+                    else
+                        episodeNameNew = episodesNames[i - 1];
+                }else{
+                    episodeNameNew = `Episode ${i}`;
+                }
                 if(i == epi_num){
                     temp = ' <div class="episode-short"><div class="short-anime-ep active-episode" id="' + anime + '-episode-' + i + '"> ' + 
                     '<div class="short-anime-num episode-alternate-' + first + '">' + i + '</div><div class="short-anime-name episode-alternate-' + second + '"><span>' + episodeNameNew + '</span> ' + 
