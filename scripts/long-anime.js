@@ -1247,7 +1247,7 @@ function setShortAnimes(short_anime_data){
             let pokemonCheckerList;
                 if(current_short_anime_data_video_link.split("?")[1].split('=')[1].split('-')[0] == 'pokemon'){
                     let tempppp = current_short_anime_data_video_link.split('=');
-                    pokemonCheckerList = [tempppp[0], '=pokmon', tempppp[1].slice(7, tempppp.length)];
+                    pokemonCheckerList = [tempppp[0], '=pokmon', tempppp[1].slice(7, tempppp[1].length)];
                     current_short_anime_data_video_link = '';
                     for(let it = 0; it < pokemonCheckerList.length; it ++)
                         current_short_anime_data_video_link += pokemonCheckerList[it];
