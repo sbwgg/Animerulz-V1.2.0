@@ -13,7 +13,7 @@ const redirectThis = [
     "rurounikenshin2023",
     "attackontitanfinalseason",
     "bleachthousandyearbloodwar",
-    "tokyorevengersseason3"
+    "tokyorevengersseason2part2"
 ]
 const redirectTo = [
     "myheroacademia2",
