@@ -12,7 +12,7 @@
 <meta name="keywords" content="anime to watch, watch anime,anime online, free anime online, online anime, anime streaming, stream anime online, english anime, english dubbed anime, watch telugu anime, watch Hindi anime, watch tamil anime, watch malayalam anime, watch bengali anime, Download anime, free download anime, download telugu anime, download hindi anime, download tamil anime, download malayalam anime"/>
 <meta property="og:url" content="https://Animerulz.in/"/>
 <meta property="og:title" content="Watch Anime Online, Free Anime Streaming Online on Animerulz.in Anime Website"/>
-<meta property="og:image" content="https://Animerulz.in/images/capture.png"/>
+<meta property="og:image" content="../images/Animerulz.png"/>
 <meta property="og:image:width" content="650">
 <meta property="og:image:height" content="350">
 <meta property="og:description" content="Animerulz is a Free anime streaming website which you can watch English Hindi Telugu Tamil Dubbed Anime online with No Account and Daily update. WATCH NOW!"/>
@@ -70,7 +70,7 @@
             <div id="xheader_menu">
                 <ul class="nav header_menu-list">
                     <li class="nav-item"><a href="/home" title="Home">Home</a></li>
-                    <li class="nav-item"><a href="/site-map/" title="Home">Site Map</a></li>
+                    <li class="nav-item"><a href="/site-map/" title="Site Map">Site Map</a></li>
                     <li class="nav-item"><a href="/mostviewedanime/" title="Most Viewed Anime">Most Viewed</a></li>
                     <li class="nav-item"><a href="/trendinganime/" title="Trending Anime">Trending Anime</a></li>
                     <li class="nav-item"><a href="/topairing" title="Top Airing">Top Airing</a></li>
@@ -94,8 +94,8 @@
                     <div id="xsearch" class="home-search">
                         <!-- <div class="mwt-icon"><img src="/images/peakpx.png" alt="animerulz"></div> -->
                         <div class="search-content">
-                            <form action="../search" autocomplete="off" id="search-form">
-                                <div class="search-submit" style="background: #faa300;">
+                            <form action="../search/" autocomplete="off" id="search-form">
+                                <div class="search-submit" onclick="openSearch()" style="background: #faa300;">
                                     <div class="search-icon btn-search"><i class="fa fa-search"></i></div>
                                 </div>
                                 <input type="text" class="form-control search-input" name="anime"
@@ -246,23 +246,6 @@
 <script type="text/javascript"
         src="https://platform-api.sharethis.com/js/sharethis.js#property=64a3d891df473b0019d1b0da&product=inline-share-buttons&source=platform"
         async="async"></script>
-<script>
-    if ('serviceWorker' in navigator) {
-        window.addEventListener('load', function () {
-            navigator.serviceWorker.register('/sw.js?v=0.5');
-        });
-    }
-    $(document).ready(function () {
-        $("#xheader_browser").click(function (e) {
-            $("#xheader_menu, #xheader_browser").toggleClass("active");
-        });
-        $('.btn-search').click(function () {
-            if ($('.search-input').val().trim() !== "") {
-                $('#search-form').submit();
-            }
-        });
-    });
-</script>
 <style>
     #st-cmp-v2 {
 display: none;
@@ -275,6 +258,11 @@ display: none;
    }
 </style>
 <script src="../scripts/script.js"></script>
-<!-- <script type="text/javascript" src="//potsaglu.net/5/5419283" async data-cfasync="false" defer></script> -->
+<script crossorigin="use-credentials">
+        function openSearch(){
+            if(document.querySelector(".search-input").value !== "")
+                document.querySelector("#search-form").submit();
+        }
+</script>
 </body>
 </html>
