@@ -16,7 +16,7 @@ nav{
     margin-inline: auto;
 }
 .top-container-tr{
-    padding: 20px 10px;
+    padding: 0px 10px;
 }
 .top-container-tr h1{
     font-size: 28px;
@@ -47,6 +47,7 @@ header{
     display: flex;
     width: 100%;
     color: rgba(255,255,255,0.7);
+    justify-content: space-between;
 }
 .sub-container-r-tr{
     width: 23%;
