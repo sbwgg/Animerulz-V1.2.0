@@ -1135,14 +1135,11 @@ function setShortAnimes(short_anime_data){
 
     document.getElementById("episode-number-in-video").innerHTML = epi_num;
     let anime = document.getElementById("a-active-page-tag");
-    let animeNameNew = anime.textContent.replaceAll(" ", "").toLowerCase();
-    console.log(animeNameNew);
-    if(newAnimesName.hasOwnProperty(animeNameNew)){
+    if(newAnimesName.hasOwnProperty(animeNameee)){
         Object.keys(short_anime_data).forEach( lang => {
-            short_anime_data[lang]['no_epi'] = newAnimesName[animeNameNew];
+            short_anime_data[lang]['no_epi'] = newAnimesName[animeNameee];
         });
 }
-    console.log(short_anime_data);
 
 
             var episodes_section = document.getElementById("episodes-in-section");
@@ -1169,7 +1166,7 @@ function setShortAnimes(short_anime_data){
             else if(current_short_anime_data['eng2'] != undefined)
                 current_short_anime_epi_num = current_short_anime_data['eng2']['no_epi'];
             if(current_short_anime_epi_num < Number(epi_num))
-                window.open(`https://animerulz.in/${animeNameNew}/Watch-Now/?ep=1&aud=${epi_aud}`, "_self");
+                window.open(`https://animerulz.in/${animeNameee}/Watch-Now/?ep=1&aud=${epi_aud}`, "_self");
             let temp = "";
             let temp_1 = "";
             let outputNew = "";
