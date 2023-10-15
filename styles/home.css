@@ -69,7 +69,7 @@ a{
   margin-left: auto;
   margin-right: auto;
 }
-.trending-anime, .animes-in-trending, .most-viewed-anime-container, .best-on-imdb-container, .newly-added-animes, .upcoming-anime-container{
+.trending-anime, .animes-in-trending, .most-viewed-anime-container, .best-on-imdb-container, .newly-added-animes, .upcoming-anime-container, .new-cartoons-section{
   width: 100%;
   max-width: 1500px;
   margin-left: auto;
@@ -724,4 +724,117 @@ a{
 
 .anime-in-up-coming-container{
   min-width: auto !important;
+}
+
+
+.new-cartoons-section{
+  padding: 10px 0;
+}
+.new-cartoons-section .cartoons-data{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
+.cartoons-data .cartoons-a-a{
+  background-color: rgba(0,0,0,0.4);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 10px 20px;
+}
+.border-bottom{
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+.content-cartoons-a{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.cartoon{
+  padding: 10px;
+  display: flex;
+  height: 100px;
+  cursor: pointer;
+  width: 90%;
+  margin-inline: auto;
+  gap: 10px;
+}
+.cartoon-image{
+  width: 70px;
+}
+.cartoon-image img{
+  height: 100%;
+  width: 100%;
+  border-radius: 5px;
+}
+.cartoon .cartoon-data-a{
+  width: calc(100% - 80px);
+  display: flex;
+  align-items: center;
+}
+.new-cartoons-section h3{
+  color: #faa300;
+}
+.cartoon .cartoon-data-a h4{
+  display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  margin-block: 0;
+  color: #faa300;
+}
+.cartoon .cartoon-data-a .cartoon-a-b{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.cartoon .cartoon-data-a .cartoon-a-b .cartoon-extra-data{
+  display: flex;
+  gap: 10px;
+  color: rgba(255,255,255,0.7);
+}
+.small-txt{
+  font-size: 13px;
+}
+.medium-txt{
+  font-size: 15px;
+}
+@media only screen and (max-width:750px){
+  .small-txt{
+    font-size: 11px;
+  }
+  .medium-txt{
+    font-size: 13px;
+  }
+}
+.view-more-cartoons{
+  width: 100%;
+  background-color: rgba(0,0,0,0.7);
+  background-color: rgba(255,255,255,0.1);
+  transition: all 0.5s;
+  text-align: center;
+  color: rgba(255,255,255,0.7);
+}
+.view-more-cartoons a{
+  cursor: pointer;
+  width: 100%;
+  height: 100%;
+  display: block;
+  padding: 10px;
+}
+.view-more-cartoons a i{
+  transition: all 0.5s;
+}
+.view-more-cartoons:hover{
+  background-color: rgba(255,255,255,0.2);
+  color: #faa300;
+}
+.view-more-cartoons:hover a i{
+  margin-left: 2px;
+}
+@media only screen and (max-width:800px){
+  .new-cartoons-section .cartoons-data{
+    grid-template-columns: 1fr;
+  }
 }
