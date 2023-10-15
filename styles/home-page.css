@@ -105,6 +105,7 @@ header{
     display: flex;
     flex-wrap: wrap;
     gap: 5px 10px;
+    font-size: 15px;
 }
 .xhashtag a{
     color: rgba(255, 255, 255, 0.5);
@@ -127,11 +128,12 @@ header{
 }
 #search-form .search-submit, #search-form .search-input{
     border-radius: 40px;
-    font-size: 18px;
+    font-size: 16px;
 }
 #search-form .search-input{
+    height: 20px;
     width: 450px;
-    padding: 17px;
+    padding: 15px;
     border: none;
     border: 1px solid rgba(0,0,0,0.8);
 }
@@ -267,6 +269,10 @@ h1, h2, h3{
     .share-buttons-block{
         flex-direction: column;
         gap: 10px;
+    }
+    #action-button{
+        font-size: 14px;
+        height: 40px;
     }
 }
 @media only screen and (max-width:360px){
