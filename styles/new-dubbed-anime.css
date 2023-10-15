@@ -3,11 +3,60 @@
     width: 100%;
     margin-inline: auto;
   }
-  .new-dubbed-animes .new-dubbed-anime-container{
-    height: 300px;
+  .header-tr{
+    padding-block: 10px;
+  }
+  .new-dubbed-animes{
     display: flex;
-    width: 100%;
+    flex-direction: row !important;
+    flex-wrap: wrap;
+    width: 76%;
+    gap: 0;
+    height: fit-content;
+    gap: 10px;
+}
+/* .big-animes{
+  display: flex;
+  flex-wrap: wrap;
+} */
+  .new-dubbed-animes .big-anime{
+    display: flex;
+    width: calc(33% - 5px);
     justify-content: space-between;
+    text-align: left !important;
+  }
+  .new-dubbed-anime-container{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: 2;
+  }
+  .new-dubbed-animes-container{
+    width: 100%;
+    position: relative;
+  }
+  .new-dubbed-animes-container .image-div-sec{
+    z-index: 0;
+    position: relative;
+  }
+  .new-dubbed-animes-container .image-div-sec::before{
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(0deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.4) 20%, rgba(0,0,0,0.3) 40%, rgba(0,0,0,0.2) 60%, rgba(0,0,0,0.3) 80%, rgba(0,0,0,0.3) 100%);
+    z-index: 1;
+  }
+  .new-dubbed-animes-container .image-div-sec img{
+    height: 100%;
+    width: 100%;
+  }
+  .small-txt{
+    font-size: 12px;
+  }
+  .image-container-new-anime_{
+    height: 100%;
+    background-size: 100%;
   }
 @media only screen and (max-width:600px) {
   .new-dubbed-animes .new-dubbed-anime-container .image-container-new-anime_#first-anime, .new-dubbed-animes .new-dubbed-anime-container .image-container-new-anime_#second-anime,  .new-dubbed-animes .new-dubbed-anime-container .image-container-new-anime_#third-anime{
@@ -22,7 +71,7 @@
   .new-dubbed-animes .new-dubbed-anime-container h2{
     color: rgba(255,255,255,0.8);
     color: #faa300;
-    font-size: 30px;
+    font-size: 24px;
     font-weight: 800;
     transition: all 0.5s;
     cursor: pointer;
@@ -31,7 +80,7 @@
     -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
     overflow: hidden;
-    /* margin-block: 10px; */
+    margin-block: 10px;
   }
   .new-dubbed-animes .new-dubbed-anime-container h2:hover{
     color: #faa300;
@@ -42,13 +91,15 @@
     display: flex;
     flex-direction: column-reverse;
     background-color: rgba(0,0,0,0.4);
+    padding-inline: 5px;
   }
   .new-dubbed-animes .new-dubbed-anime-container .anime-audios-container{
     display: flex;
     /* flex-wrap: wrap; */
     gap: 10px;
     overflow-x: scroll;
-    width: 90%;
+    width: 95%;
+    margin-inline: auto;
   }
   .new-dubbed-animes .new-dubbed-anime-container .anime-audios-container::-webkit-scrollbar{
     display: none;
@@ -58,7 +109,6 @@
     background-color: rgba(255,255,255,0.7);
     cursor: pointer;
     transition: all 0.5s;
-    font-size: 15px;
     color: rgba(0,0,0,0.9);
   }
   .new-dubbed-animes .new-dubbed-anime-container .anime-audios-container .anime-audio-div:hover{
@@ -70,7 +120,7 @@
     display: flex;
     flex-wrap: wrap;
     list-style: none;
-    /* gap: 30px; */
+    gap: 5px 0;
     padding-inline-start: 0;
     margin: 0;
   }
@@ -85,10 +135,8 @@
     color: #faa300;
   }
   .new-dubbed-animes .anime-updated-time-new_{
-    margin-top: 10px;
     padding: 10px;
     color: rgba(255,255,255,0.8);
-    font-size: 12px;
   }
   .new-dubbed-animes .anime-updated-time-new_ i{
     font-size: 10px;
@@ -110,3 +158,137 @@
     }
   
   }
+  @media only screen and (max-width:1300px) {
+    .new-dubbed-animes .new-dubbed-anime-container h2{
+      font-size: 22px;
+    }
+    .small-txt{
+      font-size: 11px;
+    }
+    .new-dubbed-animes .new-dubbed-anime-container .anime-audios-container .anime-audio-div{
+      padding: 3px 8px;
+    }
+    .new-dubbed-animes .new-dubbed-anime-container .anime-audios-container{
+      gap: 5px;
+    }
+}
+@media only screen and (max-width:1000px) {
+  .new-dubbed-animes{
+    width: 100%;
+  }
+}
+.swiper-wrapper{
+  height: 100%;
+}
+@media only screen and (min-width:1000px) {
+  .swiper-container{
+    height: 300px !important;
+  }
+}
+@media only screen and (min-width:700px) and (max-width:1000px) {
+  .swiper-container{
+    height: 250px;
+  }
+}
+
+.small-animes-a{
+  height: fit-content;
+  width: 100%;
+}
+.small-animes-a .container-a{
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 10px 5px;
+}
+.small-animes-a .item-a{
+  position: relative;
+  height: 300px;
+  cursor: pointer;
+}
+.small-animes-a .item-a .anime-content-a{
+  display: flex;
+  flex-direction: column-reverse;
+  gap: 5px 0;
+}
+.small-animes-a .anime-content-a{
+  position: absolute;
+  z-index: 2;
+  height: 100%;
+  width: 100%;
+}
+.small-animes-a .anime-content-a .anime-main-content-a{
+  width: 95%;
+  margin-inline: auto;
+}
+.small-animes-a .anime-content-a h2{
+  margin-block: 10px;
+  margin-bottom: 15px;
+  font-size: 18px;
+  color: #faa300;
+  display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+.small-animes-a .anime-content-a .a-info{
+  display: flex;
+  justify-content: space-between;
+}
+.small-animes-a .image-div-a{
+  height: 90%;
+  width: 100%;
+  position: relative;
+}
+.small-animes-a .image-div-a::before{
+  content: "";
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  z-index: 1;
+  background: linear-gradient(0deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.4) 20%, rgba(0,0,0,0.3) 40%, rgba(0,0,0,0.2) 60%, rgba(0,0,0,0.3) 80%, rgba(0,0,0,0.3) 100%);
+}
+.small-animes-a .image-div-a img{
+  height: 100%;
+  width: 100%;
+}
+.small-animes-a .image-div-a .play-icon-a{
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  display: none;
+  color: rgba(255,255,255,0.9);
+  background: linear-gradient(0deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.4) 20%, rgba(0,0,0,0.4) 40%, rgba(0,0,0,0.4) 60%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.5) 100%);
+}
+.small-animes-a .item-a:hover .image-div-a .play-icon-a{
+  display: flex;
+}
+@media only screen and (max-width:1350px){
+  .small-animes-a .container-a{
+    grid-template-columns: repeat(5, 1fr);
+  }
+}
+@media only screen and (max-width:1200px){
+  .small-animes-a .container-a{
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+@media only screen and (max-width:750px){
+  .small-animes-a .container-a{
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .small-animes-a .item-a{
+    height: 250px;
+  }
+.small-animes-a .anime-content-a h2{
+  font-size: 15px;
+}
+}
+@media only screen and (max-width:550px){
+  .small-animes-a .container-a{
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
