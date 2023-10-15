@@ -1,5 +1,7 @@
 const animeNameee = document.getElementById("a-active-page-tag").textContent.toLowerCase().replace(/[^a-zA-Z0-9 ]/g, "");
 
+
+
 const longAnimes = ['one piece',
 'naruto',
 'naruto shippuden',
@@ -1133,9 +1135,9 @@ function setShortAnimes(short_anime_data){
 
     document.getElementById("episode-number-in-video").innerHTML = epi_num;
     let anime = document.getElementById("a-active-page-tag");
-    if(newAnimesName.hasOwnProperty(animeNameee)){
+    if(newAnimesName.hasOwnProperty(animeNameee.replaceAll(" ", ""))){
         Object.keys(short_anime_data).forEach( lang => {
-            short_anime_data[lang]['no_epi'] = newAnimesName[animeNameee];
+            short_anime_data[lang]['no_epi'] = newAnimesName[animeNameee.replaceAll(" ", "")];
         });
 }
 
@@ -1164,7 +1166,7 @@ function setShortAnimes(short_anime_data){
             else if(current_short_anime_data['eng2'] != undefined)
                 current_short_anime_epi_num = current_short_anime_data['eng2']['no_epi'];
             if(current_short_anime_epi_num < Number(epi_num))
-                window.open(`https://animerulz.in/${animeNameee}/Watch-Now/?ep=1&aud=${epi_aud}`, "_self");
+                window.open(`https://animerulz.in/${animeNameee.replaceAll(" ", "")}/Watch-Now/?ep=1&aud=${epi_aud}`, "_self");
             let temp = "";
             let temp_1 = "";
             let outputNew = "";
