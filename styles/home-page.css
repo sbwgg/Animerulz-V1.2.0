@@ -145,8 +145,7 @@ header{
     border: 1px solid rgba(0,0,0,0.8);
     color: rgba(0,0,0,0.9);
     cursor: pointer;
-    width: 50px;
-    padding: 17px 8px;
+    padding: 13px 17px;
 }
 #action-button{
     margin-top: 200px;
@@ -262,9 +261,6 @@ h1, h2, h3{
     #search-form .search-input, #search-form .search-submit{
         padding-block: 10px;
         font-size: 14px;
-    }
-    .search-submit{
-        min-width: 30px;
     }
     .share-buttons-block{
         flex-direction: column;
