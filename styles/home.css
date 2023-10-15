@@ -75,9 +75,6 @@ a{
   margin-left: auto;
   margin-right: auto;
 }
-.home-main-info{
-  
-} 
 .bottom-container h2{
   color: #faa300;
 }
@@ -538,7 +535,7 @@ a{
 .left-container-upcoming .upcoming-anime-container_{
   width: 100%;
   display: grid;
-  /* gap: 10px; */
+  gap: 10px 0;
   justify-content: space-between;
   grid-template-columns: repeat(5, 1fr);
 }
@@ -546,30 +543,48 @@ a{
   position: relative;
   /* height: 400px; */
   color: rgba(255,255,255,0.7);
-  margin-bottom: 70px;
-  /* width: 19%; */
+  /* margin-bottom: 70px; */
+  width: 100%;
 }
 .left-container-upcoming .upcoming-anime-container_ .anime-in-upcoming .image-container-up{
+  height: 300px;
   width: 100%;
   z-index: 1;
   position: relative;
+  display: flex;
+  flex-direction: column-reverse;
+}
+@media only screen and (max-width:800px){
+  .left-container-upcoming .upcoming-anime-container_ .anime-in-upcoming .image-container-up{
+    height: 250px;
+  }
+
+}
+@media only screen and (max-width:600px){
+  .left-container-upcoming .upcoming-anime-container_ .anime-in-upcoming .image-container-up{
+    height: 200px;
+  }
+
 }
 .left-container-upcoming .upcoming-anime-container_ .anime-in-upcoming .image-container-up::before{
   content: "";
   position: absolute;
   height: 100%;
   width: 100%;
-  z-index: 3;
-  background: linear-gradient(0deg, rgba(0,0,0,1) 0%,rgba(0,0,0,0.3) 20%, rgba(0,0,0,0.2) 40%, rgba(0,0,0,0.2) 60%, rgba(0,0,0,0.2) 80%, rgba(0,0,0,0.3)100%);
+  z-index: 2;
+  background: linear-gradient(0deg, rgba(0,0,0,1) 0%,rgba(0,0,0,0.8) 20%, rgba(0,0,0,0.2) 40%, rgba(0,0,0,0.2) 60%, rgba(0,0,0,0.2) 80%, rgba(0,0,0,0.3)100%);
 }
 .left-container-upcoming .upcoming-anime-container_ .anime-in-upcoming .image-container-up img{
+  height: 100%;
   width: 100%;
+  position: absolute;
+  z-index: 1;
 }
 .left-container-upcoming .upcoming-anime-container_ .anime-in-upcoming .name-container-up{
   display: flex;
-  position: absolute;
   flex-direction: column-reverse;
-  z-index: 2;
+  position: relative;
+  z-index: 3;
   transition: all 0.5s;
 }
 .left-container-upcoming .upcoming-anime-container_ .anime-in-upcoming .name-container-up h3{
@@ -577,7 +592,7 @@ a{
     -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
     overflow: hidden;
-    padding-inline: 5px;
+    padding-inline: 10px;
 }
 .left-container-upcoming .upcoming-anime-container_ .anime-in-upcoming:hover{
   cursor: pointer;
@@ -705,9 +720,6 @@ a{
   }
   .left-container-upcoming .upcoming-anime-container_ .anime-in-upcoming .name-container-up{
     font-size: 11px;
-  }
-  .left-container-upcoming .upcoming-anime-container_ .anime-in-upcoming{
-    margin-bottom: 50px;
   }
   .right-container-upcoming .genres-div .header-genres-div h3{
     font-size: 16px;
