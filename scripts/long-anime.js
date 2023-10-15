@@ -1168,6 +1168,8 @@ function setShortAnimes(short_anime_data){
                 current_short_anime_epi_num = current_short_anime_data['jap2']['no_epi'];
             else if(current_short_anime_data['eng2'] != undefined)
                 current_short_anime_epi_num = current_short_anime_data['eng2']['no_epi'];
+            if(current_short_anime_epi_num < Number(epi_num))
+                window.open(`https://animerulz.in/${animeNameNew}/Watch-Now/?ep=1&aud=${epi_aud}`);
             let temp = "";
             let temp_1 = "";
             let outputNew = "";
