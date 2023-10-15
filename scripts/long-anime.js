@@ -401,6 +401,7 @@ const newAnimesName = {
 
 const selfLongAnimes = [
     'fairy tail',
+    'fairy tail series 2',
     "boruto naruto next generations"
 ]
 
