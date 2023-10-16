@@ -773,11 +773,16 @@ a{
 }
 .cartoon-image{
   width: 70px;
+  border-radius: 5px;
+  overflow: hidden;
 }
 .cartoon-image img{
   height: 100%;
   width: 100%;
-  border-radius: 5px;
+  transition: all 0.5s;
+}
+.cartoon:hover .cartoon-image img{
+  transform: scale(1.2);
 }
 .cartoon .cartoon-data-a{
   width: calc(100% - 80px);
