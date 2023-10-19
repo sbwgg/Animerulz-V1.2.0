@@ -256,15 +256,18 @@ function disableScroll(){
     document.getElementsByTagName("body")[0].style.position = "initial"; 
  }
 
+ const menuData = document.getElementsByClassName("main-container-in-menu")[0];
+ const menu = document.getElementsByClassName("more-menu")[0];
+
  function show_menu(){
-    let menu = document.getElementsByClassName("more-menu")[0];
-    menu.style.marginLeft = "0";
-    // disableScroll();
+    menuData.setAttribute("style", "animation: slideIn 0.4s ease-in-out both;");
+    menu.style.display = "flex";
  }
  function hide_menu(){
-    let menu = document.getElementsByClassName("more-menu")[0];
-    menu.style.marginLeft = "-100vw";
-    // enableScroll();
+    menuData.setAttribute("style", "animation: slideOut 0.4s ease-in-out both;");
+    setTimeout(() => {
+        menu.style.display = "none";
+    }, 300)
  }
 
 
