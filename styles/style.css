@@ -115,7 +115,6 @@ button:hover{
 }
 .main-container-in-menu{
   width: 300px;
-  display: grid;
   /* position: sticky; */
   overflow: scroll;
   grid-template-rows: 56px auto;
@@ -130,6 +129,13 @@ button:hover{
   padding: 10px;
   margin-top: 10px;
 }
+.more-menu .close-this-a{
+  padding: 20px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  cursor: pointer;
+}
 .more-menu .close-menu-data{
   background-color: rgba(255, 255, 255, 0.3);
   padding: 10px 10px;
@@ -140,6 +146,35 @@ button:hover{
   width: 180px;
   transition: 0.5s;
   position: relative;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+.more-menu .main-header-new-a{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.more-menu .main-header-new-a .data-div-a-b-c{
+  padding-block: 10px;
+  width: fit-content;
+}
+.large-txt{
+  font-size: 30px;
+}
+.more-menu .main-header-new-a .data-div-a-b-c .anime-main-txt-a-a{
+  font-weight: 800;
+  padding-top: 10px;
+  text-align: right;
+}
+.more-menu .main-header-new-a .data-div-a-b-c .version-txt-a-a{
+  display: flex;
+  flex-direction: row-reverse;
+  font-size: 15px;
 }
 /* search section start */
 .search-input .icon{
@@ -1747,7 +1782,7 @@ body{
   transition: all 0.5s;
   width: 100%;
 }
-.search-container .anilist-search-container .anilist-search-data-list .item-search-data_:hover  img{
+.search-container .anilist-search-container .anilist-search-data-list .item-search-data_:hover img{
   transform: scale(1.1);
 }
 .search-container .anilist-search-container .anilist-search-data-list .item-search-data_ .search-anime-data-res .head-data-search-res{
@@ -2400,11 +2435,8 @@ body{
   cursor: pointer;
   background-color: rgba(255, 255, 255, 0.6);
 }
-.more-menu .txt-close-div{
-  margin-left: 40px;
-}
 .more-menu .more-data-in-menu{
-  padding: 20px 0;
+  padding-block: 10px;
 }
 .more-menu .more-data-in-menu .data-in-menu{
   padding: 12px 10px;
