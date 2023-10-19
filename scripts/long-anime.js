@@ -1,6 +1,6 @@
 const animeNameee = document.getElementById("a-active-page-tag").textContent.toLowerCase().replace(/[^a-zA-Z0-9 ]/g, "");
 
-
+animeNameee = animeNameee.trim()
 
 const longAnimes = ['one piece',
 'naruto',
