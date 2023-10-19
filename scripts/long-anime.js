@@ -422,7 +422,7 @@ function callLongAnimeDirect(){
         if(this.readyState == 4 && this.status == 200){
             let animeData = JSON.parse(this.responseText);
             let anime = document.getElementById("a-active-page-tag");
-            setLongAnimes(animeData[anime.textContent]);
+            setLongAnimes(animeData[anime.textContent.trim()]);
         }
     }
 }
@@ -445,7 +445,7 @@ function callShortAnimeDirect(){
         if(this.readyState == 4 && this.status == 200){
             let animeData = JSON.parse(this.responseText);
             let anime = document.getElementById("a-active-page-tag");
-            setShortAnimes(animeData[anime.textContent]);
+            setShortAnimes(animeData[anime.textContent.trim()]);
         }
     }
 }
