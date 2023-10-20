@@ -15,7 +15,6 @@
     align-items: center;
     max-height: 0px;
   }
-
   .adsbygoogle{
     width: fit-content;
     display: flex !important;
@@ -23,6 +22,9 @@
     align-items: center;
     width: 100vw;
     max-width: 1500px;
+  }
+  .large-ad-unit, .small-ad-unit{
+    padding-block: 10px;
   }
   .small-ad-unit{
     display: none !important;
