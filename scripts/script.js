@@ -490,7 +490,7 @@ function handleData(data) {
         let timeUntilAir = newData['nextAiringEpisode']['timeUntilAiring'] / 3600;
         let daysUntilAir = Math.floor(timeUntilAir / 24);
         let hoursUntilAir = Math.floor(timeUntilAir % 24);
-        nextEpisodeData = "next Episode-" + newData['nextAiringEpisode']['episode'] + " in " + daysUntilAir + "d " + hoursUntilAir + "h";
+        nextEpisodeData = "Next Episode-" + newData['nextAiringEpisode']['episode'] + " in " + daysUntilAir + "d " + hoursUntilAir + "h";
     }
     let btnText = lastEpisode ? `<i class="fa-solid fa-circle-play small-font"></i> Watch Now` : `Coming Soon`;
     let anchorToAnime = btnText == `<i class="fa-solid fa-circle-play small-font"></i> Watch Now` ? `href="${animeHref}Watch-Now/?ep=${lastEpisode}&aud=jap"` : "";
@@ -536,4 +536,200 @@ function handleData(data) {
 function handleError(e){
     console.log(e);
 }
+}
+
+
+
+
+
+//for setting anime episodes 
+try{
+    if(document.getElementsByClassName('time-index')[0]){
+        let animeId = document.getElementsByTagName("html")[0].getAttribute('id');
+    async function getDataFromAnilist3(animeKey){
+        let query = `
+        query ($id: Int) { # Define which variables will be used in the query (id)
+            Media (id: $id, type: ANIME) { # Insert our variables into the query arguments (id) (type: ANIME is hard-coded in the query)
+              id
+              episodes
+                  studios {
+                    edges {
+                  node
+                  {
+                    name
+                  }
+                    }
+                  }
+                  nextAiringEpisode {
+                    timeUntilAiring
+                    episode
+                  }
+                  endDate{
+                    year
+                    month
+                    day
+                  }
+            }
+          }
+          
+          `
+        
+    // Define our query variables and values that will be used in the query request
+    var variables = {
+        searchKey: animeKey,
+        id: animeKey,
+        type: 'ANIME'
+    };
+    
+    // Define the config we'll need for our Api request
+    var url = 'https://graphql.anilist.co',
+        options = {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+                'Accept': 'application/json',
+            },
+            body: JSON.stringify({
+                query: query,
+                variables: variables
+            })
+        };
+    
+    // Make the HTTP Api request
+    fetch(url, options).then(handleResponse)
+                       .then(handleData)
+                       .catch(handleError);
+    
+    function handleResponse(response) {
+        return response.json().then(function (json) {
+            return response.ok ? json : Promise.reject(json);
+        });
+    }
+    
+    function handleData(data) {
+        // console.log(data);
+        setAnimeCurrentEpisodes(data['data']['Media']);
+        setUpdatedTime(data['data']['Media']);
+    }
+    function handleError(e){
+        console.log(e);
+    }
+    }
+    getDataFromAnilist3(animeId);
+
+    function setAnimeCurrentEpisodes(data){
+        let animeSubEpisodes = document.querySelector(".list-ele-b-h.subbed-anime-txt__").getElementsByTagName("span")[0];
+        let currentSubEpisodes;
+        if(data['episodes']){
+            currentSubEpisodes = data['episodes'];
+        }else{
+            currentSubEpisodes = data['nextAiringEpisode']['episode'];
+        }
+        animeSubEpisodes.innerText = currentSubEpisodes - 1;
+    }
+    function setUpdatedTime(data){
+        let animeUpdatedTimeElement = document.querySelector(".time-index");
+        if(data['endDate']['year']){
+            animeUpdatedTimeElement.innerHTML = `<i class="fa-solid fa-clock"></i>&nbsp;<span>Updated on ${data['endDate']['year']}/${data['endDate']['month']}</span>`; 
+        }else{
+            // animeUpdatedTimeElement.innerText
+            let timeUntilAir = data['nextAiringEpisode']['timeUntilAiring'] / 3600;
+            let daysUntilAir = Math.floor(timeUntilAir / 24);
+            let tempoo = 6 - daysUntilAir;
+            animeUpdatedTimeElement.innerHTML = `<i class="fa-solid fa-clock"></i>&nbsp;<span>Updated ${tempoo} days ago - New Episode ${data['nextAiringEpisode']['episode'] - 1} is Uploaded</span>`;
+        }
+    }
+}
+    
+}catch{}
+
+try{
+    if(!document.getElementsByClassName("time-index")[0]){
+        let animeId = document.getElementsByTagName("html")[0].getAttribute('id');
+        async function getDataFromAnilist4(animeKey){
+            let query = `
+            query ($id: Int) { # Define which variables will be used in the query (id)
+                Media (id: $id, type: ANIME) { # Insert our variables into the query arguments (id) (type: ANIME is hard-coded in the query)
+                  id
+                      nextAiringEpisode {
+                        timeUntilAiring
+                        episode
+                      }
+                }
+              }
+              
+              `
+            
+        // Define our query variables and values that will be used in the query request
+        var variables = {
+            searchKey: animeKey,
+            id: animeKey,
+            type: 'ANIME'
+        };
+        
+        // Define the config we'll need for our Api request
+        var url = 'https://graphql.anilist.co',
+            options = {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Accept': 'application/json',
+                },
+                body: JSON.stringify({
+                    query: query,
+                    variables: variables
+                })
+            };
+        
+        // Make the HTTP Api request
+        fetch(url, options).then(handleResponse)
+                           .then(handleData)
+                           .catch(handleError);
+        
+        function handleResponse(response) {
+            return response.json().then(function (json) {
+                return response.ok ? json : Promise.reject(json);
+            });
+        }
+        
+        function handleData(data) {
+            // console.log(data);
+            setAnimeNextEpisodeData(data['data']['Media']);
+        }
+        function handleError(e){
+            console.log(e);
+        }
+        }
+
+        getDataFromAnilist4(animeId);
+
+        function setAnimeNextEpisodeData(data){
+            let animeNextAiringEpisodeDivision;
+            let tempDiv = document.getElementsByClassName("nxt-episode-info")[0];
+            if(tempDiv){
+                animeNextAiringEpisodeDivision = tempDiv;
+            }
+            let nextAiringEpisodeData = data['nextAiringEpisode'];
+            if(nextAiringEpisodeData){
+                let timeUntilAir = nextAiringEpisodeData['timeUntilAiring'] / 3600;
+                let daysUntilAir = Math.floor(timeUntilAir / 24);
+                let hoursUntilAir = Math.floor(timeUntilAir % 24);
+                let nextEpisodeDataNew = "Next Episode - " + nextAiringEpisodeData['episode'] + " Airing in " + daysUntilAir + " day " + hoursUntilAir + "     hours";
+                if(!tempDiv){
+                    let temppDivision = document.createElement('div');
+                    temppDivision.setAttribute('class', "nxt-episode-info");
+                    document.getElementsByClassName("main-container-video-sec-1")[0].appendChild(temppDivision);
+                    animeNextAiringEpisodeDivision = temppDivision;
+                }
+                animeNextAiringEpisodeDivision.innerHTML = `<i class="fa-regular fa-face-grin-stars fa-bounce"></i>&nbsp; <span id="nxt-episode-txt">
+                    ${nextEpisodeDataNew} 
+                </span>`
+            }else{
+                animeNextAiringEpisodeDivision.style.display = 'none';
+            }
+        }
+    }
+}
+catch(e){
+    console.log(e);
 }
