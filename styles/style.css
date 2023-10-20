@@ -1,5 +1,4 @@
-
-html,body{
+  html,body{
       margin: 0;
       padding:0;
       /* max-width: 1500px; */
@@ -25,14 +24,14 @@ html,body{
     max-width: 1500px;
   }
   .small-ad-unit{
-    display: none;
+    display: none !important;
   }
   @media only screen and (max-width:700px){
     .large-ad-unit{
-      display: none;
+      display: none !important;
     }
     .small-ad-unit{
-      display: block;
+      display: block !important;
     }
   }
   .main-container,.more-from-this-anime,.recommendations,.more-season-anime-container__,.addthis_inline_share_toolbox,.anime-trailer, .latest-dubbed-animes, .continue-watching-division, .bottom-data-container,.genres_div_, .bottom-content-data___{
