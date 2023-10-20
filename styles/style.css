@@ -21,7 +21,7 @@
     align-items: center;
     width: 100vw;
     /* max-width: 600px; */
-    max-height: 250px;
+    max-height: 250px !important;
   }
   .large-ad-unit, .small-ad-unit{
     padding-block: 10px;
