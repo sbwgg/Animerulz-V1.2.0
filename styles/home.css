@@ -838,7 +838,12 @@ a{
   width: 100%;
   height: 100%;
   display: block;
-  padding: 10px;
+  padding-block: 10px;
+}
+@media only screen and (max-width:600px){
+  .view-more-cartoons a{
+    padding-block: 7px;
+  }
 }
 .view-more-cartoons a i{
   transition: all 0.5s;
