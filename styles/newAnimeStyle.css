@@ -83,17 +83,17 @@ button:hover{
 
 .more-menu{
   display: none;
-  margin-left: -100vw;
+  /* margin-left: -100vw; */
   position: fixed;
   /* position: absolute; */
-  background-color: rgba(0,0,0,0.5);
+  background-color: rgba(0,0,0,0.4);
   backdrop-filter: blur(5px);
   width: 100vw;
   height: 100vh;
   /* max-width: 1500px; */
   transition: margin 0.5s;
   z-index: 11;
-  display: flex;
+  /* display: flex; */
   grid-column: 1;
   /* top: 0;
   bottom: 0;
@@ -115,13 +115,30 @@ button:hover{
 }
 .main-container-in-menu{
   width: 300px;
-  display: grid;
   /* position: sticky; */
   overflow: scroll;
   grid-template-rows: 56px auto;
-  background-color: rgba(255, 255, 255, 0.2);
+  /* background-color: rgba(255, 255, 255, 0.2); */
+  background-color: rgba(0,0,0,0.2);
   height: 100%;
   padding: 0 20px;
+  animation: slideIn 0.3s ease-in-out both;
+}
+@keyframes slideIn {
+  0%{
+    margin-left: -400px;
+  }
+  100%{
+    margin-left: 0;
+  }
+}
+@keyframes slideOut {
+0%{
+  margin-left: 0%;
+}
+100%{
+  margin-left: -400px;
+}
 }
 .main-container-in-menu::-webkit-scrollbar{
   display: none;
@@ -129,6 +146,14 @@ button:hover{
 .close-div{
   padding: 10px;
   margin-top: 10px;
+}
+.more-menu .close-this-a{
+  color: rgba(255, 255, 255, 0.6);
+  padding: 20px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  cursor: pointer;
 }
 .more-menu .close-menu-data{
   background-color: rgba(255, 255, 255, 0.3);
@@ -140,6 +165,36 @@ button:hover{
   width: 180px;
   transition: 0.5s;
   position: relative;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+.more-menu .main-header-new-a{
+  color: rgba(255, 255, 255, 0.6);
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.more-menu .main-header-new-a .data-div-a-b-c{
+  padding-block: 10px;
+  width: fit-content;
+}
+.large-txt{
+  font-size: 30px;
+}
+.more-menu .main-header-new-a .data-div-a-b-c .anime-main-txt-a-a{
+  font-weight: 800;
+  padding-top: 10px;
+  text-align: right;
+}
+.more-menu .main-header-new-a .data-div-a-b-c .version-txt-a-a{
+  display: flex;
+  flex-direction: row-reverse;
+  font-size: 15px;
 }
 /* search section start */
 .search-input .icon{
