@@ -37,10 +37,6 @@
       display: flex !important;
       justify-content: center;
       align-items: center;
-      /* width: 90vw !important;
-      max-width: 1300px !important;
-      height: 200px;
-      max-height: 200px !important; */
       width: 970px;
       height: 90px;
     }
@@ -59,17 +55,6 @@
     .large-ad-unit, .small-ad-unit{
       padding-block: 5px;
     }
-    /* .small-ad-unit{
-      display: none !important;
-    }
-    @media only screen and (max-width:700px){
-      .large-ad-unit{
-        display: none;
-      }
-      .small-ad-unit{
-        display: block;
-      }
-    } */
     .main-container,.more-from-this-anime,.recommendations,.more-season-anime-container__,.addthis_inline_share_toolbox,.anime-trailer, .latest-dubbed-animes, .continue-watching-division, .bottom-data-container,.genres_div_, .bottom-content-data___{
       max-width: 1500px;
       margin-left: auto;
