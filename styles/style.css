@@ -1242,7 +1242,7 @@
         margin-top: 3px;
       }
       .data-in-container{
-        height: 230px;
+        height: auto;
       }
       .description-text{
         font-size: 11px;
@@ -1406,9 +1406,6 @@
     h1{
       -webkit-line-clamp: 3;
     }
-    .data-in-container{
-      height: 250px;
-    }
     .anime-rec-txt h3{
       font-size: 15px;
     }
@@ -1441,9 +1438,6 @@
       }
       .button-read-manga{
         margin-top: 10px;
-      }
-      .data-in-container{
-        height: 270px;
       }
       .video-l-details-data{
         display: none;
