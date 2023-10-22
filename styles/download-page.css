@@ -809,14 +809,6 @@ iframe{
 .active-episode .episode-alternate-2{
   background-color: #faa300;
 }
-.short-anime-ep:hover > .episode-alternate-1{
-  background-color: #faa300;
-  opacity: 0.7;
-}
-.short-anime-ep:hover > .episode-alternate-2{
-  background-color: #faa300;
-  opacity: 0.7;
-}
 .main-container-video-sec-2 .body  .active-episode{
   opacity: 1;
   color: rgba(0, 0, 0, 0.9);
@@ -897,15 +889,31 @@ iframe{
 .filler-alert{
   white-space: nowrap;
 }
-.filler-episode{
+.main-container-video-sec-2 .body .episode.filler-episode{
   background-color: rgb(70, 58, 48);
 }
-.filler-episode-l{
-  background-color: rgb(66, 56, 47);
-}
-.active-episode .filler-episode{
+.main-container-video-sec-2 .body .active.filler-episode{
   background-color: rgb(255,108,0);
 }
-.active-episode .filler-episode-l{
-  background-color: rgb(230, 121, 43);
+.filler-episode, .filler-episode .episode-alternate-1, .filler-episode .episode-alternate-2{
+  background-color: rgb(70, 58, 48);
+}
+.active-episode.filler-episode .episode-alternate-1, .active-episode.filler-episode .episode-alternate-2{
+  background-color: rgb(255,108,0);
+}
+.short-anime-ep:hover .episode-alternate-1{
+  background-color: #faa300;
+  opacity: 0.7;
+}
+.short-anime-ep:hover .episode-alternate-2{
+  background-color: #faa300;
+  opacity: 0.7;
+}
+.short-anime-ep.filler-episode:hover .episode-alternate-1{
+  background-color: rgb(255,108,0);
+  opacity: 0.7;
+}
+.short-anime-ep.filler-episode:hover .episode-alternate-2{
+  background-color: rgb(255,108,0);
+  opacity: 0.7;
 }
