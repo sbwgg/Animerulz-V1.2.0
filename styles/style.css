@@ -155,7 +155,7 @@
       color: rgba(255, 255, 255, 0.6);
     }
     .close-me-div{
-      max-width: 1200px;
+      /* max-width: 1200px; */
       width: calc(100vw - 300px);
       height: 100%;
     }
@@ -630,7 +630,6 @@
         border: 1px rgba(255,255,255,0.5) solid;
         border-radius: 10px;
         padding: 3px 7px;
-        margin-top: 10px;
     }
     .anime-description-more-char{
         display: flex;
@@ -2655,11 +2654,12 @@
     }
 
     .anime-genres__{
+      display: flex;
       flex-wrap: wrap;
-      gap: 10px 5px;
+      gap: 5px;
     }
     .anime-genres__ .round-updated{
-      line-height: 0.6cm;
+      line-height: 0.5cm;
     }
 
     /* for genres in details page */
