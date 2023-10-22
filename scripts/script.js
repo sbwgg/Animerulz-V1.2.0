@@ -1,5 +1,9 @@
+const pageType = document.getElementsByTagName("html")[0].getAttribute('page-title');
+
+
 setTimeout(preloaderDisplayNone, 1000);
 window.addEventListener("load", function(){
+    if(pageType != 'a-main' && pageType != 'b-sub')
     setMoreMenu();
     preloaderDisplayNone();
     setAnimesInTrendingHover();
@@ -878,14 +882,15 @@ try{
     getDataFromAnilist3(animeId);
 
     function setAnimeCurrentEpisodes(data){
+        // console.log(data);
         let animeSubEpisodes = document.querySelector(".list-ele-b-h.subbed-anime-txt__").getElementsByTagName("span")[0];
         let currentSubEpisodes;
-        if(data['episodes']){
-            currentSubEpisodes = data['episodes'];
+        if(data['nextAiringEpisode']['episode']){
+            currentSubEpisodes = data['nextAiringEpisode']['episode'] - 1;
         }else{
-            currentSubEpisodes = data['nextAiringEpisode']['episode'];
+            currentSubEpisodes = data['episodes'];
         }
-        animeSubEpisodes.innerText = currentSubEpisodes - 1;
+        animeSubEpisodes.innerText = currentSubEpisodes;
     }
     function setUpdatedTime(data){
         let animeUpdatedTimeElement = document.querySelector(".time-index");
@@ -1003,3 +1008,4 @@ try{
 catch(e){
     console.log(e);
 }
+
