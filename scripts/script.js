@@ -885,7 +885,10 @@ try{
             let timeUntilAir = data['nextAiringEpisode']['timeUntilAiring'] / 3600;
             let daysUntilAir = Math.floor(timeUntilAir / 24);
             let tempoo = 6 - daysUntilAir;
-            animeUpdatedTimeElement.innerHTML = `<i class="fa-solid fa-clock"></i>&nbsp;<span>Updated ${tempoo} days ago - New Episode ${data['nextAiringEpisode']['episode'] - 1} is Uploaded</span>`;
+            if(tempoo != 0)
+                animeUpdatedTimeElement.innerHTML = `<i class="fa-solid fa-clock"></i>&nbsp;<span>Updated ${tempoo} days ago - New Episode ${data['nextAiringEpisode']['episode'] - 1} is Uploaded</span>`;
+            else
+                animeUpdatedTimeElement.innerHTML = `<i class="fa-solid fa-clock"></i>&nbsp;<span>Updated today - New Episode ${data['nextAiringEpisode']['episode'] - 1} is Uploaded</span>`;
         }
     }
 }
@@ -963,7 +966,11 @@ try{
                 let timeUntilAir = nextAiringEpisodeData['timeUntilAiring'] / 3600;
                 let daysUntilAir = Math.floor(timeUntilAir / 24);
                 let hoursUntilAir = Math.floor(timeUntilAir % 24);
-                let nextEpisodeDataNew = "Next Episode - " + nextAiringEpisodeData['episode'] + " Airing in " + daysUntilAir + " day " + hoursUntilAir + "     hours";
+                let nextEpisodeDataNew;
+                if(daysUntilAir == 0)
+                    nextEpisodeDataNew = "Next Episode - " + nextAiringEpisodeData['episode'] + " Airing in " + daysUntilAir + " day " + hoursUntilAir + " hours";
+                else
+                    nextEpisodeDataNew = "Next Episode - " + nextAiringEpisodeData['episode'] + " Airing in " + hoursUntilAir + " hours";
                 if(!tempDiv){
                     let temppDivision = document.createElement('div');
                     temppDivision.setAttribute('class', "nxt-episode-info");
