@@ -281,10 +281,10 @@ iframe{
   width: 10px;
 }
 .main-container-video-sec-2 .header .episodes-selection-div::-webkit-scrollbar-thumb{
-  background: #faa300;
+  background: rgba(0, 0, 0, 0.4);
 }
 .main-container-video-sec-2 .header .episodes-selection-div::-webkit-scrollbar-track{
-  background: #dec18c;
+  background: rgba(0, 0, 0, 0.2);
 }
 .main-container-video-sec-2 .header .episodes-selection-div:hover{
   display: block;
