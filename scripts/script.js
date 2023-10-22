@@ -723,11 +723,16 @@ function handleData(data) {
     // console.log(data);
     let newData = data['data']['Media'];
     let lastEpisode = newData['nextAiringEpisode'] ? newData['nextAiringEpisode']['episode'] - 1 : newData['episodes'];
-    let nextEpisodeData = "FINISHED";
+    let nextEpisodeData;
     let studioName;
-    let animeHref = animesHover[index].getElementsByTagName("a")[0].getAttribute("href");
-    if(animeHref[animeHref.length - 1] != "/"){
-        animeHref += "/";
+    let animeHref = animesHover[index].getElementsByTagName("a")[0].getAttribute("href")
+    try{
+        if(animeHref[animeHref.length - 1] != "/"){
+            animeHref += "/";
+        }
+    }
+    catch{
+        animeHref = null;
     }
     try{
         studioName = newData['studios']['edges'][0]['node']['name'];
@@ -740,9 +745,15 @@ function handleData(data) {
         let daysUntilAir = Math.floor(timeUntilAir / 24);
         let hoursUntilAir = Math.floor(timeUntilAir % 24);
         nextEpisodeData = "Next Episode-" + newData['nextAiringEpisode']['episode'] + " in " + daysUntilAir + "d " + hoursUntilAir + "h";
+    }else{
+        if(newData['episodes'])
+            nextEpisodeData = 'FINISHED';
+        else
+            nextEpisodeData = 'COMING SOON';
     }
+    let animeFinalLink = animeHref ? `${animeHref}Watch-Now/?ep=${lastEpisode}&aud=jap` : ''
     let btnText = lastEpisode ? `<i class="fa-solid fa-circle-play small-font"></i> Watch Now` : `Coming Soon`;
-    let anchorToAnime = btnText == `<i class="fa-solid fa-circle-play small-font"></i> Watch Now` ? `href="${animeHref}Watch-Now/?ep=${lastEpisode}&aud=jap"` : "";
+    let anchorToAnime = btnText == `<i class="fa-solid fa-circle-play small-font"></i> Watch Now` ? `href="${animeFinalLink}"` : "";
     animesHover[index].getElementsByClassName("anime-hover-data")[0].innerHTML = `
     <div class="anime-episode-data medium-font">
        <b>${nextEpisodeData}</b>
