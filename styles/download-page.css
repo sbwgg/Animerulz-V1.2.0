@@ -897,3 +897,15 @@ iframe{
 .filler-alert{
   white-space: nowrap;
 }
+.filler-episode{
+  background-color: rgb(70, 58, 48);
+}
+.filler-episode-l{
+  background-color: rgb(66, 56, 47);
+}
+.active-episode .filler-episode{
+  background-color: rgb(255,108,0);
+}
+.active-episode .filler-episode-l{
+  background-color: rgb(230, 121, 43);
+}
