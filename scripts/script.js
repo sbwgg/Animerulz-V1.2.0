@@ -879,7 +879,8 @@ try{
         console.log(e);
     }
     }
-    getDataFromAnilist3(animeId);
+    if(pageType == 'a-main')
+        getDataFromAnilist3(animeId);
 
     function setAnimeCurrentEpisodes(data){
         // console.log(data);
@@ -968,8 +969,8 @@ try{
             console.log(e);
         }
         }
-
-        getDataFromAnilist4(animeId);
+        if(pageType == 'b-sub')
+            getDataFromAnilist4(animeId);
 
         function setAnimeNextEpisodeData(data){
             let animeNextAiringEpisodeDivision;
@@ -1008,4 +1009,3 @@ try{
 catch(e){
     console.log(e);
 }
-
