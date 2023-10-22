@@ -276,3 +276,50 @@ h1, h2, h3{
         display: none;
     }
 }
+
+.ad-unit{
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+  }
+  .large-ad-unit .adsbygoogle{
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    width: 970px;
+    height: 250px;
+  }
+  @media only screen and (max-width:980px){
+    .large-ad-unit .adsbygoogle{
+      width: 750px;
+      height: 200px;
+    }
+  }
+  @media only screen and (max-width:760px){
+    .large-ad-unit .adsbygoogle{
+      width: 320px;
+      height: 100px;
+    }
+  }
+  .small-ad-unit .adsbygoogle{
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    width: 970px;
+    height: 90px;
+  }
+  @media only screen and (max-width:980px){
+    .small-ad-unit .adsbygoogle{
+      width: 728px;
+      height: 90px;
+    }
+  }
+  @media only screen and (max-width:730px){
+    .small-ad-unit .adsbygoogle{
+      width: 320px;
+      height: 100px;
+    }
+  }
+  .large-ad-unit, .small-ad-unit{
+    padding-block: 5px;
+  }

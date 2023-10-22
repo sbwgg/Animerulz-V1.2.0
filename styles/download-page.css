@@ -265,12 +265,26 @@ iframe{
   color: rgba(0, 0, 0, 1);
   width: 200px;
   text-align: center;
-  border-radius: 10px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
   position: absolute;
   margin-left: 40px;
-  /* margin-top: 10px; */
-  padding: 10px 0px;
+  padding-block: 2px;
   z-index: 10;
+  max-height: 150px;
+  overflow-y: scroll;
+}
+.main-container-video-sec-2 .header .episodes-selection-div .active{
+  background-color: rgba(255, 255, 255, 1);
+}
+.main-container-video-sec-2 .header .episodes-selection-div::-webkit-scrollbar{
+  width: 10px;
+}
+.main-container-video-sec-2 .header .episodes-selection-div::-webkit-scrollbar-thumb{
+  background: rgba(0, 0, 0, 0.4);
+}
+.main-container-video-sec-2 .header .episodes-selection-div::-webkit-scrollbar-track{
+  background: rgba(0, 0, 0, 0.2);
 }
 .main-container-video-sec-2 .header .episodes-selection-div:hover{
   display: block;
@@ -293,9 +307,11 @@ iframe{
 .main-container-video-sec-2 .header .episodes-list-sec .sec-2:hover{
   cursor: pointer;
 }
+.main-container-video-sec-2 .header .episodes-list-sec .sec-2 svg{
+  transition: all 1s;
+}
 .main-container-video-sec-2 .header .episodes-list-sec .sec-2:hover > svg{
   rotate: 180deg;
-  transition: rotate 1s;
 }
 .main-container-video-sec-2 .header,.main-container-video-sec-2 .body{
   padding-left: 10px;
@@ -809,14 +825,6 @@ iframe{
 .active-episode .episode-alternate-2{
   background-color: #faa300;
 }
-.short-anime-ep:hover > .episode-alternate-1{
-  background-color: #faa300;
-  opacity: 0.7;
-}
-.short-anime-ep:hover > .episode-alternate-2{
-  background-color: #faa300;
-  opacity: 0.7;
-}
 .main-container-video-sec-2 .body  .active-episode{
   opacity: 1;
   color: rgba(0, 0, 0, 0.9);
@@ -893,4 +901,45 @@ iframe{
   .anime-rec-div h2{
     font-size: 13px;
   }
+}
+.filler-alert{
+  white-space: nowrap;
+}
+.main-container-video-sec-2 .body .episode.filler-episode{
+  background-color: rgb(70, 58, 48);
+}
+.main-container-video-sec-2 .body .active.filler-episode{
+  background-color: rgb(255,108,0);
+}
+.filler-episode, .filler-episode .episode-alternate-1, .filler-episode .episode-alternate-2{
+  background-color: rgb(70, 58, 48);
+}
+.active-episode.filler-episode .episode-alternate-1, .active-episode.filler-episode .episode-alternate-2{
+  background-color: rgb(255,108,0);
+}
+.short-anime-ep:hover .episode-alternate-1{
+  background-color: #faa300;
+  opacity: 0.7;
+}
+.short-anime-ep:hover .episode-alternate-2{
+  background-color: #faa300;
+  opacity: 0.7;
+}
+.short-anime-ep.filler-episode:hover .episode-alternate-1{
+  background-color: rgb(255,108,0);
+  opacity: 0.7;
+}
+.short-anime-ep.filler-episode:hover .episode-alternate-2{
+  background-color: rgb(255,108,0);
+  opacity: 0.7;
+}
+
+.comments-new-a{
+  margin-inline: auto;
+  width: 100vw;
+  max-width: 1500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.5);
 }

@@ -1,5 +1,6 @@
 setTimeout(preloaderDisplayNone, 1000);
 window.addEventListener("load", function(){
+    setMoreMenu();
     preloaderDisplayNone();
     setAnimesInTrendingHover();
 });
@@ -11,6 +12,254 @@ window.addEventListener("load", function(){
         }
         catch{}
     }
+function setMoreMenu(){
+    document.getElementsByClassName("more-menu")[0].innerHTML = `
+    
+   <div class="close-this-a large-txt" onclick="hide_menu()">
+   <div class="close-a-b-c">
+    <i class="fa-solid fa-xmark">
+    </i>
+   </div>
+  </div>
+  <div class="main-container-in-menu">
+   <div class="main-header-new-a">
+    <div class="data-div-a-b-c">
+     <div class="anime-main-txt-a-a large-txt">
+      <span>
+       Animerulz
+      </span>
+     </div>
+     <div class="version-txt-a-a">
+      <span>
+       Version 1.2.0
+      </span>
+     </div>
+    </div>
+   </div>
+   <div class="more-data-for-menu">
+    <div class="more-data-in-menu">
+     <div class="data-in-menu first-data-in-menu">
+      <a class="anchor-in-menu" href="https://animerulz.in/home">
+       <span>
+        HOME
+       </span>
+      </a>
+     </div>
+     <div class="data-in-menu">
+      <a class="anchor-in-menu" href="https://animerulz.in/watchlist">
+       <span>
+        My Watch List
+       </span>
+       <svg class="svg-icon-on-menu" fill="rgba(255,255,255,0.8)" id="left-arrow" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+        <path d="m8.5 12.8 5.7 5.6c.4.4 1 .4 1.4 0 .4-.4.4-1 0-1.4l-4.9-5 4.9-5c.4-.4.4-1 0-1.4-.2-.2-.4-.3-.7-.3-.3 0-.5.1-.7.3l-5.7 5.6c-.4.5-.4 1.1 0 1.6 0-.1 0-.1 0 0z">
+        </path>
+       </svg>
+      </a>
+     </div>
+     <div class="data-in-menu">
+      <a class="anchor-in-menu" href="https://animerulz.in/subbedanime">
+       <span>
+        SUBBED
+       </span>
+       <svg class="svg-icon-on-menu" fill="rgba(255,255,255,0.8)" id="left-arrow" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+        <path d="m8.5 12.8 5.7 5.6c.4.4 1 .4 1.4 0 .4-.4.4-1 0-1.4l-4.9-5 4.9-5c.4-.4.4-1 0-1.4-.2-.2-.4-.3-.7-.3-.3 0-.5.1-.7.3l-5.7 5.6c-.4.5-.4 1.1 0 1.6 0-.1 0-.1 0 0z">
+        </path>
+       </svg>
+      </a>
+     </div>
+     <div class="data-in-menu">
+      <a class="anchor-in-menu" href="https://animerulz.in/dubbedanime">
+       <span>
+        DUBBED
+       </span>
+       <svg class="svg-icon-on-menu" fill="rgba(255,255,255,0.8)" id="left-arrow" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+        <path d="m8.5 12.8 5.7 5.6c.4.4 1 .4 1.4 0 .4-.4.4-1 0-1.4l-4.9-5 4.9-5c.4-.4.4-1 0-1.4-.2-.2-.4-.3-.7-.3-.3 0-.5.1-.7.3l-5.7 5.6c-.4.5-.4 1.1 0 1.6 0-.1 0-.1 0 0z">
+        </path>
+       </svg>
+      </a>
+     </div>
+     <div class="data-in-menu">
+      <a class="anchor-in-menu" href="https://animerulz.in/hindiddubbed">
+       <span>
+        HINDI DUBBED
+       </span>
+       <svg class="svg-icon-on-menu" fill="rgba(255,255,255,0.8)" id="left-arrow" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+        <path d="m8.5 12.8 5.7 5.6c.4.4 1 .4 1.4 0 .4-.4.4-1 0-1.4l-4.9-5 4.9-5c.4-.4.4-1 0-1.4-.2-.2-.4-.3-.7-.3-.3 0-.5.1-.7.3l-5.7 5.6c-.4.5-.4 1.1 0 1.6 0-.1 0-.1 0 0z">
+        </path>
+       </svg>
+      </a>
+     </div>
+     <div class="data-in-menu">
+      <a class="anchor-in-menu" href="https://animerulz.in/telugudubbed">
+       <span>
+        TELUGU DUBBED
+       </span>
+       <svg class="svg-icon-on-menu" fill="rgba(255,255,255,0.8)" id="left-arrow" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+        <path d="m8.5 12.8 5.7 5.6c.4.4 1 .4 1.4 0 .4-.4.4-1 0-1.4l-4.9-5 4.9-5c.4-.4.4-1 0-1.4-.2-.2-.4-.3-.7-.3-.3 0-.5.1-.7.3l-5.7 5.6c-.4.5-.4 1.1 0 1.6 0-.1 0-.1 0 0z">
+        </path>
+       </svg>
+      </a>
+     </div>
+     <div class="data-in-menu">
+      <a class="anchor-in-menu" href="https://animerulz.in/tamildubbed">
+       <span>
+        TAMIL DUBBED
+       </span>
+       <svg class="svg-icon-on-menu" fill="rgba(255,255,255,0.8)" id="left-arrow" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+        <path d="m8.5 12.8 5.7 5.6c.4.4 1 .4 1.4 0 .4-.4.4-1 0-1.4l-4.9-5 4.9-5c.4-.4.4-1 0-1.4-.2-.2-.4-.3-.7-.3-.3 0-.5.1-.7.3l-5.7 5.6c-.4.5-.4 1.1 0 1.6 0-.1 0-.1 0 0z">
+        </path>
+       </svg>
+      </a>
+     </div>
+     <div class="data-in-menu">
+      <a class="anchor-in-menu" href="https://animerulz.in/malayalamdubbed">
+       <span>
+        MALAYALAM DUBBED
+       </span>
+       <svg class="svg-icon-on-menu" fill="rgba(255,255,255,0.8)" id="left-arrow" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+        <path d="m8.5 12.8 5.7 5.6c.4.4 1 .4 1.4 0 .4-.4.4-1 0-1.4l-4.9-5 4.9-5c.4-.4.4-1 0-1.4-.2-.2-.4-.3-.7-.3-.3 0-.5.1-.7.3l-5.7 5.6c-.4.5-.4 1.1 0 1.6 0-.1 0-.1 0 0z">
+        </path>
+       </svg>
+      </a>
+     </div>
+     <div class="data-in-menu">
+      <a class="anchor-in-menu" href="https://animerulz.in/bangalidubbed">
+       <span>
+        BENGALI DUBBED
+       </span>
+       <svg class="svg-icon-on-menu" fill="rgba(255,255,255,0.8)" id="left-arrow" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+        <path d="m8.5 12.8 5.7 5.6c.4.4 1 .4 1.4 0 .4-.4.4-1 0-1.4l-4.9-5 4.9-5c.4-.4.4-1 0-1.4-.2-.2-.4-.3-.7-.3-.3 0-.5.1-.7.3l-5.7 5.6c-.4.5-.4 1.1 0 1.6 0-.1 0-.1 0 0z">
+        </path>
+       </svg>
+      </a>
+     </div>
+     <div class="more-in-data-in-menu">
+      <div class="data-in-menu-2 first-item">
+       <a class="anchor-in-menu" href="https://animerulz.in/trendinganime">
+        <!-- <i class="fa-solid fa-fire" style="color: #d23232;"></i> -->
+        <i class="fa-solid fa-fire fa-beat fa-sm" style="color: #c03535;">
+        </i>
+        <span>
+         Trending Anime
+        </span>
+       </a>
+      </div>
+      <div class="data-in-menu-2 second-item">
+       <a class="anchor-in-menu" href="https://animerulz.in/topairing">
+        <!-- <i class="fa-solid fa-arrow-trend-up" style="color: #209720;"></i> -->
+        <!-- <i class="fa-regular fa-arrow-trend-up fa-beat fa-sm" style="color: #1f9720;"></i> -->
+        <i class="fa-solid fa-arrow-trend-up fa-beat fa-sm" style="color: #1f9720;">
+        </i>
+        <span>
+         Top Airing
+        </span>
+       </a>
+      </div>
+      <div class="data-in-menu-2 third-item">
+       <a class="anchor-in-menu" href="https://animerulz.in/bestratedanime">
+        <!-- <i class="fa-thin fa-user" style="color: #1c347d;"></i> -->
+        <i class="fa-solid fa-star fa-beat fa-sm" style="color: #C3AC7B;">
+        </i>
+        <span>
+         Best Rated Anime
+        </span>
+       </a>
+      </div>
+      <div class="data-in-menu-2 fourth-item">
+       <a class="anchor-in-menu" href="https://animerulz.in/mostviewedanime">
+        <!-- <i class="fa-light fa-eye fa-beat fa-sm"></i> -->
+        <i class="fa-solid fa-eye fa-beat fa-sm">
+        </i>
+        <span>
+         Most Viewed Anime
+        </span>
+       </a>
+      </div>
+      <div class="data-in-menu-2 fifth-item">
+       <a class="anchor-in-menu" href="https://animerulz.in/bestmovies">
+        <i class="fa-sharp fa-solid fa-video fa-sm fa-beat">
+        </i>
+        <span>
+         Best Movies
+        </span>
+       </a>
+      </div>
+     </div>
+     <div class="genres_div_">
+      <div class="genres_header_div">
+       <span class="more-anime-txt-genres">
+        <b>
+         Genres
+        </b>
+       </span>
+      </div>
+      <div class="container-genres_div">
+       <div class="genres-div-data-container">
+        <a class="genres_anchor_" href="https://animerulz.in/genres/action">
+         Action
+        </a>
+        <a class="genres_anchor_" href="https://animerulz.in/genres/drama">
+         Drama
+        </a>
+        <a class="genres_anchor_" href="https://animerulz.in/genres/psychological">
+         Psychological
+        </a>
+        <a class="genres_anchor_" href="https://animerulz.in/genres/romance">
+         Romance
+        </a>
+        <a class="genres_anchor_" href="https://animerulz.in/genres/comedy">
+         Comedy
+        </a>
+        <a class="genres_anchor_" href="https://animerulz.in/genres/sliceoflife">
+         Slice of Life
+        </a>
+        <a class="genres_anchor_" href="https://animerulz.in/genres/scifi">
+         Sci-Fi
+        </a>
+        <a class="genres_anchor_" href="https://animerulz.in/genres/supernatural">
+         Supernatural
+        </a>
+        <a class="genres_anchor_" href="https://animerulz.in/genres/ecchi">
+         Ecchi
+        </a>
+        <a class="genres_anchor_" href="https://animerulz.in/genres/mystery">
+         Mystery
+        </a>
+        <a class="genres_anchor_" href="https://animerulz.in/genres/sports">
+         Sports
+        </a>
+        <a class="genres_anchor_" href="https://animerulz.in/genres/music">
+         Music
+        </a>
+        <a class="genres_anchor_" href="https://animerulz.in/genres/mecha">
+         Mecha
+        </a>
+        <a class="genres_anchor_" href="https://animerulz.in/genres/adventure">
+         Adventure
+        </a>
+        <a class="genres_anchor_" href="https://animerulz.in/genres/thriller">
+         Thriller
+        </a>
+        <a class="genres_anchor_" href="https://animerulz.in/genres/horror">
+         Horror
+        </a>
+        <a class="genres_anchor_" href="https://animerulz.in/genres/fantasy">
+         Fantasy
+        </a>
+        <a class="genres_anchor_" href="https://animerulz.in/genres/mahoushoujo">
+         Mahou Shoujo
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="close-me-div" onclick="hide_menu()">
+  </div>
+ `
+}
+
 
 //for  clearing continue watching data
 if(localStorage.clearContinueWatching1 == undefined){
@@ -256,15 +505,18 @@ function disableScroll(){
     document.getElementsByTagName("body")[0].style.position = "initial"; 
  }
 
+ const menuData = document.getElementsByClassName("main-container-in-menu")[0];
+ const menu = document.getElementsByClassName("more-menu")[0];
+
  function show_menu(){
-    let menu = document.getElementsByClassName("more-menu")[0];
-    menu.style.marginLeft = "0";
-    // disableScroll();
+    menuData.setAttribute("style", "animation: slideIn 0.4s ease-in-out both;");
+    menu.style.display = "flex";
  }
  function hide_menu(){
-    let menu = document.getElementsByClassName("more-menu")[0];
-    menu.style.marginLeft = "-100vw";
-    // enableScroll();
+    menuData.setAttribute("style", "animation: slideOut 0.4s ease-in-out both;");
+    setTimeout(() => {
+        menu.style.display = "none";
+    }, 300)
  }
 
 
@@ -471,11 +723,16 @@ function handleData(data) {
     // console.log(data);
     let newData = data['data']['Media'];
     let lastEpisode = newData['nextAiringEpisode'] ? newData['nextAiringEpisode']['episode'] - 1 : newData['episodes'];
-    let nextEpisodeData = "FINISHED";
+    let nextEpisodeData;
     let studioName;
-    let animeHref = animesHover[index].getElementsByTagName("a")[0].getAttribute("href");
-    if(animeHref[animeHref.length - 1] != "/"){
-        animeHref += "/";
+    let animeHref = animesHover[index].getElementsByTagName("a")[0].getAttribute("href")
+    try{
+        if(animeHref[animeHref.length - 1] != "/"){
+            animeHref += "/";
+        }
+    }
+    catch{
+        animeHref = null;
     }
     try{
         studioName = newData['studios']['edges'][0]['node']['name'];
@@ -487,10 +744,16 @@ function handleData(data) {
         let timeUntilAir = newData['nextAiringEpisode']['timeUntilAiring'] / 3600;
         let daysUntilAir = Math.floor(timeUntilAir / 24);
         let hoursUntilAir = Math.floor(timeUntilAir % 24);
-        nextEpisodeData = "next Episode-" + newData['nextAiringEpisode']['episode'] + " in " + daysUntilAir + "d " + hoursUntilAir + "h";
+        nextEpisodeData = "Next Episode-" + newData['nextAiringEpisode']['episode'] + " in " + daysUntilAir + "d " + hoursUntilAir + "h";
+    }else{
+        if(newData['episodes'])
+            nextEpisodeData = 'FINISHED';
+        else
+            nextEpisodeData = 'COMING SOON';
     }
+    let animeFinalLink = animeHref ? `${animeHref}Watch-Now/?ep=${lastEpisode}&aud=jap` : ''
     let btnText = lastEpisode ? `<i class="fa-solid fa-circle-play small-font"></i> Watch Now` : `Coming Soon`;
-    let anchorToAnime = btnText == `<i class="fa-solid fa-circle-play small-font"></i> Watch Now` ? `href="${animeHref}Watch-Now/?ep=${lastEpisode}&aud=jap"` : "";
+    let anchorToAnime = btnText == `<i class="fa-solid fa-circle-play small-font"></i> Watch Now` ? `href="${animeFinalLink}"` : "";
     animesHover[index].getElementsByClassName("anime-hover-data")[0].innerHTML = `
     <div class="anime-episode-data medium-font">
        <b>${nextEpisodeData}</b>
@@ -533,4 +796,210 @@ function handleData(data) {
 function handleError(e){
     console.log(e);
 }
+}
+
+
+
+
+
+//for setting anime episodes 
+try{
+    if(document.getElementsByClassName('time-index')[0]){
+        let animeId = document.getElementsByTagName("html")[0].getAttribute('id');
+    async function getDataFromAnilist3(animeKey){
+        let query = `
+        query ($id: Int) { # Define which variables will be used in the query (id)
+            Media (id: $id, type: ANIME) { # Insert our variables into the query arguments (id) (type: ANIME is hard-coded in the query)
+              id
+              episodes
+                  studios {
+                    edges {
+                  node
+                  {
+                    name
+                  }
+                    }
+                  }
+                  nextAiringEpisode {
+                    timeUntilAiring
+                    episode
+                  }
+                  endDate{
+                    year
+                    month
+                    day
+                  }
+            }
+          }
+          
+          `
+        
+    // Define our query variables and values that will be used in the query request
+    var variables = {
+        searchKey: animeKey,
+        id: animeKey,
+        type: 'ANIME'
+    };
+    
+    // Define the config we'll need for our Api request
+    var url = 'https://graphql.anilist.co',
+        options = {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+                'Accept': 'application/json',
+            },
+            body: JSON.stringify({
+                query: query,
+                variables: variables
+            })
+        };
+    
+    // Make the HTTP Api request
+    fetch(url, options).then(handleResponse)
+                       .then(handleData)
+                       .catch(handleError);
+    
+    function handleResponse(response) {
+        return response.json().then(function (json) {
+            return response.ok ? json : Promise.reject(json);
+        });
+    }
+    
+    function handleData(data) {
+        // console.log(data);
+        setAnimeCurrentEpisodes(data['data']['Media']);
+        setUpdatedTime(data['data']['Media']);
+    }
+    function handleError(e){
+        console.log(e);
+    }
+    }
+    getDataFromAnilist3(animeId);
+
+    function setAnimeCurrentEpisodes(data){
+        let animeSubEpisodes = document.querySelector(".list-ele-b-h.subbed-anime-txt__").getElementsByTagName("span")[0];
+        let currentSubEpisodes;
+        if(data['episodes']){
+            currentSubEpisodes = data['episodes'];
+        }else{
+            currentSubEpisodes = data['nextAiringEpisode']['episode'];
+        }
+        animeSubEpisodes.innerText = currentSubEpisodes - 1;
+    }
+    function setUpdatedTime(data){
+        let animeUpdatedTimeElement = document.querySelector(".time-index");
+        if(data['endDate']['year']){
+            animeUpdatedTimeElement.innerHTML = `<i class="fa-solid fa-clock"></i>&nbsp;<span>Updated on ${data['endDate']['year']}/${data['endDate']['month']}</span>`; 
+        }else{
+            // animeUpdatedTimeElement.innerText
+            let timeUntilAir = data['nextAiringEpisode']['timeUntilAiring'] / 3600;
+            let daysUntilAir = Math.floor(timeUntilAir / 24);
+            let tempoo = 6 - daysUntilAir;
+            if(tempoo != 0)
+                animeUpdatedTimeElement.innerHTML = `<i class="fa-solid fa-clock"></i>&nbsp;<span>Updated ${tempoo} days ago - New Episode ${data['nextAiringEpisode']['episode'] - 1} is Uploaded</span>`;
+            else
+                animeUpdatedTimeElement.innerHTML = `<i class="fa-solid fa-clock"></i>&nbsp;<span>Updated today - New Episode ${data['nextAiringEpisode']['episode'] - 1} is Uploaded</span>`;
+        }
+    }
+}
+    
+}catch{}
+
+try{
+    if(!document.getElementsByClassName("time-index")[0]){
+        let animeId = document.getElementsByTagName("html")[0].getAttribute('id');
+        async function getDataFromAnilist4(animeKey){
+            let query = `
+            query ($id: Int) { # Define which variables will be used in the query (id)
+                Media (id: $id, type: ANIME) { # Insert our variables into the query arguments (id) (type: ANIME is hard-coded in the query)
+                  id
+                      nextAiringEpisode {
+                        timeUntilAiring
+                        episode
+                      }
+                }
+              }
+              
+              `
+            
+        // Define our query variables and values that will be used in the query request
+        var variables = {
+            searchKey: animeKey,
+            id: animeKey,
+            type: 'ANIME'
+        };
+        
+        // Define the config we'll need for our Api request
+        var url = 'https://graphql.anilist.co',
+            options = {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Accept': 'application/json',
+                },
+                body: JSON.stringify({
+                    query: query,
+                    variables: variables
+                })
+            };
+        
+        // Make the HTTP Api request
+        fetch(url, options).then(handleResponse)
+                           .then(handleData)
+                           .catch(handleError);
+        
+        function handleResponse(response) {
+            return response.json().then(function (json) {
+                return response.ok ? json : Promise.reject(json);
+            });
+        }
+        
+        function handleData(data) {
+            // console.log(data);
+            setAnimeNextEpisodeData(data['data']['Media']);
+        }
+        function handleError(e){
+            console.log(e);
+        }
+        }
+
+        getDataFromAnilist4(animeId);
+
+        function setAnimeNextEpisodeData(data){
+            let animeNextAiringEpisodeDivision;
+            let tempDiv = document.getElementsByClassName("nxt-episode-info")[0];
+            if(tempDiv){
+                animeNextAiringEpisodeDivision = tempDiv;
+            }
+            let nextAiringEpisodeData = data['nextAiringEpisode'];
+            if(nextAiringEpisodeData){
+                let timeUntilAir = nextAiringEpisodeData['timeUntilAiring'] / 3600;
+                let daysUntilAir = Math.floor(timeUntilAir / 24);
+                let hoursUntilAir = Math.floor(timeUntilAir % 24);
+                let nextEpisodeDataNew;
+                if(daysUntilAir != 0){
+                    if(daysUntilAir == 1)
+                        nextEpisodeDataNew = "Next Episode - " + nextAiringEpisodeData['episode'] + " Airing in " + daysUntilAir + " day " + hoursUntilAir + " hours";
+                    else
+                        nextEpisodeDataNew = "Next Episode - " + nextAiringEpisodeData['episode'] + " Airing in " + daysUntilAir + " days " + hoursUntilAir + " hours";
+                }else
+                    nextEpisodeDataNew = "Next Episode - " + nextAiringEpisodeData['episode'] + " Airing in " + hoursUntilAir + " hours";
+                if(!tempDiv){
+                    let temppDivision = document.createElement('div');
+                    temppDivision.setAttribute('class', "nxt-episode-info");
+                    document.getElementsByClassName("main-container-video-sec-1")[0].appendChild(temppDivision);
+                    animeNextAiringEpisodeDivision = temppDivision;
+                }
+                animeNextAiringEpisodeDivision.innerHTML = `<i class="fa-regular fa-face-grin-stars fa-bounce"></i>&nbsp; <span id="nxt-episode-txt">
+                    ${nextEpisodeDataNew} 
+                </span>`
+            }else{
+                animeNextAiringEpisodeDivision.style.display = 'none';
+            }
+        }
+    }
+}
+catch(e){
+    console.log(e);
 }
