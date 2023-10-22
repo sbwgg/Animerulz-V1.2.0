@@ -978,9 +978,12 @@ try{
                 let daysUntilAir = Math.floor(timeUntilAir / 24);
                 let hoursUntilAir = Math.floor(timeUntilAir % 24);
                 let nextEpisodeDataNew;
-                if(daysUntilAir == 0)
-                    nextEpisodeDataNew = "Next Episode - " + nextAiringEpisodeData['episode'] + " Airing in " + daysUntilAir + " day " + hoursUntilAir + " hours";
-                else
+                if(daysUntilAir != 0){
+                    if(daysUntilAir == 1)
+                        nextEpisodeDataNew = "Next Episode - " + nextAiringEpisodeData['episode'] + " Airing in " + daysUntilAir + " day " + hoursUntilAir + " hours";
+                    else
+                        nextEpisodeDataNew = "Next Episode - " + nextAiringEpisodeData['episode'] + " Airing in " + daysUntilAir + " days " + hoursUntilAir + " hours";
+                }else
                     nextEpisodeDataNew = "Next Episode - " + nextAiringEpisodeData['episode'] + " Airing in " + hoursUntilAir + " hours";
                 if(!tempDiv){
                     let temppDivision = document.createElement('div');
