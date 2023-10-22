@@ -307,9 +307,11 @@ iframe{
 .main-container-video-sec-2 .header .episodes-list-sec .sec-2:hover{
   cursor: pointer;
 }
+.main-container-video-sec-2 .header .episodes-list-sec .sec-2 svg{
+  transition: all 1s;
+}
 .main-container-video-sec-2 .header .episodes-list-sec .sec-2:hover > svg{
   rotate: 180deg;
-  transition: rotate 1s;
 }
 .main-container-video-sec-2 .header,.main-container-video-sec-2 .body{
   padding-left: 10px;
