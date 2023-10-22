@@ -1,104 +1,5 @@
 const animeNameee = document.getElementById("a-active-page-tag").textContent.toLowerCase().replace(/[^a-zA-Z0-9 ]/g, "").trim();
 
-const longAnimes = ['one piece',
-'naruto',
-'naruto shippuden',
-'bleach',
-'black clover',
-'boruto : naruto next generation',
-'hunter x hunter',
-'dragon ball z',
-'dragon ball super',
-'dragon ball',
-'dragon ball z kai',
-'dragon ball gt'];
-
-const shortAnimes = ['demon slayer kimetsu no yaiba',
-'demon slayer mugen train arc',
-'demon slayer mt.natagumo arc',
-'demon slayer hashira meeting arc',
-'demon slayer siblings bond',
-'demon slayer entertainment district arc',
-'demon slayer swordsmith village arc',
-'fullmetal alchemist : brotherhood',
-'death note',
-'hells paradise',
-'attack on titan',
-'attack on titan season 2',
-'attack on titan season 3 part 1',
-'attack on titan season 3 part 2',
-'attack on titan final season part 1',
-'attack on titan final season part 2',
-'attack on titan final season part 3',
-'my hero academia',
-'my hero academia 2',
-'my hero academia season 3',
-'my hero academia season 4',
-'my hero academia season 5',
-'my hero academia season 6',
-'mashle',
-'my star',
-'blue lock',
-'chainsaw man',
-'dr stone',
-'dr stone : stone wars',
-'dr stone : ryuusui',
-'dr stone : new world',
-'tokyo revengers',
-'tokyo revengers : christmas showdown',
-'vinland saga',
-'vinland saga : season 2',
-'steins;gate',
-'jujutsu kaisen',
-'jujutsu kaisen 0 movie',
-'jujutsu kaisen season 2',
-'one punch man',
-'one punch man season 2',
-'cowboy bebop',
-'berserk',
-'berserk season 2',
-'one piece film red',
-'one punch man specials',
-'one punch man season 2 specials',
-'bleach : thousand year blood war arc',
-'bleach : tybw season 2',
-'bleach : the sealed sword frenzy',
-'bleach the movie : hell verse',
-'bleach the movie : memories of nobody',
-'bleach the movie : the diamonddust rebellion',
-'bleach the movie : fade to black',
-'dr. stone: stone wars eve of the battle special feature',
-'one piece film gold',
-'one piece movie 1',
-'one piece episode skypiea',
-'one piece film stampede',
-'one piece 3d stravat chase',
-'naruto movie 1 : ninja clash in the land of snow',
-'naruto : shippuden movie 6 : road to ninja',
-'naruto : shippuden movie 4 : the lost tower',
-'naruto movie : the last',
-'dragon ball super : super hero',
-'dragon ball super : broly',
-'my hero academia heroes rising',
-'dr stone : stone wars eve of the battle special feature',
-'black clover sword of the wizard king',
-'zom 100',
-'fire force',
-'fire force season 2',
-'my dress up darling',
-'ranking of kings',
-'tokyo 24th ward',
-'summer time',
-'radiant',
-'radiant season 2',
-'darling in the franxx',
-'the ancient magus bride',
-'the ancient magus bride season 2',
-'ao ashi',
-'black rock shooter dawn fall',
-'toilet bound hanako kun',
-'miss kuroitsu from the monster development department',
-"akebi's sailor uniform"];
 
 const newAnimesName = {
     "ben10classic": 13,
@@ -400,19 +301,27 @@ const newAnimesName = {
 const selfLongAnimes = [
     'fairy tail',
     'fairy tail series 2',
-    "boruto naruto next generations"
+    "boruto naruto next generations",
+    'one piece',
+    'naruto',
+    'naruto shippuden',
+    'bleach',
+    'black clover',
+    'boruto : naruto next generation',
+    'hunter x hunter',
+    'dragon ball z',
+    'dragon ball super',
+    'dragon ball',
+    'dragon ball z kai',
+    'dragon ball gt',
+    'gintama'
 ]
 
-if(longAnimes.includes(animeNameee)){
-    callLongAnimeDirect();
-}else if(shortAnimes.includes(animeNameee)){
-    callShortAnimeDirect();
-}else{
-    if(selfLongAnimes.includes(animeNameee))
-        callLongAnimeInDirect();
-    else
-        callShortAnimeInDirect();
-}
+if(selfLongAnimes.includes(animeNameee))
+    callLongAnimeInDirect();
+else callShortAnimeInDirect();
+
+
 
 function callLongAnimeDirect(){
     let request = new XMLHttpRequest();
@@ -450,6 +359,7 @@ function callShortAnimeDirect(){
     }
 }
 function callShortAnimeInDirect(){
+    console.log(("In"));
     let request = new XMLHttpRequest();
     request.open("get", "details.json", true);
     request.send();
@@ -495,19 +405,19 @@ let anime = document.getElementById("a-active-page-tag");
         let current_long_anime_epi_num;
         let current_short_anime_data = long_anime_data;
             if(current_short_anime_data['jap'] != undefined)
-                current_long_anime_epi_num = current_short_anime_data['jap']['no_epi'];
+                current_long_anime_epi_num = Number(current_short_anime_data['jap']['no_epi']);
             else if(current_short_anime_data['eng'] != undefined)
-                current_long_anime_epi_num = current_short_anime_data['eng']['no_epi'];
+                current_long_anime_epi_num = Number(current_short_anime_data['eng']['no_epi']);
             else if(current_short_anime_data['hin'] != undefined)
-                current_long_anime_epi_num = current_short_anime_data['hin']['no_epi'];
+                current_long_anime_epi_num = Number(current_short_anime_data['hin']['no_epi']);
             else if(current_short_anime_data['tel'] != undefined)
-                current_long_anime_epi_num = current_short_anime_data['tel']['no_epi'];
+                current_long_anime_epi_num = Number(current_short_anime_data['tel']['no_epi']);
             else if(current_short_anime_data['tam'] != undefined)
-                current_long_anime_epi_num = current_short_anime_data['tam']['no_epi'];
+                current_long_anime_epi_num = Number(current_short_anime_data['tam']['no_epi']);
             else if(current_short_anime_data['mal'] != undefined)
-                current_long_anime_epi_num = current_short_anime_data['mal']['no_epi'];
+                current_long_anime_epi_num = Number(current_short_anime_data['mal']['no_epi']);
             else if(current_short_anime_data['ben'] != undefined)
-                current_long_anime_epi_num = current_short_anime_data['ben']['no_epi'];
+                current_long_anime_epi_num = Number(current_short_anime_data['ben']['no_epi']);
 
         var episodes_numbers = document.getElementById("episodes-numbers");
         let temp = "";
@@ -524,12 +434,19 @@ let anime = document.getElementById("a-active-page-tag");
         min_range ++;
         episodes_numbers.innerHTML = " " + min_range + "-" + max_range;
         anime = anime.textContent.replace(/[^a-zA-Z0-9]/g, "");
+
+        //to set filler episodes
         for(let i = min_range; i <= max_range; i++){
+            let fillerFlag = "";
+            if(current_short_anime_data['fillers'].includes(i))
+                fillerFlag = 'filler-episode';
             if(i == epi_num){
-                temp = "<div class='episode active' id='" + anime + "-episode-" + i + "'>" + i + "</div>";
+                temp = `<div class='episode active ${fillerFlag}' title="${current_short_anime_data['episodes_names'][i - 1]}" id='` + anime + "-episode-" + i + "'>" + i + "</div>";
+                if(fillerFlag === 'filler-episode')
+                    document.querySelector("span.filler-alert").innerHTML = '( <i class="fa-solid fa-skull-crossbones fa-fade"></i> filler episode)'
             }else{ 
                 var temp_1 = 'window.open("https://animerulz.in/' + anime.toLowerCase() + "/Watch-Now/?ep=" + i + '&aud=' + epi_aud + '", "_self")';
-                temp = "<div class='episode' id='" + anime + "-episode-" + i + "' onclick='" + temp_1 + "'>" + i +"</div>" ;
+                temp = `<div class='episode ${fillerFlag}' title="${current_short_anime_data['episodes_names'][i - 1]}" id='` + anime + "-episode-" + i + "' onclick='" + temp_1 + "'>" + i +"</div>" ;
                 // temp = "<div class='episode' id='episode-" + i + "'>" + i +"</div>" ;
             }
             outputNew += temp;
@@ -599,52 +516,53 @@ let anime = document.getElementById("a-active-page-tag");
         }
         catch{}
         try{
-            if(epi_num <= current_short_anime_data['jap']['no_epi'])
+            if(epi_num <= Number(current_short_anime_data['jap']['no_epi']))
                 outputNew += "<div class='audio' name='jap'>Japanese</div>";
     }
     catch{
         try{
-            if(epi_num <= current_short_anime_data['jap2']['no_epi'])
+            if(epi_num <= Number(current_short_anime_data['jap2']['no_epi']))
                 outputNew += "<div class='audio' name='jap'>Japanese</div>";
         }
         catch{}
     }
             try{
-                if(epi_num <= current_short_anime_data['eng']['no_epi'])
+                if(epi_num <= Number(current_short_anime_data['eng']['no_epi']))
                     outputNew += "<div class='audio' name='eng'>English</div>";
         }
         catch{
             try{
-                if(epi_num <= current_short_anime_data['eng2']['no_epi'])
+                if(epi_num <= Number(current_short_anime_data['eng2']['no_epi']))
                     outputNew += "<div class='audio' name='eng'>English</div>"
             }
             catch{}
         }
             try{
-                if( epi_num <= Number(current_short_anime_data['hin']['no_epi']))
+                if( epi_num <= (Number(current_short_anime_data['hin']['no_epi'])))
                     outputNew += "<div class='audio' name='hin'>Hindi</div>";
             }
             catch{}
             try{
-                if( epi_num <= Number(current_short_anime_data['tel']['no_epi']))
+                if( epi_num <= (Number(current_short_anime_data['tel']['no_epi'])))
                 outputNew += "<div class='audio' name='tel'>Telugu</div>";
             }
             catch{}
             try{
-                if( epi_num <= Number(current_short_anime_data['tam']['no_epi']))
+                if( epi_num <= (Number(current_short_anime_data['tam']['no_epi'])))
                     outputNew += "<div class='audio' name='tam'>Tamil</div>";
             }
             catch{}
             try{
-                if( epi_num <= Number(current_short_anime_data['mal']['no_epi']))
+                if( epi_num <= (Number(current_short_anime_data['mal']['no_epi'])))
                     outputNew += "<div class='audio' name='mal'>Malayalam</div>";
             }
             catch{}
             try{
-                if( epi_num <= Number(current_short_anime_data['ben']['no_epi']))
+                if( epi_num <= (Number(current_short_anime_data['ben']['no_epi'])))
                     outputNew += "<div class='audio' name='ben'>Bengali</div>";
             }
             catch{};
+            console.log(outputNew);
             audios_div.innerHTML = outputNew;
             // setMultiAudioDes();
         try{
@@ -721,14 +639,14 @@ let anime = document.getElementById("a-active-page-tag");
             }else{
                 let current_short_anime_data_video_link = current_short_anime_data['jap2']['link'];
             let newEpiNum1;
-            if (current_short_anime_data['jap2']['no_epi'] > 100 || current_short_anime_data['jap2']['no_epi'] == 1) {
+            if (Number(current_short_anime_data['jap2']['no_epi']) > 100 || Number(current_short_anime_data['jap2']['no_epi']) == 1) {
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 =  '00' + epi_num;
                 else if(epi_num >= 10 && epi_num <= 99)
                     newEpiNum1 = '0' + epi_num
                 else
                     newEpiNum1 = epi_num
-            }else if(current_short_anime_data['jap2']['no_epi'] > 9){
+            }else if(Number(current_short_anime_data['jap2']['no_epi']) > 9){
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 = '0' + epi_num;
                 else
@@ -754,14 +672,14 @@ let anime = document.getElementById("a-active-page-tag");
             }else{
                 let current_short_anime_data_video_link = current_short_anime_data['eng2']['link'];
             let newEpiNum1;
-            if (current_short_anime_data['eng2']['no_epi'] > 100 || current_short_anime_data['eng2']['no_epi'] == 1) {
+            if (Number(current_short_anime_data['eng2']['no_epi']) > 100 || Number(current_short_anime_data['eng2']['no_epi']) == 1) {
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 =  '00' + epi_num;
                 else if(epi_num >= 10 && epi_num <= 99)
                     newEpiNum1 = '0' + epi_num
                 else
                     newEpiNum1 = epi_num
-            }else if(current_short_anime_data['eng2']['no_epi'] > 9){
+            }else if(Number(current_short_anime_data['eng2']['no_epi']) > 9){
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 = '0' + epi_num;
                 else
@@ -783,14 +701,14 @@ let anime = document.getElementById("a-active-page-tag");
         else if(epi_aud == 'tel'){
             let current_short_anime_data_video_link = current_short_anime_data['tel']['link'];
             let newEpiNum1;
-            if (current_short_anime_data['tel']['no_epi'] > 100 || current_short_anime_data['tel']['no_epi'] == 1) {
+            if (Number(current_short_anime_data['tel']['no_epi']) > 100 || Number(current_short_anime_data['tel']['no_epi']) == 1) {
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 =  '00' + epi_num;
                 else if(epi_num >= 10 && epi_num <= 99)
                     newEpiNum1 = '0' + epi_num
                 else
                     newEpiNum1 = epi_num
-            }else if(current_short_anime_data['tel']['no_epi'] > 9){
+            }else if(Number(current_short_anime_data['tel']['no_epi']) > 9){
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 = '0' + epi_num;
                 else
@@ -811,14 +729,14 @@ let anime = document.getElementById("a-active-page-tag");
         else if(epi_aud == 'tam'){
             let current_short_anime_data_video_link = current_short_anime_data['tam']['link'];
             let newEpiNum1;
-            if (current_short_anime_data['tam']['no_epi'] > 100 || current_short_anime_data['tam']['no_epi'] == 1) {
+            if (Number(current_short_anime_data['tam']['no_epi']) > 100 || Number(current_short_anime_data['tam']['no_epi']) == 1) {
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 =  '00' + epi_num;
                 else if(epi_num >= 10 && epi_num <= 99)
                     newEpiNum1 = '0' + epi_num
                 else
                     newEpiNum1 = epi_num
-            }else if(current_short_anime_data['tam']['no_epi'] > 9){
+            }else if(Number(current_short_anime_data['tam']['no_epi']) > 9){
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 = '0' + epi_num;
                 else
@@ -839,14 +757,14 @@ let anime = document.getElementById("a-active-page-tag");
         else if(epi_aud == 'ben'){
             let current_short_anime_data_video_link = current_short_anime_data['ben']['link'];
             let newEpiNum1;
-            if (current_short_anime_data['ben']['no_epi'] > 100 || current_short_anime_data['ben']['no_epi'] == 1) {
+            if (Number(current_short_anime_data['ben']['no_epi']) > 100 || Number(current_short_anime_data['ben']['no_epi']) == 1) {
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 =  '00' + epi_num;
                 else if(epi_num >= 10 && epi_num <= 99)
                     newEpiNum1 = '0' + epi_num
                 else
                     newEpiNum1 = epi_num
-            }else if(current_short_anime_data['ben']['no_epi'] > 9){
+            }else if(Number(current_short_anime_data['ben']['no_epi']) > 9){
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 = '0' + epi_num;
                 else
@@ -867,14 +785,14 @@ let anime = document.getElementById("a-active-page-tag");
         else if(epi_aud == 'mal'){
             let current_short_anime_data_video_link = current_short_anime_data['mal']['link'];
             let newEpiNum1;
-            if (current_short_anime_data['mal']['no_epi'] > 100 || current_short_anime_data['mal']['no_epi'] == 1) {
+            if (Number(current_short_anime_data['mal']['no_epi']) > 100 || Number(current_short_anime_data['mal']['no_epi']) == 1) {
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 =  '00' + epi_num;
                 else if(epi_num >= 10 && epi_num <= 99)
                     newEpiNum1 = '0' + epi_num
                 else
                     newEpiNum1 = epi_num
-            }else if(current_short_anime_data['mal']['no_epi'] > 9){
+            }else if(Number(current_short_anime_data['mal']['no_epi']) > 9){
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 = '0' + epi_num;
                 else
@@ -895,14 +813,14 @@ let anime = document.getElementById("a-active-page-tag");
         else if(epi_aud == 'hin'){
             let current_short_anime_data_video_link = current_short_anime_data['hin']['link'];
             let newEpiNum1;
-            if (current_short_anime_data['hin']['no_epi'] > 100 || current_short_anime_data['hin']['no_epi'] == 1) {
+            if (Number(current_short_anime_data['hin']['no_epi']) > 100 || Number(current_short_anime_data['hin']['no_epi']) == 1) {
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 =  '00' + epi_num;
                 else if(epi_num >= 10 && epi_num <= 99)
                     newEpiNum1 = '0' + epi_num
                 else
                     newEpiNum1 = epi_num
-            }else if(current_short_anime_data['hin']['no_epi'] > 9){
+            }else if(Number(current_short_anime_data['hin']['no_epi']) > 9){
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 = '0' + epi_num;
                 else
@@ -1048,7 +966,7 @@ else
         });
         
         try{
-            let active_epi = document.querySelector(".active-episode");
+            let active_epi = document.querySelector(".active.episode");
             // let active_epi
             // if(active_epi_ == null)
             //     active_epi = getActiveEpisode();
@@ -1101,7 +1019,9 @@ else
         }
     }
 
+    //for setting text below Episode Number
     
+    document.getElementsByClassName("span")[1].innerText = 'Please Refresh the Page if any Error occurs';
 }
 
 
@@ -1135,7 +1055,7 @@ function setShortAnimes(short_anime_data){
     let anime = document.getElementById("a-active-page-tag");
     if(newAnimesName.hasOwnProperty(animeNameee.replaceAll(" ", ""))){
         Object.keys(short_anime_data).forEach( lang => {
-            short_anime_data[lang]['no_epi'] = newAnimesName[animeNameee.replaceAll(" ", "")];
+            short_anime_data[lang]['no_epi'] = Number(newAnimesName[animeNameee.replaceAll(" ", "")]);
         });
 }
 
@@ -1146,23 +1066,23 @@ function setShortAnimes(short_anime_data){
             let current_short_anime_epi_num;
             anime = anime.textContent.replace(/[^a-zA-Z0-9]/g, "");
             if(current_short_anime_data['jap'] != undefined)
-                current_short_anime_epi_num = current_short_anime_data['jap']['no_epi'];
+                current_short_anime_epi_num = Number(current_short_anime_data['jap']['no_epi']);
             else if(current_short_anime_data['eng'] != undefined)
-                current_short_anime_epi_num = current_short_anime_data['eng']['no_epi'];
+                current_short_anime_epi_num = Number(current_short_anime_data['eng']['no_epi']);
             else if(current_short_anime_data['hin'] != undefined)
-                current_short_anime_epi_num = current_short_anime_data['hin']['no_epi'];
+                current_short_anime_epi_num = Number(current_short_anime_data['hin']['no_epi']);
             else if(current_short_anime_data['tel'] != undefined)
-                current_short_anime_epi_num = current_short_anime_data['tel']['no_epi'];
+                current_short_anime_epi_num = Number(current_short_anime_data['tel']['no_epi']);
             else if(current_short_anime_data['tam'] != undefined)
-                current_short_anime_epi_num = current_short_anime_data['tam']['no_epi'];
+                current_short_anime_epi_num = Number(current_short_anime_data['tam']['no_epi']);
             else if(current_short_anime_data['mal'] != undefined)
-                current_short_anime_epi_num = current_short_anime_data['mal']['no_epi'];
+                current_short_anime_epi_num = Number(current_short_anime_data['mal']['no_epi']);
             else if(current_short_anime_data['ben'] != undefined)
-                current_short_anime_epi_num = current_short_anime_data['ben']['no_epi'];
+                current_short_anime_epi_num = Number(current_short_anime_data['ben']['no_epi']);
             else if(current_short_anime_data['jap2'] != undefined)
-                current_short_anime_epi_num = current_short_anime_data['jap2']['no_epi'];
+                current_short_anime_epi_num = Number(current_short_anime_data['jap2']['no_epi']);
             else if(current_short_anime_data['eng2'] != undefined)
-                current_short_anime_epi_num = current_short_anime_data['eng2']['no_epi'];
+                current_short_anime_epi_num = Number(current_short_anime_data['eng2']['no_epi']);
             if(current_short_anime_epi_num < Number(epi_num))
                 window.open(`https://animerulz.in/${animeNameee.replaceAll(" ", "")}/Watch-Now/?ep=1&aud=${epi_aud}`, "_self");
             let temp = "";
@@ -1189,15 +1109,21 @@ function setShortAnimes(short_anime_data){
                 }else{
                     episodeNameNew = `Episode ${i}`;
                 }
+                let fillerFlag = "";
+                if(current_short_anime_data['fillers'].includes(i)){
+                    fillerFlag = 'filler-episode';
+                }
                 if(i == epi_num){
-                    temp = ' <div class="episode-short"><div class="short-anime-ep active-episode" id="' + anime + '-episode-' + i + '"> ' + 
+                    temp = ` <div class="episode-short ${fillerFlag}" title="${current_short_anime_data['episodes_names'][i - 1]}"><div class="short-anime-ep active-episode" id="` + anime + '-episode-' + i + '"> ' + 
                     '<div class="short-anime-num episode-alternate-' + first + '">' + i + '</div><div class="short-anime-name episode-alternate-' + second + '"><span>' + episodeNameNew + '</span> ' + 
                     '<svg xmlns="http://www.w3.org/2000/svg" class="play-svg" enable-background="new 0 0 100 100" viewBox="0 0 100 100"><switch><g><path d="M5273.1,2400.1v-2c0-2.8-5-4-9.7-4s-9.7,1.3-9.7,4v2c0,1.8,0.7,3.6,2,4.9l5,4.9c0.3,0.3,0.4,0.6,0.4,1v6.4c0,0.4,0.2,0.7,0.6,0.8l2.9,0.9c0.5,0.1,1-0.2,1-0.8v-7.2c0-0.4,0.2-0.7,0.4-1l5.1-5C5272.4,2403.7,5273.1,2401.9,5273.1,2400.1zM5263.4,2400c-4.8,0-7.4-1.3-7.5-1.8v0c0.1-0.5,2.7-1.8,7.5-1.8c4.8,0,7.3,1.3,7.5,1.8C5270.7,2398.7,5268.2,2400,5263.4,2400z"/><path d="M5268.4 2410.3c-.6 0-1 .4-1 1 0 .6.4 1 1 1h4.3c.6 0 1-.4 1-1 0-.6-.4-1-1-1H5268.4zM5272.7 2413.7h-4.3c-.6 0-1 .4-1 1 0 .6.4 1 1 1h4.3c.6 0 1-.4 1-1C5273.7 2414.1 5273.3 2413.7 5272.7 2413.7zM5272.7 2417h-4.3c-.6 0-1 .4-1 1 0 .6.4 1 1 1h4.3c.6 0 1-.4 1-1C5273.7 2417.5 5273.3 2417 5272.7 2417zM50 2.5C23.8 2.5 2.5 23.8 2.5 50c0 26.2 21.3 47.5 47.5 47.5 26.2 0 47.5-21.3 47.5-47.5C97.5 23.8 76.2 2.5 50 2.5zM67.2 52.8L41.6 69.8c-2.2 1.5-5.1-.1-5.1-2.8V32.9c0-2.6 2.9-4.2 5.1-2.8l25.6 17.1C69.2 48.6 69.2 51.4 67.2 52.8z"/></g></switch></svg> ' + 
                     '</div></div></div>';
+                    if(fillerFlag === 'filler-episode')
+                        document.querySelector("span.filler-alert").innerHTML = '( <i class="fa-solid fa-skull-crossbones fa-fade"></i> filler episode)'
                 }
                 else{
                     temp_1 = "window.open('https://animerulz.in/" + anime.toLowerCase() + "/Watch-Now/?ep=" + i + "&aud=" + epi_aud + "', '_self')";
-                    temp = '<div class="episode-short" onclick="' + temp_1 + '"><div class="short-anime-ep"  id="' + anime + '-episode-' + i + '"><div class="short-anime-num episode-alternate-' + first + '">' + i +'</div><div class="short-anime-name episode-alternate-' + second + '"><span>' + episodeNameNew + '</span></div></div></div>'
+                    temp = `<div class="episode-short ${fillerFlag}" title="${current_short_anime_data['episodes_names'][i - 1]}" onclick="` + temp_1 + '"><div class="short-anime-ep"  id="' + anime + '-episode-' + i + '"><div class="short-anime-num episode-alternate-' + first + '">' + i +'</div><div class="short-anime-name episode-alternate-' + second + '"><span>' + episodeNameNew + '</span></div></div></div>'
                 }
                 outputNew += temp;
             }
@@ -1238,23 +1164,23 @@ function setShortAnimes(short_anime_data){
             }
             catch{}
             try{
-                if(epi_num <= current_short_anime_data['jap']['no_epi'])
+                if(epi_num <= Number(current_short_anime_data['jap']['no_epi']))
                     outputNew += "<div class='audio' name='jap'>Japanese</div>";
         }
         catch{
             try{
-                if(epi_num <= current_short_anime_data['jap2']['no_epi'])
+                if(epi_num <= Number(current_short_anime_data['jap2']['no_epi']))
                     outputNew += "<div class='audio' name='jap'>Japanese</div>";
             }
             catch{}
         }
                 try{
-                    if(epi_num <= current_short_anime_data['eng']['no_epi'])
+                    if(epi_num <= Number(current_short_anime_data['eng']['no_epi']))
                         outputNew += "<div class='audio' name='eng'>English</div>";
             }
             catch{
                 try{
-                    if(epi_num <= current_short_anime_data['eng2']['no_epi'])
+                    if(epi_num <= Number(current_short_anime_data['eng2']['no_epi']))
                         outputNew += "<div class='audio' name='eng'>English</div>"
                 }
                 catch{}
@@ -1265,22 +1191,22 @@ function setShortAnimes(short_anime_data){
                 }
                 catch{}
                 try{
-                    if( epi_num <= Number(current_short_anime_data['tel']['no_epi']))
+                    if( epi_num <= (Number(current_short_anime_data['tel']['no_epi'])))
                     outputNew += "<div class='audio' name='tel'>Telugu</div>";
                 }
                 catch{}
                 try{
-                    if( epi_num <= Number(current_short_anime_data['tam']['no_epi']))
+                    if( epi_num <= (Number(current_short_anime_data['tam']['no_epi'])))
                         outputNew += "<div class='audio' name='tam'>Tamil</div>";
                 }
                 catch{}
                 try{
-                    if( epi_num <= Number(current_short_anime_data['mal']['no_epi']))
+                    if( epi_num <= (Number(current_short_anime_data['mal']['no_epi'])))
                         outputNew += "<div class='audio' name='mal'>Malayalam</div>";
                 }
                 catch{}
                 try{
-                    if( epi_num <= Number(current_short_anime_data['ben']['no_epi']))
+                    if( epi_num <= (Number(current_short_anime_data['ben']['no_epi'])))
                         outputNew += "<div class='audio' name='ben'>Bengali</div>";
                 }
                 catch{};
@@ -1362,14 +1288,14 @@ function setShortAnimes(short_anime_data){
                 }else{
                     let current_short_anime_data_video_link = current_short_anime_data['jap2']['link'];
                 let newEpiNum1;
-                if (current_short_anime_data['jap2']['no_epi'] > 100 || current_short_anime_data['jap2']['no_epi'] == 1) {
+                if (Number(current_short_anime_data['jap2']['no_epi']) > 100 || Number(current_short_anime_data['jap2']['no_epi']) == 1) {
                     if(epi_num >= 1 && epi_num <= 9)
                         newEpiNum1 =  '00' + epi_num;
                     else if(epi_num >= 10 && epi_num <= 99)
                         newEpiNum1 = '0' + epi_num
                     else
                         newEpiNum1 = epi_num
-                }else if(current_short_anime_data['jap2']['no_epi'] > 9){
+                }else if(Number(current_short_anime_data['jap2']['no_epi']) > 9){
                     if(epi_num >= 1 && epi_num <= 9)
                         newEpiNum1 = '0' + epi_num;
                     else
@@ -1395,14 +1321,14 @@ function setShortAnimes(short_anime_data){
                 }else{
                     let current_short_anime_data_video_link = current_short_anime_data['eng2']['link'];
                 let newEpiNum1;
-                if (current_short_anime_data['eng2']['no_epi'] > 100 || current_short_anime_data['eng2']['no_epi'] == 1) {
+                if (Number(current_short_anime_data['eng2']['no_epi']) > 100 || Number(current_short_anime_data['eng2']['no_epi']) == 1) {
                     if(epi_num >= 1 && epi_num <= 9)
                         newEpiNum1 =  '00' + epi_num;
                     else if(epi_num >= 10 && epi_num <= 99)
                         newEpiNum1 = '0' + epi_num
                     else
                         newEpiNum1 = epi_num
-                }else if(current_short_anime_data['eng2']['no_epi'] > 9){
+                }else if(Number(current_short_anime_data['eng2']['no_epi']) > 9){
                     if(epi_num >= 1 && epi_num <= 9)
                         newEpiNum1 = '0' + epi_num;
                     else
@@ -1424,14 +1350,14 @@ function setShortAnimes(short_anime_data){
             else if(epi_aud == 'tel'){
                 let current_short_anime_data_video_link = current_short_anime_data['tel']['link'];
                 let newEpiNum1;
-                if (current_short_anime_data['tel']['no_epi'] > 100 || current_short_anime_data['tel']['no_epi'] == 1) {
+                if (Number(current_short_anime_data['tel']['no_epi']) > 100 || Number(current_short_anime_data['tel']['no_epi']) == 1) {
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 =  '00' + epi_num;
                 else if(epi_num >= 10 && epi_num <= 99)
                     newEpiNum1 = '0' + epi_num
                 else
                     newEpiNum1 = epi_num
-            }else if(current_short_anime_data['tel']['no_epi'] > 9){
+            }else if(Number(current_short_anime_data['tel']['no_epi']) > 9){
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 = '0' + epi_num;
                 else
@@ -1452,14 +1378,14 @@ function setShortAnimes(short_anime_data){
             else if(epi_aud == 'tam'){
                 let current_short_anime_data_video_link = current_short_anime_data['tam']['link'];
                 let newEpiNum1;
-                if (current_short_anime_data['tam']['no_epi'] > 100 || current_short_anime_data['tam']['no_epi'] == 1) {
+                if (Number(current_short_anime_data['tam']['no_epi']) > 100 || Number(current_short_anime_data['tam']['no_epi']) == 1) {
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 =  '00' + epi_num;
                 else if(epi_num >= 10 && epi_num <= 99)
                     newEpiNum1 = '0' + epi_num
                 else
                     newEpiNum1 = epi_num
-            }else if(current_short_anime_data['tam']['no_epi'] > 9){
+            }else if(Number(current_short_anime_data['tam']['no_epi']) > 9){
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 = '0' + epi_num;
                 else
@@ -1480,14 +1406,14 @@ function setShortAnimes(short_anime_data){
             else if(epi_aud == 'ben'){
                 let current_short_anime_data_video_link = current_short_anime_data['ben']['link'];
                 let newEpiNum1;
-                if (current_short_anime_data['ben']['no_epi'] > 100 || current_short_anime_data['ben']['no_epi'] == 1) {
+                if (Number(current_short_anime_data['ben']['no_epi']) > 100 || Number(current_short_anime_data['ben']['no_epi']) == 1) {
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 =  '00' + epi_num;
                 else if(epi_num >= 10 && epi_num <= 99)
                     newEpiNum1 = '0' + epi_num
                 else
                     newEpiNum1 = epi_num
-            }else if(current_short_anime_data['ben']['no_epi'] > 9){
+            }else if(Number(current_short_anime_data['ben']['no_epi']) > 9){
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 = '0' + epi_num;
                 else
@@ -1508,14 +1434,14 @@ function setShortAnimes(short_anime_data){
             else if(epi_aud == 'mal'){
                 let current_short_anime_data_video_link = current_short_anime_data['mal']['link'];
                 let newEpiNum1;
-                if (current_short_anime_data['mal']['no_epi'] > 100 || current_short_anime_data['mal']['no_epi'] == 1) {
+                if (Number(current_short_anime_data['mal']['no_epi']) > 100 || Number(current_short_anime_data['mal']['no_epi']) == 1) {
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 =  '00' + epi_num;
                 else if(epi_num >= 10 && epi_num <= 99)
                     newEpiNum1 = '0' + epi_num
                 else
                     newEpiNum1 = epi_num
-            }else if(current_short_anime_data['mal']['no_epi'] > 9){
+            }else if(Number(current_short_anime_data['mal']['no_epi']) > 9){
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 = '0' + epi_num;
                 else
@@ -1536,14 +1462,14 @@ function setShortAnimes(short_anime_data){
             else if(epi_aud == 'hin'){
                 let current_short_anime_data_video_link = current_short_anime_data['hin']['link'];
                 let newEpiNum1;
-                if (current_short_anime_data['hin']['no_epi'] > 100 || current_short_anime_data['hin']['no_epi'] == 1) {
+                if (Number(current_short_anime_data['hin']['no_epi']) > 100 || Number(current_short_anime_data['hin']['no_epi']) == 1) {
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 =  '00' + epi_num;
                 else if(epi_num >= 10 && epi_num <= 99)
                     newEpiNum1 = '0' + epi_num
                 else
                     newEpiNum1 = epi_num
-            }else if(current_short_anime_data['hin']['no_epi'] > 9){
+            }else if(Number(current_short_anime_data['hin']['no_epi']) > 9){
                 if(epi_num >= 1 && epi_num <= 9)
                     newEpiNum1 = '0' + epi_num;
                 else
@@ -1739,4 +1665,7 @@ function setShortAnimes(short_anime_data){
         }
     }
 
+    //for setting text below Episode Number
+    
+    document.getElementsByClassName("span")[1].innerText = 'Please Refresh the Page if any Error occurs';
 }
