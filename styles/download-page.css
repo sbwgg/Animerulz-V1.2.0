@@ -265,12 +265,26 @@ iframe{
   color: rgba(0, 0, 0, 1);
   width: 200px;
   text-align: center;
-  border-radius: 10px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
   position: absolute;
   margin-left: 40px;
-  /* margin-top: 10px; */
-  padding: 10px 0px;
+  padding-block: 2px;
   z-index: 10;
+  max-height: 150px;
+  overflow-y: scroll;
+}
+.main-container-video-sec-2 .header .episodes-selection-div .active{
+  background-color: rgba(255, 255, 255, 1);
+}
+.main-container-video-sec-2 .header .episodes-selection-div::-webkit-scrollbar{
+  width: 10px;
+}
+.main-container-video-sec-2 .header .episodes-selection-div::-webkit-scrollbar-thumb{
+  background: #faa300;
+}
+.main-container-video-sec-2 .header .episodes-selection-div::-webkit-scrollbar-track{
+  background: #dec18c;
 }
 .main-container-video-sec-2 .header .episodes-selection-div:hover{
   display: block;
@@ -916,4 +930,14 @@ iframe{
 .short-anime-ep.filler-episode:hover .episode-alternate-2{
   background-color: rgb(255,108,0);
   opacity: 0.7;
+}
+
+.comments-new-a{
+  margin-inline: auto;
+  width: 100vw;
+  max-width: 1500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.5);
 }
