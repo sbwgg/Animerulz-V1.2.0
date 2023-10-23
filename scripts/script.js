@@ -27,7 +27,7 @@ function setMoreMenu(){
   </div>
   <div class="main-container-in-menu">
    <div class="main-header-new-a">
-    <div class="data-div-a-b-c">f
+    <div class="data-div-a-b-c">
      <div class="anime-main-txt-a-a large-txt">
       <span>
        Animerulz
@@ -35,7 +35,7 @@ function setMoreMenu(){
      </div>
      <div class="version-txt-a-a">
       <span>
-       Version 1.2.0
+       Version 1.2.1
       </span>
      </div>
     </div>
