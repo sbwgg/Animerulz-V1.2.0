@@ -228,7 +228,7 @@ h1, h2, h3{
     h1, h2, h3{
         font-size: 16px;
     }
-    .mw-body p{
+    .mw-body p, .mw-body li{
         font-size: 11px;
     }
     #xheader_menu{
@@ -322,4 +322,23 @@ h1, h2, h3{
   }
   .large-ad-unit, .small-ad-unit{
     padding-block: 5px;
+  }
+
+
+  .re-links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+  }
+  .re-links .ref-links-a{
+    display: flex;
+    gap: 2px;
+  }
+  .re-links .ref-links-a a{
+    padding: 10px;
+  }
+  .re-links .ref-links-a a:hover{
+    color: #faa300;
+    cursor: pointer;
   }
