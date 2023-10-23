@@ -1,4 +1,4 @@
-const pageType = document.getElementsByTagName("html")[0].getAttribute('page-title');
+const pageType = document.getElementsByTagName("html")[0].getAttribute('page-type');
 
 
 setTimeout(preloaderDisplayNone, 1000);
@@ -35,7 +35,7 @@ function setMoreMenu(){
      </div>
      <div class="version-txt-a-a">
       <span>
-       Version 1.2.0
+       Version 1.2.1
       </span>
      </div>
     </div>
@@ -527,7 +527,7 @@ function disableScroll(){
 function setTrendingAnimeInSearch(){
     let trendingAnimeInSearchContainer = document.getElementsByClassName("list-search-trending")[0];
     let trendingAnime = [
-        "One Piece","Tokyo Revengers Season 3", "Jujutsu Kaisen Season 2", "Bleach Thousand Year Blood War Season 2", "Zom 100"
+        "One Piece","Naruto", "Jujutsu Kaisen Season 2", "Bleach Thousand Year Blood War Season 2", "Zom 100"
     ]
     let temppp = "";
     let counterrr = 0;
