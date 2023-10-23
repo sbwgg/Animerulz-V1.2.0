@@ -1,4 +1,4 @@
-const pageType = document.getElementsByTagName("html")[0].getAttribute('page-title');
+const pageType = document.getElementsByTagName("html")[0].getAttribute('page-type');
 
 
 setTimeout(preloaderDisplayNone, 1000);
@@ -27,7 +27,7 @@ function setMoreMenu(){
   </div>
   <div class="main-container-in-menu">
    <div class="main-header-new-a">
-    <div class="data-div-a-b-c">
+    <div class="data-div-a-b-c">f
      <div class="anime-main-txt-a-a large-txt">
       <span>
        Animerulz
