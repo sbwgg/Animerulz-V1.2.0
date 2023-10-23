@@ -438,8 +438,12 @@ let anime = document.getElementById("a-active-page-tag");
         //to set filler episodes
         for(let i = min_range; i <= max_range; i++){
             let fillerFlag = "";
-            if(current_short_anime_data['fillers'].includes(i))
-                fillerFlag = 'filler-episode';
+            try{
+                if(current_short_anime_data['fillers'].includes(i)){
+                    fillerFlag = 'filler-episode';
+                }
+            }
+            catch{}
             if(i == epi_num){
                 temp = `<div class='episode active ${fillerFlag}' title="${current_short_anime_data['episodes_names'][i - 1]}" id='` + anime + "-episode-" + i + "'>" + i + "</div>";
                 if(fillerFlag === 'filler-episode')
@@ -1110,9 +1114,12 @@ function setShortAnimes(short_anime_data){
                     episodeNameNew = `Episode ${i}`;
                 }
                 let fillerFlag = "";
-                if(current_short_anime_data['fillers'].includes(i)){
-                    fillerFlag = 'filler-episode';
+                try{
+                    if(current_short_anime_data['fillers'].includes(i)){
+                        fillerFlag = 'filler-episode';
+                    }
                 }
+                catch{}
                 if(i == epi_num){
                     temp = ` <div class="episode-short ${fillerFlag}" title="${current_short_anime_data['episodes_names'][i - 1]}"><div class="short-anime-ep active-episode" id="` + anime + '-episode-' + i + '"> ' + 
                     '<div class="short-anime-num episode-alternate-' + first + '">' + i + '</div><div class="short-anime-name episode-alternate-' + second + '"><span>' + episodeNameNew + '</span> ' + 
