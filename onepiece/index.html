@@ -845,6 +845,45 @@ Enter Monkey D. Luffy, a 17-year-old boy that defies your standard definition of
 #st-cmp-v2 {
 display: none;
 }
+.new-sec-container{
+      display: flex;
+    }
+    .new-sec-container .ad-unit-sec{
+      width: 300px;
+      max-width: 300px;
+    }
+    .new-sec-container .recommendations{
+      width: calc(100% - 300px);
+    }
+
+    @media only screen and (max-width:1100px) {
+      .new-sec-container .ad-unit-sec{
+        max-width: 250px;
+      }
+      .new-sec-container .recommendations{
+        width: calc(100% - 250px);
+      }
+    }
+    @media only screen and (max-width:1000px) {
+      .new-sec-container .ad-unit-sec{
+        max-width: 200px;
+      }
+      .new-sec-container .recommendations{
+        width: calc(100% - 200px);
+      }
+    }
+    @media only screen and (max-width:1100px) {
+      .new-sec-container{
+        flex-direction: column;
+      }
+      .new-sec-container .ad-unit-sec{
+        max-width: 100%;
+        width: 100%;
+      }
+      .new-sec-container .recommendations{
+        width: 98%;
+      }
+    }
 </style>
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"81a747a8a97f0781","r":1,"version":"2023.10.0","token":"9e640cc2a7da44468e46b99fee5fd26e"}' crossorigin="anonymous"></script>
 </body>
