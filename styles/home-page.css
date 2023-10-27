@@ -145,7 +145,12 @@ header{
     border: 1px solid rgba(0,0,0,0.8);
     color: rgba(0,0,0,0.9);
     cursor: pointer;
-    padding: 13px 17px;
+    /* padding: 13px 17px; */
+    width: 55px;
+    min-width: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 #action-button{
     margin-top: 200px;
