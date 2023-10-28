@@ -3,7 +3,7 @@ const pageType = document.getElementsByTagName("html")[0].getAttribute('page-typ
 
 setTimeout(preloaderDisplayNone, 1000);
 window.addEventListener("load", function(){
-    if(pageType != 'a-main' && pageType != 'b-sub')
+    if(pageType != 'a-main' && pageType != 'b-sub' && pageType != 'home')
     setMoreMenu();
     preloaderDisplayNone();
     setAnimesInTrendingHover();
@@ -351,14 +351,15 @@ try{
     let check = document.getElementsByClassName("active-page-tag-season")[0];
     let activeAnimeNew;
     if(check === undefined){
-        activeAnimeNew = document.getElementById("active-page-tag").textContent.replace(/[^a-zA-Z0-9]/g, "").toLowerCase();
+        activeAnimeNew = document.getElementById("active-page-tag").textContent.replace(/[^a-zA-Z0-9]/g, "").toLowerCase().trim();
         // console.log(activeAnimeNew);
     }
     // console.log(document.getElementsByClassName("btns-in-data")[0].getElementsByTagName("a")[0]);
-    let activeAnimeNewEpi = localStorage.getItem("lastClickedButton" + activeAnimeNew).split("-")[2];
+    let activeAnimeNewEpi = localStorage.getItem(activeAnimeNew + '-last-clicked-episode');
+
     if (activeAnimeNewEpi == undefined)
         activeAnimeNewEpi = 1;
-    document.getElementsByClassName("btns-in-data")[0].getElementsByTagName("a")[0].setAttribute("href", "/" + activeAnimeNew +  "/Watch-Now/?ep=" + activeAnimeNewEpi + "&aud=" + localStorage.getItem("lastClickedButtonAudio" + activeAnimeNew)); 
+    document.getElementsByClassName("btns-in-data")[0].getElementsByTagName("a")[0].setAttribute("href", "/" + activeAnimeNew +  "/Watch-Now/?ep=" + activeAnimeNewEpi + "&aud=" + localStorage.getItem("presentAudioAnimerulzAnime-" + activeAnimeNew)); 
     // document.getElementsByClassName('button-read-manga')[0].setAttribute("onclick", "window.open('https://mangareader.to/')");
 }
 catch{}
@@ -983,14 +984,15 @@ try{
                 let timeUntilAir = nextAiringEpisodeData['timeUntilAiring'] / 3600;
                 let daysUntilAir = Math.floor(timeUntilAir / 24);
                 let hoursUntilAir = Math.floor(timeUntilAir % 24);
+                let minutesUntilAir = Math.floor(timeUntilAir % 60);
                 let nextEpisodeDataNew;
-                if(daysUntilAir != 0){
+                if(Number(daysUntilAir) != 0){
                     if(daysUntilAir == 1)
-                        nextEpisodeDataNew = "Next Episode - " + nextAiringEpisodeData['episode'] + " Airing in " + daysUntilAir + " day " + hoursUntilAir + " hours";
+                        nextEpisodeDataNew = "Next Episode - " + nextAiringEpisodeData['episode'] + " Airing in " + daysUntilAir + " day " + hoursUntilAir + " hours " + minutesUntilAir + ' minutes';
                     else
-                        nextEpisodeDataNew = "Next Episode - " + nextAiringEpisodeData['episode'] + " Airing in " + daysUntilAir + " days " + hoursUntilAir + " hours";
+                        nextEpisodeDataNew = "Next Episode - " + nextAiringEpisodeData['episode'] + " Airing in " + daysUntilAir + " days " + hoursUntilAir + " hours " + minutesUntilAir + ' minutes';
                 }else
-                    nextEpisodeDataNew = "Next Episode - " + nextAiringEpisodeData['episode'] + " Airing in " + hoursUntilAir + " hours";
+                    nextEpisodeDataNew = "Next Episode - " + nextAiringEpisodeData['episode'] + " Airing in " + hoursUntilAir + " hours " + minutesUntilAir + ' minutes';
                 if(!tempDiv){
                     let temppDivision = document.createElement('div');
                     temppDivision.setAttribute('class', "nxt-episode-info");
