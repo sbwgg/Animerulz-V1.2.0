@@ -12,7 +12,7 @@ body{
 .slider,.img-in-slide,.active-slide,.gradient-division-1,.gradient-division-2{
   margin: 0;
   padding:0;
-  max-width: 1500px;
+  max-width: 1800px;
   scroll-behavior: smooth;
   margin-left: auto;
   margin-right: auto;
@@ -42,7 +42,7 @@ a{
 .home-main-info{
   padding-top: 20px;
   width: 90%;
-  max-width: 1500px;
+  max-width: 1800px;
   margin-inline: auto;
   display: flex;
   align-items: center;
@@ -71,7 +71,7 @@ a{
 }
 .trending-anime, .animes-in-trending, .most-viewed-anime-container, .best-on-imdb-container, .newly-added-animes, .upcoming-anime-container, .new-cartoons-section{
   width: 100%;
-  max-width: 1500px;
+  max-width: 1800px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -686,8 +686,7 @@ a{
   cursor: pointer;
 }
 .right-container-upcoming .genres-div .all-genres-btn a:hover i{
-  font-size: 18px;
-  margin-top: -1px;
+  transform: scale(1.12);
   margin-left: 2px;
 }
 
