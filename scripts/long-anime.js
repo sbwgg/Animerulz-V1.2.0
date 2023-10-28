@@ -1513,7 +1513,7 @@ function setShortAnimes(short_anime_data){
             }
             try{
                 if(epi_aud == "jap" || epi_aud == "eng")
-                    document.getElementsByClassName("button-download-now")[0].setAttribute("onclick", "window.open('" + current_short_anime_data[epi_aud]["down_links"][epi_num - 1] + "')");
+                    document.getElementsByClassName("button-download-now")[0].setAttribute("onclick", "window.open('https://goone.pro/download?id=" + current_short_anime_data[epi_aud]["down_links"][epi_num - 1] + `&typesub=Animerulz&title=Download')`);
                 else{
                     if(tempAudioForDownloadBtn)
                         if(tempAudioForDownloadBtn == 'mul1080')
