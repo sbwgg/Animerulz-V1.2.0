@@ -72,11 +72,45 @@ a{
   margin-left: auto;
   margin-right: auto;
 }
-.trending-anime, .animes-in-trending, .most-viewed-anime-container, .best-on-imdb-container, .newly-added-animes, .upcoming-anime-container, .new-cartoons-section{
+.trending-anime, .animes-in-trending, .most-viewed-anime-container, .best-on-imdb-container, .newly-added-animes, .upcoming-anime-container, .new-cartoons-section, .a-animes-main-pg{
   width: 100%;
   max-width: 1800px;
   margin-left: auto;
   margin-right: auto;
+}
+.a-animes-main-pg{
+  display: flex;
+}
+.r-container-pg{
+  width: calc(100% - 200px);
+}
+.ad-unit-n-a{
+  height: 700px;
+  max-height: 700px;
+}
+.pg-left-container{
+  width: 200px;
+}
+@media only screen and (max-width:1000px){
+  .ad-unit-n-a{
+    max-height: 600px;
+  }
+}
+@media only screen and (max-width:900px){
+  .a-animes-main-pg{
+    flex-direction: column;
+    gap: 10px;
+  }
+  .pg-left-container{
+    width: 90%;
+    margin-inline: auto;
+  }
+  .ad-unit-n-a{
+    max-height: 300px;
+  }
+  .r-container-pg{
+    width: 100%;
+  }
 }
 .bottom-container h2{
   color: #faa300;
@@ -602,7 +636,7 @@ a{
   color: #faa300;
 }
 .right-container-upcoming .genres-div{
-  padding-inline: 10px;
+  padding: 0 10px 10px 10px;
 }
 .right-container-upcoming .genres-div .header-genres-div h3{
   color: #faa300;
@@ -739,8 +773,11 @@ a{
 .anime-in-up-coming-container{
   min-width: auto !important;
 }
-
-
+@media only screen and (min-width:1660px){
+  .image-container-up{
+    min-height: 350px;
+  }
+}
 .new-cartoons-section{
   padding: 10px 0;
 }
@@ -824,7 +861,7 @@ a{
     font-size: 11px;
   }
   .medium-txt{
-    font-size: 13px;
+    font-size: 12px;
   }
 }
 .view-more-cartoons{
@@ -838,13 +875,13 @@ a{
 .view-more-cartoons a{
   cursor: pointer;
   width: 100%;
-  height: 100%;
+  /* height: 100%; */
   display: block;
   padding-block: 10px;
 }
 @media only screen and (max-width:600px){
   .view-more-cartoons a{
-    padding-block: 7px;
+    padding-block: 8px;
   }
 }
 .view-more-cartoons a i{
