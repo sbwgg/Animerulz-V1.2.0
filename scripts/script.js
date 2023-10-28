@@ -749,7 +749,10 @@ function handleData(data) {
         let timeUntilAir = newData['nextAiringEpisode']['timeUntilAiring'] / 3600;
         let daysUntilAir = Math.floor(timeUntilAir / 24);
         let hoursUntilAir = Math.floor(timeUntilAir % 24);
-        nextEpisodeData = "Next Episode-" + newData['nextAiringEpisode']['episode'] + " in " + daysUntilAir + "d " + hoursUntilAir + "h";
+        if(daysUntilAir != 0)
+            nextEpisodeData = "Next Episode-" + newData['nextAiringEpisode']['episode'] + " in " + daysUntilAir + "d " + hoursUntilAir + "h";
+        else 
+            nextEpisodeData = "Next Episode-" + newData['nextAiringEpisode']['episode'] + " in " + hoursUntilAir + "h";
     }else{
         if(newData['episodes'])
             nextEpisodeData = 'FINISHED';
