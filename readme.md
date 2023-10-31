@@ -10,7 +10,7 @@ There are over 4000 animes available in Animerulz website where you can navigate
 <h2><a href="https://animerulz.in/atozlist">A</a></h2><br>
 <ul id="A" class="data-items-sub-sub-container_">
 
-<li><a href="https://animerulz.in/age12"><h3>Age 12.</h3></a></li><br>
+<li><a href="https://animerulz.in/age12">Age 12.</a></li><br>
 
 <li><a href="https://animerulz.in/achannel"><h3>A-Channel</h3></a></li><br>
 
