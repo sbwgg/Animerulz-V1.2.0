@@ -14,12 +14,15 @@ display: flex !important;
 justify-content: center;
 align-items: center;
 }
+.large-ad-unit{
+max-height: 100px;
+}
 .large-ad-unit .adsbygoogle{
 display: flex !important;
 justify-content: center;
 align-items: center;
-width: 970px;
 height: 90px;
+width: 970px;
 }
 @media only screen and (max-width:980px){
 .large-ad-unit .adsbygoogle{
@@ -29,7 +32,7 @@ height: 90px;
 }
 @media only screen and (max-width:760px){
 .large-ad-unit .adsbygoogle{
-  width: 300px;
+  width: 320px;
   height: 50px;
 }
 }
@@ -48,7 +51,7 @@ height: 90px; */
 }
 @media only screen and (max-width:730px){
 .small-ad-unit .adsbygoogle{
-  width: 300px;
+  width: 320px;
   height: 50px;
 }
 }
@@ -451,7 +454,7 @@ cursor: pointer;
   text-decoration: underline;
 }
 #home-anchor-tag{
-  list-style: none;
+  list-style: none
 }
 .anchor-elements-in-ul{
   display: flex;
@@ -1321,7 +1324,7 @@ margin-top: -3px;
 .nav-image{
   width:190px;
   height: 51px;
-  padding-top: 15px;
+  padding-top: 10px;
 }
 .nav-bar{
 width: 100%;
@@ -1374,6 +1377,7 @@ margin-left: 10px;
   margin-bottom: 2px;
 }
 .nav-image{
+  padding-top: 12px;
   width:180px;
   height: 48px;
 }
