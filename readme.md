@@ -1,9 +1,9 @@
 <h2>This Github Repository contains all the data that is being used in <a href="https://animerulz.in/">Animerulz</a> website. In this site everyone can watch anime for Free without any account and in many languages like</h2>
--><a href="https://animerulz.in/telugudubbed">Telugu</a>
--><a href="https://animerulz.in/hindidubbed/">Hindi</a>
--><a href="https://animerulz.in/tamildubbed/">Tamil</a>
--><a href="https://animerulz.in/malayalamdubbed/">Malayalam</a>
--><a href="https://animerulz.in/bengalidubbed/">Bengali</a>
+-><a href="https://animerulz.in/telugudubbed">Telugu</a><br>
+-><a href="https://animerulz.in/hindidubbed/">Hindi</a><br>
+-><a href="https://animerulz.in/tamildubbed/">Tamil</a><br>
+-><a href="https://animerulz.in/malayalamdubbed/">Malayalam</a><br>
+-><a href="https://animerulz.in/bengalidubbed/">Bengali</a><br>
 
 There are over 4000 animes available in Animerulz website where you can navigate through them using the [AtoZlist](https://animerulz.in/atozlist).The animes available in view of alphabets
 [A](https://animerulz.in/atozlist/a)
