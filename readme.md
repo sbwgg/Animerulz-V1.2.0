@@ -526,10 +526,12 @@ There are over 4000 animes available in Animerulz website where you can navigate
 
 <li><a href="../areyouok"><h3>Are You Ok</h3></a></li>
 
-<li>
+</ul>
+</li>
 
+<li>
 <h2><a href="https://animerulz.in/atozlist/b">B</a></h2>
-        <ul id="B" class="data-items-sub-sub-container_">
+<ul id="B" class="data-items-sub-sub-container_">
 
 <li><a href="../bluerthanindigofate"><h3>Bluer Than Indigo: Fate</h3></a></li>
 
@@ -977,10 +979,13 @@ There are over 4000 animes available in Animerulz website where you can navigate
 
 <li><a href="../blastoftempest"><h3>Blast of Tempest</h3></a></li>
 
+</ul>
+</li>
+
 <li>
 
-        <h2><a href="https://animerulz.in/atozlist/c">C</a></h2>
-        <ul id="C" class="data-items-sub-sub-container_">
+<h2><a href="https://animerulz.in/atozlist/c">C</a></h2>
+<ul id="C" class="data-items-sub-sub-container_">
 
 <li><a href="../cyberteaminakihabara"><h3>Cyber Team in Akihabara</h3></a></li>
 
@@ -1290,16 +1295,12 @@ There are over 4000 animes available in Animerulz website where you can navigate
 
 <li><a href="../crayonkingdomofdreams"><h3>Crayon Kingdom of Dreams</h3></a></li>
 
-        </ul>
-    </li>
+</ul>
+</li>
 
 <li>
-
-        <div class="div-show-animes_" onclick="showAnimes('D')">
-            <i class="fa-solid fa-chevron-right right-chivron_"></i>
-            <h3>D</h3>
-        </div>
-        <ul id="D" class="data-items-sub-sub-container_">
+<h2><a href="https://animerulz.in/atozlist/d">D</a></h2>
+<ul id="D" class="data-items-sub-sub-container_">
 
 <li><a href="../dimensionhighschool"><h3>Dimension High School</h3></a></li>
 
@@ -1657,16 +1658,13 @@ There are over 4000 animes available in Animerulz website where you can navigate
 
 <li><a href="../dreameatermerry"><h3>Dream Eater Merry</h3></a></li>
 
-        </ul>
-    </li>
+</ul>
+</li>
 
 <li>
 
-        <div class="div-show-animes_" onclick="showAnimes('E')">
-            <i class="fa-solid fa-chevron-right right-chivron_"></i>
-            <h3>E</h3>
-        </div>
-        <ul id="E" class="data-items-sub-sub-container_">
+<h2><a href="https://animerulz.in/atozlist/e">E</a></h2>
+<ul id="E" class="data-items-sub-sub-container_">
 
 <li><a href="../epicofdivinitylight"><h3>Epic of Divinity Light</h3></a></li>
 
@@ -1760,16 +1758,13 @@ There are over 4000 animes available in Animerulz website where you can navigate
 
 <li><a href="../elegantyokaiapartmentlife"><h3>Elegant Yokai Apartment Life</h3></a></li>
 
-        </ul>
-    </li>
+</ul>
+</li>
 
 <li>
 
-        <div class="div-show-animes_" onclick="showAnimes('F')">
-            <i class="fa-solid fa-chevron-right right-chivron_"></i>
-            <h3>F</h3>
-        </div>
-        <ul id="F" class="data-items-sub-sub-container_">
+<h2><a href="https://animerulz.in/atozlist/f">F</a></h2>
+<ul id="F" class="data-items-sub-sub-container_">
 
 <li><a href="../flowersofevil"><h3>Flowers of Evil</h3></a></li>
 
@@ -2007,16 +2002,13 @@ There are over 4000 animes available in Animerulz website where you can navigate
 
 <li><a href="../foreordination"><h3>Foreordination</h3></a></li>
 
-        </ul>
-    </li>
+</ul>
+</li>
 
 <li>
 
-        <div class="div-show-animes_" onclick="showAnimes('G')">
-            <i class="fa-solid fa-chevron-right right-chivron_"></i>
-            <h3>G</h3>
-        </div>
-        <ul id="G" class="data-items-sub-sub-container_">
+<h2><a href="https://animerulz.in/atozlist/g">G</a></h2>
+<ul id="G" class="data-items-sub-sub-container_">
 
 <li><a href="../galaxydevastator"><h3>Galaxy Devastator</h3></a></li>
 
@@ -2428,15 +2420,12 @@ There are over 4000 animes available in Animerulz website where you can navigate
 
 <li><a href="../goodbyeteacherdespair2ndseason"><h3>Goodbye Teacher Despair 2nd Season</h3></a></li>
 
-        </ul>
+</ul>
     </li>
 
 <li>
 
-        <div class="div-show-animes_" onclick="showAnimes('H')">
-            <i class="fa-solid fa-chevron-right right-chivron_"></i>
-            <h3>H</h3>
-        </div>
+<h2><a href="https://animerulz.in/atozlist/h">H</a></h2>
         <ul id="H" class="data-items-sub-sub-container_">
 
 <li><a href="../haganaiidonthavemanyfriends"><h3>Haganai: I don't have many friends</h3></a></li>
@@ -2807,15 +2796,12 @@ There are over 4000 animes available in Animerulz website where you can navigate
 
 <li><a href="../heroreturn"><h3>Hero Return</h3></a></li>
 
-        </ul>
+</ul>
     </li>
 
 <li>
 
-        <div class="div-show-animes_" onclick="showAnimes('I')">
-            <i class="fa-solid fa-chevron-right right-chivron_"></i>
-            <h3>I</h3>
-        </div>
+<h2><a href="https://animerulz.in/atozlist/i">I</a></h2>
         <ul id="I" class="data-items-sub-sub-container_">
 
 <li><a href="../imthevillainesssoimtamingthefinalboss"><h3>I'm the Villainess, So I'm Taming the Final Boss</h3></a></li>
@@ -3098,15 +3084,12 @@ There are over 4000 animes available in Animerulz website where you can navigate
 
 <li><a href="../ivealwayslikedyoupicturedramaspecial"><h3>I've Always Liked You Picture Drama Special</h3></a></li>
 
-        </ul>
+</ul>
     </li>
 
 <li>
 
-        <div class="div-show-animes_" onclick="showAnimes('J')">
-            <i class="fa-solid fa-chevron-right right-chivron_"></i>
-            <h3>J</h3>
-        </div>
+<h2><a href="https://animerulz.in/atozlist/j">J</a></h2>
         <ul id="J" class="data-items-sub-sub-container_">
 
 <li><a href="../junjiitomaniacjapanesetalesofthemacabre"><h3>Junji Ito Maniac: Japanese Tales of the Macabre</h3></a></li>
@@ -3183,15 +3166,12 @@ There are over 4000 animes available in Animerulz website where you can navigate
 
 <li><a href="../jadedynasty"><h3>Jade Dynasty</h3></a></li>
 
-        </ul>
+</ul>
     </li>
 
 <li>
 
-        <div class="div-show-animes_" onclick="showAnimes('K')">
-            <i class="fa-solid fa-chevron-right right-chivron_"></i>
-            <h3>K</h3>
-        </div>
+<h2><a href="https://animerulz.in/atozlist/k">K</a></h2>
         <ul id="K" class="data-items-sub-sub-container_">
 
 <li><a href="../killerseven"><h3>Killer Seven</h3></a></li>
@@ -3512,15 +3492,12 @@ There are over 4000 animes available in Animerulz website where you can navigate
 
 <li><a href="../kingofbravesgaogaigarfinalgrandgloriousgathering"><h3>King of Braves GaoGaiGar Final Grand Glorious Gathering</h3></a></li>
 
-        </ul>
+</ul>
     </li>
 
 <li>
 
-        <div class="div-show-animes_" onclick="showAnimes('L')">
-            <i class="fa-solid fa-chevron-right right-chivron_"></i>
-            <h3>L</h3>
-        </div>
+<h2><a href="https://animerulz.in/atozlist/l">L</a></h2>
         <ul id="L" class="data-items-sub-sub-container_">
 
 <li><a href="../lovechunibyootherdelusions"><h3>Love, Chunibyo & Other Delusions!</h3></a></li>
@@ -3773,15 +3750,12 @@ There are over 4000 animes available in Animerulz website where you can navigate
 
 <li><a href="../leviathanthelastdefense"><h3>Leviathan: The Last Defense</h3></a></li>
 
-        </ul>
+</ul>
     </li>
 
 <li>
 
-        <div class="div-show-animes_" onclick="showAnimes('M')">
-            <i class="fa-solid fa-chevron-right right-chivron_"></i>
-            <h3>M</h3>
-        </div>
+<h2><a href="https://animerulz.in/atozlist/m">M</a></h2>
         <ul id="M" class="data-items-sub-sub-container_">
 
 <li><a href="../marchcomesinlikealion"><h3>March comes in like a lion</h3></a></li>
@@ -4318,15 +4292,12 @@ There are over 4000 animes available in Animerulz website where you can navigate
 
 <li><a href="../myheroichusband"><h3>My Heroic Husband</h3></a></li>
 
-        </ul>
+</ul>
     </li>
 
 <li>
 
-        <div class="div-show-animes_" onclick="showAnimes('N')">
-            <i class="fa-solid fa-chevron-right right-chivron_"></i>
-            <h3>N</h3>
-        </div>
+<h2><a href="https://animerulz.in/atozlist/n">N</a></h2>
         <ul id="N" class="data-items-sub-sub-container_">
 
 <li><a href="../neighborhoodstories"><h3>Neighborhood Stories</h3></a></li>
@@ -4523,15 +4494,12 @@ There are over 4000 animes available in Animerulz website where you can navigate
 
 <li><a href="../natsumesbookoffriendsseason2"><h3>Natsume's Book of Friends Season 2</h3></a></li>
 
-        </ul>
+</ul>
     </li>
 
 <li>
 
-        <div class="div-show-animes_" onclick="showAnimes('O')">
-            <i class="fa-solid fa-chevron-right right-chivron_"></i>
-            <h3>O</h3>
-        </div>
+<h2><a href="https://animerulz.in/atozlist/o">O</a></h2>
         <ul id="O" class="data-items-sub-sub-container_">
 
 <li><a href="../outburstdreamerboys"><h3>Outburst Dreamer Boys</h3></a></li>
@@ -4696,15 +4664,12 @@ There are over 4000 animes available in Animerulz website where you can navigate
 
 <li><a href="../okkosinn"><h3>Okko's Inn</h3></a></li>
 
-        </ul>
+</ul>
     </li>
 
 <li>
 
-        <div class="div-show-animes_" onclick="showAnimes('P')">
-            <i class="fa-solid fa-chevron-right right-chivron_"></i>
-            <h3>P</h3>
-        </div>
+<h2><a href="https://animerulz.in/atozlist/p">P</a></h2>
         <ul id="P" class="data-items-sub-sub-container_">
 
 <li><a href="../pleasetakemybrotheraway3rdseason"><h3>Please Take My Brother Away 3rd Season</h3></a></li>
@@ -4940,16 +4905,12 @@ There are over 4000 animes available in Animerulz website where you can navigate
 <li><a href="../psychicsquad"><h3>Psychic Squad</h3></a></li>
 
 <li><a href="../purpleriverhiddeninteractivedrama"><h3>Purple River: Hidden Interactive Drama</h3></a></li>
-
-        </ul>
+</ul>
     </li>
 
 <li>
 
-        <div class="div-show-animes_" onclick="showAnimes('Q')">
-            <i class="fa-solid fa-chevron-right right-chivron_"></i>
-            <h3>Q</h3>
-        </div>
+<h2><a href="https://animerulz.in/atozlist/q">Q</a></h2>
         <ul id="Q" class="data-items-sub-sub-container_">
 
 <li><a href="../qinxia"><h3>Qin Xia</h3></a></li>
@@ -4974,15 +4935,12 @@ There are over 4000 animes available in Animerulz website where you can navigate
 
 <li><a href="../queenmillennia"><h3>Queen Millennia</h3></a></li>
 
-        </ul>
+</ul>
     </li>
 
 <li>
 
-        <div class="div-show-animes_" onclick="showAnimes('R')">
-            <i class="fa-solid fa-chevron-right right-chivron_"></i>
-            <h3>R</h3>
-        </div>
+<h2><a href="https://animerulz.in/atozlist/r">R</a></h2>
         <ul id="R" class="data-items-sub-sub-container_">
 
 <li><a href="../rowdysumowrestlermatsutaro"><h3>Rowdy Sumo Wrestler Matsutaro!!</h3></a></li>
@@ -5213,15 +5171,12 @@ There are over 4000 animes available in Animerulz website where you can navigate
 
 <li><a href="../roninwarriorsgaiden"><h3>Ronin Warriors Gaiden</h3></a></li>
 
-        </ul>
+</ul>
     </li>
 
 <li>
 
-        <div class="div-show-animes_" onclick="showAnimes('S')">
-            <i class="fa-solid fa-chevron-right right-chivron_"></i>
-            <h3>S</h3>
-        </div>
+<h2><a href="https://animerulz.in/atozlist/s">S</a></h2>
         <ul id="S" class="data-items-sub-sub-container_">
 
 <li><a href="../snowwhitewiththeredhair"><h3>Snow White with the Red Hair</h3></a></li>
@@ -5936,15 +5891,12 @@ There are over 4000 animes available in Animerulz website where you can navigate
 
 <li><a href="../sagaoftanyatheeviloperationdesertpasta"><h3>Saga of Tanya the Evil: Operation Desert Pasta</h3></a></li>
 
-        </ul>
+</ul>
     </li>
 
 <li>
 
-        <div class="div-show-animes_" onclick="showAnimes('T')">
-            <i class="fa-solid fa-chevron-right right-chivron_"></i>
-            <h3>T</h3>
-        </div>
+<h2><a href="https://animerulz.in/atozlist/t">T</a></h2>
         <ul id="T" class="data-items-sub-sub-container_">
 
 <li><a href="../thegeneofai"><h3>The Gene of AI</h3></a></li>
@@ -6667,15 +6619,12 @@ There are over 4000 animes available in Animerulz website where you can navigate
 
 <li><a href="../thelastsummoner"><h3>The Last Summoner</h3></a></li>
 
-        </ul>
+</ul>
     </li>
 
 <li>
 
-        <div class="div-show-animes_" onclick="showAnimes('U')">
-            <i class="fa-solid fa-chevron-right right-chivron_"></i>
-            <h3>U</h3>
-        </div>
+<h2><a href="https://animerulz.in/atozlist/u">U</a></h2>
         <ul id="U" class="data-items-sub-sub-container_">
 
 <li><a href="../unchartedwalker"><h3>Uncharted Walker</h3></a></li>
@@ -6758,15 +6707,11 @@ There are over 4000 animes available in Animerulz website where you can navigate
 
 <li><a href="../unlimitedpsychicsquad"><h3>Unlimited Psychic Squad</h3></a></li>
 
-        </ul>
+</ul>
     </li>
 
 <li>
-
-        <div class="div-show-animes_" onclick="showAnimes('V')">
-            <i class="fa-solid fa-chevron-right right-chivron_"></i>
-            <h3>V</h3>
-        </div>
+<h2><a href="https://animerulz.in/atozlist/v">V</a></h2>
         <ul id="V" class="data-items-sub-sub-container_">
 
 <li><a href="../venustomamoru"><h3>Venus to Mamoru!</h3></a></li>
@@ -6809,15 +6754,11 @@ There are over 4000 animes available in Animerulz website where you can navigate
 
 <li><a href="../vladlove"><h3>Vlad Love</h3></a></li>
 
-        </ul>
+</ul>
     </li>
 
 <li>
-
-        <div class="div-show-animes_" onclick="showAnimes('W')">
-            <i class="fa-solid fa-chevron-right right-chivron_"></i>
-            <h3>W</h3>
-        </div>
+<h2><a href="https://animerulz.in/atozlist/w">W</a></h2>
         <ul id="W" class="data-items-sub-sub-container_">
 
 <li><a href="../worldwarblue"><h3>World War Blue</h3></a></li>
@@ -6990,15 +6931,12 @@ There are over 4000 animes available in Animerulz website where you can navigate
 
 <li><a href="../warringstatesofamillenia"><h3>Warring States Of A Millenia</h3></a></li>
 
-        </ul>
+</ul>
     </li>
 
 <li>
 
-        <div class="div-show-animes_" onclick="showAnimes('X')">
-            <i class="fa-solid fa-chevron-right right-chivron_"></i>
-            <h3>X</h3>
-        </div>
+<h2><a href="https://animerulz.in/atozlist/x">X</a></h2>
         <ul id="X" class="data-items-sub-sub-container_">
 
 <li><a href="../xinjue"><h3>Xin Jue</h3></a></li>
@@ -7011,15 +6949,12 @@ There are over 4000 animes available in Animerulz website where you can navigate
 
 <li><a href="../xxxholicrou"><h3>xxxHOLiC Rou</h3></a></li>
 
-        </ul>
+</ul>
     </li>
 
 <li>
 
-        <div class="div-show-animes_" onclick="showAnimes('Y')">
-            <i class="fa-solid fa-chevron-right right-chivron_"></i>
-            <h3>Y</h3>
-        </div>
+<h2><a href="https://animerulz.in/atozlist/y">Y</a></h2>
         <ul id="Y" class="data-items-sub-sub-container_">
 
 <li><a href="../yamadasfirsttimebgatahkei"><h3>Yamada's First Time: B Gata H Kei</h3></a></li>
@@ -7186,15 +7121,12 @@ There are over 4000 animes available in Animerulz website where you can navigate
 
 <li><a href="../yaochinesefolktales"><h3>Yao-Chinese Folktales</h3></a></li>
 
-        </ul>
+</ul>
     </li>
 
 <li>
 
-        <div class="div-show-animes_" onclick="showAnimes('Z')">
-            <i class="fa-solid fa-chevron-right right-chivron_"></i>
-            <h3>Z</h3>
-        </div>
+<h2><a href="https://animerulz.in/atozlist/z">Z</a></h2>
         <ul id="Z" class="data-items-sub-sub-container_">
 
 <li><a href="../zenki"><h3>Zenki</h3></a></li>
@@ -7229,7 +7161,7 @@ There are over 4000 animes available in Animerulz website where you can navigate
 
 <li><a href="../zombielandsaga"><h3>Zombie Land Saga</h3></a></li>
 
-        </ul>
+</ul>
     </li>
 
-                        </ul>
+</ul>
