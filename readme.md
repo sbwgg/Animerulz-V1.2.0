@@ -526,12 +526,9 @@ There are over 4000 animes available in Animerulz website where you can navigate
 
 <li><a href="../areyouok"><h3>Are You Ok</h3></a></li>
 
-        </ul>
-    </li>
-
 <li>
 
-        <h2><a href="https://animerulz.in/atozlist/b">B</a></h2>
+<h2><a href="https://animerulz.in/atozlist/b">B</a></h2>
         <ul id="B" class="data-items-sub-sub-container_">
 
 <li><a href="../bluerthanindigofate"><h3>Bluer Than Indigo: Fate</h3></a></li>
@@ -979,9 +976,6 @@ There are over 4000 animes available in Animerulz website where you can navigate
 <li><a href="../beasttamer"><h3>Beast Tamer</h3></a></li>
 
 <li><a href="../blastoftempest"><h3>Blast of Tempest</h3></a></li>
-
-        </ul>
-    </li>
 
 <li>
 
