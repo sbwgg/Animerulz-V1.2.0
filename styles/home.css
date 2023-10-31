@@ -82,14 +82,14 @@ a{
   display: flex;
 }
 .r-container-pg{
-  width: calc(100% - 300px);
+  width: calc(100% - 200px);
 }
 .ad-unit-n-a{
   height: 700px;
   max-height: 700px;
 }
 .pg-left-container{
-  width: 300px;
+  width: 200px;
 }
 @media only screen and (max-width:1000px){
   .ad-unit-n-a{
@@ -106,6 +106,7 @@ a{
     margin-inline: auto;
   }
   .ad-unit-n-a{
+    height: auto;
     max-height: 300px;
   }
   .r-container-pg{
