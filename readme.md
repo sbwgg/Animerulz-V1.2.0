@@ -531,10 +531,7 @@ There are over 4000 animes available in Animerulz website where you can navigate
 
 <li>
 
-        <div class="div-show-animes_" onclick="showAnimes('B')">
-            <i class="fa-solid fa-chevron-right right-chivron_"></i>
-            <h3>B</h3>
-        </div>
+        <h2><a href="https://animerulz.in/atozlist/b">B</a></h2>
         <ul id="B" class="data-items-sub-sub-container_">
 
 <li><a href="../bluerthanindigofate"><h3>Bluer Than Indigo: Fate</h3></a></li>
@@ -988,10 +985,7 @@ There are over 4000 animes available in Animerulz website where you can navigate
 
 <li>
 
-        <div class="div-show-animes_" onclick="showAnimes('C')">
-            <i class="fa-solid fa-chevron-right right-chivron_"></i>
-            <h3>C</h3>
-        </div>
+        <h2><a href="https://animerulz.in/atozlist/c">C</a></h2>
         <ul id="C" class="data-items-sub-sub-container_">
 
 <li><a href="../cyberteaminakihabara"><h3>Cyber Team in Akihabara</h3></a></li>
