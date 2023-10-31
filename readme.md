@@ -9,13 +9,10 @@ There are over 4000 animes available in Animerulz website where you can navigate
 
 <ul class="data-items-sub-data">
                             
-    <li>
-    
-        <div class="div-show-animes_" onclick="showAnimes('A')">
-            <i class="fa-solid fa-chevron-right right-chivron_"></i>
-            <h3>A</h3>
-        </div>
-        <ul id="A" class="data-items-sub-sub-container_">
+<li>
+<h2><a href="https://animerulz.in/atozlist/a">A</a></h2>
+
+<ul id="A" class="data-items-sub-sub-container_">
             
 <li><a href="../age12"><h3>Age 12.</h3></a></li>
 
@@ -540,7 +537,6 @@ There are over 4000 animes available in Animerulz website where you can navigate
         </div>
         <ul id="B" class="data-items-sub-sub-container_">
 
-
 <li><a href="../bluerthanindigofate"><h3>Bluer Than Indigo: Fate</h3></a></li>
 
 <li><a href="../bluerthanindigofatemiyuki"><h3>Bluer Than Indigo: Fate - Miyuki</h3></a></li>
@@ -998,7 +994,6 @@ There are over 4000 animes available in Animerulz website where you can navigate
         </div>
         <ul id="C" class="data-items-sub-sub-container_">
 
-
 <li><a href="../cyberteaminakihabara"><h3>Cyber Team in Akihabara</h3></a></li>
 
 <li><a href="../comicalpsychosomaticmedicine"><h3>Comical Psychosomatic Medicine</h3></a></li>
@@ -1317,7 +1312,6 @@ There are over 4000 animes available in Animerulz website where you can navigate
             <h3>D</h3>
         </div>
         <ul id="D" class="data-items-sub-sub-container_">
-
 
 <li><a href="../dimensionhighschool"><h3>Dimension High School</h3></a></li>
 
@@ -1686,7 +1680,6 @@ There are over 4000 animes available in Animerulz website where you can navigate
         </div>
         <ul id="E" class="data-items-sub-sub-container_">
 
-
 <li><a href="../epicofdivinitylight"><h3>Epic of Divinity Light</h3></a></li>
 
 <li><a href="../esotherwise"><h3>E's Otherwise</h3></a></li>
@@ -1789,7 +1782,6 @@ There are over 4000 animes available in Animerulz website where you can navigate
             <h3>F</h3>
         </div>
         <ul id="F" class="data-items-sub-sub-container_">
-
 
 <li><a href="../flowersofevil"><h3>Flowers of Evil</h3></a></li>
 
@@ -2037,7 +2029,6 @@ There are over 4000 animes available in Animerulz website where you can navigate
             <h3>G</h3>
         </div>
         <ul id="G" class="data-items-sub-sub-container_">
-
 
 <li><a href="../galaxydevastator"><h3>Galaxy Devastator</h3></a></li>
 
@@ -2460,7 +2451,6 @@ There are over 4000 animes available in Animerulz website where you can navigate
         </div>
         <ul id="H" class="data-items-sub-sub-container_">
 
-
 <li><a href="../haganaiidonthavemanyfriends"><h3>Haganai: I don't have many friends</h3></a></li>
 
 <li><a href="../haganaiidonthavemanyfriendsnext"><h3>Haganai: I don't have many friends NEXT</h3></a></li>
@@ -2840,7 +2830,6 @@ There are over 4000 animes available in Animerulz website where you can navigate
         </div>
         <ul id="I" class="data-items-sub-sub-container_">
 
-
 <li><a href="../imthevillainesssoimtamingthefinalboss"><h3>I'm the Villainess, So I'm Taming the Final Boss</h3></a></li>
 
 <li><a href="../intrigueinthebakumatsuirohanihoheto"><h3>Intrigue in the Bakumatsu: Irohanihoheto</h3></a></li>
@@ -3132,7 +3121,6 @@ There are over 4000 animes available in Animerulz website where you can navigate
         </div>
         <ul id="J" class="data-items-sub-sub-container_">
 
-
 <li><a href="../junjiitomaniacjapanesetalesofthemacabre"><h3>Junji Ito Maniac: Japanese Tales of the Macabre</h3></a></li>
 
 <li><a href="../jackandthebeanstalk"><h3>Jack and the Beanstalk</h3></a></li>
@@ -3217,7 +3205,6 @@ There are over 4000 animes available in Animerulz website where you can navigate
             <h3>K</h3>
         </div>
         <ul id="K" class="data-items-sub-sub-container_">
-
 
 <li><a href="../killerseven"><h3>Killer Seven</h3></a></li>
 
@@ -3548,7 +3535,6 @@ There are over 4000 animes available in Animerulz website where you can navigate
         </div>
         <ul id="L" class="data-items-sub-sub-container_">
 
-
 <li><a href="../lovechunibyootherdelusions"><h3>Love, Chunibyo & Other Delusions!</h3></a></li>
 
 <li><a href="../lovechunibyootherdelusions2ndseasonheartthrob"><h3>Love, Chunibyo & Other Delusions! 2nd Season: Heart Throb</h3></a></li>
@@ -3809,7 +3795,6 @@ There are over 4000 animes available in Animerulz website where you can navigate
             <h3>M</h3>
         </div>
         <ul id="M" class="data-items-sub-sub-container_">
-
 
 <li><a href="../marchcomesinlikealion"><h3>March comes in like a lion</h3></a></li>
 
@@ -4356,7 +4341,6 @@ There are over 4000 animes available in Animerulz website where you can navigate
         </div>
         <ul id="N" class="data-items-sub-sub-container_">
 
-
 <li><a href="../neighborhoodstories"><h3>Neighborhood Stories</h3></a></li>
 
 <li><a href="../neighborhoodstorythemovie"><h3>Neighborhood Story The Movie</h3></a></li>
@@ -4562,7 +4546,6 @@ There are over 4000 animes available in Animerulz website where you can navigate
         </div>
         <ul id="O" class="data-items-sub-sub-container_">
 
-
 <li><a href="../outburstdreamerboys"><h3>Outburst Dreamer Boys</h3></a></li>
 
 <li><a href="../originaldirtypairflight005conspiracy"><h3>Original Dirty Pair: Flight 005 Conspiracy</h3></a></li>
@@ -4735,7 +4718,6 @@ There are over 4000 animes available in Animerulz website where you can navigate
             <h3>P</h3>
         </div>
         <ul id="P" class="data-items-sub-sub-container_">
-
 
 <li><a href="../pleasetakemybrotheraway3rdseason"><h3>Please Take My Brother Away 3rd Season</h3></a></li>
 
@@ -4982,7 +4964,6 @@ There are over 4000 animes available in Animerulz website where you can navigate
         </div>
         <ul id="Q" class="data-items-sub-sub-container_">
 
-
 <li><a href="../qinxia"><h3>Qin Xia</h3></a></li>
 
 <li><a href="../qualideacode"><h3>Qualidea Code</h3></a></li>
@@ -5015,7 +4996,6 @@ There are over 4000 animes available in Animerulz website where you can navigate
             <h3>R</h3>
         </div>
         <ul id="R" class="data-items-sub-sub-container_">
-
 
 <li><a href="../rowdysumowrestlermatsutaro"><h3>Rowdy Sumo Wrestler Matsutaro!!</h3></a></li>
 
@@ -5255,7 +5235,6 @@ There are over 4000 animes available in Animerulz website where you can navigate
             <h3>S</h3>
         </div>
         <ul id="S" class="data-items-sub-sub-container_">
-
 
 <li><a href="../snowwhitewiththeredhair"><h3>Snow White with the Red Hair</h3></a></li>
 
@@ -5979,7 +5958,6 @@ There are over 4000 animes available in Animerulz website where you can navigate
             <h3>T</h3>
         </div>
         <ul id="T" class="data-items-sub-sub-container_">
-
 
 <li><a href="../thegeneofai"><h3>The Gene of AI</h3></a></li>
 
@@ -6712,7 +6690,6 @@ There are over 4000 animes available in Animerulz website where you can navigate
         </div>
         <ul id="U" class="data-items-sub-sub-container_">
 
-
 <li><a href="../unchartedwalker"><h3>Uncharted Walker</h3></a></li>
 
 <li><a href="../uselesswitchdoremikaboom"><h3>Useless Witch Doremi Kaboom!</h3></a></li>
@@ -6804,7 +6781,6 @@ There are over 4000 animes available in Animerulz website where you can navigate
         </div>
         <ul id="V" class="data-items-sub-sub-container_">
 
-
 <li><a href="../venustomamoru"><h3>Venus to Mamoru!</h3></a></li>
 
 <li><a href="../valxlove"><h3>Val x Love</h3></a></li>
@@ -6855,7 +6831,6 @@ There are over 4000 animes available in Animerulz website where you can navigate
             <h3>W</h3>
         </div>
         <ul id="W" class="data-items-sub-sub-container_">
-
 
 <li><a href="../worldwarblue"><h3>World War Blue</h3></a></li>
 
@@ -7038,7 +7013,6 @@ There are over 4000 animes available in Animerulz website where you can navigate
         </div>
         <ul id="X" class="data-items-sub-sub-container_">
 
-
 <li><a href="../xinjue"><h3>Xin Jue</h3></a></li>
 
 <li><a href="../xueyinglingzhu"><h3>Xue Ying Ling Zhu</h3></a></li>
@@ -7059,7 +7033,6 @@ There are over 4000 animes available in Animerulz website where you can navigate
             <h3>Y</h3>
         </div>
         <ul id="Y" class="data-items-sub-sub-container_">
-
 
 <li><a href="../yamadasfirsttimebgatahkei"><h3>Yamada's First Time: B Gata H Kei</h3></a></li>
 
@@ -7235,7 +7208,6 @@ There are over 4000 animes available in Animerulz website where you can navigate
             <h3>Z</h3>
         </div>
         <ul id="Z" class="data-items-sub-sub-container_">
-
 
 <li><a href="../zenki"><h3>Zenki</h3></a></li>
 
