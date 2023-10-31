@@ -1,0 +1,1 @@
+This Github Repository contains all the data that is being used in (Animerulz)[https://animerulz.in/] website. In this site everyone can watch anime in many languages like (Telugu)[https://animerulz.in/telugudubbed/] and many more.
