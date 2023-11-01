@@ -361,7 +361,10 @@ try{
 
     if (!activeAnimeNewEpi)
         activeAnimeNewEpi = 1;
-    document.getElementsByClassName("btns-in-data")[0].getElementsByTagName("a")[0].setAttribute("href", "/" + activeAnimeNew +  "/Watch-Now/?ep=" + activeAnimeNewEpi + "&aud=" + localStorage.getItem("presentAudioAnimerulzAnime-" + activeAnimeNew)); 
+    let tttt = localStorage.getItem("lastClickedButtonAudio" + nnnnn);
+    if(!tttt)
+        tttt = 'jap';
+    document.getElementsByClassName("btns-in-data")[0].getElementsByTagName("a")[0].setAttribute("href", "/" + activeAnimeNew +  "/Watch-Now/?ep=" + activeAnimeNewEpi + "&aud=" + tttt); 
     // document.getElementsByClassName('button-read-manga')[0].setAttribute("onclick", "window.open('https://mangareader.to/')");
 }
 catch{}
