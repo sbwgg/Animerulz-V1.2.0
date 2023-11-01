@@ -350,14 +350,16 @@ try{
     // console.log(localStorage.getItem("lastClickedButtonOnePiece")
     let check = document.getElementsByClassName("active-page-tag-season")[0];
     let activeAnimeNew;
-    if(check === undefined){
-        activeAnimeNew = document.getElementById("active-page-tag").textContent.replace(/[^a-zA-Z0-9]/g, "").toLowerCase().trim();
+    if(!check){
+        nnnnn = document.getElementById("active-page-tag").textContent.replace(/[^a-zA-Z0-9]/g, "");
+        activeAnimeNew = nnnnn.toLowerCase().trim();
         // console.log(activeAnimeNew);
     }
     // console.log(document.getElementsByClassName("btns-in-data")[0].getElementsByTagName("a")[0]);
-    let activeAnimeNewEpi = localStorage.getItem(activeAnimeNew + '-last-clicked-episode');
+    let abbb = localStorage.getItem('lastClickedButton' + nnnnn).split('-');
+    let activeAnimeNewEpi = abbb[abbb.length - 1];
 
-    if (activeAnimeNewEpi == undefined)
+    if (!activeAnimeNewEpi)
         activeAnimeNewEpi = 1;
     document.getElementsByClassName("btns-in-data")[0].getElementsByTagName("a")[0].setAttribute("href", "/" + activeAnimeNew +  "/Watch-Now/?ep=" + activeAnimeNewEpi + "&aud=" + localStorage.getItem("presentAudioAnimerulzAnime-" + activeAnimeNew)); 
     // document.getElementsByClassName('button-read-manga')[0].setAttribute("onclick", "window.open('https://mangareader.to/')");
