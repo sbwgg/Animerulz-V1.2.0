@@ -901,7 +901,7 @@ try{
     }
     function setUpdatedTime(data){
         let animeUpdatedTimeElement = document.querySelector(".time-index");
-        if(data['endDate']['year']){
+        if(!data['nextAiringEpisode']['timeUntilAiring']){
             animeUpdatedTimeElement.innerHTML = `<i class="fa-solid fa-clock"></i>&nbsp;<span>Updated on ${data['endDate']['year']}/${data['endDate']['month']}</span>`; 
         }else{
             // animeUpdatedTimeElement.innerText
