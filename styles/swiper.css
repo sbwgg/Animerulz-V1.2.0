@@ -402,6 +402,10 @@ background-color: #faa300;
 .slideshow-navigation-button{
   display: none;
 }
+.slider{
+  /* z-index: 10; */
+  padding-top: 80px;   
+}
 }
 @media only screen and (max-width:850px){
 .slideshow-navigation-button{
@@ -432,10 +436,6 @@ background-color: #faa300;
 }
 }
 @media only screen and (max-width:600px){
-.slider{
-  /* z-index: 10; */
-  padding-top: 80px;   
-}
 .slideshow-pagination{
   top: 10px;
 }
