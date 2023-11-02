@@ -895,7 +895,7 @@ try{
         // console.log(data);
         let animeSubEpisodes = document.querySelector(".list-ele-b-h.subbed-anime-txt__").getElementsByTagName("span")[0];
         let currentSubEpisodes;
-        if(data['nextAiringEpisode']['episode']){
+        if(data['nextAiringEpisode']){
             currentSubEpisodes = data['nextAiringEpisode']['episode'] - 1;
         }else{
             currentSubEpisodes = data['episodes'];
