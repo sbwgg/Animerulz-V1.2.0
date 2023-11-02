@@ -1011,7 +1011,9 @@ try{
                     ${nextEpisodeDataNew} 
                 </span>`
             }else{
-                animeNextAiringEpisodeDivision.style.display = 'none';
+                try{
+                    animeNextAiringEpisodeDivision.style.display = 'none';
+                }catch{}
             }
         }
     }
