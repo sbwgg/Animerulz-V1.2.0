@@ -86,9 +86,24 @@ html{
   /* height:500px; */
   border: 0;
   width: 100%;
-  min-height: 280px;
+  min-height: 600px;
   /* position: absolute; */
   z-index: -1;
+}
+@media only screen and (max-width:1000px){
+  .video-player{
+    min-height: 500px;
+  }
+}
+@media only screen and (max-width:800px){
+  .video-player{
+    min-height: 400px;
+  }
+}
+@media only screen and (max-width:600px){
+  .video-player{
+    min-height: 300px;
+  }
 }
 .loader-rings{
   width: 150px;
