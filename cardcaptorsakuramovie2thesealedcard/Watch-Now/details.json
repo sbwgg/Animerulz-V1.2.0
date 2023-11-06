@@ -1,13 +1,29 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=cardcaptor-sakura-the-sealed-card-episode-",
-        "down_links": [
-            "NDA4MzU="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/97358e035212c7f1a9d5876094a3c8d91ce3ccdfcda94f23fd3ad4ca28b9e50645e753bd89c3507c6168a5eaa221ebb26b30b530fdd04b8797b43394d1bee471a0aaad41c4070f5557ca46397c4cba180eb0840c177ebdc498c3532c328fb23dbf66fffac73c02c021ee56b41a71e6dbcf5ae328a5a7374d782b4413ffcde926/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/a2/8e/a28e16c55258a1be23ef87d6429bb564/a28e16c55258a1be23ef87d6429bb564.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www006.vipanicdn.net/streamhls/6c4cba2a6313dd6e21317bd4eb601c3a/ep.1.1677659343.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=cardcaptor-sakura-the-sealed-card-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=cardcaptor-sakura-the-sealed-card-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA4MzU="
+        },
+        "intro": null
+    }
 }

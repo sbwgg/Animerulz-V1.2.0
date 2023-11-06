@@ -1,24 +1,28 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=digimon-adventure-tri-3-kokuhaku-episode-",
-        "down_links": [
-            "NzY1Mzg=",
-            "NzY1Mzk=",
-            "NzY1NDA=",
-            "NzY1NDE=",
-            "NzY1NDI="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=digimon-adventure-tri-3-kokuhaku-dub-episode-",
-        "down_links": [
-            "MTQ2NzQ4"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www009.vipanicdn.net/streamhls/208c2b6621c8e12453af957073bbb6e2/ep.1.1677671015.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=digimon-adventure-tri-3-kokuhaku-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www019.vipanicdn.net/streamhls/5a0080cdddfa0832a7e604a8acb182a9/ep.1.1677700708.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=digimon-adventure-tri-3-kokuhaku-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NzY1Mzg=",
+            "DUBBED": "MTQ2NzQ4"
+        }
+    }
 }

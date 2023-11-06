@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=sakasama-no-patema-episode-",
-        "down_links": [
-            "NDMzOTE="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=sakasama-no-patema-dub-episode-",
-        "down_links": [
-            "MTY5MzAx"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/22c70043d9fd8aebe8f342388a5ef72ccfb0d7c9ce29dc32e71f64f605e71839b3d46b37a9cec40261c6fe165f9819af3f8f81ee2ffddbdf0ec338476b3fdfec27969f5dcef86c6a4a6e1fb10bdaf944932273de1fde299e7f919b185c5c4f5f87b227a7d3ecf79ecd91503b54567ffdfcc3da02a8b48edd0a7d5e3ab9c2440d/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/75/55/75554e0754e0e2f69372dfb42e757082/75554e0754e0e2f69372dfb42e757082.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www012.vipanicdn.net/streamhls/d9e66baa276b91fd9567bd83529f6363/ep.1.1677623019.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=sakasama-no-patema-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www012.vipanicdn.net/streamhls/4fdb52f9c8ae922b7d30443c10ad652e/ep.1.1677627233.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=sakasama-no-patema-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDMzOTE=",
+            "DUBBED": "MTY5MzAx"
+        },
+        "intro": null
+    }
 }

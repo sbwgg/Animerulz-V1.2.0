@@ -1,13 +1,29 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=mahouka-koukou-no-rettousei-movie-hoshi-wo-yobu-shoujo-episode-",
-        "down_links": [
-            "MTAzNjYw"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/8f217a534f2eaac6018d030f89c0146bba039a6dd42dfba63126e774e042606e9f9658f524bdad32528f10f0184dd8ef38a0f87f3bca18852adb527b003435e6eda3bf035da28aad4f6b3fb775614dbfe9c33fabfe4b974ee3191101b40b06a7ce37534895ae9e32faa1552b936cb2f9408feb2dae192232399c76424c8f507b/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/a5/70/a5707c13d3ff204c76e8547aa96447bb/eng-2.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www011.vipanicdn.net/streamhls/aef1a1b39759c0158bf666a740352024/ep.1.1677690166.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=mahouka-koukou-no-rettousei-movie-hoshi-wo-yobu-shoujo-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=mahouka-koukou-no-rettousei-movie-hoshi-wo-yobu-shoujo-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTAzNjYw"
+        },
+        "intro": null
+    }
 }

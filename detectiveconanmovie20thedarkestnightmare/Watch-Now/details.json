@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=detective-conan-movie-20-the-darkest-nightmare-episode-",
-        "down_links": [
-            "ODA3NjQ="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=detective-conan-movie-20-the-darkest-nightmare-dub-episode-",
-        "down_links": [
-            "MTQ5NjUy"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/5736fa2b3a8b265f36e0c5020ddb5322bcb41ebfac0bf7aa004d403aebde25a7f7bd23e859495ab113764a2baf71fc191c7b57d88a8db47c7b23faee45033782547132b706e84d661e4e93670a3ab61ea810ea06294ed634c71a81220dfc800cc68a8c7b9fb607a37ac7f2a435164d57558129b44ece069afaf011eb6d98f439/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/e4/ea/e4eafc827fcdd3c8929e47560ae95707/e4eafc827fcdd3c8929e47560ae95707.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www005.vipanicdn.net/streamhls/2ffd4485d5594d068e690622732cfbec/ep.1.1677672175.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=detective-conan-movie-20-the-darkest-nightmare-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www013.vipanicdn.net/streamhls/b63f0dbde0a33515ac455d35d270e033/ep.1.1677700692.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=detective-conan-movie-20-the-darkest-nightmare-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "ODA3NjQ=",
+            "DUBBED": "MTQ5NjUy"
+        },
+        "intro": null
+    }
 }

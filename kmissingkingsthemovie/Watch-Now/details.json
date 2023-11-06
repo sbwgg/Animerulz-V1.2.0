@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=k-missing-kings-episode-",
-        "down_links": [
-            "NTY0MjI="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=k-missing-kings-dub-episode-",
-        "down_links": [
-            "MTA2OTY5"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/7094ff75cc12333c769596084bfd47d10023f52c2b4d40b96f553fb5ba1ffa447582c2f90d136e25aacee78de6aad24a6c58007dd716c4beb49ebd079becc7c90c28fb60f79483c7b6af47c67bea0e140c2f4b3d4479101b9068f6a76635dae22cffde65c6c6545c963b4abdaa8bf0ac90aca3a1ae6b91a644a3476cdcca138e/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/43/be/43be6370e2cf1575120ad01a9974721a/eng-2.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www023.vipanicdn.net/streamhls/3480058fc6de97cbd1ed107a5a3a5715/ep.1.1677697558.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=k-missing-kings-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www020.vipanicdn.net/streamhls/7f17938c9312e487df35c9ce1689ce7a/ep.1.1677684532.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=k-missing-kings-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NTY0MjI=",
+            "DUBBED": "MTA2OTY5"
+        },
+        "intro": null
+    }
 }

@@ -1,13 +1,29 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=lupin-iii-vs-detective-conan-the-movie-movie-episode-",
-        "down_links": [
-            "NDQ4ODc="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/dc2cf8cf2890658b1c215c89238c36b36ede7a6b6f3de29925a7265b1bc8d5257da847551a20ecded51bf574bbc80f9ae0ff21200a427e93b73dbc9581b0f5daa8503b02ddffe3628a23d87cd57fbe746c3bb823bee6c7dab4930d9d2b3960ca810a66f9382f657c244564da96b6ac7bf3edb9ce6f16c4b401daf57455e6a78b/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/ec/c1/ecc1b3ee91ef7e07fb5f6b5c2929f69e/ecc1b3ee91ef7e07fb5f6b5c2929f69e.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www008.vipanicdn.net/streamhls/c277452e0d505daa9768b5fc756b1962/ep.1.1677600836.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=lupin-iii-vs-detective-conan-the-movie-movie-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=lupin-iii-vs-detective-conan-the-movie-movie-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDQ4ODc="
+        },
+        "intro": null
+    }
 }

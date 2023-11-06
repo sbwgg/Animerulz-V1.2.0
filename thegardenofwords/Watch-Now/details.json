@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=kotonoha-no-niwa-episode-",
-        "down_links": [
-            "NDA2NTk="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=kotonoha-no-niwa-dub-episode-",
-        "down_links": [
-            "MTM1ODg2"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/3b901121fbc21af8bb2b504aa2f5286401d66a24529d3f1d8906a3d3c23ce2e6352c5a97e4178bfb0661ca1ee81d91342c32b3215067e766b5f74944557a87a5a2f8fd0ecbc1790beecbd2373da856087700128c77931e166922ffad550b67ec9dbb7214ec019affff2551ba52fbfcff68084007504c3a765336d15bb9be9c59/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/e2/c7/e2c7ecceea34b13761b54cda567b9e63/eng-2.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www010.vipanicdn.net/streamhls/bd32e2371cda9342def90bc2c31b3a23/ep.1.1677597628.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=kotonoha-no-niwa-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www017.vipanicdn.net/streamhls/311fd741e881c1159c295ddbed2e8455/ep.1.1677699113.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=kotonoha-no-niwa-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA2NTk=",
+            "DUBBED": "MTM1ODg2"
+        },
+        "intro": null
+    }
 }

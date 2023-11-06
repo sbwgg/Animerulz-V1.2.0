@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=the-place-promised-in-our-early-days-episode-",
-        "down_links": [
-            "NDA0MDM="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=the-place-promised-in-our-early-days-dub-episode-",
-        "down_links": [
-            "OTE2NDc="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/e7e8b8c5ffed497d9fba205531db37945e71c55e96effb167ebcb4551cff80f2668d6e3d857731a5dd3ddd7ec4c1aaebe46d1dd9849e5486226e270be045b20db3a4a4a4c18caa9ede2a8c2d45b71c5f293d2b7c153f50bd2458212a220d42dab6db099a14d0a33bdc98532f7f8c6033b74942a912d2edce43436a2617aad905/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/ab/82/ab82c374a0ebd66e162c17cdfd3e8059/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www044.vipanicdn.net/streamhls/dd84378a4bfed35bbf2c7d965ed25e98/ep.1.1692893248.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=the-place-promised-in-our-early-days-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www048.vipanicdn.net/streamhls/c7d19148bbd234826ebe0e9fb2f676d3/ep.1.1692893305.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=the-place-promised-in-our-early-days-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA0MDM=",
+            "DUBBED": "OTE2NDc="
+        },
+        "intro": null
+    }
 }

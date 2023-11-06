@@ -1,15 +1,29 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=dragon-ball-z-movie-1-dead-zone-episode-",
-        "down_links": [
-            "NDA3MTY="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": [
-        1
-    ]
+    "1": {
+        "title": "Full",
+        "isFiller": true,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/8be08e03092c2ce00a118d26bddf0ef125db9441987aea58b542e5e58b6dda147a90ea34d281c29156c6f8cdf9ec6f7929fc1dec2962af90a3e563015bcf0a0ff6e0e6327f2a055812d1e486e0c2610bf14c6e6461c079adc472cf2925c09902d4405cac91d392bcf910422d19833621293356c5d6c60dd4b4939a74ec71323c/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/2c/0e/2c0ed71d79926880f8ace59db50c4ecd/eng-2.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www007.vipanicdn.net/streamhls/b3c5fb0276f1805c562c26bf07dd865f/ep.1.1677659516.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=dragon-ball-z-movie-1-dead-zone-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=dragon-ball-z-movie-1-dead-zone-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA3MTY="
+        },
+        "intro": null
+    }
 }

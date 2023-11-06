@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=ookami-kodomo-no-ame-to-yuki-episode-",
-        "down_links": [
-            "NDA1Mzk="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=ookami-kodomo-no-ame-to-yuki-dub-episode-",
-        "down_links": [
-            "MTQ3ODY4"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/4b8ca38e7e76555f90c5c6637a5743e8c1db3357d2cb3923551e126dd575342ca2074a8ee464b99e7c83952fc69e5ab1be2f682f3ffa40ae97056cdb2c1c0993a09b9b155aa472c8ef24af9d9e2176303181576698633e1993bc18fc173927a14a0e0c1051bb70c0d285500850c8b4a334c5b9cf3459834bd7ed108c3a03e9a6/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/d6/7d/d67d71f283ed26da6eadb2ed11d1cfd8/d67d71f283ed26da6eadb2ed11d1cfd8.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www050.vipanicdn.net/streamhls/305ba0393b274b9ee558fef783723dfd/ep.1.1686940772.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=ookami-kodomo-no-ame-to-yuki-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www029.vipanicdn.net/streamhls/619f44da814d391f71da2e64e87d973d/ep.1.1677704792.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=ookami-kodomo-no-ame-to-yuki-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA1Mzk=",
+            "DUBBED": "MTQ3ODY4"
+        },
+        "intro": null
+    }
 }

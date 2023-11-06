@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=cowboy-bebop-tengoku-no-tobira-episode-",
-        "down_links": [
-            "MTM5NTM2"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=cowboy-bebop-tengoku-no-tobira-dub-episode-",
-        "down_links": [
-            "MTM5NTM3"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/6713f71f88058f350c5ba38c215bff1859d98ca4d20a53a0ca717ce089134230146f50d82daf119f4c7226cd7494665bae8f24a5f1b63888476e983a6441dafeebf52e3f2227ec415fa2d4a7bf009473dc86f8e24ea3670ba056f29860dafdfa9690fbb0172dd2be2480a5144c2b08a63dac3cc8f814a8eede59aa898a66f723/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/d8/95/d895aff079f1e6b7f8b2316c24fb42d0/d895aff079f1e6b7f8b2316c24fb42d0.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www007.vipanicdn.net/streamhls/c5052b6d1148b2cd720d4b36902bff92/ep.1.1677692484.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=cowboy-bebop-tengoku-no-tobira-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www008.vipanicdn.net/streamhls/af81abfceb96eb2e7c981bb2ff92e70d/ep.1.1677611779.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=cowboy-bebop-tengoku-no-tobira-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTM5NTM2",
+            "DUBBED": "MTM5NTM3"
+        },
+        "intro": null
+    }
 }

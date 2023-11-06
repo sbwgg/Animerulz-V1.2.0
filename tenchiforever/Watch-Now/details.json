@@ -1,13 +1,24 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=tenchi-muyo-movie-3-tenchi-forever-episode-",
-        "down_links": [
-            "NDA4MjA="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www021.vipanicdn.net/streamhls/0702200e7ccf4abdec94fd7c63c8e7a2/ep.1.1677660218.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tenchi-muyo-movie-3-tenchi-forever-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tenchi-muyo-movie-3-tenchi-forever-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA4MjA="
+        }
+    }
 }

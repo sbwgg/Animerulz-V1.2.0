@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=dragon-ball-z-movie-15-fukkatsu-no-f-episode-",
-        "down_links": [
-            "NjkyNDE="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=dragon-ball-z-movie-15-fukkatsu-no-f-dub-episode-",
-        "down_links": [
-            "OTM2NDY="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/4fd0b3cbee6442cf78d336a9dbed46c671267f104582ac637035b77e4775403b97fd5e638a9e3f95e7a64470bbc45d95a6d6ec4d949603142a85c3ef0a3effafe7a9ea35a4daf119640cd072355dc70ac5579c6b7390fa6bfaa12b9d195c699ab274383a226185d7b6c6848560d0f0fa9a609c36756d11afa77d46d8d19640cf/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/68/eb/68ebb3f599798901d584810fabef4640/eng-4.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www002.vipanicdn.net/streamhls/ba0fd1427eaff016e65bf859ac399ff0/ep.1.1677605603.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=dragon-ball-z-movie-15-fukkatsu-no-f-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www017.vipanicdn.net/streamhls/855a6aa55437ab7f1860d8e8e71764f7/ep.1.1677678635.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=dragon-ball-z-movie-15-fukkatsu-no-f-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NjkyNDE=",
+            "DUBBED": "OTM2NDY="
+        },
+        "intro": null
+    }
 }

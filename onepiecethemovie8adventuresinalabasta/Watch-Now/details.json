@@ -1,13 +1,24 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=one-piece-movie-8-the-desert-princess-and-the-pirates-episode-",
-        "down_links": [
-            "NDA1NTc="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www028.vipanicdn.net/streamhls/1b774b8cdecac91566d098d8c2ec6758/ep.1.1677662237.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=one-piece-movie-8-the-desert-princess-and-the-pirates-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=one-piece-movie-8-the-desert-princess-and-the-pirates-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA1NTc="
+        }
+    }
 }

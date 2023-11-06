@@ -1,13 +1,29 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=pokemon-movie-2-maboroshi-no-pokemon-lugia-bakutan-episode-",
-        "down_links": [
-            "NDA0ODk="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/f31b6838c958ee886ac8384daf597948492df025ece0c64256d51500dcd4869b2023a5a9dd84a439c85f812f68bdb3ccedfc9eab2045d4957d11f4844ee98a4059724975962f51b09b90aff07cf9369d31befb1758975571cb0db88fb043e438148737b5c3d2e0923bcfff507be605db59248d042366dc5570b74aabc75c79c3/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/05/8d/058dbc60f5fe2a37278adaa2205885ad/058dbc60f5fe2a37278adaa2205885ad.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www050.vipanicdn.net/streamhls/4e1136f60590a7bf36b13041da22cbd8/ep.1.1696528293.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=pokemon-movie-2-maboroshi-no-pokemon-lugia-bakutan-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=pokemon-movie-2-maboroshi-no-pokemon-lugia-bakutan-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA0ODk="
+        },
+        "intro": null
+    }
 }

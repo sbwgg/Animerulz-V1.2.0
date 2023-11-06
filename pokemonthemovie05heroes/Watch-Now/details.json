@@ -1,13 +1,29 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=pokemon-movie-5-mizu-no-miyako-no-mamorigami-latias-to-latios-episode-",
-        "down_links": [
-            "NDA1MDE="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/ee6a4c7043fc99e46296eba0fb6804b1543c2d8d93392b7fdc4609d174de5dbb8b818198684efada2886673a43cdbdd4ff64a7fc7df4315f06623ca879c69adc2ed076b1c0654cc2bd2b58ea2bf97eb6e249c60ef1dffdfad56ced4e4736ec958a9f505c74cd0f942b08e54dbc918a6adaf56b968bb10e69d5a11606f7545e3c/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/10/fd/10fd0321c48146344500564c0feafbd9/10fd0321c48146344500564c0feafbd9.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www002.vipanicdn.net/streamhls/0f3314983769dc3a74ec0efd3e1debf3/ep.1.1677620971.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=pokemon-movie-5-mizu-no-miyako-no-mamorigami-latias-to-latios-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=pokemon-movie-5-mizu-no-miyako-no-mamorigami-latias-to-latios-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA1MDE="
+        },
+        "intro": null
+    }
 }

@@ -1,22 +1,28 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=naruto-shippuuden-movie-2-kizuna-episode-",
-        "down_links": [
-            "NDA1ODg="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=naruto-shippuuden-movie-2-kizuna-dub-episode-",
-        "down_links": [
-            "MTUzNzAx"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": [
-        1
-    ]
+    "1": {
+        "title": "Full",
+        "isFiller": true,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www029.vipanicdn.net/streamhls/7a5f81683439c04fa17f5250c3c5438f/ep.1.1677662670.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=naruto-shippuuden-movie-2-kizuna-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www012.vipanicdn.net/streamhls/9967a59cdec4d4c30e8035995abf2baf/ep.1.1677615469.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=naruto-shippuuden-movie-2-kizuna-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA1ODg=",
+            "DUBBED": "MTUzNzAx"
+        }
+    }
 }

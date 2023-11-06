@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=little-witch-academia-episode-",
-        "down_links": [
-            "NDEwMDc="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=little-witch-academia-dub-episode-",
-        "down_links": [
-            "OTY1OTk="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/253095f5a1057c41584cf16324ef5bd9ebf9ecf37eddf08c8ebffb9f06c89576ce519eb66cbaee4a42a18b6ddb77c48bcd9ec4aecd375ebf1db99c525532e1eae4713e8a5aebf2e3aedb103f7056e540cf2bb57e7978af4b6820b554e99885ab0cb7c7f12ad9013a218be7216586031ed4131dba56f9552aaa2510036ed10611/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/33/39/333957201bd1a7b61371307a713b4dc0/ara-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www028.vipanicdn.net/streamhls/a8a5c74c99b4839c2d420e2daac95b6c/ep.1.1677662554.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=little-witch-academia-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www030.vipanicdn.net/streamhls/a0f1b094766b04c84fbe5f7b6e499e33/ep.1.1677677628.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=little-witch-academia-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDEwMDc=",
+            "DUBBED": "OTY1OTk="
+        },
+        "intro": null
+    }
 }

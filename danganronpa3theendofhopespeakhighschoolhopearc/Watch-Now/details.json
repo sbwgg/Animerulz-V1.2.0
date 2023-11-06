@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=danganronpa-3-the-end-of-kibougamine-gakuen-kibou-hen-episode-",
-        "down_links": [
-            "NzY5MTg="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=danganronpa-3-the-end-of-kibougamine-gakuen-kibou-hen-dub-episode-",
-        "down_links": [
-            "ODA1MDk="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/c7dae7592aef4e8c90372ae5425f83c5c5f1dda9993d0ce22ce88a148df791041250c224db1121745d0b85113077ac4cc26e5fd2b05bdc3a02f2e805b520dd1117ce70ad96db1ed0b75ad718bcee613fc3d437cdffe06efcfaf6730652be5ed03bb8f5da3adfd41a5932bc5ff784a962954b6e82893721ba2bba053afd1cc634/master.m3u8",
+                    "captions": "https://imgb.megaresources.co/_a_preview/ad/ad6a8fc4e09a663d96628ab34c48c729/thumbnails/sprite.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www029.vipanicdn.net/streamhls/ad5f2403974d6aefb3ff1d40df04753b/ep.1.1677670679.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=danganronpa-3-the-end-of-kibougamine-gakuen-kibou-hen-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www020.vipanicdn.net/streamhls/565babddac0f58609fa4f1a0f6d42d66/ep.1.1677670286.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=danganronpa-3-the-end-of-kibougamine-gakuen-kibou-hen-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NzY5MTg=",
+            "DUBBED": "ODA1MDk="
+        },
+        "intro": null
+    }
 }

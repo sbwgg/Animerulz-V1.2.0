@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=lupin-iii-harimao-no-zaihou-wo-oe-episode-",
-        "down_links": [
-            "MTg2Njc4"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=lupin-iii-harimao-no-zaihou-wo-oe-dub-episode-",
-        "down_links": [
-            "MTg2Njc5"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/518ac9074760727ac0925aa2c6be6fab60ede50424d4eda840e4767e6d6a0f93e6237bf89ea112e2af3ced773f3187f52338c1df43db17877d7d4244ec13539718a3b147cf53880f845db0a62bcb200c69dd5206bd4afcc61f2653f62f037abab75fdd83db08d7ba3784f55392262251e6f4a5875f2348abae26364648ae853a/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/a0/37/a0378933c1f7b3b0950b928fb48f9cdd/eng-2.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www049.vipanicdn.net/streamhls/444e915b5260549cfc68cffd661efd49/ep.1.1677840083.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=lupin-iii-harimao-no-zaihou-wo-oe-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www050.vipanicdn.net/streamhls/b0188d83bc6063d56b04561a3c98daaf/ep.1.1677841642.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=lupin-iii-harimao-no-zaihou-wo-oe-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTg2Njc4",
+            "DUBBED": "MTg2Njc5"
+        },
+        "intro": null
+    }
 }

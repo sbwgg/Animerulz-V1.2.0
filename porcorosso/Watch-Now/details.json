@@ -1,13 +1,24 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=porco-rosso-episode-",
-        "down_links": [
-            "NDA5Mjg="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www009.vipanicdn.net/streamhls/1d4c93ff0cda39cb55535f90758a7085/ep.1.1677612948.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=porco-rosso-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=porco-rosso-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA5Mjg="
+        }
+    }
 }

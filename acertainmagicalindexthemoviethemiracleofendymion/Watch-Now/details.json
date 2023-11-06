@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=toaru-majutsu-no-index-endymion-no-kiseki-episode-",
-        "down_links": [
-            "NDAzOTk="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=toaru-majutsu-no-index-endymion-no-kiseki-dub-episode-",
-        "down_links": [
-            "OTE4ODc="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/b88f87b8f44741bf425c50883255a7e3039af822f7f0a6d04f2534a2e7524717975c44f5428f7837d73d703b326b16c03de87e6885db6872a5cb80a94bf56d870fa197d7a9969693c4b2e138b89b7f3801277ab70ecf0c0b757695e13fd29bfea63af7dba27f2012fb87b108ed521b5bb27b07acccb94cefc9d194a575185da7/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/c6/e9/c6e970b12b34446e488c7b6d6b527076/ara-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www020.vipanicdn.net/streamhls/2dc8df1e29bfb9e3784fec8e61dffce9/ep.1.1677660710.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=toaru-majutsu-no-index-endymion-no-kiseki-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www028.vipanicdn.net/streamhls/2038801006c0838fa4894558f0bdb218/ep.1.1677678459.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=toaru-majutsu-no-index-endymion-no-kiseki-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDAzOTk=",
+            "DUBBED": "OTE4ODc="
+        },
+        "intro": null
+    }
 }

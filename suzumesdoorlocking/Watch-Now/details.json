@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=suzume-no-tojimari-episode-",
-        "down_links": [
-            "MjAzMTM0"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=suzume-no-tojimari-dub-episode-",
-        "down_links": [
-            "MjAzMjg1"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/f8e33bf18ed46b6d4f4b8d081c7901099d1f3d2f901d9610c8a5477a3d4f08da271633fc57bc8c794c8f151ae4fe8799cc52bc7116b8a5dabbfa9007ce0ddccf2a822bcbee6074633a433613b93a8e9fd3a691d0d05cd2215ce33cd5f2bf352c8621a4ebf4412da773f4db95945f0970f26e389e7faf95e9c508c07628129acf/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/b8/7e/b87edafddd2ae64f7e007824e0be1f79/chi-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www045.vipanicdn.net/streamhls/d5974dabc9a9e71a0e517f13529b9366/ep.1.1689325661.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=suzume-no-tojimari-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www046.vipanicdn.net/streamhls/bd8b73d37c3fa9c005be7bbce69f5034/ep.1.1689354985.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=suzume-no-tojimari-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MjAzMTM0",
+            "DUBBED": "MjAzMjg1"
+        },
+        "intro": null
+    }
 }

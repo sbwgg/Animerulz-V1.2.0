@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=digimon-tamers-boukensha-tachi-no-tatakai-episode-",
-        "down_links": [
-            "NDA2MjM="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=digimon-tamers-boukensha-tachi-no-tatakai-dub-episode-",
-        "down_links": [
-            "MTYyMjcx"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/bdd80c9bf5b7e3f94a879581377f42a8a632c348ee44a277d1986b17fe37892f6dbc200b7cf6cdddf0651ebb682fd27cbbafe236c3d03bb3584bbf152572445bb5daf0cc0100d82234c70edd70b8121a53a5ee090ef333169e8c4edce8eeea5ccb463794798f6ba3a93a8a2603f90fc1c1cf8cc32f0ed79a6b5fef7ff495aaab/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/ed/b6/edb652b2df071f3be261421843ab6b7c/edb652b2df071f3be261421843ab6b7c.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www004.vipanicdn.net/streamhls/232dba4ae8f28c48aa1df3daa6f4f7f6/ep.1.1677659482.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=digimon-tamers-boukensha-tachi-no-tatakai-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www042.vipanicdn.net/streamhls/8b81057caf3a4a8c23cdfdee90a8b8b6/ep.1.1677845369.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=digimon-tamers-boukensha-tachi-no-tatakai-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA2MjM=",
+            "DUBBED": "MTYyMjcx"
+        },
+        "intro": null
+    }
 }

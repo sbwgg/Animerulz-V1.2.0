@@ -1,90 +1,815 @@
 {
-    "jap": {
-        "no_epi": "24",
-        "link": "https://player.ryuk.to?id=tokyo-revenger",
-        "down_links": [
-            "MTU2NjM5",
-            "MTU3ODI4",
-            "MTU4ODcz",
-            "MTU5NDUy",
-            "MTYwMTQ5",
-            "MTYwNjg0",
-            "MTYxMzE0",
-            "MTYxNzQ5",
-            "MTYyMjAz",
-            "MTYyNTc2",
-            "MTYzMjE4",
-            "MTYzNjk2",
-            "MTY0MTkz",
-            "MTY0NjQw",
-            "MTY1MDU5",
-            "MTY1NzUw",
-            "MTY2Mzc3",
-            "MTY2ODEx",
-            "MTY3NjEx",
-            "MTY4MDA3",
-            "MTY4NDk3",
-            "MTY5MTg4",
-            "MTY5ODEz",
-            "MTcwMjkx",
-            "MTcwNjgz"
-        ]
+    "1": {
+        "title": "Reborn",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/7ccd7c4bf0d12aecfdbb3bd9241bd3c20d1cf44d238adb369350d7975094bcb07724dd8619f135e51ea9103e5f1e076fd22feed0794cf2bfca4c92a469e387b923a80e35c45b0ee074d3a79ee4bf8ef1bab8e04be155e18ee627de65d2cf59fa6c67468216a2bdfab2d56c291a35cdc13c2d3f6538758a6330fde3365208e142/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/e1/3b/e13b3490c8edd4ef5f59fdd2acb969d0/ara-7.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www010.vipanicdn.net/streamhls/3d030273fe27c276a9b37b6226eab96b/ep.0.1677592636.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www001.vipanicdn.net/streamhls/35ae4cc5db9b5ef5d8deb3ec0161e903/ep.1.1677590218.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTU2NjM5",
+            "DUBBED": "MTYyMjEw"
+        },
+        "intro": null
     },
-    "eng": {
-        "no_epi": "24",
-        "link": "https://player.ryuk.to?id=tokyo-revengers-dub-episode-",
-        "down_links": [
-            "MTYyMjEw",
-            "MTYyNTgx",
-            "MTYzMjIx",
-            "MTYzNzA1",
-            "MTY0MjAy",
-            "MTY0NjQ3",
-            "MTY1MDY4",
-            "MTY1Nzk2",
-            "MTY2NDEw",
-            "MTY2ODI0",
-            "MTY3NjI2",
-            "MTY4MDEy",
-            "MTY4NTAz",
-            "MTY5MTk0",
-            "MTY5ODE3",
-            "MTcwMjkz",
-            "MTcwNjkx",
-            "MTcxMTg5",
-            "MTcyMDE3",
-            "MTcyMjk0",
-            "MTcyNzU1",
-            "MTczNDQ3",
-            "MTczODMx",
-            "MTc0MTUw"
-        ]
+    "2": {
+        "title": "Resist",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/eba19ac9594f197a71ba1c603451412e2a85d840eb21609573e296d0469e6b114c06a0735d243d4da2adbcb79053e24c0035ab8ced7d0b71ac76494c18a4a20a92fcf59e61e6c2e62b934b96dd2dde769ccc0c4a0638815b5510cecdb2bc337ab97770d387c406d10f39d9831ae54ef27f44189222885c827c2d671e69f47482/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/28/39/2839e213ca599d93157bff6569e90b82/ara-7.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www029.vipanicdn.net/streamhls/3d030273fe27c276a9b37b6226eab96b/ep.1.1677610738.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-episode-2"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www012.vipanicdn.net/streamhls/35ae4cc5db9b5ef5d8deb3ec0161e903/ep.2.1677609115.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-dub-episode-2"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTU3ODI4",
+            "DUBBED": "MTYyNTgx"
+        },
+        "intro": {
+            "start": 165,
+            "end": 254
+        }
     },
-    "episodes_names": [
-        "Reborn",
-        "Resist",
-        "Resolve",
-        "Return",
-        "Releap",
-        "Regret",
-        "Revive",
-        "Rechange",
-        "Revolt",
-        "Rerise",
-        "Respect",
-        "Revenge",
-        "Odds and Ends",
-        "Break up",
-        "No Pain, no gain",
-        "Once upon a time",
-        "No way",
-        "Open Fire",
-        "Turn around",
-        "Dead or Alive",
-        "One and only",
-        "One for all",
-        "End of war",
-        "A Cry baby"
-    ],
-    "fillers": []
+    "3": {
+        "title": "Resolve",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/3b314857d6787bba903c88937b07373c51bed5b65a5bb8eedbd92e1ceed57955f614407626c07fcc08e5b6b71033968a5dacd21c21458bce52f23d0db457f4e175938b058c00204b7540c6fdfcfabc3c2fd5f87611382b6fd52f5cab4445598b0b3dad8b0cbc5833c76a992fde32d0044bcfeddfa6d499c6786b92ccd79e9a0e/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/41/26/4126621adf5ba87d93911351755bb345/ara-7.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www024.vipanicdn.net/streamhls/3d030273fe27c276a9b37b6226eab96b/ep.2.1677609574.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-episode-3"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www022.vipanicdn.net/streamhls/35ae4cc5db9b5ef5d8deb3ec0161e903/ep.3.1677612101.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-dub-episode-3"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTU4ODcz",
+            "DUBBED": "MTYzMjIx"
+        },
+        "intro": {
+            "start": 18,
+            "end": 106
+        }
+    },
+    "4": {
+        "title": "Return",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/8de2bb491204b0803a58f37b966d217ddc7ce1b5edb6bcc6d8f7ca5057f522217a8833e84e5b8cd8b895d8a1038f1f170f1e87b7f844436a1a557e3ccd591a6560ec40e0254b184d4679f9f8b0da297c413f0202ab716928c2fe3ef0aacc9c753904bcf5edb513c67f5e798ce57794426720c249b3d745480443e0ec9cde05db/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/86/2c/862c105a9abbcc40731a4fe7ff0b1a16/ara-7.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www003.vipanicdn.net/streamhls/3d030273fe27c276a9b37b6226eab96b/ep.3.1677591720.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-episode-4"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www026.vipanicdn.net/streamhls/35ae4cc5db9b5ef5d8deb3ec0161e903/ep.4.1677648356.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-dub-episode-4"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTU5NDUy",
+            "DUBBED": "MTYzNzA1"
+        },
+        "intro": {
+            "start": 48,
+            "end": 136
+        }
+    },
+    "5": {
+        "title": "Releap",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/0af42883c1918380f80dd35790c9afacf948e17b3bfa85485dad570feb27b25453086625eeeccf149f32d889ce7a7ae4054ba3bf457fd7c5a74d3d8ffe97ac2d730a8cdd448389445b13ed7f7f70431bc79479e406c777612d95559466102d6d02266514013c0e5a99cc8d9122d9d39ea138fc6de69fe1321f13b2c105c4bc05/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/9b/56/9b56217ff562a72db12b656bbd705c15/ara-7.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www010.vipanicdn.net/streamhls/3d030273fe27c276a9b37b6226eab96b/ep.4.1677592653.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-episode-5"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www013.vipanicdn.net/streamhls/35ae4cc5db9b5ef5d8deb3ec0161e903/ep.5.1677638647.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-dub-episode-5"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTYwMTQ5",
+            "DUBBED": "MTY0MjAy"
+        },
+        "intro": {
+            "start": 2,
+            "end": 90
+        }
+    },
+    "6": {
+        "title": "Regret",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/a1ae5114803a8f987b245ad02e89ab0690dde0d0929680dddb49356aa6237ffc2a6e08615e49d85c0f090f81ffd6375609ed3f2e6d1d7891c6e521243ce9a8651a871554bf7128026440c984297112606edce0784b9ca13e79a761ad0a70250cb890e919483c54bd2dec4ba608706125a764022a4e716a008d6d6bad292e00f3/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/fb/21/fb216419d1fc7ba4c76b4ab52a7d5786/ara-8.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www005.vipanicdn.net/streamhls/3d030273fe27c276a9b37b6226eab96b/ep.5.1677592827.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-episode-6"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www008.vipanicdn.net/streamhls/35ae4cc5db9b5ef5d8deb3ec0161e903/ep.6.1677594074.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-dub-episode-6"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTYwNjg0",
+            "DUBBED": "MTY0NjQ3"
+        },
+        "intro": {
+            "start": 134,
+            "end": 222
+        }
+    },
+    "7": {
+        "title": "Revive",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/a3b4ee17aa61c00dbf30d0b05bb8b9b186616072b9c8f906ed08a96294ef6fe180e0c19ec5246a2f2c778af99b73776d539f8e1fd936daa1e1206edf9d17f4297d0cfb1ae20f685e827d9d209c094f02cb0fc930ee4be9701df635ddabebc6ba9cac0a14f642c3e0ab247c0fdf4c90be62070a903c955bb04988c7d1dc1045d2/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/c0/71/c071d28da3786a330655172cb8645212/ara-8.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www005.vipanicdn.net/streamhls/3d030273fe27c276a9b37b6226eab96b/ep.6.1677592938.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-episode-7"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www009.vipanicdn.net/streamhls/35ae4cc5db9b5ef5d8deb3ec0161e903/ep.7.1677594128.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-dub-episode-7"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTYxMzE0",
+            "DUBBED": "MTY1MDY4"
+        },
+        "intro": {
+            "start": 83,
+            "end": 171
+        }
+    },
+    "8": {
+        "title": "Rechange",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/c86c90955e8e5b2cb8b933787d3c30e7bb8588c56df644d516597f4c6ca404827ce344792e864dbb7c50c08e5167e06cce21867534a48434d9e2750cb91509c7acf864f2008921f75031d58786435beab94a202c4d211286d1ecf79ef3d3663add318b6acf703a9f59781b7efd27c2b626ae79c82c4f4dd80df99ebd39652593/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/c2/86/c286976443415cbb9581fb274cd83114/ara-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www040.vipanicdn.net/streamhls/3d030273fe27c276a9b37b6226eab96b/ep.7.1677836796.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-episode-8"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www047.vipanicdn.net/streamhls/35ae4cc5db9b5ef5d8deb3ec0161e903/ep.8.1677852805.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-dub-episode-8"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTYxNzQ5",
+            "DUBBED": "MTY1Nzk2"
+        },
+        "intro": {
+            "start": 31,
+            "end": 119
+        }
+    },
+    "9": {
+        "title": "Revolt",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/40a4928d2b2443351f5ad20bfdba4648b3ef41e281556c4e6805b3aeb741fa62067d4bb87c25279e66126bf48c0e4bfe927fe368f39de64540ac135ad3240aa93f0fa56b36b4bdd1f51f806bfce8eee3ed1b955ef09450dcafa9363877edb38f34b0eb69d5db6a70cb0534e307392e4f3d4481ce9c89a501bca73ff132d829d7/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/08/e8/08e8d9251420e0b58c57fe680e181723/ara-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www024.vipanicdn.net/streamhls/3d030273fe27c276a9b37b6226eab96b/ep.8.1677609722.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-episode-9"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www001.vipanicdn.net/streamhls/35ae4cc5db9b5ef5d8deb3ec0161e903/ep.9.1677594083.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-dub-episode-9"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTYyMjAz",
+            "DUBBED": "MTY2NDEw"
+        },
+        "intro": {
+            "start": 254,
+            "end": 343
+        }
+    },
+    "10": {
+        "title": "Rerise",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/3a5b9d31c561d8db264103af90f1fd153ee4865fc31b9429898b8f960979e0a281be427715418cd86b66cb6a9e607e5961bedbac24dc738e1d1d92130b9bc973330d4641e0ce1dfa4941053523cbc97dc372c7ca9b50734a88c6df47e9ac37dd3b7f741386cec1a2a35a3ed7fbf1dd51b0cf58632bc620aaf99c4570e90a04ee/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/c0/08/c0080698254df68f867d4d8b338d4bf8/ara-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www007.vipanicdn.net/streamhls/3d030273fe27c276a9b37b6226eab96b/ep.9.1677592605.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-episode-10"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www025.vipanicdn.net/streamhls/35ae4cc5db9b5ef5d8deb3ec0161e903/ep.10.1677651010.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-dub-episode-10"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTYyNTc2",
+            "DUBBED": "MTY2ODI0"
+        },
+        "intro": {
+            "start": 258,
+            "end": 347
+        }
+    },
+    "11": {
+        "title": "Respect",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/a0942ba606efb4674791e340717f16b169bbe1dbae88c9071729826bdb51564c571e775eebda397d3ec8f9aa8c84ec4d8924bee2f8947cf92faa988948ce7a43edb2d7180f3dfa723e69c1f1389f9e35f442a26c0649a54c9bdb521952db998d323e38edc378130dfdba1a6e92e6420447b56685efe19ba880c66697a21b8527/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/af/3f/af3f5717358dd6f443e777e1729aa53d/ara-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www019.vipanicdn.net/streamhls/3d030273fe27c276a9b37b6226eab96b/ep.10.1677608345.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-episode-11"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www047.vipanicdn.net/streamhls/35ae4cc5db9b5ef5d8deb3ec0161e903/ep.11.1696409162.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-dub-episode-11"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTYzMjE4",
+            "DUBBED": "MTY3NjI2"
+        },
+        "intro": {
+            "start": 170,
+            "end": 259
+        }
+    },
+    "12": {
+        "title": "Revenge",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/5909f071c91a80335d5534a4617c92c0e2dc267c3ed38f1b97da74aa9c3036d41105481d7fc017fc1bf849f208d4e13074675531491319f8a7335fdf559dacbfc364706da6df567667aa69084005f4de57c1b89433f963485ebff425cb5dee4997b881356bfda3a6fd146dd3f053ef0f6cd74bc5089559ad051ea36e97b92580/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/1f/5d/1f5d16bb0fc19863b9aef1e740333632/ara-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www017.vipanicdn.net/streamhls/3d030273fe27c276a9b37b6226eab96b/ep.11.1677608512.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-episode-12"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www043.vipanicdn.net/streamhls/35ae4cc5db9b5ef5d8deb3ec0161e903/ep.12.1677849297.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-dub-episode-12"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTYzNjk2",
+            "DUBBED": "MTY4MDEy"
+        },
+        "intro": {
+            "start": 183,
+            "end": 272
+        }
+    },
+    "13": {
+        "title": "Odds and Ends",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/950a154402a2ca9441b1eced4e12a3ac5b808b8d04866aeba2073f3c3241cd6782cec5111ad6c1f4f3ba7cdc622b5ba877d9755fd70619dd50edd28bc5c1420709ca9938b5d8fa3b720580554564dd6fb1c5bfa1d8d78d74891d8ac119423bbc0a9969a294ea8a516c7a0e9e1513ec296148d1813bfd0480f2e49355d34861e5/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/0a/2f/0a2f13721c459f26c930a7a8a6051383/ara-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www004.vipanicdn.net/streamhls/3d030273fe27c276a9b37b6226eab96b/ep.12.1677592856.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-episode-13"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www024.vipanicdn.net/streamhls/35ae4cc5db9b5ef5d8deb3ec0161e903/ep.13.1677649099.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-dub-episode-13"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTY0MTkz",
+            "DUBBED": "MTY4NTAz"
+        },
+        "intro": {
+            "start": 370,
+            "end": 459
+        }
+    },
+    "14": {
+        "title": "Break up",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/f20f1a6d45ec22aba382c93f712fc5ca1c0833138feb28339448ad76c4e30346efa5c8609735ef91bf5671b1f99c6782b33bd9c36549186703142c52a73976f5964acbc2e19a7f89460229cc11766f3a5384aac5003c9df5e4e1974130da21436cd9dfdec344c704493ba8e872abf71820ca135017c81b42cf8e4a73d9e42585/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/fa/70/fa70824e53cd8c30faf3f605373aff04/ara-9.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www001.vipanicdn.net/streamhls/3d030273fe27c276a9b37b6226eab96b/ep.13.1677588657.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-episode-14"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www045.vipanicdn.net/streamhls/35ae4cc5db9b5ef5d8deb3ec0161e903/ep.14.1677853784.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-dub-episode-14"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTY0NjQw",
+            "DUBBED": "MTY5MTk0"
+        },
+        "intro": {
+            "start": 105,
+            "end": 194
+        }
+    },
+    "15": {
+        "title": "No Pain, no gain",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/91e10fe93e20f9e79f40ab6de726594f39796a4abd77b509fc89bcb480fa486f86a947c31c072c0a08cf8e9bca0b91e813482a1949132d13359b6cc6bf54f4e3f0597ab8009f466ce8cc2be5799959089d795473de8f8de47bd4cc1915b68e5e346e2f48b64f833e63e07e08b0b28beb92116ddf4e41b59b8f756ba3076522fa/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/aa/46/aa46a6c5a71c3e48832db9f9dd09588c/ara-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www030.vipanicdn.net/streamhls/3d030273fe27c276a9b37b6226eab96b/ep.14.1677636226.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-episode-15"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www018.vipanicdn.net/streamhls/35ae4cc5db9b5ef5d8deb3ec0161e903/ep.15.1677611801.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-dub-episode-15"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTY1MDU5",
+            "DUBBED": "MTY5ODE3"
+        },
+        "intro": {
+            "start": 223,
+            "end": 312
+        }
+    },
+    "16": {
+        "title": "Once upon a time",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/1ab390993d5fc1ae7b336ac8cec92d8a86a4251f6accc2702d76a53abf3da938607682447b8187da9a6c99e85068cb324d98e5752505b1d9638f351a9179db8a65b18a3e7703c4403e8ea9a2b2d1e0033dd2e441f9d69623f03d6c9953c32dd8beda63d5c4ef9fd0e9ea57b680353e20b8f92d43e248704bf0a61ea70b2b1565/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/62/15/621531de520fb5f4d2c341dd1f3bef4a/ara-2.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www001.vipanicdn.net/streamhls/3d030273fe27c276a9b37b6226eab96b/ep.15.1677588888.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-episode-16"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www014.vipanicdn.net/streamhls/35ae4cc5db9b5ef5d8deb3ec0161e903/ep.16.1677615047.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-dub-episode-16"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTY1NzUw",
+            "DUBBED": "MTcwMjkz"
+        },
+        "intro": {
+            "start": 96,
+            "end": 185
+        }
+    },
+    "17": {
+        "title": "No way",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/6ae11b74c78302095c3940fbe47466d1a1f26824ec53d19f226fc7051cb839409dbec46d4ec34ba55e812dc8edac45b4e4dc9b607616e573088bda1395c69708de015f4be052dfd94b62ee404df941578fdd58f3ce8a0c069725a9bbdfb60a2e4ae504f144d4d28e2990b90cf2af724225be08205a83b9716c8306f10fece9f6/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/a7/2c/a72cc9b19ede74f1551c3fa43ad71788/ara-6.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www028.vipanicdn.net/streamhls/3d030273fe27c276a9b37b6226eab96b/ep.16.1677647946.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-episode-17"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www022.vipanicdn.net/streamhls/35ae4cc5db9b5ef5d8deb3ec0161e903/ep.17.1677614385.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-dub-episode-17"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTY2Mzc3",
+            "DUBBED": "MTcwNjkx"
+        },
+        "intro": {
+            "start": 266,
+            "end": 355
+        }
+    },
+    "18": {
+        "title": "Open Fire",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/e62dabd4406354de05e04a82bcb06564863eb61436eccaea71e4382c19f785256627e0d1b04c99c3c9750ccd3bfae31a870b4dc006843162de3b50e203bd5b31ca5726bfad72462fca7703f552954f9da1480e994f14ef29d43f7a0799395f5a550b2fd6749acf4d8108c4e0a74a826904b209487b8dd791bb72607ec98a61b0/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/b6/13/b6139eb88f91bd4e15287a3730d8a969/ara-9.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www012.vipanicdn.net/streamhls/3d030273fe27c276a9b37b6226eab96b/ep.17.1677608410.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-episode-18"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www010.vipanicdn.net/streamhls/35ae4cc5db9b5ef5d8deb3ec0161e903/ep.18.1677596121.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-dub-episode-18"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTY2ODEx",
+            "DUBBED": "MTcxMTg5"
+        },
+        "intro": {
+            "start": 189,
+            "end": 278
+        }
+    },
+    "19": {
+        "title": "Turn around",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/65179468ded09100e8cf14f7b2b44d36c2211a5f2c995fe0ad97525a04fdd9100dc4fd75a1f85c939a482e86aeaa32200f90271d9020c972b2bdf17edd99325fe8e9b5664663196ae2559fa1fb10a5c6d173b64dd56e32fb4ab226cfbde23c2226a5c696bc89781d07f41f738eb43bd1901a34f1396e9fb22369cd6ab59769a4/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/22/f3/22f34045c0b54c7a6b46fb3ab0f5fff4/ara-2.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www002.vipanicdn.net/streamhls/3d030273fe27c276a9b37b6226eab96b/ep.18.1677592220.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-episode-19"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www048.vipanicdn.net/streamhls/35ae4cc5db9b5ef5d8deb3ec0161e903/ep.19.1677845366.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-dub-episode-19"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTY3NjEx",
+            "DUBBED": "MTcyMDE3"
+        },
+        "intro": {
+            "start": 228,
+            "end": 317
+        }
+    },
+    "20": {
+        "title": "Dead or Alive",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/e446cb3276b2d31b4b9c4cba04badbc6eaca4c3bc071c6e52e899dc648e54fadf56cf9dcfc78afc14d2856f22cf5c2d1d6188cdbea8dd491dc98202801c260cbf04034d8c368262da449110dcc576385645a7e86734ce62eebd4275fec54ef5e10c1bc852f2482d60ed9d5fe7ef051177c350428c0495f4320968566e95be74c/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/4f/b0/4fb048f264a8e1c8936688f72da4ffe5/ara-2.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www008.vipanicdn.net/streamhls/3d030273fe27c276a9b37b6226eab96b/ep.19.1677593149.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-episode-20"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www005.vipanicdn.net/streamhls/35ae4cc5db9b5ef5d8deb3ec0161e903/ep.20.1677603854.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-dub-episode-20"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTY4MDA3",
+            "DUBBED": "MTcyMjk0"
+        },
+        "intro": {
+            "start": 289,
+            "end": 378
+        }
+    },
+    "21": {
+        "title": "One and only",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/ec6f9a98bc93dffe9046ffe340c96ec7d1c5ab3557f8a20d6e833e546a8ec410058cc2d9d7fc477c84a8edaef3190d377bbce5d3e89a196937da862f9d14f157f30d72e27bc74c3a4b8e3c1e7a55188eb787d1dfba0ae49504cd385854b5908960f3c42689b5fa398c4d9cb929a325db85c99e0c22138b966d78a1f604e74783/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/72/68/72686152477c7f9c9563c34ff6b9d89c/ara-2.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www018.vipanicdn.net/streamhls/3d030273fe27c276a9b37b6226eab96b/ep.20.1677608509.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-episode-21"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www046.vipanicdn.net/streamhls/35ae4cc5db9b5ef5d8deb3ec0161e903/ep.21.1677848932.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-dub-episode-21"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTY4NDk3",
+            "DUBBED": "MTcyNzU1"
+        },
+        "intro": {
+            "start": 105,
+            "end": 194
+        }
+    },
+    "22": {
+        "title": "One for all",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/d08ff437ae7026d8c978bec4863c772848d6202e11e21d3d592f438dd6c3bec79e6378e6d73c4e4462041bd80590c37e87035fa6801eebe89d7e390aeeebacc0164baa602a9e7a4f9cd88301ac40240cf4907439cb79c92e4f6d90f4d9c9d7eed5718a57e19f8b24913a46a477f0da68742fc3943f7f52a7e268a55cf2265115/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/58/c7/58c7ef71db4a4592272c0bbc51fce20b/ara-2.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www019.vipanicdn.net/streamhls/3d030273fe27c276a9b37b6226eab96b/ep.21.1677608613.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-episode-22"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www018.vipanicdn.net/streamhls/35ae4cc5db9b5ef5d8deb3ec0161e903/ep.22.1677613567.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-dub-episode-22"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTY5MTg4",
+            "DUBBED": "MTczNDQ3"
+        },
+        "intro": {
+            "start": 116,
+            "end": 205
+        }
+    },
+    "23": {
+        "title": "End of war",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/05a99a213124bdacf8bb59e8642ffb7ce201959cdad55390208e1c11e58941c0c5470bd4b88b2584d2886836bb82c35cad3a47c4d6b68c8cb86085979ae1997e9e8750e5c88075dfdc24170021f320559e42ae7e00845e49267e5612683e7ab5542c386a029b11598b88830c7c623f7ff9f3d403ef54abcd26370ceb165ed15b/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/31/08/3108ef19db53e2422fc1793d00893969/ara-2.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www014.vipanicdn.net/streamhls/3d030273fe27c276a9b37b6226eab96b/ep.22.1677611319.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-episode-23"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www012.vipanicdn.net/streamhls/35ae4cc5db9b5ef5d8deb3ec0161e903/ep.23.1677613883.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-dub-episode-23"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTY5ODEz",
+            "DUBBED": "MTczODMx"
+        },
+        "intro": {
+            "start": 188,
+            "end": 277
+        }
+    },
+    "24": {
+        "title": "A Cry baby",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/e3e5769ab9f36aaf1d1f58c8de376949bec7674ef3c3171a68b76863d0885413bfbe513fdd02ba2583dc014cf87d05e175f03f4ec33b73930fca1003fb243805f2649705d54d2a32762818651c377bac9f912e9b48eed4610bf91ff4ad8fed4afa3b0284106c2c521de5aecddfa15f8855df8a783eb9942fb9d73832514b82bc/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/98/0c/980ce239283ace05be5e94ea4fdf6c85/ara-2.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www012.vipanicdn.net/streamhls/3d030273fe27c276a9b37b6226eab96b/ep.23.1677608688.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-episode-24"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www001.vipanicdn.net/streamhls/35ae4cc5db9b5ef5d8deb3ec0161e903/ep.24.1677599104.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-revengers-dub-episode-24"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcwMjkx",
+            "DUBBED": "MTc0MTUw"
+        },
+        "intro": {
+            "start": 143,
+            "end": 232
+        }
+    }
 }

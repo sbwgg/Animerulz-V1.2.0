@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=godzilla-3-hoshi-wo-kuu-mono-episode-",
-        "down_links": [
-            "MTEyMzc5"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=godzilla-3-hoshi-wo-kuu-mono-dub-episode-",
-        "down_links": [
-            "MTcyMDI4"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/65c6c10c063d784f373a30ff94f48c1596e82739b1211b5b34324ff2e156d2c80b86c6595f2c47c7d7942e3b062d389845f061c67abd018c8fea5cade9e2bc1f488ca12182087dddda7c4f7073c2246e5bcbbead2f031ad3655ce850d6e293a7a9f1616e8a9e7adaf3b86c871ba2bbed18e546d1e17f18818ae65a3a170a6e0c/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/95/96/95964256c3fc6da7a8d5b9a4c28583fb/ara-4.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www030.vipanicdn.net/streamhls/07cb89abadd81062c78da503ab0690f9/ep.1.1677686298.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=godzilla-3-hoshi-wo-kuu-mono-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www039.vipanicdn.net/streamhls/d4eda677a7c2f4547b6d4e2e2424ef5a/ep.1.1677826712.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=godzilla-3-hoshi-wo-kuu-mono-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTEyMzc5",
+            "DUBBED": "MTcyMDI4"
+        },
+        "intro": null
+    }
 }

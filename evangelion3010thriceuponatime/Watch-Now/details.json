@@ -1,20 +1,36 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=evangelion-3-01-0-thrice-upon-a-time-episode-",
-        "down_links": [
-            "MTY3ODM4"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=evangelion-3-01-0-thrice-upon-a-time-dub-episode-",
-        "down_links": [
-            "MTY3ODQz"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/55e7bc47598624e9b897195e3523abc48be23d69fe48d81a50c731d6a81820e715836ec56bde26f4e7e689bcb0a4f09e6da9b8cf933317b43637523a8be28eef60357ecbcb2c26c263c6e0263aaf6d844305d724366ab236ca313a4058bf78174ed2d6bad8ef213c9cf986015192d0255ed6f5a131012cbbccb49116850ef91d/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/45/3c/453c459ac7fa1ad34cf45a1eff5f7d3a/ara-7.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www019.vipanicdn.net/streamhls/ae969c07fcc0039938f5e45d552105a6/ep.1.1677608953.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=evangelion-3-01-0-thrice-upon-a-time-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www034.vipanicdn.net/streamhls/cc100dbaa9f31ba5097a29468cc8b1e0/ep.1.1677825938.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=evangelion-3-01-0-thrice-upon-a-time-dub-episode-1"
+                }
+            },
+            "OTHER LANGUAGES": {
+                "Hindi": "https://beta.awstream.net/watch?v=evangelion-3-01-0-thrice-upon-a-time-8211-episode-1&lang=hin"
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTY3ODM4",
+            "DUBBED": "MTY3ODQz"
+        },
+        "intro": null
+    }
 }

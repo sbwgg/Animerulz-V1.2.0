@@ -1,13 +1,29 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=kaze-tachinu-the-wind-rises-episode-",
-        "down_links": [
-            "NDQ3MTM="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/6cf23672a0fe0bd07e03780099c3dd98c303861b233dac58886d993a1956debea3c6375377babcc068b72e49d41eeb514560fc406219b0f39fffdc276f6ced8f74c8273efd4cecc080fd6acd08e0976481dae4e1ea8d01c4146ecc06bdfc71a3b9ff0109a8538d23c5445197edc0b7cf697f4c1c94e36157447652a04b7e5254/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/1a/aa/1aaa59e9968cfd34c4a6abf4ead2aac8/ara-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www014.vipanicdn.net/streamhls/5853a18c98442d00fe6c36bd3b0f2bee/ep.1.1677619554.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=kaze-tachinu-the-wind-rises-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=kaze-tachinu-the-wind-rises-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDQ3MTM="
+        },
+        "intro": null
+    }
 }

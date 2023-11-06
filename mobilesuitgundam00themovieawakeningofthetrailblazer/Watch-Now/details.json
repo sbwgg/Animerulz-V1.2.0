@@ -1,13 +1,29 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=gundam-00-a-wakening-of-the-trailblazer-episode-",
-        "down_links": [
-            "NDA3Mjc="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/93ade32b6b94b58a6af7bc3e924b10991ac5ffe6eb273993eabbe74884fbf8956597089d0ec8b87e9a6caf366c9cdc7ea86b3a5ef7792a6a73b3fc1ee1806710b20c506757eb0ab298b0d60bdb673277ffae10fd29d15b3ce14f3caab657eca4dea840a13f73988e77587bcc2cd07324/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/e2/ff/e2ffe40ad41bad06bf332b2ee35314c9/eng-5.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www018.vipanicdn.net/streamhls/d2e506c379e7cc3665bd50ab286cebf9/ep.1.1677626072.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gundam-00-a-wakening-of-the-trailblazer-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gundam-00-a-wakening-of-the-trailblazer-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA3Mjc="
+        },
+        "intro": null
+    }
 }

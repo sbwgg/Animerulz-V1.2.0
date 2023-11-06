@@ -1,13 +1,29 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=mazinger-z-vs-devilman-episode-",
-        "down_links": [
-            "NDEwMDI="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/1883b037a18661f40223b3d77a8f97d714ec6accf4ff7535c3812212f695c112ea1de8b6b0568781effcf8ffbfaf59c78d488ba653727621a1d4c3dd49bb97934f3e85f2fd5d6bc33d1f34c21f5808ac4efd5a7b2184e6a99df2d0ff37c5c2231175e1902ade0b3a5a8a40d3ddc06211/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/f9/11/f911d063deae9ee1bf5a65f09307c666/f911d063deae9ee1bf5a65f09307c666.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www023.vipanicdn.net/streamhls/fd8d1fff46a8fed537f98654c9f51f2e/ep.1.1677687652.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=mazinger-z-vs-devilman-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=mazinger-z-vs-devilman-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDEwMDI="
+        },
+        "intro": null
+    }
 }

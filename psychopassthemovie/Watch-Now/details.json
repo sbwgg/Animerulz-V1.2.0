@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=psycho-pass-movie-episode-",
-        "down_links": [
-            "NjUzNDk="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=psycho-pass-movie-dub-episode-",
-        "down_links": [
-            "MTAwMjY3"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/c88b52116d06f0e8eaefcc4c1c1d2b96768aa30ed5352173911e3649071497a6a1f4f6fe4e5f0518ac7483f3a9d484637e62716e00e47ec4a5356e8f0334a4ef4ad2fed15f47cb73b5bb1ff29943cce0f4cd914758629d992ca7c77d1a4d5f9d3cee71fe2015f75216d9a4a6065a914c0d8ce412e4c2f113185a0120f8b7d462/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/8b/ee/8bee99240d3027a50bddae0d962fc8fb/eng-4.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www010.vipanicdn.net/streamhls/3b26763b96a9c2d40fde46bfbc916dd8/ep.1.1677662454.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=psycho-pass-movie-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www008.vipanicdn.net/streamhls/00bff0becb3bc7a383a0220e3e010eeb/ep.1.1677620172.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=psycho-pass-movie-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NjUzNDk=",
+            "DUBBED": "MTAwMjY3"
+        },
+        "intro": null
+    }
 }

@@ -1,15 +1,29 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=dragon-ball-z-movie-6-the-return-of-cooler-episode-",
-        "down_links": [
-            "NDA3MjM="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": [
-        1
-    ]
+    "1": {
+        "title": "Full",
+        "isFiller": true,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/de9321c7d32cd7e9e17b7379d8b811a9402e4a845c661413bd10841b7d8e0dbea4eb9a6b8df58c47ae22fea3a553909c2b6d2eaa5268db797739e74c76c245101c0e1c499bdb74af15f548478460667d9b2dc8357c955942b6f39945a49601f6570f84c774c9feea09f33f23d8ffb5630123e227627fa664c302338181c0539f/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/7b/56/7b5655ed420768043a10f4e52737846b/eng-2.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www014.vipanicdn.net/streamhls/a4727d89f8c78b9611252bf78ffae7a0/ep.1.1677629513.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=dragon-ball-z-movie-6-the-return-of-cooler-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=dragon-ball-z-movie-6-the-return-of-cooler-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA3MjM="
+        },
+        "intro": null
+    }
 }

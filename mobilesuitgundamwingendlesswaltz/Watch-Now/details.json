@@ -1,24 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=mobile-suit-gundam-wing-endless-waltz-episode-",
-        "down_links": [
-            "MTQwMjU2",
-            "MTQwMjU3",
-            "MTQwMjU4"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=mobile-suit-gundam-wing-endless-waltz-dub-episode-",
-        "down_links": [
-            "MTAxNzY4",
-            "MTQwMjYz",
-            "MTQwMjY0"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/0bb816ed764da12a1a7a6a57c98ae05d7aaf75c8b19f47087d560b6302992c09efb83fd00961ae3870ea0ed22118aee765d6dbac6390195d08e09b1ed7a6e5028717138c2b6e87978765f57cf769a67caae876b2f12dd77ef1aae36a4c3ad62c4e3d71195a590e78d1cddc4c4ea40d98/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/cc/ff/ccff615c0cc47fd57bf6395f91e5978b/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www007.vipanicdn.net/streamhls/8218402ebd45df160eb6ec99c581d1a7/ep.1.1677692680.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=mobile-suit-gundam-wing-endless-waltz-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www009.vipanicdn.net/streamhls/fbbd6e8f923e169627317545e3b3a352/ep.1.1677680409.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=mobile-suit-gundam-wing-endless-waltz-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTQwMjU2",
+            "DUBBED": "MTAxNzY4"
+        },
+        "intro": null
+    }
 }

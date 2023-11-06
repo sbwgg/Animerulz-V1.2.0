@@ -1,13 +1,29 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=pokemon-movie-15-kyurem-vs-seikenshi-keldeo-episode-",
-        "down_links": [
-            "NDA1MzI="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/79a99b2860a8f29cd1db543474f9174ab97470f40566d5858c5614859cc7d7982dbfb3845d595a7d7afd772a0a113986dc95822adfb8d299b0e542a7b1e941c1afb6d97c0dc2b497c8b684b956135eee2c252b6f5f704d8ce7a8d8550c9e451f74ffb516a5b0f0b7d09f348ac2e74f9c6cd1f7f20864d0df94b2f117c2be6f02/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/ed/51/ed51a354a18df2dd8440f858fedf5c8e/eng-13.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www003.vipanicdn.net/streamhls/70341396595b8133a79a5682c9d15f48/ep.1.1677618962.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=pokemon-movie-15-kyurem-vs-seikenshi-keldeo-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=pokemon-movie-15-kyurem-vs-seikenshi-keldeo-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA1MzI="
+        },
+        "intro": null
+    }
 }

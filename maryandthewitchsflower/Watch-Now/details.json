@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=mary-to-majo-no-hana-episode-",
-        "down_links": [
-            "MTA0NTQw"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=mary-to-majo-no-hana-dub-episode-",
-        "down_links": [
-            "MTYxMzc5"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/066108ac106d0baddb9613948c46b030f9ed69d649bbad5eadda050275206ff53ffc5e23bb40987c29e13db7e6b8937e5c3464659983f8223366c5f274c87fe86f029afa65f40a0b13eca9a4d1dfdd2538ece5f4872a322b5105fcd63fcc088cc10d685fa090ba89b50cb6abbfd2d6a5b61bcf618434b8c44e23a7b49fc06006/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/6f/b8/6fb8f36554b2ce2089b90e404a66372f/6fb8f36554b2ce2089b90e404a66372f.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www021.vipanicdn.net/streamhls/53b5531bf7366b3e0a5201cdfac8977e/ep.1.1677682131.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=mary-to-majo-no-hana-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www050.vipanicdn.net/streamhls/de581907820516eb6703c26479b044a8/ep.1.1677853750.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=mary-to-majo-no-hana-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTA0NTQw",
+            "DUBBED": "MTYxMzc5"
+        },
+        "intro": null
+    }
 }

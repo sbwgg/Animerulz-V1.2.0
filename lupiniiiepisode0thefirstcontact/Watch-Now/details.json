@@ -1,64 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=lupin-iii-episode-0-the-first-contact-episode-",
-        "down_links": [
-            "MzUwMDg=",
-            "MzUwMDc=",
-            "MzUwMDY=",
-            "MzUwMDU=",
-            "MzUwMDQ=",
-            "MzUwMDM=",
-            "MzUwMDI=",
-            "MzUwMDE=",
-            "MzUwMDA=",
-            "MzQ5OTg=",
-            "MzQ5OTc=",
-            "MzUwMzc=",
-            "MzUwMzY=",
-            "MzUwMzU=",
-            "MzUwMzQ=",
-            "MzUwMzM=",
-            "MzUwMzI=",
-            "MzUwMzE=",
-            "MzUwMzA=",
-            "MzUwMjk=",
-            "MzUwMjg=",
-            "MzUwMjc=",
-            "MzUwMzg="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=lupin-iii-dub-episode-",
-        "down_links": [
-            "MTc2NzI3",
-            "MTc2NzI4",
-            "MTc2NzI5",
-            "MTc2NzMw",
-            "MTc3MzI0",
-            "MTc3MzI1",
-            "MTc3MzI2",
-            "MTc3MzI3",
-            "MTc3ODYx",
-            "MTc3ODYy",
-            "MTc3ODYz",
-            "MTc3ODY0",
-            "MTc3OTkx",
-            "MTc3OTky",
-            "MTc3OTkz",
-            "MTc3OTk0",
-            "MTc4NzQ4",
-            "MTc4NzUy",
-            "MTc4NzQ5",
-            "MTc4NzUw",
-            "MTc5Mzc4",
-            "MTc5Mzc5",
-            "MTc5Mzgw"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/0fdd071601f5156c505d0454519af0e8b1ef233a5157d3d0df242f777e06d892907b9d2bb5d57287cdb730090ad81d158ccdbef5a2af167bfab7decadf47a0e96af3958e1ca45a3f813aa1d15c2f3bd0cf1effdef756653ee137ef7b840ce28df71aeca7a572df6ba73265daa6258320f10592948a0415468c20fc7122edcbaa/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/f9/09/f909be469708d1580f624c35b3d3293b/f909be469708d1580f624c35b3d3293b.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www029.vipanicdn.net/streamhls/8928bcc30ef8950bb8ab1717329ff58b/ep.1.1677660709.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=lupin-iii-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www038.vipanicdn.net/streamhls/47fba6ecf4e90426024900e8ce8197ae/ep.1.1677823465.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=lupin-iii-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MzUwMDg=",
+            "DUBBED": "MTc2NzI3"
+        },
+        "intro": null
+    }
 }

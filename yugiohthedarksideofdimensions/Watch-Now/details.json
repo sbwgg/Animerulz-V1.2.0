@@ -1,13 +1,24 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=yugioh-the-dark-side-of-dimensions-episode-",
-        "down_links": [
-            "MTAzOTg5"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www010.vipanicdn.net/streamhls/6fa5a0df6d37fe5a23e1c776e40efd2c/ep.1.1677608372.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=yugioh-the-dark-side-of-dimensions-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=yugioh-the-dark-side-of-dimensions-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTAzOTg5"
+        }
+    }
 }

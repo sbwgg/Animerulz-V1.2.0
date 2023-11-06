@@ -1,13 +1,29 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=majo-no-takkyuubin-episode-",
-        "down_links": [
-            "OTY3MTM="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/b1e7f5bf6a7b4b040b1b53cc04adb1ccfa4868f41968190aadbdf20d20e06b694ac8b69a5701f7e129ca246ae84d1f9b00026cfbab57750687e8d19a8c2c2f0048b9f079b592282c6831b0a2881da969b39b9fe6f8f28f608a15fe3a2274c7cb067d7a3c87eabb052e90384afe78f10ca7bee521ea9a9bc6c167b3cf9dd8cbc2/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/6b/71/6b71b4350f7f8817eb1b84ea249a94ce/ara-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www024.vipanicdn.net/streamhls/d7826c278e46a63b26325816d4c4859b/ep.1.1677682036.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=majo-no-takkyuubin-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=majo-no-takkyuubin-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "OTY3MTM="
+        },
+        "intro": null
+    }
 }

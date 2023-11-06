@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=dragon-ball-z-movie-10-broly-second-coming-episode-",
-        "down_links": [
-            "NDA3MDk="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=dragon-ball-z-movie-10-broly-second-coming-dub-episode-",
-        "down_links": [
-            "OTM2NDI="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/077cefc584a7dfcb959a6df6fb63ce2433423817e9c270cba8265c001e188f61d9c58c4fc13be56257d1f02aee064628ea49dd56c780d3687ec6c7527e81318904a676ef3bb1468589cd156172f4da39421be75d9849a0bdd5a5e75385c283c6ca774e800efe532ff218f60a6136031a251b72224c966ef11fe27cfb9f84e8db/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/e4/2f/e42fda71fdfce92f01938a1be61034b1/eng-4.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www030.vipanicdn.net/streamhls/b8265c5fc1063b4e5048496f5808d702/ep.1.1677660385.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=dragon-ball-z-movie-10-broly-second-coming-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www013.vipanicdn.net/streamhls/cb90e4e6e924fccfdc145f804d206f5c/ep.1.1677675110.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=dragon-ball-z-movie-10-broly-second-coming-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA3MDk=",
+            "DUBBED": "OTM2NDI="
+        },
+        "intro": null
+    }
 }

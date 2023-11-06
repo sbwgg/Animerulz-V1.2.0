@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=made-in-abyss-movie-1-tabidachi-no-yoake-episode-",
-        "down_links": [
-            "MTM2MzY5"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=made-in-abyss-movie-1-tabidachi-no-yoake-dub-episode-",
-        "down_links": [
-            "MTM3MzMz"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/634ed93e613c9e5f266e4e2f80b0076428fe0fccb36e5f0fa801592a4b04d8d20591f9afeeb3db885235186ff8cda7c0a368414805a56bc4632e3ddb66369350411c3dff67d2f2db9222b4d67881f6c8a901803ac4027b10a8267a7557f139203d7a2ac217a71b8d58655be14efddb160ee6c8630606e33758d81c96d02093f2/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/64/9f/649f72efc6e18ba7aa2f748eb25a4fa4/649f72efc6e18ba7aa2f748eb25a4fa4.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www020.vipanicdn.net/streamhls/a20ea249226373af86dfb3eb14ee6792/ep.1.1677697942.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=made-in-abyss-movie-1-tabidachi-no-yoake-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www024.vipanicdn.net/streamhls/6355155f11015706e8b06355a9639871/ep.1.1677702736.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=made-in-abyss-movie-1-tabidachi-no-yoake-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTM2MzY5",
+            "DUBBED": "MTM3MzMz"
+        },
+        "intro": null
+    }
 }

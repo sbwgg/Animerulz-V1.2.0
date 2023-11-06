@@ -1,13 +1,29 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=pokemon-movie-3-kesshoutou-no-teiou-episode-",
-        "down_links": [
-            "NDA0OTA="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/70e76049ae4bc52c96aca204c57f847edddb2798caa00d2b157592259f1b242e695c59e13a5fa952b67c397c6f242d4b5713ffb78ca8f7a865464a2edc5ed6f13bed97cea6bad610d9fd5a09707fff4ea3e36fc7169b383db3c1d5f4951ff81e4508df694e2c01bedabdc12b8a3af4f877406c6012cd88a307e5f8fc13631d12/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/e5/e4/e5e403309eccba83ccc6786ac8b7ac51/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www021.vipanicdn.net/streamhls/b5838dce165ce28ab3edc5e1ea5546ed/ep.1.1677660138.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=pokemon-movie-3-kesshoutou-no-teiou-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=pokemon-movie-3-kesshoutou-no-teiou-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA0OTA="
+        },
+        "intro": null
+    }
 }

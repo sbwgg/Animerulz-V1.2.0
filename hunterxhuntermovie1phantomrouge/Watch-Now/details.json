@@ -1,15 +1,29 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=hunter-x-hunter-phantom-rouge-episode-",
-        "down_links": [
-            "NDA2ODQ="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": [
-        1
-    ]
+    "1": {
+        "title": "Full",
+        "isFiller": true,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/c13a7e0705adf20c08647b99319329a8c57a66ad37a8417cb9b954474aa6e498d32452154a443893d9c8c1f94b5d412ae772b24dc5971af7a9603479e92d0f9883fd0f9d02ac3f058a54810e60df573d3ad59b80e77834275bcff90638aa36cea66538fd7b6c682c51d1d5cb9d81e5527f3b6ebc1997a4b3e072c84707e33cfd/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/cd/77/cd77b6aed42f49c2de12fb23df23c686/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www005.vipanicdn.net/streamhls/4cce3c6481c5b2d5b57b64186afd04ac/ep.1.1677606299.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=hunter-x-hunter-phantom-rouge-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=hunter-x-hunter-phantom-rouge-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA2ODQ="
+        },
+        "intro": null
+    }
 }

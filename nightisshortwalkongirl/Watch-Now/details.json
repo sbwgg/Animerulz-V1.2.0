@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=yoru-wa-mijikashi-arukeyo-otome-episode-",
-        "down_links": [
-            "MTAyMzA0"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=yoru-wa-mijikashi-arukeyo-otome-dub-episode-",
-        "down_links": [
-            "MTU4NDg2"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/cce02fe703a278365c138b9875fe18325ab351722f09d08fc5c240393aa4adf3a55c429a861db7ea8200e47bc8d203525516e81d543945dbb791031ab5a4a0eec0a7e94a2755c6f20779ec1a0fac22fad2fc55ff5fe9e613cbb6153bb1e6dff5acecafbb0d077195e8477c27764a301cdb6d7348b934928a556303f6a7005485/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/a0/97/a097e2ad33ec7dbe3863863be389b4f7/a097e2ad33ec7dbe3863863be389b4f7.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www005.vipanicdn.net/streamhls/7db3902f130d26616022537abe272c32/ep.1.1677683826.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=yoru-wa-mijikashi-arukeyo-otome-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www047.vipanicdn.net/streamhls/bf5a89cfa856a51e3bea7e2d247c714e/ep.1.1696413582.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=yoru-wa-mijikashi-arukeyo-otome-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTAyMzA0",
+            "DUBBED": "MTU4NDg2"
+        },
+        "intro": null
+    }
 }

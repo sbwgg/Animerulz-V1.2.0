@@ -1,20 +1,28 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=wicked-city-episode-",
-        "down_links": [
-            "NDAzMzk="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=wicked-city-dub-episode-",
-        "down_links": [
-            "OTMzNTI="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www020.vipanicdn.net/streamhls/5b7757647b57ec7b65c227694883a677/ep.1.1677660650.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=wicked-city-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www023.vipanicdn.net/streamhls/455a87442bfa2a41a572582a439c664a/ep.1.1677727569.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=wicked-city-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDAzMzk=",
+            "DUBBED": "OTMzNTI="
+        }
+    }
 }

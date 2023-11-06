@@ -1,15 +1,29 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=naruto-movie-3-dai-koufun-mikazukijima-no-animal-panic-datte-ba-yo-episode-",
-        "down_links": [
-            "NDA1ODU="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": [
-        1
-    ]
+    "1": {
+        "title": "Full",
+        "isFiller": true,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/649a3458d918ca452c33fb662f5d7947e284e3df502f0fd9eea15a2db038f019f29d6793b1f38ef3cc4e7f01bafe502aa5a98da34da2a739e4a5afe13e25d19ae613dba799dae95ece16c79a05363de43bedf916c55105b8725db77b230749c9af2ebecae5d6c5b79c39750df9b214cdbfa1e75f4026a7c2f3aba39bfd54af93/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/7a/c7/7ac7b2a9ca5063a7bc2c9387d216ce6a/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www026.vipanicdn.net/streamhls/7c305b4e7d7d865a044fd7537cc762a4/ep.1.1677662864.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=naruto-movie-3-dai-koufun-mikazukijima-no-animal-panic-datte-ba-yo-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=naruto-movie-3-dai-koufun-mikazukijima-no-animal-panic-datte-ba-yo-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA1ODU="
+        },
+        "intro": null
+    }
 }

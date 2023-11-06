@@ -1,15 +1,24 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=sailor-moon-r-the-movie-episode-",
-        "down_links": [
-            "MTA0MTA3"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": [
-        1
-    ]
+    "1": {
+        "title": "Full",
+        "isFiller": true,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www008.vipanicdn.net/streamhls/5c73b63a6e603ea9b1fc898dfba903b9/ep.1.1677623294.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=sailor-moon-r-the-movie-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=sailor-moon-r-the-movie-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTA0MTA3"
+        }
+    }
 }

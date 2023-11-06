@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=mardock-scramble-the-third-exhaust-episode-",
-        "down_links": [
-            "NDA2MDM="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=mardock-scramble-the-third-exhaust-dub-episode-",
-        "down_links": [
-            "MTA5MzQx"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/785bb7b4976b5804e969df80f642f405a75401389257c0f5936784513664bc9dc525c74137ec3eeea9958523fe08189f6232b712247386d79a723bfad714ba753903b21a9e195c85726c3aa1e595059c3c18486fca65de94fe4b2a0e9e9c5d51b6f905700150b9a6c68216111ca01e5dc65470728600e9c8a0b88592d8277e1c/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/c3/0f/c30f2de4cf8deb58034bae32d73d7aca/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www014.vipanicdn.net/streamhls/b00d9682609f32504fad2d637f0e436f/ep.1.1677662985.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=mardock-scramble-the-third-exhaust-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www022.vipanicdn.net/streamhls/99c72a49aa5f704cd9bdb9223d4da037/ep.1.1677681030.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=mardock-scramble-the-third-exhaust-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA2MDM=",
+            "DUBBED": "MTA5MzQx"
+        },
+        "intro": null
+    }
 }

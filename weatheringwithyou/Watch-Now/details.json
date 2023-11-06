@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=tenki-no-ko-episode-",
-        "down_links": [
-            "MTM5MDA3"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=tenki-no-ko-dub-episode-",
-        "down_links": [
-            "MTQzMjU4"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/04c62d67738da375aca8b1659516f077c74801fa368082aa2ebd5c4556d4a621e40149ff082d9d6b627f702d28718f4cefec91e79fa9d9f8e407df2c2424be0114f0b211b8e8eb14baff1d78eb556215114a397444824941bed9fc5f7e12ed38b17fff668113bf7e2be351ef365348a8215ad3c71eacd4651beefc010f922b54/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/ca/6e/ca6e95a207b37aa7dfff60a5fe12dd75/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www018.vipanicdn.net/streamhls/064839fe5f2fb650fceda98c31367db9/ep.1.1677608399.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tenki-no-ko-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www009.vipanicdn.net/streamhls/82a8a1792ef05b69fb5e5fc4c40a6c2c/ep.1.1677594855.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tenki-no-ko-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTM5MDA3",
+            "DUBBED": "MTQzMjU4"
+        },
+        "intro": null
+    }
 }

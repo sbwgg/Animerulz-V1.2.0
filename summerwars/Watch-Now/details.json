@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=summer-wars-episode-",
-        "down_links": [
-            "NDA0MjA="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=summer-wars-dub-episode-",
-        "down_links": [
-            "OTA2MjE="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/f95f95d440ba4b98a0a166b934a93556105bd844c8ba97252a1b1cce174a955fb2192c672ebb68f6cda2a51046c5926fdad69e047cf7b8598620c815a3ac2a17c461754c907fa080e91c34d051ff5a7af2441f37895299968de366a4404ec51ea76dbe3c1f42bf0a829c2e920d229d807c2068dce251c307fae4c56a07a81ca8/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/c3/2f/c32fcb64287e081b07966fa5e66cd436/eng-7.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www011.vipanicdn.net/streamhls/db0939c90c7f74c978d72f246010df5c/ep.1.1677662832.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=summer-wars-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www022.vipanicdn.net/streamhls/5a45a46597bf2796b0250ac7defffe43/ep.1.1677627666.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=summer-wars-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA0MjA=",
+            "DUBBED": "OTA2MjE="
+        },
+        "intro": null
+    }
 }

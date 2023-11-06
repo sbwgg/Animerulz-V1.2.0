@@ -1,15 +1,29 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=hunter-x-hunter-the-last-mission-episode-",
-        "down_links": [
-            "NDUyODg="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": [
-        1
-    ]
+    "1": {
+        "title": "Full",
+        "isFiller": true,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/57f6a50160dc12023a82a6fb422c623f9a1a67ca531ba820c64b5475c3bff7b3fb9c59dc98cc9308ba9856bd8db8c998a084b856e77ece5d6aa313ab9104f0809493f8e6c36c97d83521d73337e588fbf3ed6f40b947db272845826c169dcc7ffdb5a8717ae5e299e80cebebc27504d30c8f66d3f26516e68ee432363ef7a5d2/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/9b/13/9b1372805cf556e0966af0abee413e3d/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www019.vipanicdn.net/streamhls/9668c2d05d931f68eba50b17659abdc7/ep.1.1677662968.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=hunter-x-hunter-the-last-mission-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=hunter-x-hunter-the-last-mission-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDUyODg="
+        },
+        "intro": null
+    }
 }

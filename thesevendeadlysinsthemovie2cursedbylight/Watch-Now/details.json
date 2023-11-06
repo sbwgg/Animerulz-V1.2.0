@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=nanatsu-no-taizai-movie-2-hikari-ni-norowareshi-mono-tachi-episode-",
-        "down_links": [
-            "MTcxNzA5"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=nanatsu-no-taizai-movie-2-hikari-ni-norowareshi-mono-tachi-dub-episode-",
-        "down_links": [
-            "MTcxNzEw"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/67f51c51f925c24c106fe56fb721021958eebaa42e27450dc56f3fda546228a97e5e7ffdb4b6b4d447936fe952e3f8c5a404ae2e93ca2e7d76a857dabda05d350dcca98cdf69604d09c622ce7ead537e09ff9161866c8ec12e329aadaa2edf82ff06d9b43d6359a9f7b7544531cbbab4a7f150632907c57febc41a6a49333b4b/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/41/28/4128c6b9af223ccfe698b804e9f32178/ara-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www040.vipanicdn.net/streamhls/86a83ae14a6df35527d19162dc169f4c/ep.1.1677830908.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=nanatsu-no-taizai-movie-2-hikari-ni-norowareshi-mono-tachi-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www041.vipanicdn.net/streamhls/a23fb797e8db6495c2f857f6136565a1/ep.1.1677849761.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=nanatsu-no-taizai-movie-2-hikari-ni-norowareshi-mono-tachi-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxNzA5",
+            "DUBBED": "MTcxNzEw"
+        },
+        "intro": null
+    }
 }

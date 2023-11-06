@@ -1,14 +1,29 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=inuyasha-movie-4-fire-on-the-mystic-island-episode-",
-        "down_links": [
-            "NDA2Nzk=",
-            "NDI4MTk="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/0efb1a10d12a6107462270719ee9dc014ab90c67b28e07829c3b4055fb4de9c386058fb06ea9797d41f0257f912f41acc05d89b002d264be2fe3fe6f10faf0491c4717220bcd992c8cff54e02950edbea67e7db2896c705c7911db5dd0fb07ad1562e04faf90048ba5ef79fece2aed5238cb395801ec3838c84e5f77e483fb08/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/38/40/38409fbd311d035de22312a53af226cb/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www030.vipanicdn.net/streamhls/392baffe306700b9cbb03d587eead1a9/ep.1.1677660349.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=inuyasha-movie-4-fire-on-the-mystic-island-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=inuyasha-movie-4-fire-on-the-mystic-island-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA2Nzk="
+        },
+        "intro": null
+    }
 }

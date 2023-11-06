@@ -10,6 +10,7 @@
             <link rel="stylesheet" href="https://animerulz.in/styles/download-page.css">
             <link rel="shortcut icon" type="image/jpg" href="https://animerulz.in/images/favicon.webp">
             <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
+            <link rel="stylesheet" href="https://cdn.plyr.io/3.6.2/plyr.css">
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
            <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=64b36d739f35fb0012149533&product=inline-share-buttons&source=platform" async="async"></script>
         </head>
@@ -335,94 +336,89 @@
                       </ul>
                       </div>
                       <div class="main-container-video">
-                        <div class="main-container-video-sec-1">
-                            <iframe
-                          autoplay=1
-                          id="video-player"
-                          class="video-player" allowfullscreen="allowfullscreen" allow="accelerometer;autoplay;encripted-media;gyroscope;picture-in-picture"
-                          webkitallowfullscreen="true" mozallowfullscreen="true"
-                          frameborder="0" scrolling="no"
-                        ></iframe>
-                        <div class="video-des">
-                          <div class="video-number">
-                            <span class="span">You are Watching</span>
-                            <p>Episode-<span id="episode-number-in-video"></span><span class="filler-alert"></span></p>
-                            <span class="span" style="display: -webkit-box;
-                            -webkit-line-clamp: 2;
-                            -webkit-box-orient: vertical;
-                            overflow: hidden;"></span>
-                          </div>
-                          <hr class="none"> 
-                          <div class="video-info">
-                            <div class="audio-container">
-                              <div class="audio-container-txt"><span><b>AUDIO : </b></span></div>
-                              <div class="audios"></div>
-                            </div>
-                            <hr>
-                            <div class="download-container">
-                              <button class="button-download-now">
-                                <svg
-                              class="svg-icon-download"
-                              enable-background="new 0 0 16 16"
-                              viewBox="0 0 16 16"
-                              xmlns="http://www.w3.org/2000/svg"
-                            >
-                              <g fill="rgb(0,0,0)">
-                                <g>
-                                  <path
-                                    d="m7.24 1.95h1.78c.76 0 1.38.62 1.38 1.38v3.34c0 .76-.62 1.38-1.38 1.38h-1.78c-.76 0-1.38-.62-1.38-1.38v-3.34c.01-.76.62-1.38 1.38-1.38z"
-                                  />
-                                  <path
-                                    d="m4.4 7.01c-.65.02-.49.83-.16 1.16l3.49 3.57c.23.23.6.23.83 0l3.48-3.56c.32-.32.47-1.18-.2-1.17-1.76.03-5.5-.07-7.44 0z"
-                                  />
-                                </g>
-                                <path
-                                  d="m11.12 12.88h-5.91c-.41 0-.75.34-.75.75 0 .41.34.75.75.75h5.92c.41 0 .75-.34.75-.75-.01-.41-.34-.75-.76-.75z"
-                                />
-                              </g>
-                            </svg>
-                                Download <span class="not-needed">Now</span></button>
-                              <button class="button-change-epi button-1">
-                                <svg fill="#000000"  viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="svg-prev"><path d="m4.431 12.822 13 9A1 1 0 0 0 19 21V3a1 1 0 0 0-1.569-.823l-13 9a1.003 1.003 0 0 0 0 1.645z"/></svg>
-                              <svg fill="#000000" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="svg-prev svg-icon-2"><path d="m4.431 12.822 13 9A1 1 0 0 0 19 21V3a1 1 0 0 0-1.569-.823l-13 9a1.003 1.003 0 0 0 0 1.645z"/></svg>
-                                Prev <span class="not-needed">epi</span></button>
-                              <button class="button-change-epi button-2">
-                                Next <span class="not-needed">epi</span>
-                                <svg fill="#000000" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="svg-nxt" ><path d="m4.431 12.822 13 9A1 1 0 0 0 19 21V3a1 1 0 0 0-1.569-.823l-13 9a1.003 1.003 0 0 0 0 1.645z"/></svg>
-                                <svg fill="#000000" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="svg-nxt svg-icon-2" ><path d="m4.431 12.822 13 9A1 1 0 0 0 19 21V3a1 1 0 0 0-1.569-.823l-13 9a1.003 1.003 0 0 0 0 1.645z"/></svg>
-                              </button>
-                            </div>
-                          </div>
-                        </div>
-                        
-                        </div>
-                        <div class="main-container-video-sec-2">
-                          <div class="header">
-                            <h2>Cardfight!! Vanguard: overDress Season 3</h2>
-                            <div class="episodes-list-sec">
-                              <div class="sec-1">
-                                <span>List of episodes :</span>
-                              </div>
-                              <div class="sec-2">
-                                <span>Episodes :</span><span id="episodes-numbers"></span>
-                                <svg style="position: absolute;margin:2px 0 0 2px" fill="#fff" height="15px" width="15px" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 490 490" xml:space="preserve">
-                                  <g>
-                                    <polygon points="490,157.332 244.996,407.369 0,157.332 76.493,82.631 244.996,254.598 413.507,82.631 		"/>
-                                  </g>
-                                </svg>
-                                <div class="episodes-selection-div">
-                                  
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                          <div class="body">
-                            <div class="body-cont">
-                                <div class="content" id="episodes-in-section"></div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
+                <div class="main-container-video-sec-1">
+          <div class="video-player">
+            <video  controls crossorigin playsinline style="height : 100%; width: 100%;"></video>
+          </div>
+          <div class="video-details">
+          <div class="video-controls">
+            <div class="controls-div-a">
+              <div class="autoskipintro control" onclick="changeAutoSkipIntro(this)">
+                <div class="control-txt autoplay-txt small-t">
+                  <span>Auto Skip Intro</span>
+                </div>
+                <div class="indicator auto-play-indicator tiny-t">
+                  on
+                </div>
+              </div>
+              <div class="autoplay control" onclick="changeAutoPlay(this)">
+                <div class="control-txt autoplay-txt small-t">
+                  <span>Auto Play</span>
+                </div>
+                <div class="indicator auto-play-indicator tiny-t">
+                  on
+                </div>
+              </div>
+                <div class="autoplaynext control"  onclick="changeAutoPlayNext(this)">
+                <div class="control-txt autoplay-nxt-txt small-t">
+                  <span>Auto Play Next Ep</span>
+                </div>
+                <div class="indicator auto-play-next-indicator tiny-t">
+                  <span>on</span>
+                </div>
+              </div>
+            </div>
+            <div class="controls-r">
+              <div class="controls-div-b">
+                <div class="control prev-episode">
+                  <div class="small-t control-txt">
+                    <i class="fa-solid tiny-t fa-backward"></i> Prev
+                  </div>
+                </div>
+                <div class="control next-episode">
+                  <div class="small-t control-txt">
+                    Next <i class="fa-solid tiny-t fa-forward"></i>
+                  </div>
+                </div>
+                <div class="control download">
+                  <div class="small-t control-txt">
+                    <i class="fa-solid tiny-t fa-download"></i> Download
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="video-des">
+            <div class="video-number">
+              <span class="span">You are Watching</span>
+              <p>Episode-<span id="episode-number-in-video"></span><span class="filler-alert"></span></p>
+              <span class="span" style="display: -webkit-box;
+              -webkit-line-clamp: 2;
+              -webkit-box-orient: vertical;
+              overflow: hidden;">Switch Server if current server doesn't work.</span>
+            </div>
+            <div class="video-info">
+              <div class="video-a"></div>
+            </div>
+          </div>
+        </div>        
+        </div><div class="main-container-video-sec-2">
+          <div class="header">
+            <h2>Cardfight!! Vanguard: overDress Season 3</h2>
+            <div class="episodes-list-sec">
+              <div class="sec-1">
+                <span>List of episodes :</span>
+              </div>
+            </div>
+          </div>
+          <div class="body">
+            <div class="body-cont">
+                <div class="content" id="episodes-in-section"></div>
+            </div>
+          </div>
+        </div>
+                
+              </div>
                       <div class="more-season-anime-container__">
             <span class="more-anime-txt">
               <b>More Seasons of this Anime</b>
@@ -715,8 +711,10 @@ The existing characters from overDress will be competing with new characters fro
                     display: none;
                 }
             </style> 
-            <script src="https://animerulz.in/scripts/script.js"></script>  
-            <script src="https://animerulz.in/scripts/long-anime.js"></script>
+            <script src="https://animerulz.in/scripts/script.js"></script>
+            <script src="https://cdn.rawgit.com/video-dev/hls.js/18bb552/dist/hls.min.js"></script>
+            <script src="https://cdn.plyr.io/3.6.2/plyr.js"></script>  
+            <script src="https://animerulz.in/scripts/anime.video.js"></script>
             <script src="https://animerulz.in/scripts/new_search.js"></script>
         </body>
         </html>

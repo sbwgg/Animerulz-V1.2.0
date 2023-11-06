@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=whisper-of-the-heart-episode-",
-        "down_links": [
-            "NDAzNjU="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=whisper-of-the-heart-dub-episode-",
-        "down_links": [
-            "OTI5Nzk="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/7dccc0b016ee4ef04ead015ca4f608c4f44028f2653b2c38ed58b602a71a57ed4480b5aa994575c93fd1d37444c3f13a5adcc967d703f838d73f2189245a4c24b2c29f5fea701ada0efd1eb12506a507193852a3642e983589ca4db1b6a54be057bc8f1382cc99cd0795108f896e7b80683dd7fed487cf99b105677a76e00742/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/d8/35/d8356ac5167909b1fd6014bb944d52eb/d8356ac5167909b1fd6014bb944d52eb.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www016.vipanicdn.net/streamhls/4358a18e04332bc6e900c32ba0a5a1fa/ep.1.1677659384.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=whisper-of-the-heart-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www010.vipanicdn.net/streamhls/505afa7865203122b4cd576b08a1fc95/ep.1.1677671039.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=whisper-of-the-heart-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDAzNjU=",
+            "DUBBED": "OTI5Nzk="
+        },
+        "intro": null
+    }
 }

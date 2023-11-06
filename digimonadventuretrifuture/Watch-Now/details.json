@@ -1,24 +1,28 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=digimon-adventure-tri-6-bokura-no-mirai-episode-",
-        "down_links": [
-            "MTA1MzM2",
-            "MTA1MzM3",
-            "MTA1MzM4",
-            "MTA1MzM5",
-            "MTA1MzQw"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=digimon-adventure-tri-6-bokura-no-mirai-dub-episode-",
-        "down_links": [
-            "MTQ2NzUx"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www007.vipanicdn.net/streamhls/eaec8cab9cf2a4c56361c358ffa8104f/ep.1.1677679184.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=digimon-adventure-tri-6-bokura-no-mirai-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www042.vipanicdn.net/streamhls/138dfc091cbace7689327e60751013bf/ep.1.1677850681.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=digimon-adventure-tri-6-bokura-no-mirai-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTA1MzM2",
+            "DUBBED": "MTQ2NzUx"
+        }
+    }
 }

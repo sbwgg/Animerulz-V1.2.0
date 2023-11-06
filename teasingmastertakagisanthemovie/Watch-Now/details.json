@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=karakai-jouzu-no-takagi-san-movie-episode-",
-        "down_links": [
-            "MTk3MTE2"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=karakai-jouzu-no-takagi-san-movie-dub-episode-",
-        "down_links": [
-            "MjAzNjc2"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/2e46a84380e2dc8a22d84c0953b6ddee263340203b53542b5f211f6b92ccee43d2bba9f65fd0acfd399fd87f0efbf570208590552fef2f0a670a640fc0c27db539789e6f9712595e06447a0e219a13496b6934d64cb984013b8df2add4297448f11e647165899d4ed32395f22f06dd09c59fd47fd394ae12df956d32b4cd492a/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/00/29/0029ae5b5b24207450d2cc8a16d0cf43/eng-2.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www047.vipanicdn.net/streamhls/624d8e05af1390b290588129670421be/ep.1.1677835330.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=karakai-jouzu-no-takagi-san-movie-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www052.vipanicdn.net/streamhls/8c275305bb0e9faffbe31d156a703c08/ep.1.1682829268.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=karakai-jouzu-no-takagi-san-movie-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTk3MTE2",
+            "DUBBED": "MjAzNjc2"
+        },
+        "intro": null
+    }
 }

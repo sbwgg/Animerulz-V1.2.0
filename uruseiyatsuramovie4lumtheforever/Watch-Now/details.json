@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=urusei-yatsura-movie-4-lum-the-forever-episode-",
-        "down_links": [
-            "NDAzODg="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=urusei-yatsura-movie-4-lum-the-forever-dub-episode-",
-        "down_links": [
-            "MTU0MjYy"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/28a4ae21529decabc32efff7698482da43daaa54c36ac80cba5a35b20aeb82a818a2948d5509eb088298febcddd7460ce04413718fb805f5eeaadca95972b8381afc90be140017aed2f7855d87283ad26aa7a465408c10f3b4181655711d9488cb3dcd45db15368a4dc83977e80b641667bfdec23f7c8254d34acfb57eeaa8d9/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/ed/ae/edaeeb191ae0c06bfd558a193fb4a95f/eng-2.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www009.vipanicdn.net/streamhls/53d78e9e2f7e0dade4047655bda9ead1/ep.1.1677664778.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=urusei-yatsura-movie-4-lum-the-forever-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www033.vipanicdn.net/streamhls/3711901f76963ffb166550acfebbf17f/ep.1.1677831514.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=urusei-yatsura-movie-4-lum-the-forever-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDAzODg=",
+            "DUBBED": "MTU0MjYy"
+        },
+        "intro": null
+    }
 }

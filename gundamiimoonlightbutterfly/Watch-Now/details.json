@@ -1,13 +1,29 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=turn-a-gundam-ii-movie-moonlight-butterfly-episode-",
-        "down_links": [
-            "MTQwMjYw"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/343ace9248cb7963f02709416b20ca027eecafe2e5cb04bb27b9243362d3e7bc07582a00804e35d525ed9d65c4c2d40158ef2081014173ad0824508ee6f391cfd7bc88256720fc42b7e1ed18a37a27fa2a7cdbb7dc7e58a110fd4483444bddaf1c8b64bc1f1345bd8b4df79266d5d7e5/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/8f/58/8f58c23869955f5582a0c54e430036eb/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www011.vipanicdn.net/streamhls/86ebf95f0d42910eb78c013c2df5bcc7/ep.1.1677713307.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=turn-a-gundam-ii-movie-moonlight-butterfly-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=turn-a-gundam-ii-movie-moonlight-butterfly-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTQwMjYw"
+        },
+        "intro": null
+    }
 }

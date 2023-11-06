@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=stand-by-me-doraemon-episode-",
-        "down_links": [
-            "MTEzMTI4"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=stand-by-me-doraemon-dub-episode-",
-        "down_links": [
-            "MTc2ODMy"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/a89340e41724bd15b79bbc82d621ae9a137cb180b0fd8680908cf35a5fe8ec47c74499210404ccba1bf005ce98312cde059d01d4f4f29b84e0da52a2b55348631721499bd42b1dbce6d99eb2707dc2066b4d9f92a16fd5f0671be4a62a9b1e6ecbcdd1b5903c6f42cc7d5bf4a76dbca1d186eec853ba681aa3966ef49fb745bd/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/58/95/589585889c5be40244aa5fbd457038b3/eng-2.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www029.vipanicdn.net/streamhls/37e0f351a2082f8bbfe5e5aaba79315e/ep.1.1677689123.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=stand-by-me-doraemon-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www043.vipanicdn.net/streamhls/74cd67a36eb3758c1dbbfe16716ad1d6/ep.1.1677845276.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=stand-by-me-doraemon-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTEzMTI4",
+            "DUBBED": "MTc2ODMy"
+        },
+        "intro": null
+    }
 }

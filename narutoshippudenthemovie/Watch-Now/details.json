@@ -1,22 +1,28 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=naruto-shippuuden-movie-1-episode-",
-        "down_links": [
-            "NDA1ODc="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=naruto-shippuuden-movie-1-dub-episode-",
-        "down_links": [
-            "MTUzNzAw"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": [
-        1
-    ]
+    "1": {
+        "title": "Full",
+        "isFiller": true,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www028.vipanicdn.net/streamhls/fb4c554b6ee546d2be43aa16e12b2113/ep.1.1677662303.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=naruto-shippuuden-movie-1-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www011.vipanicdn.net/streamhls/6737b08f191b6a7b2dcd38b688918b73/ep.1.1677720687.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=naruto-shippuuden-movie-1-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA1ODc=",
+            "DUBBED": "MTUzNzAw"
+        }
+    }
 }

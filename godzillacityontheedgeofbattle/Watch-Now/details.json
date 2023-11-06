@@ -1,13 +1,29 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=godzilla-kessen-kidou-zoushoku-toshi-episode-",
-        "down_links": [
-            "MTA2NjM3"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/bb18891d5bd1f8c5bbadea0b33e7d031709ed18bc7b4e61eb9609150a14fdd3a7647d48ea82cfe3e23ed524124ca6b4019893a5cd9fb20dcbf0bdff2acec7355bb9654fbd1912b3a26338da2c40a90bd4728e264ebf35fef75f2232d8d4a84977bbcfb71abf478e37c85ac36fcadbfc80867070845ca3e5e8bf591bfdee8890c/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/e8/e2/e8e2537de6b9e111d462e693f499b1cf/ara-4.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www018.vipanicdn.net/streamhls/82bec5946cbef9b80dd3aa03a20294e6/ep.1.1677682109.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=godzilla-kessen-kidou-zoushoku-toshi-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=godzilla-kessen-kidou-zoushoku-toshi-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTA2NjM3"
+        },
+        "intro": null
+    }
 }

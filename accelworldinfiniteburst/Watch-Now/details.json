@@ -1,20 +1,28 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=accel-world-infiniteburst-episode-",
-        "down_links": [
-            "OTk4MTY="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=accel-world-infiniteburst-dub-episode-",
-        "down_links": [
-            "MTgxODEw"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www007.vipanicdn.net/streamhls/42543ad57d8f1a1a176dbe9002a3c047/ep.1.1677676364.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=accel-world-infiniteburst-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www041.vipanicdn.net/streamhls/ad9dafeb1ce47b0b60b5709f7a838c83/ep.1.1677844560.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=accel-world-infiniteburst-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "OTk4MTY=",
+            "DUBBED": "MTgxODEw"
+        }
+    }
 }

@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=the-cat-returns-episode-",
-        "down_links": [
-            "NDA4MDk="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=the-cat-returns-dub-episode-",
-        "down_links": [
-            "OTE1MjU="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/be35b181f06761527e6876468bab36909d8834209e296e01915c4ff9f15afa33c670f926fe55b0c693f5c43dcdd184279f5853adc435e899ad74d9a1c4ef435a222522a76657a755b7a27509a9ed5368523338d51494a16816a712bcdd67178a5d1de736fc0bf233baabf8362834f6f135f4456648d69bddc33e4e83c7c0378e/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/6a/a9/6aa9353f4d4c4f4343cf3b14fde04a28/ara-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www010.vipanicdn.net/streamhls/a2a257d1b68a94986e7b88649f71b87a/ep.1.1677659147.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=the-cat-returns-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www026.vipanicdn.net/streamhls/017e3a9c81aefd65c3eb389ee5384de5/ep.1.1677679705.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=the-cat-returns-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA4MDk=",
+            "DUBBED": "OTE1MjU="
+        },
+        "intro": null
+    }
 }

@@ -1,22 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=dragon-ball-movie-2-sleeping-princess-in-devils-castle-episode-",
-        "down_links": [
-            "NDA3MDU="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=dragon-ball-movie-2-sleeping-princess-in-devils-castle-dub-episode-",
-        "down_links": [
-            "MTA3MTY4"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": [
-        1
-    ]
+    "1": {
+        "title": "Full",
+        "isFiller": true,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/61a3f52ab7ede62ece438bb6d921fd6144aa559648d9d7214b1bc63713f928e475d67d086603579ea707131dacc79e44f3c9c0030aed16fdc82f7f9de2b92c3a6d3f3362504c1d9d7b6866a99d52e9b3008b07f699760c99a5c90d0b85fe5e6c43e7c38dbd60d2d7849f9407d87b69c326ffd07a12db35688274c7e559960aa5/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/be/b9/beb9adc172e9f947ae1bababdf940ffe/eng-0.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www026.vipanicdn.net/streamhls/3b5a0bc537209176c9ca72d5bb516495/ep.1.1677662982.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=dragon-ball-movie-2-sleeping-princess-in-devils-castle-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www009.vipanicdn.net/streamhls/c48e21d62b5e8ddcecffff467720ff46/ep.1.1677682809.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=dragon-ball-movie-2-sleeping-princess-in-devils-castle-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA3MDU=",
+            "DUBBED": "MTA3MTY4"
+        },
+        "intro": null
+    }
 }

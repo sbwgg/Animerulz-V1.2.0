@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=fullmetal-alchemist-the-sacred-star-of-milos-episode-",
-        "down_links": [
-            "NDA3Mzk="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=fullmetal-alchemist-the-sacred-star-of-milos-dub-episode-",
-        "down_links": [
-            "MTA3MDEx"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/088427a1d335b9696977e7a6fa9b9e339ea661f86bb173ac4bd4d2517a1f8bb26c51778e375e063bbf08f4e17afd44b8bd06c394b118ca2748747d657c29ced35bbc7186f021d0ad35d3b3a27a0984ad17a21ecb6a7ce0561fbc186360e7b01b92941c6c262b6c9d34a8d0d5d28a96352f7dc099ef56e9c5b452c26359ff07d8/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/54/a4/54a479901dfe76a03b83055f1dd7b62e/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www030.vipanicdn.net/streamhls/195178395af3c92b41820926da375a71/ep.1.1677660415.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=fullmetal-alchemist-the-sacred-star-of-milos-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www002.vipanicdn.net/streamhls/9bb2847e862bf103c8462bbed3c80ef4/ep.1.1677621394.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=fullmetal-alchemist-the-sacred-star-of-milos-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA3Mzk=",
+            "DUBBED": "MTA3MDEx"
+        },
+        "intro": null
+    }
 }

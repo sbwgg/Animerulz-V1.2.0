@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=kuroshitsuji-movie-book-of-the-atlantic-episode-",
-        "down_links": [
-            "MTAxNzUx"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=kuroshitsuji-movie-book-of-the-atlantic-dub-episode-",
-        "down_links": [
-            "MTUwMDQ3"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/18a17fa6ccc46df9b3965503b1e3c4c10947f1f34320c19b675e56a536c0e81cb705f1ab156f055e164b3deb965336c41d5f8f5b6e5ffe619d7dc9e0fd1c352ebbfe34332fd8f1c580151024050a23bede82ab1e9362078259bd13d3d3d9e893d18943aac7bff5c38a7c6abbb8e0cd467f37ff1ac3892c330ad339678dd37bb5/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/df/2a/df2a8bf71b4e7c022f90e17a206c5abe/df2a8bf71b4e7c022f90e17a206c5abe.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www022.vipanicdn.net/streamhls/83af6303e88752d80df4251a88683d82/ep.1.1677621476.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=kuroshitsuji-movie-book-of-the-atlantic-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www018.vipanicdn.net/streamhls/529e774ea74436ef66ed255331a5c1b8/ep.1.1677623283.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=kuroshitsuji-movie-book-of-the-atlantic-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTAxNzUx",
+            "DUBBED": "MTUwMDQ3"
+        },
+        "intro": null
+    }
 }

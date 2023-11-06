@@ -1,13 +1,29 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=turn-a-gundam-i-movie-earth-light-episode-",
-        "down_links": [
-            "MTQwMjU5"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/024303f40aaaeda2a33a7cfbc51cd3513c1a9c17a746ec07f9689a7eca4594428b99c71f07328851dc039711a153d69137a807545a701be4aabf3b512a471f1b8785d2a7ca506ccf57bd9310b40ef1486c6a09da1c193d1f627970282811a012a741c12580835e49e8d9fc530fd4ec12/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/ae/85/ae85e4a5baf5a86ced7ae0d841cd0b91/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www010.vipanicdn.net/streamhls/4c9e35561a10748f91f5c86466c27337/ep.1.1677689447.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=turn-a-gundam-i-movie-earth-light-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=turn-a-gundam-i-movie-earth-light-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTQwMjU5"
+        },
+        "intro": null
+    }
 }

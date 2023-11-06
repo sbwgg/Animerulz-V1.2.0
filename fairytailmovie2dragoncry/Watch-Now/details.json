@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=fairy-tail-movie-2-dragon-cry-episode-",
-        "down_links": [
-            "MTAyNDQ0"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=fairy-tail-movie-2-dragon-cry-dub-episode-",
-        "down_links": [
-            "MTEyMjIw"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/aa90935b0ba234e92c02b8067653e83ea9f33bed3bb8d8a240fea6c950b087c179e19392d3d20758ea8fd460f6f324e800964c23d3a728a7431f74ed1798f72c4f193919917e967cebeda65afbcc844f75c2c71c356af92dfef1bf9992a8370a8e57d987c571c0b0d84b953d6150defcbe99ba697d9aa5e277da7fb9ee10f352/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/66/7c/667cd8ae1b05fc38d4068d4bd8f78f0a/667cd8ae1b05fc38d4068d4bd8f78f0a.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www025.vipanicdn.net/streamhls/6044e30dc295efbcb5d4ff7626e8d424/ep.1.1677750191.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=fairy-tail-movie-2-dragon-cry-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www021.vipanicdn.net/streamhls/84e5c94f0409e82b39799190c27e1976/ep.1.1677686690.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=fairy-tail-movie-2-dragon-cry-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTAyNDQ0",
+            "DUBBED": "MTEyMjIw"
+        },
+        "intro": null
+    }
 }
