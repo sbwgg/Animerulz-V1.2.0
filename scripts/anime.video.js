@@ -209,6 +209,7 @@ function scrollToActiveEpisode(ele, element){
         ele.scrollTo(0, element.offsetTop - ele.offsetTop)
 }
 function setNewEpisodeLongAnime(lowerLimit, upperLimit, presentEpisode){
+    console.log('clicked');
     setLongAnimeEpisodes(lowerLimit, upperLimit, presentEpisode);
     setServers(presentEpisode);
     urlData.episodeNumber = presentEpisode;
@@ -248,7 +249,6 @@ function changeUrl(presentEpisode){
     urlParams.set('ep', presentEpisode);
     urlParams.set('aud', existingAudio);
     // Update the URL
-    console.log(existingAudio);
     history.pushState({}, '', `${url.pathname}?${urlParams.toString()}`);
 }
 
@@ -741,16 +741,21 @@ function setHlsPlayer(source, intro, outro){
           })
   
           // Initialize new Plyr player with quality options
-          let player = new Plyr(video, defaultOptions);
+          const player = new Plyr(video, defaultOptions);
 
           player.config.autoplay = true;
-         
-          
+    
           if(localStorage.getItem("autoPlayNext") == 'true'){
             video.addEventListener('ended', nextEpisode);
           }
-          video.addEventListener("canplay", () => {
-            console.log('In');
+          let plyrPlayerElement = document.querySelector(".plyr");
+          plyrPlayerElement.addEventListener('dblclick', () => {
+            if(document.documentElement.requestFullscreen)
+                plyrPlayerElement.requestFullscreen();
+            else
+                document.documentElement.exitFullscreen();
+          })
+          video.addEventListener("canplay", () => {  
             let progressBar = document.querySelector(".plyr__progress");
             let duration = video.duration;
             if(isIntro){
@@ -767,10 +772,17 @@ function setHlsPlayer(source, intro, outro){
                 newEle.style.width = (outroEnd - outroStart) / duration * 100 + "%";
                 newEle.style.left = outroStart / duration * 100 + "%";
             }
+                let isPrevVideoFullScreenChecker = localStorage.getItem("isPrevVideoFullScreen");
+                if(isPrevVideoFullScreenChecker == 'true'){
+                        let event = new MouseEvent("dblclick");
+                        document.querySelector('.plyr').dispatchEvent(event);
+                    localStorage.setItem("isPrevVideoFullScreen", false);
+                }
             if(localStorage.getItem('autoPlay') == 'true'){
                 document.querySelector("video").click();
-                player.play()
+                player.play();
             }
+            
           })
           if(localStorage.getItem("autoSkipIntro") == 'true')
             video.addEventListener('timeupdate', setVideoEventListner);
@@ -839,47 +851,11 @@ function setVideoEventListner(){
 }
 
 function nextEpisode(){
-    let isFullScreen = document.querySelector(".plyr__controls__item.plyr__control.plyr__control--pressed");
-    // console.log(isFullScreen.innerText);
-    document.querySelector(".control.next-episode").click();
-    video = document.querySelector('video');
-    if(isFullScreen){
-        video.addEventListener('canplay', () => {
-            if(localStorage.getItem("autoPlayNext") == 'true')
-                setTimeout(clickOnFullScreen, 300);
-            function clickOnFullScreen(){
-                // try{
-                //     let fullScreenBtn = document.querySelectorAll(".plyr__controls__item.plyr__control")[3];
-                //     console.log(fullScreenBtn);
-                //     if(fullScreenBtn)
-                //         fullScreenBtn.click();
-                // }catch(e){
-                //     console.log(e); 
-                // }
-                video.click();
-                video.click();
-                // Create a new keyboard event
-                const event = new KeyboardEvent('keydown', {
-                    key: 'f',
-                    code: 'KeyF',
-                    keyCode: 70,
-                    which: 70,
-                    location: 0, // 0 for standard keys
-                    ctrlKey: false, // Modifier keys
-                    shiftKey: false,
-                    altKey: false,
-                    metaKey: false,
-                    repeat: false, // Set to true if you want the key to repeat
-                
-                    // You can also include other properties like 'bubbles', 'cancelable', 'composed', etc.
-                });
-                
-                // Dispatch the event on a target element (e.g., the document or a specific input field)
-                video.dispatchEvent(event);
-                
-            }
-        })
-    }
+    if(localStorage.getItem("autoPlayNext") == 'true'){
+        if(document.fullscreenElement)
+            localStorage.setItem("isPrevVideoFullScreen", true);
+        }
+        document.querySelector(".control.next-episode").click();
 }
 
 
