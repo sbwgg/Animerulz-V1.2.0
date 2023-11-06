@@ -28,8 +28,8 @@ const redirectTo = [
     "attackontitanfinalseasonpart1",
     "bleachthousandyearbloodwararc",
     "tokyorevengerstenjikuhen",
-    "attackontitanfinalseasonpart3",
-    "attackontitanfinalseasonpart3"
+    "attackontitanthefinalseasonpart3",
+    "attackontitanthefinalseasonpart3"
 ]
 
 for(let i = 1; i <= redirectThis.length ; i ++){
