@@ -873,10 +873,10 @@ color: #faa300;
 }
 
 .anime-rec-div, .anime-tr{
-  animation: fadeIn 1s ease both;
+  animation: fadeIn 2s ease both;
   background-size: contain;
   animation-timeline: view();
-  animation-range: entry 5% cover 30%;
+  animation-range: entry 25% cover 35%;
 } 
 @keyframes fadeIn {
   0%{
@@ -884,16 +884,13 @@ color: #faa300;
     /* width: 70%; */
     margin-inline: auto;
     width: 85%;
-    transform: translateX(-20px);
+    transform: translateY(50px);
   }
   50%{
-    opacity: 0.5;
-  }
-  100%{
     opacity: 1;
     width: 100%;
     margin-inline: auto;
-    transform: translateX(0);
+    transform: translateY(20px);
   }
 }
 .anime-rec-div h3{
