@@ -15,7 +15,8 @@ const redirectThis = [
     "bleachthousandyearbloodwar",
     "tokyorevengersseason2part2",
     "attackontitanfinalseasonthefinalchaptersspecial1",
-    "attackontitanfinalseasonthefinalchaptersspecial2"
+    "attackontitanfinalseasonthefinalchaptersspecial2",
+    "attackontitanfinalseasonpart3"
 ]
 const redirectTo = [
     "myheroacademia2",
@@ -28,6 +29,7 @@ const redirectTo = [
     "attackontitanfinalseasonpart1",
     "bleachthousandyearbloodwararc",
     "tokyorevengerstenjikuhen",
+    "attackontitanthefinalseasonpart3",
     "attackontitanthefinalseasonpart3",
     "attackontitanthefinalseasonpart3"
 ]
