@@ -370,7 +370,7 @@ function setServers(presentEpisode){
                             <span class="bold">${server}</span>
                         </div>`
             });
-            temp = `<div class="video-s-audio-section border-bottom other-languages-server">
+            temp = `<div class="video-s-audio-section border-bottom border-top other-languages-server">
                     <div class="audio-info-a">
                     <div class="audio-txt-a-b audio-btn-a-a medim-t-s">
                         <span class="bold">OTHER LANGUAGES :</span>
@@ -387,7 +387,7 @@ function setServers(presentEpisode){
                             <span class="bold">${server}</span>
                         </div>`
             });
-            temp = `<div class="video-s-audio-section border-bottom subbed-server">
+            temp = `<div class="video-s-audio-section border-bottom border-top subbed-server">
                     <div class="audio-info-a">
                     <div class="audio-txt-a-b audio-btn-a-a medim-t-s">
                     <i class="fas fa-closed-captioning mr-1 icon-sub-dub_ small-t"></i>&nbsp;&nbsp;<span class="bold">SUBBED :</span>
@@ -404,7 +404,7 @@ function setServers(presentEpisode){
                             <span class="bold">${server}</span>
                         </div>`
             });
-            temp = `<div class="video-s-audio-section border-bottom dubbed-server">
+            temp = `<div class="video-s-audio-section border-bottom border-top dubbed-server">
                     <div class="audio-info-a">
                     <div class="audio-txt-a-b audio-btn-a-a medim-t-s">
                     <i class="fas fa-microphone mr-1 icon-sub-dub_"></i>&nbsp;&nbsp;<span class="bold">DUBBED :</span>
