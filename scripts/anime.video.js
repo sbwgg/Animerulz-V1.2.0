@@ -209,7 +209,6 @@ function scrollToActiveEpisode(ele, element){
         ele.scrollTo(0, element.offsetTop - ele.offsetTop)
 }
 function setNewEpisodeLongAnime(lowerLimit, upperLimit, presentEpisode){
-    console.log('clicked');
     setLongAnimeEpisodes(lowerLimit, upperLimit, presentEpisode);
     setServers(presentEpisode);
     urlData.episodeNumber = presentEpisode;
@@ -744,16 +743,31 @@ function setHlsPlayer(source, intro, outro){
           const player = new Plyr(video, defaultOptions);
 
           player.config.autoplay = true;
+        //   player.addEventListener("fullscreenchange", () => {
+        //     console.log('fullscreen changed');
+        //   });
     
           if(localStorage.getItem("autoPlayNext") == 'true'){
             video.addEventListener('ended', nextEpisode);
           }
           let plyrPlayerElement = document.querySelector(".plyr");
           plyrPlayerElement.addEventListener('dblclick', () => {
-            if(document.documentElement.requestFullscreen)
-                plyrPlayerElement.requestFullscreen();
+            if(!document.fullscreenElement){
+                // plyrPlayerElement.requestFullscreen();
+                enterVideoFullscreen(plyrPlayerElement);
+            }
             else
-                document.documentElement.exitFullscreen();
+                // document.documentElement.exitFullscreen();
+                exitVideoFullscreen();
+          })
+          plyrPlayerElement.addEventListener("fullscreenchange", () => {
+            // console.log('in');
+            try{if(document.fullscreenElement == plyrPlayerElement)
+                // document.querySelector('.video-player').setAttribute("style", 'transform: rotate(90deg) !important;');
+                screen.orientation.lock("landscape");
+            else
+                // plyrPlayerElement.removeAttribute('style');
+                screen.orientation.lock("portrait");}catch{}
           })
           video.addEventListener("canplay", () => {  
             let progressBar = document.querySelector(".plyr__progress");
@@ -778,6 +792,7 @@ function setHlsPlayer(source, intro, outro){
                         document.querySelector('.plyr').dispatchEvent(event);
                     localStorage.setItem("isPrevVideoFullScreen", false);
                 }
+
             if(localStorage.getItem('autoPlay') == 'true'){
                 document.querySelector("video").click();
                 player.play();
@@ -870,3 +885,33 @@ function setDownloadBtn(){
             `window.open("${downloadLink}")`    
         );
 }
+
+
+function enterVideoFullscreen(element) {
+    if (element.requestFullscreen) {
+      element.requestFullscreen();
+    } else if (element.mozRequestFullScreen) { // Firefox
+      element.mozRequestFullScreen();
+    } else if (element.webkitRequestFullscreen) { // Chrome, Safari, and Opera
+      element.webkitRequestFullscreen();
+    } else if (element.msRequestFullscreen) { // IE/Edge
+      element.msRequestFullscreen();
+    }
+    // element.style.transform = `translate(90deg)`;
+  }
+
+  
+  function exitVideoFullscreen() {
+    if (document.exitFullscreen) {
+      document.exitFullscreen();
+    } else if (document.mozCancelFullScreen) { // Firefox
+      document.mozCancelFullScreen();
+    } else if (document.webkitExitFullscreen) { // Chrome, Safari, and Opera
+      document.webkitExitFullscreen();
+    } else if (document.msExitFullscreen) { // IE/Edge
+      document.msExitFullscreen();
+    }
+  }
+  
+
+  
