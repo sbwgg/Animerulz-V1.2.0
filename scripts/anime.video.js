@@ -766,9 +766,9 @@ function setHlsPlayer(source, intro, outro){
                 if(document.fullscreenElement == plyrPlayerElement)
                 // document.querySelector('.video-player').setAttribute("style", 'transform: rotate(90deg) !important;');
                 screen.orientation.lock("landscape");
-            // else
-            //     // plyrPlayerElement.removeAttribute('style');
-            //     screen.orientation.lock("portrait");
+            else
+                // plyrPlayerElement.removeAttribute('style');
+                screen.orientation.lock("portrait");
             }
                 catch{}
           })
