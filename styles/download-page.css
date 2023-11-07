@@ -86,24 +86,13 @@ html{
   /* height:500px; */
   border: 0;
   width: 100%;
-  min-height: 600px;
+  min-height: 280px;
   /* position: absolute; */
   z-index: -1;
+  max-height: 800px;
 }
-@media only screen and (max-width:1000px){
-  .video-player{
-    min-height: 500px;
-  }
-}
-@media only screen and (max-width:800px){
-  .video-player{
-    min-height: 400px;
-  }
-}
-@media only screen and (max-width:600px){
-  .video-player{
-    min-height: 300px;
-  }
+.plyr{
+  max-height: 800px;
 }
 .loader-rings{
   width: 150px;
@@ -1135,3 +1124,12 @@ html{
     white-space: nowrap;
   }
 }
+
+.intro-indicator{
+  top: 35%;
+  height: 30%;
+  position: absolute;
+  z-index: 10;
+  background-color: red;;
+}
+
