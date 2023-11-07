@@ -1115,6 +1115,9 @@ html{
 .border-bottom{
   border-bottom: 1px solid rgba(255, 255, 255, 0.2);
 }
+.border-top{
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+}
 
 @media only screen and (max-width:400px){
   .video-details .controls-div-a .control{
@@ -1132,4 +1135,3 @@ html{
   z-index: 10;
   background-color: red;;
 }
-
