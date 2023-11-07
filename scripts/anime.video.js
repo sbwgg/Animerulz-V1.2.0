@@ -772,11 +772,11 @@ function setHlsPlayer(source, intro, outro){
             }catch{}
           })
           window.addEventListener("orientationchange", () => {
-            let windowOrientation = window.orientation;
+            try{let windowOrientation = window.orientation;
             if(windowOrientation === 0 || windowOrientation === 100)
                 screen.orientation.lock('portrait');
             else
-                screen.orientation.lock('landscape');
+                screen.orientation.lock('landscape');}catch{}
           })
           video.addEventListener("canplay", () => {  
             let progressBar = document.querySelector(".plyr__progress");
