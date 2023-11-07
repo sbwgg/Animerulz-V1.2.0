@@ -762,12 +762,15 @@ function setHlsPlayer(source, intro, outro){
           })
           plyrPlayerElement.addEventListener("fullscreenchange", () => {
             // console.log('in');
-            try{if(document.fullscreenElement == plyrPlayerElement)
+            try{
+                if(document.fullscreenElement == plyrPlayerElement)
                 // document.querySelector('.video-player').setAttribute("style", 'transform: rotate(90deg) !important;');
                 screen.orientation.lock("landscape");
-            else
-                // plyrPlayerElement.removeAttribute('style');
-                screen.orientation.lock("portrait");}catch{}
+            // else
+            //     // plyrPlayerElement.removeAttribute('style');
+            //     screen.orientation.lock("portrait");
+            }
+                catch{}
           })
           video.addEventListener("canplay", () => {  
             let progressBar = document.querySelector(".plyr__progress");
