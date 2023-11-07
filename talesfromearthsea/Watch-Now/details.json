@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=tales-from-earthsea-episode-",
-        "down_links": [
-            "NDA0MTQ="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=tales-from-earthsea-dub-episode-",
-        "down_links": [
-            "OTA2Mjc="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/2c9c6e5ad55841d502c6846375a13ce053c4f38e3ab8477ed0aa57b9c958b29a176b38673a232a7cb0ae7ae547c5fa66c40b6e47fac6f9425d01de8dcbea048aa0ed4c195e8256e4c155faf0ad5b8ea5079415a3df18a867b334146572a37452a324e4794bc740b7b2b5a12149ec0a94ba15ac0bc88ac2345051d69ed69d93bb/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/f1/9e/f19e58f3cee082a93fd4b864835bf5af/ara-4.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www005.vipanicdn.net/streamhls/855a2054b16135de8d1572bb07065451/ep.1.1677661470.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tales-from-earthsea-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www028.vipanicdn.net/streamhls/9d61e92d96518c3a408bba6afe2ec739/ep.1.1677677846.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tales-from-earthsea-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA0MTQ=",
+            "DUBBED": "OTA2Mjc="
+        },
+        "intro": null
+    }
 }

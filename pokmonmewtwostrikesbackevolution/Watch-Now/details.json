@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=pokemon-movie-22-mewtwo-no-gyakushuu-evolution-episode-",
-        "down_links": [
-            "MTM1MzM5"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=pokemon-movie-22-mewtwo-no-gyakushuu-evolution-dub-episode-",
-        "down_links": [
-            "MTM3MDg4"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/03467ba5168e5a9fbe5c33b460d4d349995f62f85dced68ee81e3bbb5a7b10b11a6ff740d4dfbcd54aeb882cba41d381c9c086857b625af5719d00085db44e64b71e0a270f127ba32c7d8f4bba261c227c8993bfcd27c7204592161e79f0961965ac7c860549dc25d1f68023357dc22dcbe6dad8518c44c1118fd7e870686a61/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/73/dd/73dd69e6d452c7eb9fc5484abc4fcbdd/eng-2.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www010.vipanicdn.net/streamhls/a13cfc5af79380e393d0000dce10d4d1/ep.1.1677687580.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=pokemon-movie-22-mewtwo-no-gyakushuu-evolution-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www019.vipanicdn.net/streamhls/e47cd17b218e08b8f3fba2456c471aae/ep.1.1677697082.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=pokemon-movie-22-mewtwo-no-gyakushuu-evolution-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTM1MzM5",
+            "DUBBED": "MTM3MDg4"
+        },
+        "intro": null
+    }
 }

@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=blood-c-the-last-dark-episode-",
-        "down_links": [
-            "NDA0NTI="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=blood-c-the-last-dark-dub-episode-",
-        "down_links": [
-            "MTQ3ODU1"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/c8c9e5c30407ba7c4ac0414fe932eae809420f188f4e8ec2ef03ad4cdf67117c2a9d94ba0046afa51ace4f9152436fe61f96d3703e868782f38b3430b1cb45acc70091f8af92c925fa144de881e712a33d1f130779212dbd375289cffe423309f73cb59976c92da9772cdf319fa3454bae969666f7e642b9555186be0e9cb260/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/52/2a/522aff2fbf982fe7916a499dad9c3a37/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www013.vipanicdn.net/streamhls/381e55bd58f8aa73f4a2ba55718f08de/ep.1.1677660409.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=blood-c-the-last-dark-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www016.vipanicdn.net/streamhls/5bb9c2846dc26469d9667b114c2e09b9/ep.1.1677702995.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=blood-c-the-last-dark-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA0NTI=",
+            "DUBBED": "MTQ3ODU1"
+        },
+        "intro": null
+    }
 }

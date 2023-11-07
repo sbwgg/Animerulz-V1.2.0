@@ -1,13 +1,24 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=eve-no-jikan-gekijouban-2010-episode-",
-        "down_links": [
-            "NDI4MzA="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www021.vipanicdn.net/streamhls/d69148d0f574d6aa32c7b6d4c6fc9e26/ep.1.1677661090.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=eve-no-jikan-gekijouban-2010-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=eve-no-jikan-gekijouban-2010-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDI4MzA="
+        }
+    }
 }

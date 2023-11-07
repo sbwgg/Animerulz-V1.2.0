@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=lupin-iii-honoo-no-kioku-tokyo-crisis-episode-",
-        "down_links": [
-            "MTQyOTEz"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=lupin-iii-honoo-no-kioku-tokyo-crisis-dub-episode-",
-        "down_links": [
-            "MTQyODA5"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/403c8660ca49959a8b545b8d257da3de1eb539f516bc2d5c339d84384958c3d45edf8959164ea4a8970c61781a28bf0f95360bb13f1a55a70ee0a8908593da19dcd9bae510856aefeafedaa76e3503438a55f427a38bc06d85cf9d7a31b93c6f4d684691d3119023b5abb6d0215e55815760a90943d4624e8e39b9bb213299cf/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/20/c5/20c565c66814a3d940e6c655106bdce8/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www024.vipanicdn.net/streamhls/13f3a935dc63f1012879727424bd254d/ep.1.1677705360.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=lupin-iii-honoo-no-kioku-tokyo-crisis-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www010.vipanicdn.net/streamhls/b1fb65de77c6f8a363125c9004d7c1b0/ep.1.1677690382.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=lupin-iii-honoo-no-kioku-tokyo-crisis-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTQyOTEz",
+            "DUBBED": "MTQyODA5"
+        },
+        "intro": null
+    }
 }

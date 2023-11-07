@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=nanatsu-no-taizai-ensa-no-edinburgh-episode-",
-        "down_links": [
-            "MTk2NTA4"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=nanatsu-no-taizai-ensa-no-edinburgh-dub-episode-",
-        "down_links": [
-            "MTk2NTA5"
-        ]
-    },
-    "episodes_names": [
-        "Episode 1"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Episode 1",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/8ff51a26e947f944524d7d3911e407424ed1860c6553b0d180a7255f2f6bbc7cadb49c5525c4322ad9cb9015cea1ee43d7e5742c9d5415ffb7c96ddd21e5919239001225972491c7b06c687c0459e7e8e16d5c9b32d02bdea4ebf944872e8de37d3fb74c39ff38aec84696ed87997a4daca097a732b9f0737250514aca6e7c7c/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/04/a5/04a5572771cb4a4562ab6628a761f3e2/hrv-2.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www009.vipanicdn.net/streamhls/cfd64aadec53fdaabd786ddd6e5a91a6/ep.1.1677596031.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=nanatsu-no-taizai-ensa-no-edinburgh-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www040.vipanicdn.net/streamhls/4013e34f6a1940faf7535d1498bd934c/ep.1.1677815915.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=nanatsu-no-taizai-ensa-no-edinburgh-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTk2NTA4",
+            "DUBBED": "MTk2NTA5"
+        },
+        "intro": null
+    }
 }

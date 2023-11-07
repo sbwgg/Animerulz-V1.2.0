@@ -1,13 +1,29 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=tokyo-ghoul-jack--episode-",
-        "down_links": [
-            "NjkyNjQ="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/3116486602b0d5c127f3441b6f907e7e4205c095558f8377c7fb6428162ec4492f1298f8d43a1ebd57b7d4a6551fec4a65a37ee0d436ef3931fb170abc283fb63c8d2a3df22d0d7c1b9e8f730211484b0992878da2229b7954caeb3db5a9287216330af325ba85fa573eb547c091cd85d0d96029083a6fd44d31032f1d18a7c0/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/56/fc/56fca1a667f886d1e0b4d72b4297edbc/56fca1a667f886d1e0b4d72b4297edbc.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www025.vipanicdn.net/streamhls/b2b7750bf36a83b13cf8e04e12ae7957/ep.1.1677704353.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-ghoul-jack--episode-1"
+                }
+            },
+            "DUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tokyo-ghoul-jack--dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NjkyNjQ="
+        },
+        "intro": null
+    }
 }

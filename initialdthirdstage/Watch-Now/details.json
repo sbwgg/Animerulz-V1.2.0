@@ -1,20 +1,36 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=initial-d-third-stage-episode-",
-        "down_links": [
-            "MjAwMjc="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=initial-d-third-stage-dub-episode-",
-        "down_links": [
-            "MTA2OTUx"
-        ]
-    },
-    "episodes_names": [
-        "Initial D Third Stage"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Initial D Third Stage",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/ff3311e4e4ad11bf5e1be09d8f61b9609deeff8b479717264aa159afcda42d1fc1277699c449d2539eda770b2bfc43a09c76554ae655fa5bf09d83211fb9b92fdeff8fc90ff46ae73d9b8f40591a0682e0bd09834e3ad81248b1b32b17dd54405cf9bbc249d5585b8208cd6b04fed26d73da65b5cb1ac6d9365f96e8d2159015/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/5b/8e/5b8e0bfcd111bea147914b3a826fcfe3/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www018.vipanicdn.net/streamhls/7170ce57d443934a8590cc0e2594ae3f/ep.1.1677615421.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=initial-d-third-stage-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www002.vipanicdn.net/streamhls/41e43e6c0f0894f5500479f9e94313d0/ep.1.1677608150.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=initial-d-third-stage-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MjAwMjc=",
+            "DUBBED": "MTA2OTUx"
+        },
+        "intro": {
+            "start": 0,
+            "end": 138
+        }
+    }
 }

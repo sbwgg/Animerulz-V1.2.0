@@ -1,20 +1,28 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=bakemono-no-ko-episode-",
-        "down_links": [
-            "NzExNzA="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=bakemono-no-ko-dub-episode-",
-        "down_links": [
-            "MTU2MDU1"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www011.vipanicdn.net/streamhls/1ac5b6ab123d6b9dfce964d668a9f155/ep.1.1677669825.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=bakemono-no-ko-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www046.vipanicdn.net/streamhls/d5abf3750fabfa0664e4853bdf75e3f2/ep.1.1677855102.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=bakemono-no-ko-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NzExNzA=",
+            "DUBBED": "MTU2MDU1"
+        }
+    }
 }

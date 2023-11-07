@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=kono-sekai-no-katasumi-ni-episode-",
-        "down_links": [
-            "MTAxNzcx"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=kono-sekai-no-katasumi-ni-dub-episode-",
-        "down_links": [
-            "MTQxOTg2"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/7bf974207a0a6d6af9252764842fb8d6c3e8dffa67b10d77ac2e48d595cc6075418d1463143b3908a9de1fcbc49282b0972113cca2fa74d058fbb9984436c6fe12c69ca760a624014d8f48a03c9ceaeea92b998320499e6e47d5e118585cf5e8bf6bfee06e9a9a610c137a212324d1bd821c26599a40bf13c1f07e6de6ebe0bd/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/fa/63/fa63e521f0757a86b75a91b441dd5fe0/chi-6.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www012.vipanicdn.net/streamhls/d121d5a3dfc00ff2a93b403ed2b315d9/ep.1.1677623210.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=kono-sekai-no-katasumi-ni-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www027.vipanicdn.net/streamhls/ec3eafba78aba209e17d3a63dadbb787/ep.1.1677809736.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=kono-sekai-no-katasumi-ni-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTAxNzcx",
+            "DUBBED": "MTQxOTg2"
+        },
+        "intro": null
+    }
 }

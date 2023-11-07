@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=dirty-pair-bouryaku-no-005-bin-episode-",
-        "down_links": [
-            "MTg2OTAw"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=dirty-pair-bouryaku-no-005-bin-dub-episode-",
-        "down_links": [
-            "MTg2OTAx"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/ca9d6c189e20b5cc3549a26d8a9194528d97d4af26c95ca29ea16b52c73518a2ed8e21217869edfcbc03497854b5818f455c419be0589424631cb38ab1ef2ab2b67202c1a91287b94532e1fccb4e0322fe2738d27b1c46dfde1785d0223a41d529c16bb312714d71e048b1aacffe53914308303674c575cc2b7c7b68c22e15d5/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/70/5b/705be161ad884f984fbc7bb6e6a8754d/eng-2.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www031.vipanicdn.net/streamhls/bd10f0809ea06420b6bf027ea7bcc766/ep.1.1677821638.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=dirty-pair-bouryaku-no-005-bin-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www032.vipanicdn.net/streamhls/026a616ed9d899e5a91f3028d9b8011f/ep.1.1677818996.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=dirty-pair-bouryaku-no-005-bin-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTg2OTAw",
+            "DUBBED": "MTg2OTAx"
+        },
+        "intro": null
+    }
 }

@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=dead-leaves-episode-",
-        "down_links": [
-            "NDA1Njc="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=dead-leaves-dub-episode-",
-        "down_links": [
-            "MTYwMjk2"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/9652367973086f2d43ab5f08363d0aee52b250d7e897d4407dace6873d9f62cb47c80a9ca7de5f4bb78b0cd3866b57a4020bc1a379dec745deec6c308dfb6ad6bf3875c768ce36a5cfdfe82745efcdc4e97dca5559131e00f72d4420760cd8cbe09a155fdd3836d88c4ddf7b414c4a56f6f88b17f09d0119b51877bdfe146957/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/e9/e5/e9e52364d454a77d99af51980e30742e/jpn-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www008.vipanicdn.net/streamhls/39eaf08d84ef318d01c4c5e7d7021a3f/ep.1.1677664945.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=dead-leaves-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www047.vipanicdn.net/streamhls/8cb248c4102b7450b3ffa31ebe625e53/ep.1.1677855250.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=dead-leaves-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA1Njc=",
+            "DUBBED": "MTYwMjk2"
+        },
+        "intro": null
+    }
 }

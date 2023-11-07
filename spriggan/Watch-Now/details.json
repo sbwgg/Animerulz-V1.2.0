@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=spriggan-episode-",
-        "down_links": [
-            "NDA4NjA="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=spriggan-dub-episode-",
-        "down_links": [
-            "OTA2MTU="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/d14d9a2e139b49da8c99f4d895330232411506c1c1563846a47750952c77a3148de7b50efebfb15e56dec8fd1411bbbdb9b45a98e29156e603da7e384e12c1db4d235481fe2c132b1a9d468a1788eb9cdae664584cd4ffd7c6b90e2cb9f25d7c6fd4f56985e5655b6fa27e66e8b39e388c15e29dba7c276d3daf77c9201c085f/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/7a/3b/7a3b75060bb33adbf9058050a69e236b/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www001.vipanicdn.net/streamhls/db84b4fb1b944d3b6962a0bf1f8bffd3/ep.1.1677661152.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=spriggan-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www016.vipanicdn.net/streamhls/e72d3369d74746d9fd11dd4a51ca479f/ep.1.1677672673.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=spriggan-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA4NjA=",
+            "DUBBED": "OTA2MTU="
+        },
+        "intro": null
+    }
 }

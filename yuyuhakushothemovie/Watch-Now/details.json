@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=yu-yu-hakusho-the-golden-seal-episode-",
-        "down_links": [
-            "NDA3NDc="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=yu-yu-hakusho-the-golden-seal-dub-episode-",
-        "down_links": [
-            "Nzk4NTE="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/4a1280bc7f0a8a422d5cdb18bb8d3627f4cdb46d4df5b971d3c26ea73a8c99ba6ac135b18adc2858bd9459044767adae442bb7157002ed361995f59c48ff8cfcb563ed67dae3276d85543d5daa735ba96f60fe6cfe970208ce5c6375dd619a5eec40a32608cdbe562db4efa8e9a04f6f690a39bf02ecf492b8f78b18aed35594/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/b4/e2/b4e2d09f2bada1106534bc37355eb463/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www008.vipanicdn.net/streamhls/d7912d5ae0c2a51e606dc61e58d55167/ep.1.1677665043.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=yu-yu-hakusho-the-golden-seal-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www022.vipanicdn.net/streamhls/a2cb37805e2024a4dd8de84d72dcab53/ep.1.1677669826.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=yu-yu-hakusho-the-golden-seal-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA3NDc=",
+            "DUBBED": "Nzk4NTE="
+        },
+        "intro": null
+    }
 }

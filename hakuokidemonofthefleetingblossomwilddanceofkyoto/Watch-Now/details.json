@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=hakuouki-movie-1-kyoto-ranbu-episode-",
-        "down_links": [
-            "NDk3MzM="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=hakuouki-movie-1-kyoto-ranbu-dub-episode-",
-        "down_links": [
-            "MTA3MTkx"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/8be330ddff4627c9fb79b43e62eda169ba5a9e6463ca8acf06558b8e381d911a0ae38667ce1d78656afab8eb1918e930c55ca998661cc4f162e2a3a31f2ceb8ee282a1f7ff5532d613246cca6d3a6993467db9409f26069cf795f4950c8bc0d37edf4124f80b1ac355a99e6decdbbbf6c058ba5eb5a93e4ecb55b00d6f7731e4/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/74/0b/740b412db3ea1fad1807d00e3eac227d/ara-5.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www024.vipanicdn.net/streamhls/4ffa7ca67a88869ef3dc3e9b1358acb7/ep.1.1677667073.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=hakuouki-movie-1-kyoto-ranbu-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www002.vipanicdn.net/streamhls/f810a780059fbf2bfda695fa34ca03d0/ep.1.1677682114.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=hakuouki-movie-1-kyoto-ranbu-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDk3MzM=",
+            "DUBBED": "MTA3MTkx"
+        },
+        "intro": null
+    }
 }

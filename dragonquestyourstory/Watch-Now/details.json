@@ -1,13 +1,29 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=dragon-quest-your-story-episode-",
-        "down_links": [
-            "MTM2NTIx"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/1e5f6e20d12e54cc2a15ea706c58bb6cd1dbb38b8af50b9e8abe9edddc369ed2a0af4d06b9ddd672ea70421eff0b85e3cb4f1a97ebc87e3017e1c277f6985427a40472f26a7a317c57e3ebf2401a2dcfb1f48cedda12f1c450f038b43773b5c39d35db3018d01e3a6313cec06ad44052b3d88cf7328197607b170f6547838dc4/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/19/22/19225090cbf484b23afe733ee8bd5803/ara-4.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www022.vipanicdn.net/streamhls/354cde6a61908a9f1648ad9115cb87be/ep.1.1677634525.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=dragon-quest-your-story-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=dragon-quest-your-story-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTM2NTIx"
+        },
+        "intro": null
+    }
 }

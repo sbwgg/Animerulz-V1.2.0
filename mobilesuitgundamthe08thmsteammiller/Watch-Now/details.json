@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=mobile-suit-gundam-the-08th-ms-team-millers-report-episode-",
-        "down_links": [
-            "MTIxNjUx"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=mobile-suit-gundam-the-08th-ms-team-millers-report-dub-episode-",
-        "down_links": [
-            "MTAxOTQ1"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/444566c11818bff37ad37a48f761fa6fc53361fbb8a93f5c15f8bc8d1b9fab7dad4684abf0d4d1a90e41570593b9164df7289d84524ab29a55928564ac55e8153eb45fdd7f141500202fb8aba5a052d2dff96a7e36140771149cf692aee569b252a09f62e852e699be9b4f4774079efb48078cb09573d5b8df173a145fd5b3a7/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/dc/85/dc85944a90926ddf282b021c82704195/eng-2.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www042.vipanicdn.net/streamhls/1686f82902a5f395a033aeb59198ca82/ep.1.1677859451.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=mobile-suit-gundam-the-08th-ms-team-millers-report-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www006.vipanicdn.net/streamhls/0f885ff8626114c9502b3f5b3d2b7c37/ep.1.1677679698.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=mobile-suit-gundam-the-08th-ms-team-millers-report-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTIxNjUx",
+            "DUBBED": "MTAxOTQ1"
+        },
+        "intro": null
+    }
 }

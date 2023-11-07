@@ -1,13 +1,29 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=lupin-iii-walther-p38-episode-",
-        "down_links": [
-            "MTQwMTEy"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/b57f06480671b18cf6075d456764553864d41c360e06cd0983c616709d1eeed96f13bdde70bc2a3ad9c13414e25919a50c81bdfc15d616e490aeee4311931679cc15aa19067c84c09bc7bd82f5c2806fdaf1930769c577af15b8093cdce4153a89bf79192715a8e14787a04681aae3933669dd6ae32af8a8b98fb310a82dd7df/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/57/09/57095076045cd1e1a178c3e9414566ee/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www013.vipanicdn.net/streamhls/7aa16d64be94b9bb1b285b79fd34ddaf/ep.1.1677696619.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=lupin-iii-walther-p38-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=lupin-iii-walther-p38-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTQwMTEy"
+        },
+        "intro": null
+    }
 }

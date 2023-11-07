@@ -1,23 +1,28 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=digimon-adventure-tri-2-ketsui-episode-",
-        "down_links": [
-            "NzExMjg=",
-            "NzExMjk=",
-            "NzExMzA=",
-            "NzExMzE="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=digimon-adventure-tri-2-ketsui-dub-episode-",
-        "down_links": [
-            "MTQ2NzQ3"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www029.vipanicdn.net/streamhls/822f4b51da0e7ef7a477efb1651d420c/ep.1.1677668224.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=digimon-adventure-tri-2-ketsui-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www038.vipanicdn.net/streamhls/ac0ef508bc5cd12a3ea756b3cea4a70d/ep.1.1677835087.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=digimon-adventure-tri-2-ketsui-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NzExMjg=",
+            "DUBBED": "MTQ2NzQ3"
+        }
+    }
 }

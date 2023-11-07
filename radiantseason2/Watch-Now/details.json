@@ -1,80 +1,716 @@
 {
-    "jap": {
-        "no_epi": "21",
-        "link": "https://player.ryuk.to?id=radiant-2nd-season-episode-",
-        "down_links": [
-            "MTMwNDgx",
-            "MTMxMTY2",
-            "MTMxNzc2",
-            "MTMyMjM1",
-            "MTMyNzIy",
-            "MTMzMTYy",
-            "MTMzNTk4",
-            "MTM0MDg0",
-            "MTM0MzU4",
-            "MTM0NTU1",
-            "MTM0NzI5",
-            "MTM0OTQy",
-            "MTM1MDgz",
-            "MTM1NTEx",
-            "MTM1Njg5",
-            "MTM1ODY5",
-            "MTM2MDY4",
-            "MTM2MjA4",
-            "MTM2NDU1",
-            "MTM2Nzgw",
-            "MTM3MDcx"
-        ]
+    "1": {
+        "title": "Toward a New Adventure: Overture",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/07172a95e9842060936aa55989c4044da42e974c431f9763323a1b3fa13f10f0fa30fb738f4a9d1d5afa0d5298763a6c3565a852bea21af4f0aa10572da3ca7dc595a6460748cff1ed5fea1f0c0ebdca58558d897cf297f219918437637e82bd64bb598c58f8129dec54f0f7833431918d1e86a17551ace8f00322b11dcd1757/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/ee/85/ee85d61290e70b4fcc7c4adec7c1c425/ara-10.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www012.vipanicdn.net/streamhls/1a270d9e7ceb6f1d7d9d34eed3666061/ep.1.1677626045.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=radiant-2nd-season-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www024.vipanicdn.net/streamhls/cc2765d8a213ea165c64fd9136864933/ep.1.1677699685.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=radiant-2nd-season-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTMwNDgx",
+            "DUBBED": "MTMxODEz"
+        },
+        "intro": {
+            "start": 63,
+            "end": 152
+        }
     },
-    "eng": {
-        "no_epi": "21",
-        "link": "https://player.ryuk.to?id=radiant-2nd-season-dub-episode-",
-        "down_links": [
-            "MTMxODEz",
-            "MTMyMjgw",
-            "MTMyNzM1",
-            "MTMzMjcw",
-            "MTMzNjI2",
-            "MTM0MDk2",
-            "MTM0Mzcy",
-            "MTM0NTc3",
-            "MTM0NzUw",
-            "MTM0OTU2",
-            "MTM1NjEw",
-            "MTM1NzA3",
-            "MTM1NzA0",
-            "MTM1ODgz",
-            "MTM2MDc2",
-            "MTM2MjE4",
-            "MTM2NTEx",
-            "MTM2Nzkx",
-            "MTM3MDgy",
-            "MTM3MjYy",
-            "MTM3NDYy"
-        ]
+    "2": {
+        "title": "An Encounter in the Rain: Mist",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/4f0b94b817b6613edd92da80c1fffabc7971c121b1f67b009543e4216ad5c1bf75d8e2f284b5a764ff6e85ea72567acdeb3768a9b6e9c9d200fc837613bb8831c956e5f7757449b4babb246d7f1337120f1cbe3f9fff905ff648d0a72b29d939b9c5ebc43dedfde20a4464757301916a1396de7708c96dc31848e3b920e34679/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/ca/d2/cad2d181696079df82d03b69f6e3fd4a/ara-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www007.vipanicdn.net/streamhls/1a270d9e7ceb6f1d7d9d34eed3666061/ep.2.1677689410.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=radiant-2nd-season-episode-2"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www011.vipanicdn.net/streamhls/cc2765d8a213ea165c64fd9136864933/ep.2.1677708483.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=radiant-2nd-season-dub-episode-2"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTMxMTY2",
+            "DUBBED": "MTMyMjgw"
+        },
+        "intro": {
+            "start": 111,
+            "end": 200
+        }
     },
-    "episodes_names": [
-        "Toward a New Adventure: Overture",
-        "An Encounter in the Rain: Mist",
-        "The City of Knights -Caislean Merlin-",
-        "The Bringer of Calamity -Dullahan-",
-        "Silent Rain, Distant Hearts -Rain-",
-        "His Name Is -Diabal-",
-        "The Spectre Battle -Spectre-",
-        "Seth in the Forest of Time -Caillte-",
-        "The Palace of Schemes -Palace-",
-        "The Qualifications of a Knight -Quality-",
-        "Now, Feel the World",
-        "The Truth Is Like a Curse -Ocoho-",
-        "Your Decision -Knighthood-",
-        "The Final Battlefield -Battlefield-",
-        "Led to the Abyss by a Melody of Death -Harmonizium-",
-        "The Light of Life is Extinguished -Tragedy-",
-        "The Black Dragon Descends -Pen Draig-",
-        "The Will of the People Shines Bright -Resistance-",
-        "I Can't Hear Your Voice -Myrddin-",
-        "A Bouquet of Flowers for This Land -Fantasia-",
-        "The Future Is With You -Eternity-"
-    ],
-    "fillers": []
+    "3": {
+        "title": "The City of Knights -Caislean Merlin-",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/2e0f04ee1515514118bba49b915b2ea3d3efe1a02741499e210624928bf25fe9cf03dc13e6c84c200a3f7b306e396756429307264a6a2de360ec4a7583f7efcd6e5f38459c0b081219d585fb852a49e91eb1ba7c3e5dd54e75aa23d0b136c6e00372c4decedc01a3c9997b5070d215a99478a11cf7ff84a2abca95c4b1a264c8/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/6c/28/6c289040c384909897d4e1c3bcaad383/ara-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www017.vipanicdn.net/streamhls/1a270d9e7ceb6f1d7d9d34eed3666061/ep.3.1677697310.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=radiant-2nd-season-episode-3"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www016.vipanicdn.net/streamhls/cc2765d8a213ea165c64fd9136864933/ep.3.1677694867.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=radiant-2nd-season-dub-episode-3"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTMxNzc2",
+            "DUBBED": "MTMyNzM1"
+        },
+        "intro": {
+            "start": 65,
+            "end": 154
+        }
+    },
+    "4": {
+        "title": "The Bringer of Calamity -Dullahan-",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/a1c7d38f6908b4a8041e2f4d614788f6ed9bb27ba3ee9a8cff02111c6b11a9ccfbe0a2e3e54a3cc7c6f4bf0daa4648181fd409b14c44bdc77a7966964498c365d000b6c7610a68d4c8df3b8ba8df67af7942eb6e0a7a0cb3dc3461bdba8cfd61f9d5d2a2d489290ba9f6a169a0118a3cdbb5d0d0ff3547f6faf3b66322f862a0/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/13/0f/130f244476fa627d9e5cebf6acf1ff64/ara-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www026.vipanicdn.net/streamhls/1a270d9e7ceb6f1d7d9d34eed3666061/ep.4.1677701800.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=radiant-2nd-season-episode-4"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www011.vipanicdn.net/streamhls/cc2765d8a213ea165c64fd9136864933/ep.4.1677708958.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=radiant-2nd-season-dub-episode-4"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTMyMjM1",
+            "DUBBED": "MTMzMjcw"
+        },
+        "intro": {
+            "start": 39,
+            "end": 128
+        }
+    },
+    "5": {
+        "title": "Silent Rain, Distant Hearts -Rain-",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/7826d86a578d7f51c1281afeeb5fedf92ed6a227aee50b693af1b9bb6891a9676d081c2535ea2c95d2f64ab3b840f39e5211da3e26fa18e2e0e72a3056c69f6b8bef97ae03e02ccf3b8317758e90c99740a1dac07d71ac644bf7a87dcaa8dab84c7cb41073b790b397879f14cab2fc00573f4914ae508e827a8492b3ce89834b/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/a6/60/a6608c0da43f77c4a5f5662a1b80a30a/ara-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www003.vipanicdn.net/streamhls/1a270d9e7ceb6f1d7d9d34eed3666061/ep.5.1677617153.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=radiant-2nd-season-episode-5"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www007.vipanicdn.net/streamhls/cc2765d8a213ea165c64fd9136864933/ep.5.1677690123.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=radiant-2nd-season-dub-episode-5"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTMyNzIy",
+            "DUBBED": "MTMzNjI2"
+        },
+        "intro": {
+            "start": 101,
+            "end": 190
+        }
+    },
+    "6": {
+        "title": "His Name Is -Diabal-",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/733031b71aa3021ada5740d6d7088c1aca6aa7ad6a768176116e590590e71e4f9fee99807f0eff0383ea7be76b99b62f6845613ba45af1bf0ce3c25258fc3667f31865b6006a5699dbcb36a45c365bb77f1e5e8f62568afdf7fba8736eaf868a3531ed2a00c434df79a7a4f1723e8de316149673e73e19b9a0db20387c5e9b9b/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/63/3b/633bf004e77ec4b75ee799fb067be9db/ara-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www023.vipanicdn.net/streamhls/1a270d9e7ceb6f1d7d9d34eed3666061/ep.6.1677797071.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=radiant-2nd-season-episode-6"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www027.vipanicdn.net/streamhls/cc2765d8a213ea165c64fd9136864933/ep.6.1677793467.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=radiant-2nd-season-dub-episode-6"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTMzMTYy",
+            "DUBBED": "MTM0MDk2"
+        },
+        "intro": {
+            "start": 71,
+            "end": 160
+        }
+    },
+    "7": {
+        "title": "The Spectre Battle -Spectre-",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/229671a87e3afc8ba870ce5de4299b97f431f068b3a05679255d640355b7137a14e92f13225b7990ac8cf9991b8baf4ad7ae0ebe7be7ece1010419de111baa52ce4c4051b8a12e21efed48354e3d1e0289254317e7f40fba4b1944e23253a9768411b85751b5a47e510e9be7c7b39e2a1b4ab1d92bd050fb5493bfb3657eff14/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/b0/4c/b04c54c5b067a0440e501af82471d2eb/ara-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www009.vipanicdn.net/streamhls/1a270d9e7ceb6f1d7d9d34eed3666061/ep.7.1677622175.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=radiant-2nd-season-episode-7"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www003.vipanicdn.net/streamhls/cc2765d8a213ea165c64fd9136864933/ep.7.1677618131.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=radiant-2nd-season-dub-episode-7"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTMzNTk4",
+            "DUBBED": "MTM0Mzcy"
+        },
+        "intro": {
+            "start": 56,
+            "end": 145
+        }
+    },
+    "8": {
+        "title": "Seth in the Forest of Time -Caillte-",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/96bac0aa082547d3e2d8d0da6a9fe88cb8984ea37cfa5feeb877ba78a95c98703e7aa8979a623efdd533851730aacf907786138d35b363f15854e29a6b57fc9056cf0ce67961c56e4dabf157814b5071a78f7c3347d41e161831c4ba6c67454e1c6986dedc64428629b56ec2534031c91b4b66bf2662b2ad181c05c610609557/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/31/cd/31cdff2cbf39b4ccf94856bfedcefd77/ara-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www015.vipanicdn.net/streamhls/1a270d9e7ceb6f1d7d9d34eed3666061/ep.8.1677637045.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=radiant-2nd-season-episode-8"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www028.vipanicdn.net/streamhls/cc2765d8a213ea165c64fd9136864933/ep.8.1677700211.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=radiant-2nd-season-dub-episode-8"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTM0MDg0",
+            "DUBBED": "MTM0NTc3"
+        },
+        "intro": {
+            "start": 19,
+            "end": 108
+        }
+    },
+    "9": {
+        "title": "The Palace of Schemes -Palace-",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/55aed41e9bfe2f8560c48932ce33edd62d32df112b420f44af95cbfd9726019eeae859ae71c7d9aa46ee680425f02d73e152b8cd13ebb187c764d33f7e325741ad5985741879421c6e5ccd6cbd4611e9bf31923fc84e2250e3a9f8bb2678cb44699f813f3264ae8d665957135425a1c0267fb0ec18020ad9a1bb65a884c3b11e/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/e2/db/e2dbe8bda822996fee8c4e45bc0e4f0c/ara-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www019.vipanicdn.net/streamhls/1a270d9e7ceb6f1d7d9d34eed3666061/ep.9.1677695848.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=radiant-2nd-season-episode-9"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www021.vipanicdn.net/streamhls/cc2765d8a213ea165c64fd9136864933/ep.9.1677696739.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=radiant-2nd-season-dub-episode-9"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTM0MzU4",
+            "DUBBED": "MTM0NzUw"
+        },
+        "intro": {
+            "start": 86,
+            "end": 175
+        }
+    },
+    "10": {
+        "title": "The Qualifications of a Knight -Quality-",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/1d1b878ddcede0dfdc26991cfc211d447272f61df6562f8a1403b5da261281598dbaba029eb6056df2f1da2f6aa6f42b2a2c7ca80a692fca73dfaa43125b7f2d37adcda120e8bc8cae8d40a49967993fbfa9b6f1ff899c5a3da89371a264c32e18d2d0bfcb66403736e3e86db94e06fc631ca04ec59c7332c2432d9d77c77e48/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/db/a4/dba43809e928602f03576ea10995bbb2/ara-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www006.vipanicdn.net/streamhls/1a270d9e7ceb6f1d7d9d34eed3666061/ep.10.1677694277.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=radiant-2nd-season-episode-10"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www017.vipanicdn.net/streamhls/cc2765d8a213ea165c64fd9136864933/ep.10.1677698615.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=radiant-2nd-season-dub-episode-10"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTM0NTU1",
+            "DUBBED": "MTM0OTU2"
+        },
+        "intro": {
+            "start": 128,
+            "end": 217
+        }
+    },
+    "11": {
+        "title": "Now, Feel the World",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/d73669e679ac360b5732fac03ac6fe6d7cce2175e69e486282c7d8a2aafd662c4311b0986b128dbaa2b359e36bde9a41ad43e5b7e325ebb565c47335846272a40d0f36fc98f8b317f4204f6e3ed07fb8c795e97e569af852fb27ded47a1fbd0e1f5d59e6d083f10ef34574b9367b11850e9bef2ae1f19b246575087d703937cb/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/20/cd/20cd88c7b2b7ab46ee421ccf15b5850d/ara-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www030.vipanicdn.net/streamhls/1a270d9e7ceb6f1d7d9d34eed3666061/ep.11.1677695192.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=radiant-2nd-season-episode-11"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www011.vipanicdn.net/streamhls/cc2765d8a213ea165c64fd9136864933/ep.11.1677710492.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=radiant-2nd-season-dub-episode-11"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTM0NzI5",
+            "DUBBED": "MTM1NjEw"
+        },
+        "intro": {
+            "start": 25,
+            "end": 114
+        }
+    },
+    "12": {
+        "title": "The Truth Is Like a Curse -Ocoho-",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/9e5474ff7012a8df2499691115d1f9750942f76efe0687d776c806c4d217ae84f7d2e3a32a40716e9bb13a59cf2e9d385ce6968fb0917d5370914bdc7b23efc2a82879eddcdbacae86c614f04b32cfacdcca1c5a7888be04e9eb0878cec3c38fe18fd0c565153a1f165a20acac77e994ba6dbbb16e58fadeb3d81c30b8786741/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/ee/17/ee1760f55de7cd4bc12107243848edfc/ara-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www003.vipanicdn.net/streamhls/1a270d9e7ceb6f1d7d9d34eed3666061/ep.12.1677617673.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=radiant-2nd-season-episode-12"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www018.vipanicdn.net/streamhls/cc2765d8a213ea165c64fd9136864933/ep.12.1677632642.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=radiant-2nd-season-dub-episode-12"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTM0OTQy",
+            "DUBBED": "MTM1NzA3"
+        },
+        "intro": {
+            "start": 54,
+            "end": 143
+        }
+    },
+    "13": {
+        "title": "Your Decision -Knighthood-",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/d2d620aca9ac9828dafd76094c2aa2a383226c0675c1fb017557f6c4923c9c8a09674ee5392fd8992676d2c3320c06cd7c6bb11b8fa622e63dcb4819ba13e6aa2d34f1268fe9016812f60648d952dab9ce48775ee9a82bd79a6014c6b7a867c5144f4dad0dedb58fc04e8a0118487d0332420a3dccd49476001793c6b5d14a76/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/61/f6/61f6c81faeca243349b94825ff8351b0/ara-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www024.vipanicdn.net/streamhls/1a270d9e7ceb6f1d7d9d34eed3666061/ep.13.1677700973.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=radiant-2nd-season-episode-13"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www015.vipanicdn.net/streamhls/cc2765d8a213ea165c64fd9136864933/ep.13.1677637572.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=radiant-2nd-season-dub-episode-13"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTM1MDgz",
+            "DUBBED": "MTM1NzA0"
+        },
+        "intro": {
+            "start": 80,
+            "end": 169
+        }
+    },
+    "14": {
+        "title": "The Final Battlefield -Battlefield-",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/1969df12446c8ee49f02b42213294cb5977ce44a05682ca3124c4cf35a0334b95ccea538d59691c804e959580a9b9b04ef354d19bfb23eec83d12fb8d89dac2f3c01ed325c66d830ffefc9fb29b8615980d2bb29ffabc1cab9a5ec2005a0664a7735e0253ec4a6c33aa8aa43defd1c1bbc5fd91edb0234b473754d4a0e7c2570/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/64/0d/640d42ebf09ba8e974066f1d1debec75/ara-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www002.vipanicdn.net/streamhls/1a270d9e7ceb6f1d7d9d34eed3666061/ep.14.1677621016.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=radiant-2nd-season-episode-14"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www014.vipanicdn.net/streamhls/cc2765d8a213ea165c64fd9136864933/ep.14.1677633459.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=radiant-2nd-season-dub-episode-14"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTM1NTEx",
+            "DUBBED": "MTM1ODgz"
+        },
+        "intro": {
+            "start": 56,
+            "end": 145
+        }
+    },
+    "15": {
+        "title": "Led to the Abyss by a Melody of Death -Harmonizium-",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/2533ed2f46f58eb5ab38b1f1b3c929b58528de3042150b90d02e679d25083d2e06b817353dae8b3d73d0e2d099924502274803365f3d485966d4c99437bf33a4c9b5f4270557729ce68207178d4c2119f6268a0464bec1c7e3fdf92726e25dc137a7261aedd66ecc7eaa3ebffa535f78ed3dcc18a22c43a72b550be55672cafa/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/a0/dd/a0dda89e89e5660058d7be377b240d3e/ara-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www030.vipanicdn.net/streamhls/1a270d9e7ceb6f1d7d9d34eed3666061/ep.15.1677695573.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=radiant-2nd-season-episode-15"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www027.vipanicdn.net/streamhls/cc2765d8a213ea165c64fd9136864933/ep.15.1677798244.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=radiant-2nd-season-dub-episode-15"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTM1Njg5",
+            "DUBBED": "MTM2MDc2"
+        },
+        "intro": {
+            "start": 237,
+            "end": 326
+        }
+    },
+    "16": {
+        "title": "The Light of Life is Extinguished -Tragedy-",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/7c1459639744ce10944eff5a35467444297585f135bdc60c832312b3bc41123030b99f814d4b25c4474671ed22cce877dc1f7354b3c5d48055bae0f1bf19ab950f2d6941a6b37474c742f0fa28cd9ec8018371937d68d7c54cc7ab72e44b33ac4b6a740e1d6e787a03262668ad01b7e789792e011a415867f495f041ff9841fb/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/71/44/7144e1d231f02c6abc050607fdaf2e6f/ara-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www030.vipanicdn.net/streamhls/1a270d9e7ceb6f1d7d9d34eed3666061/ep.16.1677695655.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=radiant-2nd-season-episode-16"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www019.vipanicdn.net/streamhls/cc2765d8a213ea165c64fd9136864933/ep.16.1677696675.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=radiant-2nd-season-dub-episode-16"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTM1ODY5",
+            "DUBBED": "MTM2MjE4"
+        },
+        "intro": {
+            "start": 119,
+            "end": 208
+        }
+    },
+    "17": {
+        "title": "The Black Dragon Descends -Pen Draig-",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/cad1952669d64c4e1bde253a197be9f9150b044893c0aeaf4de29af7d5b49ce8f41f9a230dbd57d5ad38688f72d7cbed34614c47ee9d370712590e76f80b8e4ce2ab1af14771b67656e337d11e1760f7d87ae23ae262c9425d4013443ba9722c6725383d950cc661689a1e085cd34d148fed11d34ec6bd10efd580481facfe29/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/d0/0d/d00d324f3fd8a5d38bd0b1e93a162e83/ara-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www019.vipanicdn.net/streamhls/1a270d9e7ceb6f1d7d9d34eed3666061/ep.17.1677696590.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=radiant-2nd-season-episode-17"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www012.vipanicdn.net/streamhls/cc2765d8a213ea165c64fd9136864933/ep.17.1677631767.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=radiant-2nd-season-dub-episode-17"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTM2MDY4",
+            "DUBBED": "MTM2NTEx"
+        },
+        "intro": {
+            "start": 77,
+            "end": 166
+        }
+    },
+    "18": {
+        "title": "The Will of the People Shines Bright -Resistance-",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/9cd99bffea0382a0bb5643bd2cad689c8a8908490bbedda4be4b998a3434573453b5133acae958dfc3807e48aa9d101b4633a673b34a3a3a2f636f9de965890d0dedbc6d948676aa872e9b83dfd064f29491585a75d02837f61d2b16e1a32a81185420d1dc81d826a4717d457b7e64e722b9fa9623ff95d7b6b9a620f6fc8d4d/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/fc/33/fc3345cdb43cc8753d77184edd92a96d/ara-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www009.vipanicdn.net/streamhls/1a270d9e7ceb6f1d7d9d34eed3666061/ep.18.1677621844.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=radiant-2nd-season-episode-18"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www022.vipanicdn.net/streamhls/cc2765d8a213ea165c64fd9136864933/ep.18.1677632467.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=radiant-2nd-season-dub-episode-18"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTM2MjA4",
+            "DUBBED": "MTM2Nzkx"
+        },
+        "intro": {
+            "start": 25,
+            "end": 114
+        }
+    },
+    "19": {
+        "title": "I Can't Hear Your Voice -Myrddin-",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/3b989af6cd15f882e43f908ef2476edf43a4c46bf85b39183358e41851a4c3f4a3195d66a115ca5d0547078ae495d38096e4ecc123121a8c129460ddb0c4c4551bc24ff821037e2f04a585493e1008528ace595b71f3a5d565c96adcdf4d78b172f44fec34c95864bfe17e5bb952473b071f436dd8cbae814d38cb63a6ec1c79/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/d2/8c/d28c19bb986cd3e6bcfb759aa20bd7fa/ara-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www016.vipanicdn.net/streamhls/1a270d9e7ceb6f1d7d9d34eed3666061/ep.19.1677696696.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=radiant-2nd-season-episode-19"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www013.vipanicdn.net/streamhls/cc2765d8a213ea165c64fd9136864933/ep.19.1677695278.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=radiant-2nd-season-dub-episode-19"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTM2NDU1",
+            "DUBBED": "MTM3MDgy"
+        },
+        "intro": {
+            "start": 253,
+            "end": 342
+        }
+    },
+    "20": {
+        "title": "A Bouquet of Flowers for This Land -Fantasia-",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/ad0b34a72cd3329b888aa30afcbb8abd3b956c7432cf9513ac390e32111441fd8f9bae4192b724ed7097174540ad0d9ec682840408070497255f2eb5d671ba39df10d89d0b632d93aa07ab7f607aa0cc05ca387f124e7dfa7bd5cfbf77377d925c9e063542bc08ce62d318b473bf10c59d7a5e7207c0f7e6461f6746f418627b/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/7f/ae/7fae5e8c644667cada438ee759bac1dc/ara-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www011.vipanicdn.net/streamhls/1a270d9e7ceb6f1d7d9d34eed3666061/ep.20.1677711294.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=radiant-2nd-season-episode-20"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www013.vipanicdn.net/streamhls/cc2765d8a213ea165c64fd9136864933/ep.20.1677695366.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=radiant-2nd-season-dub-episode-20"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTM2Nzgw",
+            "DUBBED": "MTM3MjYy"
+        },
+        "intro": {
+            "start": 107,
+            "end": 196
+        }
+    },
+    "21": {
+        "title": "The Future Is With You -Eternity-",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/a7f48af86cf273063042ce8792aedbb7255ed4711d9a58d45be6d6ee923408eb76ab1eeda514745a559f23f9943122081fdc41dc242c398fa08b68037b371dd50a1a97bb36c4d7a1c522daeef465678f03a7f1d565d3b32e241d00e9a8c12842f15c57ddafc750129d9daebcf75b50d9cdf1c891e90844a88b04ee6143a641a6/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/da/ed/daed34f8a3d4cdb3cecec9241538a1b3/ara-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www002.vipanicdn.net/streamhls/1a270d9e7ceb6f1d7d9d34eed3666061/ep.21.1677617017.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=radiant-2nd-season-episode-21"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www003.vipanicdn.net/streamhls/cc2765d8a213ea165c64fd9136864933/ep.21.1677615295.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=radiant-2nd-season-dub-episode-21"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTM3MDcx",
+            "DUBBED": "MTM3NDYy"
+        },
+        "intro": {
+            "start": 70,
+            "end": 159
+        }
+    }
 }

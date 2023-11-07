@@ -1,13 +1,29 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=pokemon-movie-1-mewtwo-no-gyakushuu-episode-",
-        "down_links": [
-            "NDA0ODg="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/d49fa4428eedfeb6ddb85adc578a71b9bf22e43d3370b6551794abe91ce748d815e46bceead269166f319b96433a0a422ad1b06cb4c9d387808691ef4955f6c35b92287f07586b355caaea88bb5576bdeea86cfb148cbaf9c80307f82271d9059a5d119655822e0077137cbab3eb0cdeb33f32c17a9e138038fba2e1ed36a282/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/55/d3/55d3f005709e9bcfc57b936c35c85f0d/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www049.vipanicdn.net/streamhls/b01641cc60a226fbece20ea62878b085/ep.1.1696528108.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=pokemon-movie-1-mewtwo-no-gyakushuu-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=pokemon-movie-1-mewtwo-no-gyakushuu-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA0ODg="
+        },
+        "intro": null
+    }
 }

@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=mardock-scramble-the-first-compression-episode-",
-        "down_links": [
-            "NDA2MDU="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=mardock-scramble-the-first-compression-dub-episode-",
-        "down_links": [
-            "MTA5MzM5"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/35f79fdebfcc4dabb9c76e0ebcfdd97ad3276e1d71e9a467dae168b5c63ad0e4a1ce272fffa88ec4490b5f6de53b3fc6d675de0c7997fb4ecbdfd1375057beeaf6d5bfd2d206d3a549ab741711a2d6e1751411ca641df083ca622315b9e404905cc90301f42794cd642b29e1d35b6e56ca4bc7c3c8ec40d297ab28cd3deedec8/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/1e/dd/1edda43b092c11b12c265b6967fdef23/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www016.vipanicdn.net/streamhls/6747674ce079aa9a7ec2fdce68674894/ep.1.1677659584.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=mardock-scramble-the-first-compression-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www020.vipanicdn.net/streamhls/f1ec0c59da176e8829e8e84ef6715d26/ep.1.1677685901.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=mardock-scramble-the-first-compression-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA2MDU=",
+            "DUBBED": "MTA5MzM5"
+        },
+        "intro": null
+    }
 }

@@ -1,13 +1,29 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=urusei-yatsura-movie-5-the-final-chapter-episode-",
-        "down_links": [
-            "NDAzOTA="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/270a9f0ed9ea2e2336a5b6e5aee3233907aee856ab1a386ce88c14ef80711325bb390234fbdcd9c478308cb296dd9e5d6147d63f2537f1ba0c40f66d5d2d80f336627fe68095a95cc91b7f711957eb486f43d38cdc63b23c4a73fc2da05411b1f9e37a322d7d1a36f835cdd037cfc163c0b6defd14b895f01bf7ee7ecdac2d0e/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/ed/9c/ed9cbe46e8c5386118f2c587a5ecd1bb/eng-2.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www011.vipanicdn.net/streamhls/7051713b9f6a8ab0631eabdf45ce7abd/ep.1.1677662753.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=urusei-yatsura-movie-5-the-final-chapter-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=urusei-yatsura-movie-5-the-final-chapter-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDAzOTA="
+        },
+        "intro": null
+    }
 }

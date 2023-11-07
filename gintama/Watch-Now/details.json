@@ -1,553 +1,1276 @@
 {
-    "jap": {
-        "no_epi": "201",
-        "link": "https://player.ryuk.to?id=gintama-episode-",
-        "down_links": [
-            "MTcwNzU=",
-            "MTcwNzg=",
-            "MTcwODA=",
-            "MTcxMTU=",
-            "MTcxMTY=",
-            "MTcxMTc=",
-            "MTcxMTk=",
-            "MTcxMjA=",
-            "MTcxMjI=",
-            "MTcxMjQ=",
-            "MTcxMjY=",
-            "MTcxMjc=",
-            "MTcxMjk=",
-            "MTcxMzA=",
-            "MTcxMzE=",
-            "MTcxMzU=",
-            "MTcxNDM=",
-            "MTcxNDU=",
-            "MTcxNDY=",
-            "MTcxNDg=",
-            "MTcxNTA=",
-            "MTcxNTI=",
-            "MTcxNTQ=",
-            "MTcxNTY=",
-            "MTcxNTg=",
-            "MTcxNTk=",
-            "MTcxNjA=",
-            "MTcxNjE=",
-            "MTcxNjI=",
-            "MTcxNjM=",
-            "MTcxNjQ=",
-            "MTcxNjU=",
-            "MTcxNjY=",
-            "MTcxNjg=",
-            "MTcxNjk=",
-            "MTcxNjc=",
-            "MTcxNzA=",
-            "MTcxNzE=",
-            "MTcxNzM=",
-            "MTcxNzU=",
-            "MTcxODA=",
-            "MTcxNzg=",
-            "MTcxODI=",
-            "MTcxODM=",
-            "MTcxODU=",
-            "MTcxODY=",
-            "MTcxODc=",
-            "MTcxODg=",
-            "MTcxODk=",
-            "MTcxOTA=",
-            "MTcxOTU=",
-            "MTcxOTI=",
-            "MTcxOTE=",
-            "MTcxOTY=",
-            "MTcxOTg=",
-            "MTcyMDA=",
-            "MTcyMDI=",
-            "MTcyMDM=",
-            "MTcyMDQ=",
-            "MTcyMDU=",
-            "MTcyMDY=",
-            "MTcyMDc=",
-            "MTcyMDg=",
-            "MTcyMDk=",
-            "MTcyMTA=",
-            "MTcyMTE=",
-            "MTcyMTM=",
-            "MTcyMTI=",
-            "MTcyMTY=",
-            "MTcyMTk=",
-            "MTcyMjI=",
-            "MTcyMjU=",
-            "MTcyMjg=",
-            "MTcyMzE=",
-            "MTcyMzQ=",
-            "MTcyMzU=",
-            "MTcyNDI=",
-            "MTcyNDQ=",
-            "MTcyNDU=",
-            "MTcyNDg=",
-            "MTcyNTA=",
-            "MTcyNTM=",
-            "MTcyNTU=",
-            "MTcyNTk=",
-            "MTcyNjM=",
-            "MTcyNjU=",
-            "MTcyNzE=",
-            "MTcyNzM=",
-            "MTcyNzY=",
-            "MTcyODA=",
-            "MTcyODI=",
-            "MTcyODQ=",
-            "MTcyODc=",
-            "MTcyODk=",
-            "MTcyOTE=",
-            "MTcyOTM=",
-            "MTczMDY=",
-            "MTczMDk=",
-            "MTczMTI=",
-            "MTczMTQ=",
-            "MTczMTU=",
-            "MTczMjE=",
-            "MTczMjM=",
-            "MTczMjU=",
-            "MTczMjk=",
-            "MTczMzA=",
-            "MTczMzQ=",
-            "MTczMzU=",
-            "MTczMzc=",
-            "MTczMzk=",
-            "MTczNDE=",
-            "MTczNDM=",
-            "MTczNDQ=",
-            "MTczNDY=",
-            "MTczNDg=",
-            "MTczNTA=",
-            "MTc0MTg=",
-            "MTc0MjM=",
-            "MTc0MjY=",
-            "MTc0MzA=",
-            "MTc0MzQ=",
-            "MTc0MzY=",
-            "MTc0NDA=",
-            "MTc0NDY=",
-            "MTc0NDk=",
-            "MTc0NTE=",
-            "MTc0NTQ=",
-            "MTc0NTc=",
-            "MTc0NjA=",
-            "MTc0NjM=",
-            "MTc0NzM=",
-            "MTc0NzY=",
-            "MTc0Nzk=",
-            "MTc0ODM=",
-            "MTc0ODY=",
-            "MTc0ODg=",
-            "MTc0ODk=",
-            "MTc0OTA=",
-            "MTc0OTE=",
-            "MTc0OTI=",
-            "MTc0OTM=",
-            "MTc0OTQ=",
-            "MTc0OTU=",
-            "MTc0OTY=",
-            "MTc0OTc=",
-            "MTc0OTg=",
-            "MTc0OTk=",
-            "MTc1MDA=",
-            "MTc1MDI=",
-            "MTc1MDQ=",
-            "MTc1MDU=",
-            "MTc1MDc=",
-            "MTc1MDk=",
-            "MTc1MTI=",
-            "MTc1MTQ=",
-            "MTc1MTc=",
-            "MTc1NDY=",
-            "MTc1NTE=",
-            "MTc1NTM=",
-            "MTc1NTU=",
-            "MTc1NTc=",
-            "MTc1NTk=",
-            "MTc1NjA=",
-            "MTc1NjI=",
-            "MTc1NjM=",
-            "MTc1NjQ=",
-            "MTc1NjU=",
-            "MTc1NjY=",
-            "MTc1Njg=",
-            "MTc1Njk=",
-            "MTc1NzE=",
-            "MTc1NzM=",
-            "MTc1NzU=",
-            "MTc1Nzc=",
-            "MTc1Nzk=",
-            "MTc1ODA=",
-            "MTc1ODE=",
-            "MTc1ODI=",
-            "MTc1ODM=",
-            "MTc1ODQ=",
-            "MTc1ODU=",
-            "MTc1ODY=",
-            "MTc1ODc=",
-            "MTc1ODg=",
-            "MTc1ODk=",
-            "MTc1OTA=",
-            "MTc1OTE=",
-            "MTc1OTI=",
-            "MTc1OTQ=",
-            "MTc1OTY=",
-            "MTc1OTk=",
-            "MTc2MDE=",
-            "MTc2MDQ=",
-            "MTc2MDc=",
-            "MTc2MDk=",
-            "MTc2MTE=",
-            "MTc2MTg=",
-            "MTc2MjA=",
-            "MTc2MjM=",
-            "MTc2MjY=",
-            "MTc2MzA=",
-            "MTc2MzE=",
-            "MTc2MzI=",
-            "MTc2MzM=",
-            "MTc2MzQ=",
-            "MTc2MzU=",
-            "MTc2MzY=",
-            "MTc2Mzc=",
-            "MTc2Mzg=",
-            "MTc2Mzk=",
-            "MTc2NDE=",
-            "MTc2NDM=",
-            "MTc2NDU=",
-            "MTc2NDc=",
-            "MTc2NDg=",
-            "MTc2NTA=",
-            "MTc2NjE=",
-            "MTc2NjI=",
-            "MTc2NjQ=",
-            "MTc2NjY=",
-            "MTc2Njg=",
-            "MTc2NzA=",
-            "MTc2NzE=",
-            "MTc2NzM=",
-            "MTc2Nzc=",
-            "MTc2Nzk=",
-            "MTc2ODI=",
-            "MTc2ODY=",
-            "MTc2ODk=",
-            "MTc2OTE=",
-            "MTc2OTM=",
-            "MTc2OTQ=",
-            "MTc2OTY=",
-            "MTc2OTg=",
-            "MTc3MDA=",
-            "MTc3MDI=",
-            "MTc3MDY=",
-            "MTc3MDg=",
-            "MTc3MDk=",
-            "MTc3MTA=",
-            "MTc3MTE=",
-            "MTc3MTI=",
-            "MTc3MTM=",
-            "MTc3MTQ=",
-            "MTc3MTY=",
-            "MTc3MTg=",
-            "MTc3MjA=",
-            "MTc3MjI=",
-            "MTc3MjU=",
-            "MTc3MjY=",
-            "MTc3Mjc=",
-            "MTc3Mjg=",
-            "MTc3Mjk=",
-            "MTc3MzA=",
-            "MTc3MzI=",
-            "MTc3MzM=",
-            "MTc3NTA=",
-            "MTc3NTM=",
-            "MTc3NTY=",
-            "MTc3NTg=",
-            "MTc3NjA=",
-            "MTc3NjI=",
-            "MTc3NjM=",
-            "MTc3NjU=",
-            "MTc3Njg="
-        ]
+    "1": {
+        "title": "(E001-002) You Jerks! And You Claim To Have Gintama?!",
+        "isFiller": true,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www006.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.1.1677593042.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www003.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.1.1677596419.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcwNzU=",
+            "DUBBED": "MTQ0ODQy"
+        }
     },
-    "eng": {
-        "no_epi": "49",
-        "link": "https://player.ryuk.to?id=gintama-dub-episode-",
-        "down_links": [
-            "MTQ0ODQy",
-            "MTQ0ODQz",
-            "MTQ0ODQ0",
-            "MTQ0ODQ1",
-            "MTQ0ODQ2",
-            "MTQ0ODQ3",
-            "MTQ0ODQ4",
-            "MTQ0ODQ5",
-            "MTQ0ODUw",
-            "MTQ0ODUx",
-            "MTQ0ODUy",
-            "MTQ0ODUz",
-            "MTQ0ODU0",
-            "MTQ0ODU1",
-            "MTQ0ODU2",
-            "MTQ0ODU3",
-            "MTQ0ODU4",
-            "MTQ0ODU5",
-            "MTQ0ODYw",
-            "MTQ0ODYx",
-            "MTQ0ODYy",
-            "MTQ0ODYz",
-            "MTQ0ODY0",
-            "MTQ0ODY1",
-            "MTQ0ODY2",
-            "MTQ0ODY3",
-            "MTQ0ODY4",
-            "MTQ0ODY5",
-            "MTQ0ODcx",
-            "MTQ0ODcy",
-            "MTQ0ODcz",
-            "MTQ0ODc0",
-            "MTQ0ODc1",
-            "MTQ0ODc2",
-            "MTQ0ODc3",
-            "MTQ0ODc4",
-            "MTQ0ODc5",
-            "MTQ0ODgw",
-            "MTQ0ODgx",
-            "MTQ0ODgy",
-            "MTQ0ODgz",
-            "MTQ0ODg0",
-            "MTQ0ODg1",
-            "MTQ0ODg2",
-            "MTQ0ODg3",
-            "MTQ0ODg4",
-            "MTQ0ODg5",
-            "MTQ0ODkw",
-            "MTQ0ODkx"
-        ]
+    "2": {
+        "title": "You Jerks! And You Claim To Have Gintama?! (part 2)",
+        "isFiller": true,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www009.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.2.1677596320.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-2"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www004.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.2.1677606864.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-2"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcwNzg=",
+            "DUBBED": "MTQ0ODQz"
+        }
     },
-    "episodes_names": [
-        "(E001-002) You Jerks! And You Claim To Have Gintama?!",
-        "You Jerks! And You Claim To Have Gintama?! (part 2)",
-        "Nobody With Naturally Wavy Hair Can Be That Bad",
-        "Watch Out! Weekly Shonen JUMP Sometimes Comes Out On Saturdays!",
-        "Make Friends You Can Call By Their Nicknames, Even When You",
-        "Keep Your Promise Even If It Kills You",
-        "Responsible Owners Should Clean Up After Their Pets",
-        "There Is Butt A Fine Line Between Persistence And Stubbornness",
-        "Fighting Should Be Done With Fists",
-        "Eat Something Sour When You",
-        "Look, Overly Sticky Sweet Dumplings Are Not Real Dumplings, You Idiot!",
-        "People Who Make Good First Impressions Usually Suck",
-        "If You",
-        "Boys Have A Weird Ritual That Makes Them Think They Turn Into Men When They Touch A Frog You Only Gotta Wash Under Your Armpits - Just The Armpits",
-        "Pets Resemble Their Owners",
-        "If You Stop And Think About It, Your Life",
-        "Sons Only Take After Their Fathers",
-        "Oh, Yeah! Our Crib Is Number One!",
-        "Why Is The Sea So Salty? Because You City Folk Pee Whenever You Go Swimming!",
-        "Watch Out For Conveyor Belts!",
-        "If You",
-        "Marriage Is Prolonging An Illusion For Your Whole Life",
-        "When You",
-        "Cute Faces Are Always Hiding Something",
-        "A Shared Soup Pot Is A Microcosm Of Life",
-        "Don",
-        "Some Things Can",
-        "Good Things Never Come In Twos (But Bad Things Do)",
-        "Don",
-        "Even Teen Idols Act Like You Guys",
-        "You Always Remember The Things That Matter The Least",
-        "Life Moves On Like A Conveyor Belt",
-        "Mistaking Someone's Name Is Rude!",
-        "Love Doesn",
-        "Love Doesn",
-        "People With Dark Pasts Can",
-        "People Who Say That Santa Doesn",
-        "Only Children Play In The Snow Eating Ice Cream In Winter Is Awesome",
-        "Ramen Shops With Long Menus Never Do Well",
-        "Give A Thought To Planned Pregnancy",
-        "You Can",
-        "You Know What Happens If You Pee On A Worm",
-        "Make Characters So Anybody Can Tell Who They Are By Just Their Silhouettes Since It Ended A Bit Early, We",
-        "Mom",
-        "Walk Your Dog At An Appropriate Speed",
-        "Adults Only. We Wouldn",
-        "Do Cherries Come From Cherry Trees?",
-        "The More You",
-        "A Life Without Gambling Is Like Sushi Without Wasabi",
-        "Pending Means Pending, It",
-        "Milk Should Be Served At Body Temperature",
-        "If You Want To See Someone, Make An Appo First",
-        "Stress Makes You Bald, But It",
-        "Mothers Everywhere Are All The Same",
-        "Don",
-        "Keep An Eye On The Chief For The Day",
-        "When Looking For Things You",
-        "Croquette Sandwiches Are Always The Most Popular Food Sold At The Stalls",
-        "Be Careful Not To Leave Your Umbrella Somewhere",
-        "The Sun Will Rise Again",
-        "On A Moonless Night, Insects Are Drawn To The Light",
-        "Even Mummy Hunters Sometimes Turn into Mummys",
-        "The Preview Section in JUMP is Always Unreliable",
-        "Eating Nmaibo Can Make You Full in No Time!",
-        "Rhinoceros Beetles Teach Boys that Life is Precious",
-        "Dango Over Flowers",
-        "For the Wind Is the Life",
-        "Like a Haunted House, Life is Filled with Horrors",
-        "Please Help by Separating Your Trash",
-        "Too Many Cuties Can Make You Sick",
-        "Some Data Cannot Be Erased",
-        "A Dog",
-        "Think For A Minute Now, Do Matsutake Mushrooms Really Taste All That Good?",
-        "The Manga Writer Becomes A Pro, After Doing A Stock Of Manuscripts",
-        "Don",
-        "In Those Situations, Keep Quiet And Cook Red Rice With Beans",
-        "Yesterday",
-        "People Who Are Picky About Food Are Also Picky About People, Too",
-        "Four Heads Are Better Than One",
-        "When Someone Who Wears Glasses Takes Them Off, It Looks Like Something",
-        "A Woman",
-        "You Don",
-        "Rank Has Nothing To Do With Luck",
-        "Hard-Boiled Egg On A Man",
-        "Hard-Boiled Eggs Don",
-        "It",
-        "Perform A German Suplex On A Woman Who Asks If She Or The Job Is More Important",
-        "The Most Exciting Part Of A Group Date Is Before It Starts",
-        "What Happens Twice, Happens Thrice",
-        "The More Delicious The Food, The Nastier It Is When It Goes Bad",
-        "If You Want To Lose Weight, Then Stop Eating And Start Moving",
-        "Be A Person Who Can See People",
-        "Even A Hero Has Issues",
-        "When Riding A Train, Make Sure You Grab The Straps With Both Hands",
-        "Men, Be A Madao",
-        "If You",
-        "Exaggerate The Tales Of Your Exploits By A Third, So Everyone Has A Good Time Men Have A Weakness For Girls Who Sell Flowers And Work In Pastry Shops",
-        "Play Video Games For Only An Hour A Day",
-        "Life And Video Games Are Full Of Bugs",
-        "The More Something Is Disliked, The More Lovely It Is",
-        "Rules Are Made To Be Broken",
-        "Otaku Are Talkative",
-        "There",
-        "Important Things Are Hard To See",
-        "It",
-        "Love Is Often Played Out In Sudden Death",
-        "Kids Don",
-        "Some Things Are Better Left Unsaid",
-        "Life Is A Test",
-        "People Are All Escapees Of Their Own Inner Prisons",
-        "Definitely Do Not Let Your Girlfriend See The Things You Use For Cross-Dressing There",
-        "Lucky Is A Man Who Gets Up And Goes To Work",
-        "The Act of Polishing a Urinal Is Like the Act of Polishing One`s Heart / Subtitle Undecided",
-        "When Sweet and Spicy Things Are Switched... / They Say That Adding Soy Sauce to Pudding Gives the Taste of Sea Urchin, but Really, Adding Soy Sauce to Pudding Only Gives the Taste of Soy Sauce and Pudding",
-        "Summer Vacation Is The Most Fun Right Before It Begins",
-        "The Older, The Wiser",
-        "Beauty Is Like A Summer Fruit",
-        "Even If Your Back Is Bent, Go Straight Forward",
-        "Within Each Box Of Cigarettes, Are One Or Two Cigarettes That Smell Like Horse Dung",
-        "Japanese Restaurants Abroad Taste Pretty Much Like School Cafeteria Lunches Once You",
-        "Novices Only Need A Flathead And A Phillips",
-        "Imagination Is Nurtured In The 8th Grade",
-        "Always Keep A Screwdriver In Your Heart",
-        "When Nagging Goes Too Far It Becomes Intimidating",
-        "Entering The Final Chapter!",
-        "Some Things Can Only Be Conveyed Through The Written Word",
-        "Sometimes You Must Meet To Understand",
-        "Sometimes You Can",
-        "Beware Of Food You Pick Up Off The Ground",
-        "Cat Lovers And Dog Lovers Are Mutually Exclusive",
-        "Fights Often Ensue During Trips",
-        "Briefs Will Unavoidably Get Skidmarks",
-        "Gin And His Excellency",
-        "Be Very Careful When Using Ghost Stories",
-        "Before Worrying About The Earth, Think About The Even More Endangered Future Of",
-        "It",
-        "99% Of Men Aren",
-        "Let",
-        "Don",
-        "Beware Of Those Who Use An Umbrella On A Sunny Day!",
-        "Butting Into A Fight Is Dangerous",
-        "Life Is A Series Of Choices",
-        "Those Who Stand On Four Legs Are Beasts. Those Who Stand On Two Legs, Guts, And Glory Are Men",
-        "Don",
-        "The Color For Each Person",
-        "The Taste Of Drinking Under Broad Daylight Is Something Special",
-        "All Adults Are Instructors For All Children",
-        "Zip Up Your Fly Nice And Slowly",
-        "When Breaking A Chuubert In Half, The End With The Knob Should Be Better. It",
-        "If You Can",
-        "A Conversation With A Barber, During A Haircut, Is The Most Pointless Thing In The World",
-        "The Heavens Created Chonmage Above Man Instead Of Another Man",
-        "Sleep Helps A Child Grow",
-        "That Person Looks Different From Usual During A Birthday Party",
-        "The Other Side Of The Other Side Of The Other Side Would Be The Other Side",
-        "It Takes A Bit Of Courage To Enter A Street Vendor",
-        "Any Place With A Bunch Of Men Gathered Around Will Turn Into A Battlefield",
-        "If A Friend Gets Injured, Take Him To The Hospital, Stat!",
-        "If One Orange In The Box Is Rotten, The Rest Of Them Will Become Rotten Before You Realize It",
-        "From A Foreigner",
-        "Laputa",
-        "Love Is Unconditional",
-        "The Black Ships Even Make A Scene When They Sink",
-        "That Matsutake Soup Stuff Tastes Better Than The Real Deal People Who Die Stay Dead",
-        "If It Works Once, It",
-        "Two Is Better Than One. Two People Are Better Than One",
-        "Smooth Polygons Smooth Men",
-        "The Human Body Is Like A Little Universe",
-        "The Chosen Idiots",
-        "And Into The Legend...",
-        "You",
-        "It All Depends On How You Use The",
-        "It",
-        "Are There Still People Who Go To The Ocean And Yell Out",
-        "People Of All Ages Hate The Dentist!",
-        "Countdown Begins",
-        "It",
-        "Once You",
-        "It",
-        "The More Precious The Burden, The Heavier And More Difficult It Is To Shoulder It",
-        "Watch Out For A Set Of Women And A Drink",
-        "Screw Popularity Polls",
-        "Popularity Polls Can Burn In Hell",
-        "Popularity Polls Can...",
-        "Hometowns And Boobs Are Best Thought From Afar The Whole Peeing On A Bee Sting Is A Myth. You",
-        "Beware Of Foreshadows",
-        "It",
-        "An Observation Journal Should Be Seen Through To The Very End",
-        "It",
-        "When Looking For Something, Try Using Its Perspective",
-        "Freedom Means To Live True To Yourself, Not Without Law!",
-        "Kabukicho Stray Cat Blues",
-        "Cooking Is About Guts",
-        "Whenever I Hear Leviathan, I Think Of Sazae-san. Stupid Me!!",
-        "Not Losing To The Rain",
-        "Not Losing To The Wind",
-        "Not Losing To The Storm",
-        "Never Losing That Smile",
-        "That",
-        "Santa Claus Red Is Blood Red",
-        "Everybody"
-    ],
-    "fillers": [
-        1,
-        2,
-        50,
-        57,
-        75,
-        106,
-        114,
-        124,
-        125,
-        135,
-        137,
-        150,
-        155,
-        164,
-        166,
-        171,
-        173,
-        174,
-        176,
-        185
-    ]
+    "3": {
+        "title": "Nobody With Naturally Wavy Hair Can Be That Bad",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www011.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.3.1677654146.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-3"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www005.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.3.1677705699.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-3"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcwODA=",
+            "DUBBED": "MTQ0ODQ0"
+        }
+    },
+    "4": {
+        "title": "Watch Out! Weekly Shonen JUMP Sometimes Comes Out On Saturdays!",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www016.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.4.1677652891.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-4"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www006.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.4.1677607657.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-4"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxMTU=",
+            "DUBBED": "MTQ0ODQ1"
+        }
+    },
+    "5": {
+        "title": "Make Friends You Can Call By Their Nicknames, Even When You",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www017.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.5.1677653608.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-5"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www007.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.5.1677712122.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-5"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxMTY=",
+            "DUBBED": "MTQ0ODQ2"
+        }
+    },
+    "6": {
+        "title": "Keep Your Promise Even If It Kills You",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www018.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.6.1677615682.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-6"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www008.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.6.1677614903.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-6"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxMTc=",
+            "DUBBED": "MTQ0ODQ3"
+        }
+    },
+    "7": {
+        "title": "Responsible Owners Should Clean Up After Their Pets",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www020.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.7.1677653340.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-7"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www009.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.7.1677616688.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-7"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxMTk=",
+            "DUBBED": "MTQ0ODQ4"
+        }
+    },
+    "8": {
+        "title": "There Is Butt A Fine Line Between Persistence And Stubbornness",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www021.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.8.1677653187.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-8"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www010.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.8.1677711999.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-8"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxMjA=",
+            "DUBBED": "MTQ0ODQ5"
+        }
+    },
+    "9": {
+        "title": "Fighting Should Be Done With Fists",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www023.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.9.1677666885.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-9"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www011.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.9.1677715614.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-9"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxMjI=",
+            "DUBBED": "MTQ0ODUw"
+        }
+    },
+    "10": {
+        "title": "Eat Something Sour When You",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www025.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.10.1677667435.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-10"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www012.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.10.1677628018.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-10"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxMjQ=",
+            "DUBBED": "MTQ0ODUx"
+        }
+    },
+    "11": {
+        "title": "Look, Overly Sticky Sweet Dumplings Are Not Real Dumplings, You Idiot!",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www027.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.11.1677660132.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-11"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www013.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.11.1677698685.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-11"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxMjY=",
+            "DUBBED": "MTQ0ODUy"
+        }
+    },
+    "12": {
+        "title": "People Who Make Good First Impressions Usually Suck",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www028.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.12.1677654822.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-12"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www014.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.12.1677631017.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-12"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxMjc=",
+            "DUBBED": "MTQ0ODUz"
+        }
+    },
+    "13": {
+        "title": "If You",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www030.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.13.1677652970.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-13"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www015.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.13.1677635400.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-13"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxMjk=",
+            "DUBBED": "MTQ0ODU0"
+        }
+    },
+    "14": {
+        "title": "Boys Have A Weird Ritual That Makes Them Think They Turn Into Men When They Touch A Frog You Only Gotta Wash Under Your Armpits - Just The Armpits",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www001.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.14.1677653002.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-14"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www016.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.14.1677700310.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-14"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxMzA=",
+            "DUBBED": "MTQ0ODU1"
+        }
+    },
+    "15": {
+        "title": "Pets Resemble Their Owners",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www002.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.15.1677602199.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-15"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www017.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.15.1677704156.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-15"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxMzE=",
+            "DUBBED": "MTQ0ODU2"
+        }
+    },
+    "16": {
+        "title": "If You Stop And Think About It, Your Life",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www006.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.16.1677600980.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-16"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www018.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.16.1677631674.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-16"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxMzU=",
+            "DUBBED": "MTQ0ODU3"
+        }
+    },
+    "17": {
+        "title": "Sons Only Take After Their Fathers",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www014.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.17.1677619926.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-17"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www019.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.17.1677699918.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-17"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxNDM=",
+            "DUBBED": "MTQ0ODU4"
+        }
+    },
+    "18": {
+        "title": "Oh, Yeah! Our Crib Is Number One!",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www016.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.18.1677652902.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-18"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www020.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.18.1677701457.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-18"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxNDU=",
+            "DUBBED": "MTQ0ODU5"
+        }
+    },
+    "19": {
+        "title": "Why Is The Sea So Salty? Because You City Folk Pee Whenever You Go Swimming!",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www017.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.19.1677653619.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-19"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www021.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.19.1677700380.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-19"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxNDY=",
+            "DUBBED": "MTQ0ODYw"
+        }
+    },
+    "20": {
+        "title": "Watch Out For Conveyor Belts!",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www019.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.20.1677653398.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-20"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www022.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.20.1677632061.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-20"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxNDg=",
+            "DUBBED": "MTQ0ODYx"
+        }
+    },
+    "21": {
+        "title": "If You",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www021.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.21.1677653206.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-21"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www023.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.21.1677812533.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-21"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxNTA=",
+            "DUBBED": "MTQ0ODYy"
+        }
+    },
+    "22": {
+        "title": "Marriage Is Prolonging An Illusion For Your Whole Life",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www023.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.22.1677666921.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-22"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www024.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.22.1677705915.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-22"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxNTI=",
+            "DUBBED": "MTQ0ODYz"
+        }
+    },
+    "23": {
+        "title": "When You",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www025.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.23.1677667490.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-23"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www035.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.23.1677840234.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-23"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxNTQ=",
+            "DUBBED": "MTQ0ODY0"
+        }
+    },
+    "24": {
+        "title": "Cute Faces Are Always Hiding Something",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www027.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.24.1677660159.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-24"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www026.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.24.1677708110.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-24"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxNTY=",
+            "DUBBED": "MTQ0ODY1"
+        }
+    },
+    "25": {
+        "title": "A Shared Soup Pot Is A Microcosm Of Life",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www029.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.25.1677655042.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-25"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www027.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.25.1677814464.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-25"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxNTg=",
+            "DUBBED": "MTQ0ODY2"
+        }
+    },
+    "26": {
+        "title": "Don",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www030.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.26.1677652985.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-26"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www028.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.26.1677704696.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-26"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxNTk=",
+            "DUBBED": "MTQ0ODY3"
+        }
+    },
+    "27": {
+        "title": "Some Things Can",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www001.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.27.1677653016.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-27"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www029.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.27.1677703491.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-27"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxNjA=",
+            "DUBBED": "MTQ0ODY4"
+        }
+    },
+    "28": {
+        "title": "Good Things Never Come In Twos (But Bad Things Do)",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www002.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.28.1677604366.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-28"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www030.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.28.1677699240.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-28"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxNjE=",
+            "DUBBED": "MTQ0ODY5"
+        }
+    },
+    "29": {
+        "title": "Don",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www003.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.29.1677603651.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-29"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www042.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.29.1677851328.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-29"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxNjI=",
+            "DUBBED": "MTQ0ODcx"
+        }
+    },
+    "30": {
+        "title": "Even Teen Idols Act Like You Guys",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www004.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.30.1677605953.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-30"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www003.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.30.1677619823.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-30"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxNjM=",
+            "DUBBED": "MTQ0ODcy"
+        }
+    },
+    "31": {
+        "title": "You Always Remember The Things That Matter The Least",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www005.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.31.1677653479.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-31"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www004.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.31.1677712295.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-31"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxNjQ=",
+            "DUBBED": "MTQ0ODcz"
+        }
+    },
+    "32": {
+        "title": "Life Moves On Like A Conveyor Belt",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www006.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.32.1677603462.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-32"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www005.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.32.1677705718.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-32"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxNjU=",
+            "DUBBED": "MTQ0ODc0"
+        }
+    },
+    "33": {
+        "title": "Mistaking Someone's Name Is Rude!",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www007.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.33.1677605216.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-33"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www046.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.33.1677856961.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-33"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxNjY=",
+            "DUBBED": "MTQ0ODc1"
+        }
+    },
+    "34": {
+        "title": "Love Doesn",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www009.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.34.1677607735.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-34"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www007.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.34.1677712135.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-34"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxNjg=",
+            "DUBBED": "MTQ0ODc2"
+        }
+    },
+    "35": {
+        "title": "Love Doesn",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www010.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.35.1677604085.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-35"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www048.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.35.1677855677.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-35"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxNjk=",
+            "DUBBED": "MTQ0ODc3"
+        }
+    },
+    "36": {
+        "title": "People With Dark Pasts Can",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www008.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.36.1677603374.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-36"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www049.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.36.1677858992.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-36"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxNjc=",
+            "DUBBED": "MTQ0ODc4"
+        }
+    },
+    "37": {
+        "title": "People Who Say That Santa Doesn",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www011.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.37.1677654179.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-37"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www010.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.37.1677712010.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-37"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxNzA=",
+            "DUBBED": "MTQ0ODc5"
+        }
+    },
+    "38": {
+        "title": "Only Children Play In The Snow Eating Ice Cream In Winter Is Awesome",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www012.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.38.1677619396.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-38"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www011.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.38.1677715633.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-38"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxNzE=",
+            "DUBBED": "MTQ0ODgw"
+        }
+    },
+    "39": {
+        "title": "Ramen Shops With Long Menus Never Do Well",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www014.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.39.1677622079.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-39"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www032.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.39.1677835369.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-39"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxNzM=",
+            "DUBBED": "MTQ0ODgx"
+        }
+    },
+    "40": {
+        "title": "Give A Thought To Planned Pregnancy",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www016.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.40.1677652913.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-40"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www013.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.40.1677698701.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-40"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxNzU=",
+            "DUBBED": "MTQ0ODgy"
+        }
+    },
+    "41": {
+        "title": "You Can",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www021.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.41.1677653216.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-41"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www034.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.41.1677834388.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-41"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxODA=",
+            "DUBBED": "MTQ0ODgz"
+        }
+    },
+    "42": {
+        "title": "You Know What Happens If You Pee On A Worm",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www019.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.42.1677653408.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-42"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www035.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.42.1677840218.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-42"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxNzg=",
+            "DUBBED": "MTQ0ODg0"
+        }
+    },
+    "43": {
+        "title": "Make Characters So Anybody Can Tell Who They Are By Just Their Silhouettes Since It Ended A Bit Early, We",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www023.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.43.1677666971.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-43"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www016.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.43.1677700334.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-43"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxODI=",
+            "DUBBED": "MTQ0ODg1"
+        }
+    },
+    "44": {
+        "title": "Mom",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www024.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.44.1677656023.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-44"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www017.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.44.1677704172.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-44"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxODM=",
+            "DUBBED": "MTQ0ODg2"
+        }
+    },
+    "45": {
+        "title": "Walk Your Dog At An Appropriate Speed",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www026.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.45.1677654797.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-45"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www038.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.45.1677835603.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-45"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxODU=",
+            "DUBBED": "MTQ0ODg3"
+        }
+    },
+    "46": {
+        "title": "Adults Only. We Wouldn",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www027.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.46.1677660183.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-46"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www019.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.46.1677699943.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-46"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxODY=",
+            "DUBBED": "MTQ0ODg4"
+        }
+    },
+    "47": {
+        "title": "Do Cherries Come From Cherry Trees?",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www028.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.47.1677654840.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-47"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www020.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.47.1677701473.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-47"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxODc=",
+            "DUBBED": "MTQ0ODg5"
+        }
+    },
+    "48": {
+        "title": "The More You",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www029.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.48.1677655063.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-48"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www021.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.48.1677700394.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-48"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxODg=",
+            "DUBBED": "MTQ0ODkw"
+        }
+    },
+    "49": {
+        "title": "A Life Without Gambling Is Like Sushi Without Wasabi",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www030.vipanicdn.net/streamhls/bcc369738325d609c828bc6c16f9a7fd/ep.49.1677652997.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-episode-49"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www022.vipanicdn.net/streamhls/92ad5c91fd37a9fca977aac2c036eecd/ep.49.1677630915.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gintama-dub-episode-49"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTcxODk=",
+            "DUBBED": "MTQ0ODkx"
+        }
+    }
 }

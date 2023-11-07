@@ -1,23 +1,70 @@
 {
-    "jap": {
-        "no_epi": "2",
-        "link": "https://player.ryuk.to?id=arifureta-shokugyou-de-sekai-saikyou-maboroshi-no-bouken-to-kiseki-no-kaigou-episode-",
-        "down_links": [
-            "MTkyNzgx",
-            "MTkyNzgy"
-        ]
+    "1": {
+        "title": "1-a",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/b5e92bebf4ba42efa5cd3a5aff010c3a6df43abd2ca1a594cd979760d71736dd93a889e789162d94d6043cc5e84c237c7ecdbf4f5a99f0ff5bce4c0e5745ad166e78d1ed43313404094c1031957ea0a6fa178be7d1f019afdec61b4e633a8cb1c8ed130a359cdff8feca8c519645f04104a66d185259196357a6a2252e14454c/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/75/25/752563f885249f0acd8ca3978b8a28c4/eng-2.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www002.vipanicdn.net/streamhls/dbd7326152eaf34e42c54fcbd6a8bec8/ep.1.1677597005.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=arifureta-shokugyou-de-sekai-saikyou-maboroshi-no-bouken-to-kiseki-no-kaigou-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www039.vipanicdn.net/streamhls/394f534dab4c35c7d5ff7ee8a4eea7a7/ep.1.1677813675.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=arifureta-shokugyou-de-sekai-saikyou-maboroshi-no-bouken-to-kiseki-no-kaigou-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTkyNzgx",
+            "DUBBED": "MTk4Nzg4"
+        },
+        "intro": {
+            "start": 52,
+            "end": 143
+        }
     },
-    "eng": {
-        "no_epi": "2",
-        "link": "https://player.ryuk.to?id=arifureta-shokugyou-de-sekai-saikyou-maboroshi-no-bouken-to-kiseki-no-kaigou-dub-episode-",
-        "down_links": [
-            "MTk4Nzg4",
-            "MTk4Nzg5"
-        ]
-    },
-    "episodes_names": [
-        "1-a",
-        "1-b"
-    ],
-    "fillers": []
+    "2": {
+        "title": "1-b",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/2483ceaa551a95a2693a728d15dce5995decc8bb7e94daf7bcf4e7f3782b40a0590a88822cb8b0fe3d22e0de440fb7ea6434f0e8556d1f3ba6f98f2137b617be7cd542048084ecdd42d86d44559d1fc7541b0b087afdf370722fcc9858e0ee96e0f23ef9be2b854804969692cc20a531dd421922fac512f3a512aeefa4153743/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/56/a0/56a02d661821971a71891d41466a9fd5/eng-2.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www003.vipanicdn.net/streamhls/dbd7326152eaf34e42c54fcbd6a8bec8/ep.2.1677592942.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=arifureta-shokugyou-de-sekai-saikyou-maboroshi-no-bouken-to-kiseki-no-kaigou-episode-2"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www040.vipanicdn.net/streamhls/394f534dab4c35c7d5ff7ee8a4eea7a7/ep.2.1677813508.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=arifureta-shokugyou-de-sekai-saikyou-maboroshi-no-bouken-to-kiseki-no-kaigou-dub-episode-2"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTkyNzgy",
+            "DUBBED": "MTk4Nzg5"
+        },
+        "intro": {
+            "start": 0,
+            "end": 90
+        }
+    }
 }

@@ -1,13 +1,29 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=pokemon-movie-11-giratina-to-sora-no-hanataba-shaymin-episode-",
-        "down_links": [
-            "NDA1MTU="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/a9babace606897d3792154843452fad4c86e7cab50b7ad95a5a554af87fe03f17f1ac1d7e4b79bfe3aaa3a9b0a261ad93b1267778f5650d2925321c2ddecd38c6be38925d61c42467dd9859a4c3e47d3228baedff3c9111351af54c13a161108d8fa5bdef26b9b4f3935b589dd3baf96c188ee619f5ea6d4afda17cd99ae22e6/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/26/f3/26f374e3437c976a58ba258e85484b9c/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www016.vipanicdn.net/streamhls/6dee87a73bda2eb89e638ca455cb1f15/ep.1.1677659515.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=pokemon-movie-11-giratina-to-sora-no-hanataba-shaymin-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=pokemon-movie-11-giratina-to-sora-no-hanataba-shaymin-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA1MTU="
+        },
+        "intro": null
+    }
 }

@@ -1,20 +1,28 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=one-piece-movie-14-stampede-episode-",
-        "down_links": [
-            "MTQwNDY4"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=one-piece-movie-14-stampede-dub-episode-",
-        "down_links": [
-            "MTYzNjUx"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www009.vipanicdn.net/streamhls/38550ea8a0a9a9b46db541ebc6d6de68/ep.1.1677592668.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=one-piece-movie-14-stampede-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www002.vipanicdn.net/streamhls/20c133b1ffbf357b46ea51b032953fd7/ep.1.1677596120.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=one-piece-movie-14-stampede-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTQwNDY4",
+            "DUBBED": "MTYzNjUx"
+        }
+    }
 }

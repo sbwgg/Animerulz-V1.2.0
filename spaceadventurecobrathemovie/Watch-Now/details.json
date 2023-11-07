@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=space-adventure-cobra-episode-",
-        "down_links": [
-            "MTg5NjE5"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=space-adventure-cobra-dub-episode-",
-        "down_links": [
-            "ODk0NTI="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/37953299f1463abcb4209bb3de2b6d6ea537968a948474326395082fc7bd16257ea9de76f1b3c074027b3ed08dfaa3a652ede55ddaaa179a3913a8251541d51b0f63d164943b32555f71fa80b891ca89b6128a0c42ca2a528f55feb71dbf8102f9a090de8e00bf143d162c27109f267d0c1edda2004ed06c4f4d3263c5647ecc/master.m3u8",
+                    "captions": "https://imgb.megaresources.co/_a_preview/85/85b7f13d046f3a3aa2aa6c729442b5d7/thumbnails/sprite.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www050.vipanicdn.net/streamhls/8ed19e99907a23705c5cd3330e63239a/ep.1.1677839593.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=space-adventure-cobra-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www023.vipanicdn.net/streamhls/e7a9ee6c192a34cf6adac66a38dc6a27/ep.1.1677723367.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=space-adventure-cobra-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTg5NjE5",
+            "DUBBED": "ODk0NTI="
+        },
+        "intro": null
+    }
 }

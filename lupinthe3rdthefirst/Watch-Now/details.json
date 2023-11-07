@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=lupin-iii-the-first-episode-",
-        "down_links": [
-            "MTQwNTkz"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=lupin-iii-the-first-dub-episode-",
-        "down_links": [
-            "MTQ5MTQw"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/f3456522fbd66e9baf398271075468eaf7a02f220e2ca3d2f3645ac734f4c1dfa06936b7d504513f558efbef1f04bd53470b94c40c09e533f2b7557f9dcd9fdec4abce6f70f254b0560a816416128ce3e21dc7b51af464c810b365e1774f69103f76d5368506b85270a77240df4f54b34d4b2e408253d693073f142c9babfa00/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/b9/96/b9968d0ffc8b5c89680a0459e28e6aef/eng-4.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www014.vipanicdn.net/streamhls/5185383b0684101427072cb8125fe1d8/ep.1.1677623807.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=lupin-iii-the-first-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www011.vipanicdn.net/streamhls/7125414cdc3a0c5f103c13f259f50146/ep.1.1677718117.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=lupin-iii-the-first-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTQwNTkz",
+            "DUBBED": "MTQ5MTQw"
+        },
+        "intro": null
+    }
 }

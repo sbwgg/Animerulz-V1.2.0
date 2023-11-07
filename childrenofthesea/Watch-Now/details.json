@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=kaijuu-no-kodomo-episode-",
-        "down_links": [
-            "MTM2NzIy"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=kaijuu-no-kodomo-dub-episode-",
-        "down_links": [
-            "MTQ0NjY0"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/e470103bb4262ac596364890fd10d8ef4536d77227f273feec1d9ebab9fd477934fec5bb3bdd46384d80a8eb1b3a07828d94e0a296e63e24444f52fa56db5f0034c19d1f197d392149304132fdb4af1e83916e5e7b3cd0e4401d9949e77d64ab439c9355d79137c2895a4bc43d7cde269070db4f30fa06a8f85e3d0161131eeb/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/9a/56/9a56f3cc4b497b941c007e5a657ef129/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www013.vipanicdn.net/streamhls/9d2f58f9e0a47160fd95cf8fb790bc98/ep.1.1677695114.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=kaijuu-no-kodomo-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www005.vipanicdn.net/streamhls/c19c76589fcad90e81f09e4f32dfefec/ep.1.1677705531.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=kaijuu-no-kodomo-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTM2NzIy",
+            "DUBBED": "MTQ0NjY0"
+        },
+        "intro": null
+    }
 }

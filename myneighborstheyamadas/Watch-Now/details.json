@@ -1,13 +1,29 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=my-neighbors-the-yamadas-episode-",
-        "down_links": [
-            "NDA5OTI="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/31130218b95f79e3c03ae0205bd397f99daf75058319a6488be01e8802fb189162720614857c23ce26bdaacad749a66476170d358f5e3668a8e0586a0ba9ae9ef4885c02e3c7253c0f1af365b82702607e6dff9fb2e819f259d5b368afa596ce8a820b9b9f85b8d708189068985f0341d94bb17721df127126d43acbdd96d5e0/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/32/17/321775ea7ae01b681196c726aa5944ec/ara-4.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www013.vipanicdn.net/streamhls/e073fa970db2a2bdbdd3daff2c20c195/ep.1.1677660690.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=my-neighbors-the-yamadas-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=my-neighbors-the-yamadas-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA5OTI="
+        },
+        "intro": null
+    }
 }

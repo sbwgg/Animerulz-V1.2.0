@@ -1,20 +1,28 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=bishoujo-senshi-sailor-moon-supers-sailor-9-senshi-shuuketsu-black-dream-hole-no-kiseki-episode-",
-        "down_links": [
-            "MTYzNDgz"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=bishoujo-senshi-sailor-moon-supers-sailor-9-senshi-shuuketsu-black-dream-hole-no-kiseki-dub-episode-",
-        "down_links": [
-            "MTYzNDg0"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www014.vipanicdn.net/streamhls/ddb0ff227bcd52e6c6f1ed08a1db13bd/ep.1.1677633990.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=bishoujo-senshi-sailor-moon-supers-sailor-9-senshi-shuuketsu-black-dream-hole-no-kiseki-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www035.vipanicdn.net/streamhls/a32c4be0740ef09fa53172d097f35004/ep.1.1677831694.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=bishoujo-senshi-sailor-moon-supers-sailor-9-senshi-shuuketsu-black-dream-hole-no-kiseki-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTYzNDgz",
+            "DUBBED": "MTYzNDg0"
+        }
+    }
 }

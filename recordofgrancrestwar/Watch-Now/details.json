@@ -1,90 +1,812 @@
 {
-    "jap": {
-        "no_epi": "24",
-        "link": "https://player.ryuk.to?id=grancrest-senki-episode-",
-        "down_links": [
-            "MTAzMjcz",
-            "MTAzMzY1",
-            "MTAzNDQ4",
-            "MTAzNTQz",
-            "MTAzNjU2",
-            "MTAzODEy",
-            "MTAzOTEy",
-            "MTA0MDA3",
-            "MTA0MTYw",
-            "MTA0MjY5",
-            "MTA0NDEy",
-            "MTA0NTM5",
-            "MTA0NjYz",
-            "MTA0Nzg3",
-            "MTA0OTY5",
-            "MTA1MTA2",
-            "MTA1MjE3",
-            "MTA1MzQx",
-            "MTA1NTA4",
-            "MTA1NjE2",
-            "MTA1NzM1",
-            "MTA1ODUw",
-            "MTA1OTY2",
-            "MTA2MTI0",
-            "MTA2MjM4"
-        ]
+    "1": {
+        "title": "Contract",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/3e920681f31cda20455704ffcebf161950a22b4d5650c5a51b44097296172cc1399018b77f841b5f344e3dde253432062e3f146f96701a67706ac63fc3ecf96e94023d1b1603ceaabd8deaf9be326e54f17dc2eaf9af05c9e038f5190f763bb1c4de02e9482d6229587b5cae55d4141ca8457cce925eb7bf59179aeea43e53c0/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/c1/91/c19122a03fcc6acf5a582916d992557e/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www014.vipanicdn.net/streamhls/ea11833444f1fc32b4c3ffffa29c67a8/ep.1.1677620917.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www004.vipanicdn.net/streamhls/4f9922995e33339c1f09b562b3b2b8ff/ep.1.1677607322.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTAzMjcz",
+            "DUBBED": "MTIzODcz"
+        },
+        "intro": null
     },
-    "eng": {
-        "no_epi": "24",
-        "link": "https://player.ryuk.to?id=grancrest-senki-dub-episode-",
-        "down_links": [
-            "MTIzODcz",
-            "MTIzODc0",
-            "MTIzODc1",
-            "MTIzODc2",
-            "MTIzODc3",
-            "MTIzODc4",
-            "MTIzODc5",
-            "MTIzODgw",
-            "MTIzODgx",
-            "MTIzODgy",
-            "MTIzODgz",
-            "MTIzODg0",
-            "MTIzODg1",
-            "MTIzODg2",
-            "MTIzODg3",
-            "MTIzODg4",
-            "MTIzODg5",
-            "MTIzODkw",
-            "MTIzODkx",
-            "MTIzODky",
-            "MTIzODkz",
-            "MTIzODk0",
-            "MTIzODk1",
-            "MTIzODk2"
-        ]
+    "2": {
+        "title": "Ambition",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/d7d90558a010c01412b4630bf6365eb292e6e79cb2e505ad692d09e00a2ba3f1ee9f0c9346c81aff5ef047bb4b1e8400a18a2822fc8dcd1376ae8d66d499bba0440448c1344820e7da060f6588b39c13ef9c3945fdbfec315747a47dc75389855e4e1520ac31030ccc8bf7b39126502d47de20731d079fbd1e5e04bb63d911e9/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/79/31/7931028f9c0d386c1881888eb10ed5a4/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www016.vipanicdn.net/streamhls/ea11833444f1fc32b4c3ffffa29c67a8/ep.2.1677681421.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-episode-2"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www005.vipanicdn.net/streamhls/4f9922995e33339c1f09b562b3b2b8ff/ep.2.1677696361.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-dub-episode-2"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTAzMzY1",
+            "DUBBED": "MTIzODc0"
+        },
+        "intro": {
+            "start": 55,
+            "end": 144
+        }
     },
-    "episodes_names": [
-        "Contract",
-        "Ambition",
-        "Battle Flag",
-        "Decision",
-        "Forest of Eternal Darkness",
-        "March",
-        "The White Prince",
-        "The Congress Dances",
-        "The Black Princess",
-        "Blade of Betrayal",
-        "The Fall of Castle Unicorn",
-        "A Treaty Formed",
-        "To the Homeland",
-        "The Liberator of Sistina",
-        "Return",
-        "Outpost",
-        "Two Heroes",
-        "Leader",
-        "The Awakening of a Noble",
-        "Pitched Battle of the Three Forces",
-        "Purge",
-        "The Holy Grail",
-        "Castle Walls",
-        "Grancrest"
-    ],
-    "fillers": []
+    "3": {
+        "title": "Battle Flag",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/e79a2aa181cde8ed74436245ed013563677ec62672aed5b2ecfe48ee959b17cbd3e65875bf767bfcecbb3e8a42e0361510541eb84cc690f1fb129ca4004ccf7b585d236fccc82dd742c9bcc8565e60128407810ea9ac555144cc9047f9588b4ceca2da64e209d8bb9cb1767c14697099a8c6946dc4a30f9869641f00b3de7ff4/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/e0/b2/e0b2eb29a89307276b885e7f7ada75a3/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www009.vipanicdn.net/streamhls/ea11833444f1fc32b4c3ffffa29c67a8/ep.3.1677611405.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-episode-3"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www006.vipanicdn.net/streamhls/4f9922995e33339c1f09b562b3b2b8ff/ep.3.1677690069.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-dub-episode-3"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTAzNDQ4",
+            "DUBBED": "MTIzODc1"
+        },
+        "intro": {
+            "start": 88,
+            "end": 177
+        }
+    },
+    "4": {
+        "title": "Decision",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/6e2490afa9183de87a2f9a72e48a81d7f015ccbe33f84b9d41e32c4bb4ee96dc9b6da4fb1efd1bc1084f63f14434578a215182c2703aafe33c51c59ff35b62bce4cf4a578a5d456dcd9eed79e73982412c0369db5d35034241ca81c20a9e5be28e06b641e34c8fe19d1a840c7462d0e0c3c3d42ffd69f234c95a8aed2b44cb27/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/4f/c2/4fc2cbb1a78d108fefe9ea037885f1fc/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www014.vipanicdn.net/streamhls/ea11833444f1fc32b4c3ffffa29c67a8/ep.4.1677625079.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-episode-4"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www007.vipanicdn.net/streamhls/4f9922995e33339c1f09b562b3b2b8ff/ep.4.1677687223.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-dub-episode-4"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTAzNTQz",
+            "DUBBED": "MTIzODc2"
+        },
+        "intro": {
+            "start": 84,
+            "end": 173
+        }
+    },
+    "5": {
+        "title": "Forest of Eternal Darkness",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/f610d93f90cf5427e1e481fbbb6dd21cc896514254394e98256e624aa157cda8b9ee80d822402c3cae7deb1efcf8e903ee6baca1146aef45d62cc47ea74a2c737861eba698952b4b074e6f65b9116d512e0ed5f959ed4f555f58ee8fca549deb88e4eb6f0095a62f81a11e30940318209388bb04f49bf4357179184c0c801ff1/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/ab/29/ab29a76d621c3ae6e05204a8b81844e6/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www007.vipanicdn.net/streamhls/ea11833444f1fc32b4c3ffffa29c67a8/ep.5.1677609076.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-episode-5"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www008.vipanicdn.net/streamhls/4f9922995e33339c1f09b562b3b2b8ff/ep.5.1677615368.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-dub-episode-5"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTAzNjU2",
+            "DUBBED": "MTIzODc3"
+        },
+        "intro": {
+            "start": 130,
+            "end": 219
+        }
+    },
+    "6": {
+        "title": "March",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/fa2e7c657301fe4a8619f8506d4c44269731e6f3fa5b727bb45547bfc56ee5a0e55a22ec8f660bf378b952f64d8a8a39874591a7a123bfd342cedff6e9a62f40db280685ef0fa80657d586dfb799967b4b77f0a5fa73c15e6f4f9611e75a8aa9e10a78edce52508941d2f0fbf58c149e3d6dc00f23f440f2dd437832547e5fb7/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/db/f1/dbf1d8cabbcda75725cec2eb0fbb12c2/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www013.vipanicdn.net/streamhls/ea11833444f1fc32b4c3ffffa29c67a8/ep.6.1677679795.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-episode-6"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www009.vipanicdn.net/streamhls/4f9922995e33339c1f09b562b3b2b8ff/ep.6.1677617077.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-dub-episode-6"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTAzODEy",
+            "DUBBED": "MTIzODc4"
+        },
+        "intro": {
+            "start": 0,
+            "end": 89
+        }
+    },
+    "7": {
+        "title": "The White Prince",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/abec074884b135a664fd4d2da0f68b084f0d5127dbd379d725b90a16b642185ca2b9f95f495abdae15b74ad617814fc644c009bea5a0a4dc60a9c4bbb1616af292f9386ab671c74c5ee200013e55a0174fec196d68a7e473d16e23089de920f05d2239ede0c6527a619d2b8b6519e30b580d9250b4e647853058a121230f7a51/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/c1/19/c1198305ed6ad0fcbbe06483995309e6/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www023.vipanicdn.net/streamhls/ea11833444f1fc32b4c3ffffa29c67a8/ep.7.1677741156.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-episode-7"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www010.vipanicdn.net/streamhls/4f9922995e33339c1f09b562b3b2b8ff/ep.7.1677683778.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-dub-episode-7"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTAzOTEy",
+            "DUBBED": "MTIzODc5"
+        },
+        "intro": {
+            "start": 71,
+            "end": 160
+        }
+    },
+    "8": {
+        "title": "The Congress Dances",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/9c368f62599d0b41d3566c39b9db65ce6a43251845ee24737a6b60b70fc80b39d8ab838971af64717bb7e52852ccb25594a83092210819af3cdf3a7fa138b27e5110de8c4c6bf398a4ff44cece2cb3a10b5d8b59c5ea89f9ace9dcb9bdd3be056b4f17545b9d3b5a696bef62531e4b3dbb38d4d7c876cd8510e6ee707dbb0412/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/25/ea/25ea2829d6fe02b65b927bd44f256aa1/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www028.vipanicdn.net/streamhls/ea11833444f1fc32b4c3ffffa29c67a8/ep.8.1677684842.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-episode-8"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www011.vipanicdn.net/streamhls/4f9922995e33339c1f09b562b3b2b8ff/ep.8.1677704268.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-dub-episode-8"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTA0MDA3",
+            "DUBBED": "MTIzODgw"
+        },
+        "intro": {
+            "start": 82,
+            "end": 171
+        }
+    },
+    "9": {
+        "title": "The Black Princess",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/dce73f09cfc814e6af69ad2aa7de56bcb5bceacfcd8a3e695b24dbac4a300ef0f4ba375265ccca17df75b7c12116eaf6667f71994a1b98d1afeae6fad445b5202efc54cd4da08dd016a58027683dfb374aa0c383d9289592925958184b7d0eee7d48bac0d43563213ed3864fb41cc036777f53f3b7d7b126ecc55cf0a4dc30d7/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/2e/9f/2e9fa9f22c03f81c05ba51b8c670f087/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www001.vipanicdn.net/streamhls/ea11833444f1fc32b4c3ffffa29c67a8/ep.9.1677684692.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-episode-9"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www012.vipanicdn.net/streamhls/4f9922995e33339c1f09b562b3b2b8ff/ep.9.1677626465.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-dub-episode-9"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTA0MTYw",
+            "DUBBED": "MTIzODgx"
+        },
+        "intro": {
+            "start": 130,
+            "end": 219
+        }
+    },
+    "10": {
+        "title": "Blade of Betrayal",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/4793d5b56d043155d079fa75a4bfd85c5a41201cfad30d2805620bedd598c7f98d623e08da14a336769ac918fe9f4f1e47dd80b7a0b66e0b288ec8fa1f9da28b26e88941be98ef8d9e50512a5833683d2312996461caf60d4ed860b4301a311abef99cfc43826297b8db0db62f559fc0c3d9663d0606349a94c4f54606549aed/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/58/d1/58d1be3f24b1fa423d6cbdc749ae78fc/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www020.vipanicdn.net/streamhls/ea11833444f1fc32b4c3ffffa29c67a8/ep.10.1677682723.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-episode-10"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www013.vipanicdn.net/streamhls/4f9922995e33339c1f09b562b3b2b8ff/ep.10.1677689665.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-dub-episode-10"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTA0MjY5",
+            "DUBBED": "MTIzODgy"
+        },
+        "intro": {
+            "start": 41,
+            "end": 130
+        }
+    },
+    "11": {
+        "title": "The Fall of Castle Unicorn",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/018e451e07d767b5f29f32c3c8b835a541e3df8a9f5d0ca665d521b1c93750871e8c7c08a8d31a63c1b93f419a4d77f6c942b03334b1e0c50795244444f5c63f102e4b5a42ea255563a7379c9a3bd3ff411a52e77af3260c6de8907298584427efaaf59e016a3eee3bf63b73a556e145dd6e1a59cc9ce04f2b6b2c4a7bd6a181/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/fd/c0/fdc0f5a94d601f3f0f16e238811d9e18/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www013.vipanicdn.net/streamhls/ea11833444f1fc32b4c3ffffa29c67a8/ep.11.1677680124.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-episode-11"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www014.vipanicdn.net/streamhls/4f9922995e33339c1f09b562b3b2b8ff/ep.11.1677631025.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-dub-episode-11"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTA0NDEy",
+            "DUBBED": "MTIzODgz"
+        },
+        "intro": {
+            "start": 67,
+            "end": 156
+        }
+    },
+    "12": {
+        "title": "A Treaty Formed",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/0c54ce89ebf1b879e6404176a9b28dc4ab31f09dc1cd53faec3c6e39c361dbcc55500a6ee3a9a846b39b72d4f9e3a707dd955013f305bcf5de71a5e508b90e8cf628a7df9c57500630058e9cdc5b124bfbef26b41751f1d5fc3c3cd756fb3b678d839870efac4eb2f42165e0bb823fd187fcf75f3e07ca3f93982682500cf96e/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/83/ff/83ff7de3f080ddfb1cc8b3018159b7dd/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www020.vipanicdn.net/streamhls/ea11833444f1fc32b4c3ffffa29c67a8/ep.11.5.1677682951.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-episode-12"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www015.vipanicdn.net/streamhls/4f9922995e33339c1f09b562b3b2b8ff/ep.12.1677635153.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-dub-episode-12"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTA0NTM5",
+            "DUBBED": "MTIzODg0"
+        },
+        "intro": {
+            "start": 72,
+            "end": 161
+        }
+    },
+    "13": {
+        "title": "To the Homeland",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/3412aebf71ea0d215198d46654d74f5af609c35bdb9ba9c0618c95c32494191c2c19aaffd3cbfce9f2e732cffbc2c5edd8694d62f6aaf8d44ccd67c4d68b37d2b827b756aa02f91e0bc95ac88a2019cf80161f06a3a08db1230bf622d4619b23d36bfb6f24da9bf8910a1bf235ed1a5be878b3518be294d2257ce44c4ce5f9d9/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/ef/11/ef11c5e52f9e1da946a02f65a6e52050/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www024.vipanicdn.net/streamhls/ea11833444f1fc32b4c3ffffa29c67a8/ep.12.1677686919.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-episode-13"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www016.vipanicdn.net/streamhls/4f9922995e33339c1f09b562b3b2b8ff/ep.13.1677691559.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-dub-episode-13"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTA0NjYz",
+            "DUBBED": "MTIzODg1"
+        },
+        "intro": {
+            "start": 31,
+            "end": 120
+        }
+    },
+    "14": {
+        "title": "The Liberator of Sistina",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/0e7fa021de62cb93eddeb14cbee0d6e8dda938d90a126af690ebc7258b948c0c0f52ad40776f4b02c07406b440714033c35448db9affaff5594e6f6eaf3ce7b9901812b1c58cb403139d3295b0308cec23ea2f57eaa7d1fcb77407fc7ca57acbb940e1aa2cdc03aa98e6236c4316eab177dd5f8c7d8a2825783ce8a4c0e596c4/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/ff/25/ff250498aee349bd87eb34bd85108c21/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www028.vipanicdn.net/streamhls/ea11833444f1fc32b4c3ffffa29c67a8/ep.13.1677685492.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-episode-14"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www017.vipanicdn.net/streamhls/4f9922995e33339c1f09b562b3b2b8ff/ep.14.1677694363.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-dub-episode-14"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTA0Nzg3",
+            "DUBBED": "MTIzODg2"
+        },
+        "intro": {
+            "start": 0,
+            "end": 89
+        }
+    },
+    "15": {
+        "title": "Return",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/47511ad586e25506aeddb6524cab50a7917700cb63f4b8cb4351f98ba18ee7e6853112d0c4bc139fa1eb5457adc4f5c701670fb34613d23540ea6eca56b285d50d0b8215891ac34d7b636e8c142e345928190ac5541a114ab2f3df98394bf08dfe462d468536155d7f06a47276aa0ece96d4ba1ac69a032bba3f06dcd332bbdb/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/74/eb/74ebb931e5d7bc88966d1098743c6019/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www030.vipanicdn.net/streamhls/ea11833444f1fc32b4c3ffffa29c67a8/ep.14.1677682090.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-episode-15"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www018.vipanicdn.net/streamhls/4f9922995e33339c1f09b562b3b2b8ff/ep.15.1677630828.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-dub-episode-15"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTA0OTY5",
+            "DUBBED": "MTIzODg3"
+        },
+        "intro": {
+            "start": 76,
+            "end": 165
+        }
+    },
+    "16": {
+        "title": "Outpost",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/6e2b06c1967a8062000d915da30545b9dd563481f75e0cfadd5ad5289d4affe80bf69733eb09403ea6b4cd397327b70d0e701dd27ba429c48ef6f2a0081d1d4f3ae9f8d5fc1e2a24e11fc8c607bdc96bbaf9d9889a4688df1e87e22ac2a4dbaf82856374173e0b20ab9e9d04fa7b026d709d9f97a11fe0b49d90503324cc29a5/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/71/af/71afd6c3c99a2d21303679cde4a27d3c/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www017.vipanicdn.net/streamhls/ea11833444f1fc32b4c3ffffa29c67a8/ep.15.1677684986.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-episode-16"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www019.vipanicdn.net/streamhls/4f9922995e33339c1f09b562b3b2b8ff/ep.16.1677692179.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-dub-episode-16"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTA1MTA2",
+            "DUBBED": "MTIzODg4"
+        },
+        "intro": {
+            "start": 171,
+            "end": 260
+        }
+    },
+    "17": {
+        "title": "Two Heroes",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/77e79292be16feb3e21ac477076d4a730970a72902b6196834adfa88df732058638f62883b943a7e48ba110156788d610c863289fc081c0b55838764a03e4ef8a2f1bcdeffab68b9f16764f9bc7caf07796243daa396eec900844c959528d9a8a3a0374b7825b5c2e20a6c6aa10519d32798869f3ec25f5f8fdae289fbfe8d5d/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/66/81/6681ac74aa15f32521a32aa52c99ba1f/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www008.vipanicdn.net/streamhls/ea11833444f1fc32b4c3ffffa29c67a8/ep.16.1677615597.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-episode-17"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www020.vipanicdn.net/streamhls/4f9922995e33339c1f09b562b3b2b8ff/ep.17.1677692830.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-dub-episode-17"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTA1MjE3",
+            "DUBBED": "MTIzODg5"
+        },
+        "intro": {
+            "start": 167,
+            "end": 256
+        }
+    },
+    "18": {
+        "title": "Leader",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/a0baa6f6720b55bc117cd4c03c16bd73317817bf70467e7f02563549ac17f33915f99c9bb5d828de827b3454b5bd49a6fbfc7e12899285c9831c0d8a555a00d7bd893f6446041ef44453cb5ea62ab4a938c950ca92a5b4f24043135e45f998bb312e7b55e626e5f648756129c6de9db191ea29893edc39310e54a2596b7e232e/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/86/d5/86d502a13e68fcc9e60ac88eec9fe423/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www012.vipanicdn.net/streamhls/ea11833444f1fc32b4c3ffffa29c67a8/ep.17.1677626597.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-episode-18"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www021.vipanicdn.net/streamhls/4f9922995e33339c1f09b562b3b2b8ff/ep.18.1677692117.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-dub-episode-18"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTA1MzQx",
+            "DUBBED": "MTIzODkw"
+        },
+        "intro": {
+            "start": 0,
+            "end": 89
+        }
+    },
+    "19": {
+        "title": "The Awakening of a Noble",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/45a431ac3e7a7a1c8ed978f42e90496a0bd162bb1373c5cfe65ac7a16393662c6e22064865d316d215ea955e5b90c1cc10b76d8650fe1f4214459b4a4201b3c852b71a2322845a9ba32a430fe2d1db4cfd4c0b32955b0e1556032cc87aa543da6d4d86544cf0c094480419b644c558aa2f8ccaa49a262b4126f5f770809b78da/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/fc/e0/fce0fde5e7f78bfe53617b8101dba58b/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www029.vipanicdn.net/streamhls/ea11833444f1fc32b4c3ffffa29c67a8/ep.18.1677684549.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-episode-19"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www022.vipanicdn.net/streamhls/4f9922995e33339c1f09b562b3b2b8ff/ep.19.1677631210.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-dub-episode-19"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTA1NTA4",
+            "DUBBED": "MTIzODkx"
+        },
+        "intro": {
+            "start": 109,
+            "end": 197
+        }
+    },
+    "20": {
+        "title": "Pitched Battle of the Three Forces",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/3ffc762a2293db3ece74c323f1d21fa12f08767cb77189584200d02c188457964f30bee9046cf356eb5ed2a48affb788fe29db9cd596042bfe9396fda365ea797416ddaf34dfc1457e1e9f5aaeb90fd99aef522ea8068f25d197e232d3c572c7a655128b9b13554051836ac4e09b5dd4e470bd2d2434960f6ed02ea2074f5861/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/63/3d/633df12c9a2b75ff1d434856919750d1/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www017.vipanicdn.net/streamhls/ea11833444f1fc32b4c3ffffa29c67a8/ep.19.1677685359.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-episode-20"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www023.vipanicdn.net/streamhls/4f9922995e33339c1f09b562b3b2b8ff/ep.20.1677784879.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-dub-episode-20"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTA1NjE2",
+            "DUBBED": "MTIzODky"
+        },
+        "intro": {
+            "start": 83,
+            "end": 171
+        }
+    },
+    "21": {
+        "title": "Purge",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/5f371c54a90d6bcd5b0b248570364e4b19c0b1abfa7770f16e1c2d6a76304d093f79309a7efaec6f1fe21ad4d55ebbf0eed195035ff1732970cd7a874cc60a0660807862cdf885c800b3400f96a0d0a89390c382afee7374d5d162a25347543298d49da3069d10fb16d9a94b21951d444a0f6b194d436c389b10bf323073afd9/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/65/b1/65b1446a0a7e3791797139542633ec3b/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www016.vipanicdn.net/streamhls/ea11833444f1fc32b4c3ffffa29c67a8/ep.20.1677682926.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-episode-21"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www024.vipanicdn.net/streamhls/4f9922995e33339c1f09b562b3b2b8ff/ep.21.1677696389.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-dub-episode-21"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTA1NzM1",
+            "DUBBED": "MTIzODkz"
+        },
+        "intro": {
+            "start": 84,
+            "end": 173
+        }
+    },
+    "22": {
+        "title": "The Holy Grail",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/f5a77584def6a4fdf3498ce12d15616c5826a4913940d81587e861c61571c9a08111a7047ac82264051fcd9441809db08803f8d221c1be585b1fc147cdbdf848f6cff1a2ac0f39f5220e4ffe5de22f0770b1ff920a1eaf7512a88fea276578ee0d0d6dadce31aef55bb1d856ad3be17e0ddd9b04bfa333f1d5c7f233cd81e30a/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/09/05/090591634c65dd4a3f6b35b6e1bd5bbf/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www011.vipanicdn.net/streamhls/ea11833444f1fc32b4c3ffffa29c67a8/ep.21.1677692037.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-episode-22"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www025.vipanicdn.net/streamhls/4f9922995e33339c1f09b562b3b2b8ff/ep.22.1677794570.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-dub-episode-22"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTA1ODUw",
+            "DUBBED": "MTIzODk0"
+        },
+        "intro": {
+            "start": 50,
+            "end": 139
+        }
+    },
+    "23": {
+        "title": "Castle Walls",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/ce0a17686c523f6081fed5fa43c092f23c4965708e6c7f1c16e2436ed05c8a9187d10e7afbca7bc485b027d9ee8da65bbce61321bc84df03873a3db9a55486c379300bb5f34e7e2841daaf27138dccd00816a547a84adb9b252b111832c65ded775bd4e8ad63e05816f94418a5723341026b9b9ba04c137dc08330d464b9e81d/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/1e/06/1e064d8bc317baab4588f7520487c99c/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www007.vipanicdn.net/streamhls/ea11833444f1fc32b4c3ffffa29c67a8/ep.22.1677679584.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-episode-23"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www026.vipanicdn.net/streamhls/4f9922995e33339c1f09b562b3b2b8ff/ep.23.1677698336.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-dub-episode-23"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTA1OTY2",
+            "DUBBED": "MTIzODk1"
+        },
+        "intro": {
+            "start": 168,
+            "end": 257
+        }
+    },
+    "24": {
+        "title": "Grancrest",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/1cf852d3b3863a86a4cb2ab6c1169a32c15224457a1c45d8103dbf75d05557148cc8e0c63323b88c48f1df2d107868a4a0e91efce9d7a88f188ecb20e1fe769fe151d75a14ac543dca9f64df7dca0b8b43d31a3f1d6654302661128cd1f1dee380819d4e091ab919804ed3b8303cc1399483c974ded8c98661d69469fce06077/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/d0/e0/d0e0b764f5fe8cae7a0cd69da325ae2a/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www015.vipanicdn.net/streamhls/ea11833444f1fc32b4c3ffffa29c67a8/ep.23.1677632856.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-episode-24"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www027.vipanicdn.net/streamhls/4f9922995e33339c1f09b562b3b2b8ff/ep.24.1677769830.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=grancrest-senki-dub-episode-24"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTA2MTI0",
+            "DUBBED": "MTIzODk2"
+        },
+        "intro": null
+    }
 }

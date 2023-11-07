@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=lupin-iii-goodbye-partner-episode-",
-        "down_links": [
-            "MTE5OTMx"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=lupin-iii-goodbye-partner-dub-episode-",
-        "down_links": [
-            "MTc1NTA2"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/36c97ee563799ea75a8d8bd05122a8d43dadfeee500662a5fab60c6c8203f6d36b78da12d541c862e1588cfa73c5988d309a31772435850a4fd4a75f7a8546d98fdffb6c74dbb236e04e276b28c0da8dc08a4e4dcbc575ecd94b94c1da8ca153913b5cf84bc03553e922b63f598d00b2c29383f49ce528dbd8ca3fc98a89fd5e/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/38/01/3801d582eb9ad5b5ef894be22e6bb17e/eng-4.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www022.vipanicdn.net/streamhls/11705064bd4516d040179dab5da13f5d/ep.1.1677634887.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=lupin-iii-goodbye-partner-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www047.vipanicdn.net/streamhls/3f824533455b2bcff75f7dc70a27f05e/ep.1.1696405789.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=lupin-iii-goodbye-partner-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTE5OTMx",
+            "DUBBED": "MTc1NTA2"
+        },
+        "intro": null
+    }
 }

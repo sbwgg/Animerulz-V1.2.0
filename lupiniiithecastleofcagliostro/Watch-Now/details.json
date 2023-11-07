@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=lupin-iii-the-castle-of-cagliostro-episode-",
-        "down_links": [
-            "NDA2NDY="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=lupin-iii-the-castle-of-cagliostro-dub-episode-",
-        "down_links": [
-            "OTc1NjE="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/3b451f9701b590c939d44e34315572e0ff344cf1d0c501881bf84a47c658f54188c968d93f9a24130f46a35a178444b9a2e35bdc7df17591a7047085858e8aa3059238fa9506369e01ab5d0c60d237f0344f5d0d5539779e6e11a8b79313e22dcc98ad312c2f2f06cca4a1fe99446f8ed36a3acb1df8cba8c6900e9f673092f0/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/2e/bb/2ebb380d248d756563291e2bb96ffad3/ara-4.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www027.vipanicdn.net/streamhls/b249a986c300ada54070ec08b028e3d1/ep.1.1677675799.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=lupin-iii-the-castle-of-cagliostro-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www002.vipanicdn.net/streamhls/9a2c44794ff99e82d638f62c1bef6cce/ep.1.1677678264.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=lupin-iii-the-castle-of-cagliostro-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA2NDY=",
+            "DUBBED": "OTc1NjE="
+        },
+        "intro": null
+    }
 }

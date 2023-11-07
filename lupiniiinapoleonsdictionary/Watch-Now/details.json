@@ -1,13 +1,29 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=lupin-iii-napoleon-no-jisho-wo-ubae-episode-",
-        "down_links": [
-            "MTQyOTA5"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/2cf2db07dfa92f22e13ba8b0dd144f8bf00a97fcbb34eb3d24e3b44e2a9c0275abbf0f80b888e3a8c2019fadabf74e3f9ae0c71d7531f2d843a22bf612a7c26e0dd871fd6493a9acfbbc2af80bb670ab65347419688c4d64df523431fd40872c08be393b1bf05b13aee2d86eee292f0f04afdb49deff730bd08675838c54db4b/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/56/37/56376b6172928a75c48ade0068b2f6a0/eng-2.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www020.vipanicdn.net/streamhls/43fa6ed5f210bceb42482c569e39625e/ep.1.1677700812.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=lupin-iii-napoleon-no-jisho-wo-ubae-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=lupin-iii-napoleon-no-jisho-wo-ubae-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTQyOTA5"
+        },
+        "intro": null
+    }
 }

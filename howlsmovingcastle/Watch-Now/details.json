@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=howls-moving-castle-episode-",
-        "down_links": [
-            "NDA2ODU="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=howls-moving-castle-dub-episode-",
-        "down_links": [
-            "MTA3MDE1"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/fb013a3872cb7f0fe5f1cdd2bb79f5aadfd85a834a07f59a6e66d872ebb3698efac27af1cc890f71a66e5628f2445e236ccfa716d1f7b13418c91e15486488c919a8bcb4eed2f1ff4b9f1af0e028b9e9626ef9ca0ad1da7f63519018f5d162cb7612aed15d8137fe20a3cc6e963e6262721ea1140cae2c900ca812141460c4c5/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/62/e2/62e29daa8496f7c76a7e07bcd6ec9361/eng-2.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www006.vipanicdn.net/streamhls/40ba7f9abbf13ecf263e16c293115aec/ep.1.1677594102.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=howls-moving-castle-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www006.vipanicdn.net/streamhls/1729a5b809e03e9d26a156c8571988c9/ep.1.1677598663.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=howls-moving-castle-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA2ODU=",
+            "DUBBED": "MTA3MDE1"
+        },
+        "intro": null
+    }
 }

@@ -1,13 +1,29 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=mazinger-z-tai-ankoku-daishougun-episode-",
-        "down_links": [
-            "MTY0Nzgx"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/a1eb925c82ab48bb6a97670274cb1848e71d02a493268dcf22ec069c4ccb3643306616d0a874e253c1de83b383f59fb3378d91a9f842a0551e67b45a0bb8d745b9b1caa01e5f26085fac7e8794896c37786a7126156cf0f59ef751c8c8527817e8ba818da6535a31389e2277c989982267f0808448f683318cdd30b06ffd6734/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/de/37/de37e78010f7e2fae1518f33d77206ab/eng-8.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www032.vipanicdn.net/streamhls/5aaa0565f58503ea13eb5c4a3de380a9/ep.1.1677826790.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=mazinger-z-tai-ankoku-daishougun-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=mazinger-z-tai-ankoku-daishougun-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTY0Nzgx"
+        },
+        "intro": null
+    }
 }

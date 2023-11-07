@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-movie-orion-no-ya-episode-",
-        "down_links": [
-            "MTI0MDU1"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-movie-orion-no-ya-dub-episode-",
-        "down_links": [
-            "MTQ2MjA5"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/f5fe73abff04898b472ae98b01d7c1448fbcb229967c822fa291027f0249bf07c603b07a3c0309742d0d8865f95f87acd1641f92cd64edecead75d54b9192d9671a1d2ce63ba617157f6909421de3144d2d1bf0bf7db5152ebf2133398a076435be721fa88855fe4aee4d631e03840baa5e638178c379a54beb82019ce4cde9e/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/f0/d3/f0d3d4e78c3b7ef4deddd37d321c0aaa/eng-2.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www006.vipanicdn.net/streamhls/3aba90f6a5f6071bbf878882251113c2/ep.1.1677599505.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-movie-orion-no-ya-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www020.vipanicdn.net/streamhls/3b4ca89754763d6641a3b50e4ef1c9d5/ep.1.1677703486.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-movie-orion-no-ya-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTI0MDU1",
+            "DUBBED": "MTQ2MjA5"
+        },
+        "intro": null
+    }
 }

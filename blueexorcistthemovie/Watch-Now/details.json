@@ -1,13 +1,29 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=ao-no-exorcist--movie-episode-",
-        "down_links": [
-            "NDAzODk="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/20511890d95b3342a9e34d7fdbb42720b07ea4bbb4e3fa6e4edee49678b06f1f896d10e415ab2033f3714b30a9bd0702ebf5709c53ed4ffedf6123f96a4b1790473c98afca1c89f39b65bb8793c091bebd322a6f408f604b342c92f32e06ff74b8cc9cb9cd943ac6a0868bf2e56e833c9435e2ab3c0fce68129d1612eae52d8b/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/d3/e9/d3e938dcc23af638ada711c11860fa9e/d3e938dcc23af638ada711c11860fa9e.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www010.vipanicdn.net/streamhls/3da7c2103550984e78429663a693791a/ep.1.1677658904.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=ao-no-exorcist--movie-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=ao-no-exorcist--movie-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDAzODk="
+        },
+        "intro": null
+    }
 }

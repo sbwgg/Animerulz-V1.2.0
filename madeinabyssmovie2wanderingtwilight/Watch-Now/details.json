@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=made-in-abyss-movie-2-hourou-suru-tasogare-episode-",
-        "down_links": [
-            "MTM2Mzcw"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=made-in-abyss-movie-2-hourou-suru-tasogare-dub-episode-",
-        "down_links": [
-            "MTM3MzM0"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/d14372e2e7a45c06f93d72faefdcbb1e5f5a4db4fc8210a8314c54fa11cd44a42b327eea7b792ae01bebbb613394480bcbae2f16a28ad1cecb52f9ea4888e3961062f69f849d2b791b23e029f49501bc25bdd6b9f1a1756adfee5a7276c69adeee880062aa6ca5e0ab233677f7b5c8e6dae364fc6ada258eda9c69a238654083/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/ee/73/ee7355961ebfb25eaf3576f25239739c/eng-1.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www021.vipanicdn.net/streamhls/9e90cd2efd99682474f0a612d28e1fdb/ep.1.1677697516.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=made-in-abyss-movie-2-hourou-suru-tasogare-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www025.vipanicdn.net/streamhls/81c900803b5817e349c3cd20db41bfc9/ep.2.1677827969.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=made-in-abyss-movie-2-hourou-suru-tasogare-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTM2Mzcw",
+            "DUBBED": "MTM3MzM0"
+        },
+        "intro": null
+    }
 }

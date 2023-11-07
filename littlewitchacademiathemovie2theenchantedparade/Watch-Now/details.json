@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=little-witch-academia-mahou-shikake-no-parade-episode-",
-        "down_links": [
-            "NjM4ODM="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=little-witch-academia-mahou-shikake-no-parade-dub-episode-",
-        "down_links": [
-            "OTcwNDU="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/966b271275d018b02fb1e77fc6c514d0a37fdd2458a00f0c3b9e1efcb2155181fa9aa6e039b4e8181ccf3ed28dca262a5f181b132b19b25066e907fc9d3ebd58fd7fd5328ad288c5fb989f1ee84ce0e7c8b1f2e00e7865b9d935d722dfe1286dbb4614d4aa9132665bd33b8eba226349ba468a32b1631efa431c8b2d4f0df461/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/c4/73/c4736096ac8745ce6b748448f76658ae/ara-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www014.vipanicdn.net/streamhls/07e383212a7c0f153419eb73bcc29e17/ep.1.1677665326.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=little-witch-academia-mahou-shikake-no-parade-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www026.vipanicdn.net/streamhls/44cbcdaee8eb96cebae94c944e47680c/ep.1.1677682621.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=little-witch-academia-mahou-shikake-no-parade-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NjM4ODM=",
+            "DUBBED": "OTcwNDU="
+        },
+        "intro": null
+    }
 }

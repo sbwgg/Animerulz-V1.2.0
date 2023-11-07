@@ -1,13 +1,24 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=the-adolescence-of-utena-episode-",
-        "down_links": [
-            "NDA4MTI="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www013.vipanicdn.net/streamhls/c531c9796f57de2217b83b4ca514fd40/ep.1.1677660610.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=the-adolescence-of-utena-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=the-adolescence-of-utena-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA4MTI="
+        }
+    }
 }

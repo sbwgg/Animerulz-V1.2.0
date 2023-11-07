@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=redline-episode-",
-        "down_links": [
-            "NDA0NTY="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=redline-dub-episode-",
-        "down_links": [
-            "OTkyOTk="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/7906a96e1a3137a4ecba3f4f96bce763d17a85e3d9701dc2e4f8628b104d58ac7e716efcc038cf56e074b1a4e7c57a0605b8ed92a83f011b8b722acef1d6c6c159c128b820e8dfc105aa1ce25fcdb966a45c5f8e3ed85820cea232a4fe58115db8391574524d639cb238c88577d53c774077f4a964289f6b0183c08290c440b0/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/3e/a1/3ea13f15d7b2f0d0a7ecd689b02b5bbb/3ea13f15d7b2f0d0a7ecd689b02b5bbb.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www017.vipanicdn.net/streamhls/2502d89b0c5d0c2e996bfa12e32a06db/ep.1.1677661091.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=redline-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www030.vipanicdn.net/streamhls/2ca680acfdd55502bd4a72228a15764b/ep.1.1677678815.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=redline-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA0NTY=",
+            "DUBBED": "OTkyOTk="
+        },
+        "intro": null
+    }
 }

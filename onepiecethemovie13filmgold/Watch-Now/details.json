@@ -1,22 +1,28 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=one-piece-film-gold-episode-",
-        "down_links": [
-            "OTIzMTU="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=one-piece-film-gold-dub-episode-",
-        "down_links": [
-            "MTYzNjM2"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": [
-        1
-    ]
+    "1": {
+        "title": "Full",
+        "isFiller": true,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www006.vipanicdn.net/streamhls/867502dff713a8cd426fa20b5a39b345/ep.1.1677593338.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=one-piece-film-gold-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www047.vipanicdn.net/streamhls/89dfca5740076e2cdeccf963145c97e1/ep.1.1677853848.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=one-piece-film-gold-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "OTIzMTU=",
+            "DUBBED": "MTYzNjM2"
+        }
+    }
 }

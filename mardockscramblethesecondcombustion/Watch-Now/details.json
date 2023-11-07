@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=mardock-scramble-the-second-combustion-episode-",
-        "down_links": [
-            "NDA2MDQ="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=mardock-scramble-the-second-combustion-dub-episode-",
-        "down_links": [
-            "MTA5MzQw"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/d445763254ea4804fdc7663b4d488b5abd5833e2d1d883c98963a4b88be836599dd3e76ce333865271382aa75faa2d71b9cc0687751eefc8d05996c259f9a53e17299be91a36043c48113b435a7afae76112fa539316fef88d0af51c3a8936a82cf478f2e578e1a23dfd63ba879e284ddd8995b12e0cacace300b78a77ea7331/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/ef/47/ef47591f3079586f195bdd66f57049ab/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www015.vipanicdn.net/streamhls/d5ad3d51623141b66c62744e349e1e9b/ep.1.1677662366.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=mardock-scramble-the-second-combustion-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www021.vipanicdn.net/streamhls/fd59b175d5e9e5826363fc82de55b329/ep.1.1677684981.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=mardock-scramble-the-second-combustion-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA2MDQ=",
+            "DUBBED": "MTA5MzQw"
+        },
+        "intro": null
+    }
 }

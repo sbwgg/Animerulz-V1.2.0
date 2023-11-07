@@ -1,13 +1,29 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=momo-e-no-tegami-episode-",
-        "down_links": [
-            "NDA1OTk="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/4632d2d7a7c937e54d7153e68c275467862c37bfd687d822ea81a57796e9c5da7a2aea6a8ff76a9f232ce783638459bfae67db45cb00da1ecab678d77551268c3027ecebd0ccc5170fae75157df9988619b4b802c1ec539b5ff683df8b33727560304bbdbfd9d96cb1da82e905f1785fdffba94449c5be6eb623e436a9af2b2c/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/79/a4/79a4038a34d07633cdd3dec33900b593/eng-3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www010.vipanicdn.net/streamhls/d4afa7697c7b25057d296922347d5226/ep.1.1677658978.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=momo-e-no-tegami-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=momo-e-no-tegami-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA1OTk="
+        },
+        "intro": null
+    }
 }

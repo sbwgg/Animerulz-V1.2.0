@@ -1,89 +1,818 @@
 {
-    "jap": {
-        "no_epi": "24",
-        "link": "https://player.ryuk.to?id=vinland-saga-episode-",
-        "down_links": [
-            "MTI0MDc0",
-            "MTI0MDgw",
-            "MTI0MDgx",
-            "MTI1Mjgx",
-            "MTI1NjA3",
-            "MTI2MTI1",
-            "MTI2NTQz",
-            "MTI3MjA0",
-            "MTI3ODMz",
-            "MTI4Nzkx",
-            "MTI5NjEz",
-            "MTMwMTAx",
-            "MTMwNzY5",
-            "MTMxNTAz",
-            "MTMyMDQ5",
-            "MTMyNTAz",
-            "MTMyOTYy",
-            "MTMzOTM3",
-            "MTM0MjQz",
-            "MTM0NDUz",
-            "MTM0Njc0",
-            "MTM0ODI3",
-            "MTM1MDI2",
-            "MTM1Mjc0"
-        ]
+    "1": {
+        "title": "Somewhere Not Here",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/f46bd69062d78da7d9a39b82dca11845d6540a4f75b1439cd6ef4431ae0daef98d13a2392db221f6b0e20f901ab825af14265585d6829d49b8cadde8aecc9b0cea0815a86054d6724f5e4ec907089ae1ab484858188f0118b250c495571dc15afb70382bc1fb7938f549df2c6f89aad03521e69343be0120687d91db83e5a96b/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/ea/4c/ea4cdfd734c6686f7afaeca8c4b7aeb2/ara-5.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www025.vipanicdn.net/streamhls/bd52b5c15fa9c73a749e06d4130e0b4c/ep.1.1677643160.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www022.vipanicdn.net/streamhls/eccf06d896a9d5dd4cb9deb9a0e5ed37/ep.1.1677613300.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTI0MDc0",
+            "DUBBED": "MTY2MzQx"
+        },
+        "intro": {
+            "start": 246,
+            "end": 350
+        }
     },
-    "eng": {
-        "no_epi": "24",
-        "link": "https://player.ryuk.to?id=vinland-saga-dub-episode-",
-        "down_links": [
-            "MTY2MzQx",
-            "MTY2MzQy",
-            "MTY2MzQz",
-            "MTY2MzQ0",
-            "MTY2MzQ1",
-            "MTY2MzQ2",
-            "MTY2MzU2",
-            "MTY2MzU3",
-            "MTY2MzU4",
-            "MTY2MzU5",
-            "MTY2MzYw",
-            "MTY2MzYx",
-            "MTY2MzYy",
-            "MTY2MzYz",
-            "MTY2MzY0",
-            "MTY2MzY1",
-            "MTY2MzY2",
-            "MTY2MzY3",
-            "MTY2MzY4",
-            "MTY2MzY5",
-            "MTY2Mzcw",
-            "MTY2Mzcx",
-            "MTY2Mzcy",
-            "MTY2Mzcz"
-        ]
+    "2": {
+        "title": "Sword",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/4b5ab6c7c432991e6cff86e41add01863cd4513715d57fb85184aa7ac3085e236129999b69f114534c066d1f32f247d8c76de874929e54a230f5f137431b23cdd1ba8084e33a68133b3887c45ba8d8bfb9e9a64d6b0cf807acb48c3105751bd583bad2af33e09b7be8ce7b63fecbe3207fb53aa5c0aa95b2b9e09726aa1ae453/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/13/bf/13bf79515b99770591c58581123c2afd/ara-5.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www001.vipanicdn.net/streamhls/bd52b5c15fa9c73a749e06d4130e0b4c/ep.2.1677591549.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-episode-2"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www033.vipanicdn.net/streamhls/eccf06d896a9d5dd4cb9deb9a0e5ed37/ep.2.1677827223.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-dub-episode-2"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTI0MDgw",
+            "DUBBED": "MTY2MzQy"
+        },
+        "intro": {
+            "start": 0,
+            "end": 109
+        }
     },
-    "episodes_names": [
-        "Somewhere Not Here",
-        "Sword",
-        "Troll",
-        "A True Warrior",
-        "The Troll's Son",
-        "The Journey Begins",
-        "Normanni",
-        "Beyond the Edge of the Sea",
-        "The Battle of London Bridge",
-        "Ragnarok",
-        "A Gamble",
-        "The Land on the Far Bank",
-        "Child of a Hero",
-        "The Light of Dawn",
-        "After Yule",
-        "History of Beasts",
-        "Servant",
-        "Out of the Cradle",
-        "United Front",
-        "Crown",
-        "Reunion",
-        "Lone Wolf",
-        "Miscalculation",
-        "End of the Prologue"
-    ],
-    "fillers": []
+    "3": {
+        "title": "Troll",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/52c55d6cc1a7e13c36f38e13b4355d525cc1eeb43bd51b0c4004f272bdce34c34cba16c6b8bdecb7a67bb84301d95d6d383c351440b8681e399e45aaaec48b9ba3d878ecdce19ca7c53aa7949eacf90a1ac432037c8b803e6222b4e163eabf1ef8453bb2e53730136535f4ac2994fbbe639d391fc6a5d01d633303ab7b26102d/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/6f/70/6f708c8ac2f579ffc78683fce1cd4eeb/ara-5.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www002.vipanicdn.net/streamhls/bd52b5c15fa9c73a749e06d4130e0b4c/ep.3.1677593490.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-episode-3"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www034.vipanicdn.net/streamhls/eccf06d896a9d5dd4cb9deb9a0e5ed37/ep.3.1677826634.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-dub-episode-3"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTI0MDgx",
+            "DUBBED": "MTY2MzQz"
+        },
+        "intro": {
+            "start": 219,
+            "end": 310
+        }
+    },
+    "4": {
+        "title": "A True Warrior",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eb.netmagcdn.com:2228/hls-playback/d6292f664037b39c3ee57923dfc68b44f2dc5fcba3782f591dd1e5fc306de40ca990e596ab974c49abd0d60fc653b1f51e1be0c9eec4f84b656ac3c3c40a9cfbe74ed624face81b3d9b4a6a630dc1985522fd785f82e827fd7ef377dae5f40933835d31f9a25023f40b783f6d4ece9a29ca8fa457dfe881398eb7e6207922d2f326e56342ac9ed8914ae84b6a9612bdf/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/14/f2/14f296ba9758f0ac9bf657ddeb80b32a/ara-5.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www002.vipanicdn.net/streamhls/bd52b5c15fa9c73a749e06d4130e0b4c/ep.4.1677593592.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-episode-4"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www035.vipanicdn.net/streamhls/eccf06d896a9d5dd4cb9deb9a0e5ed37/ep.4.1677830240.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-dub-episode-4"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTI1Mjgx",
+            "DUBBED": "MTY2MzQ0"
+        },
+        "intro": {
+            "start": 269,
+            "end": 358
+        }
+    },
+    "5": {
+        "title": "The Troll's Son",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/910c9d8f5275b080331039c9ed051326dc3b6da5a5f7e3ae87f057da3399acd5c21a8bffb515f84a0a1ba7b4897b8ec4cedd9ea0fe6e007d02f52114170e50143968b137e8ba278d7b75d2571733daa8a2ce0ae518f6873f40ecc7d43f724ca131a2e5c27696f0b537c23727bd971f5fb1ba5d0d5c3fadc40808b68544e70076/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/7a/35/7a35f6961b17b3b0715a878cb1556348/ara-5.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www028.vipanicdn.net/streamhls/bd52b5c15fa9c73a749e06d4130e0b4c/ep.5.1677648681.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-episode-5"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www036.vipanicdn.net/streamhls/eccf06d896a9d5dd4cb9deb9a0e5ed37/ep.5.1677831802.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-dub-episode-5"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTI1NjA3",
+            "DUBBED": "MTY2MzQ1"
+        },
+        "intro": {
+            "start": 0,
+            "end": 109
+        }
+    },
+    "6": {
+        "title": "The Journey Begins",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/537b3b53bdb26be46e67a190e19f2143786839016141b350d0176b882a8f859fff6616b9d8ec445bc333da8ad15ffc13bd9f522115c9221b80583ab80a1c7a2d32d6cee444cd8a1d631390d678dc152ae95b899c54b30149960f889817ad183b7436691b3b1cba80dd032b9d041de5e66da10702e7b3257e2944f00e43e5682b/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/e7/f9/e7f90e5ee60d6eebc440ffc2e56279e8/ara-5.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www006.vipanicdn.net/streamhls/bd52b5c15fa9c73a749e06d4130e0b4c/ep.6.1677593815.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-episode-6"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www047.vipanicdn.net/streamhls/eccf06d896a9d5dd4cb9deb9a0e5ed37/ep.6.1696409701.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-dub-episode-6"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTI2MTI1",
+            "DUBBED": "MTY2MzQ2"
+        },
+        "intro": {
+            "start": 124,
+            "end": 214
+        }
+    },
+    "7": {
+        "title": "Normanni",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/ea2c3917fc9ea325f96bee8a95ccde056fd86d3256a573c84164e92869ea5b092b626e33eddf4c6994d7f9da0242a8d47bb9bb212e17259ba1d04813cce339b6784ea7da60028d8b2dc6c75e32690ab3ca6f9e3224dd8e1d5b663e1b82cb8d576c54467eeca69bae472cb810285da8e97572339e2aec97637aff799168bfd572/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/35/27/3527d1a77e629c85c8a060e860e429c5/ara-5.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www004.vipanicdn.net/streamhls/bd52b5c15fa9c73a749e06d4130e0b4c/ep.7.1677594337.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-episode-7"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www007.vipanicdn.net/streamhls/eccf06d896a9d5dd4cb9deb9a0e5ed37/ep.7.1677598938.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-dub-episode-7"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTI2NTQz",
+            "DUBBED": "MTY2MzU2"
+        },
+        "intro": {
+            "start": 281,
+            "end": 372
+        }
+    },
+    "8": {
+        "title": "Beyond the Edge of the Sea",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/2e0911052ca695c535abbe05e5276d756918fd77e63b8817e6dec90079f4bbf11660dcf0f89158acab4d5d1a4c8b983c5b8795ba8eeb2f070d8339b11066601e9a59a0e6a5fc1902cbb52151b809eb9493361d187a8290e2d703dacee72946cf5f8a6421b6023ed11236b7fab8b7c83d7ce3dbdb6ac40e16260d57611b19613e/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/d1/73/d173668a6d7127facf49abc48abaca71/ara-5.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www005.vipanicdn.net/streamhls/bd52b5c15fa9c73a749e06d4130e0b4c/ep.8.1677596320.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-episode-8"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www008.vipanicdn.net/streamhls/eccf06d896a9d5dd4cb9deb9a0e5ed37/ep.8.1677598179.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-dub-episode-8"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTI3MjA0",
+            "DUBBED": "MTY2MzU3"
+        },
+        "intro": {
+            "start": 91,
+            "end": 182
+        }
+    },
+    "9": {
+        "title": "The Battle of London Bridge",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://ed.netmagcdn.com:2228/hls-playback/417b2c4d4847727dbd5efaa91afdd0f984785e4013fa7d0d29bc3ae78c95e530a5f891e15681d56edb429683d32bb1ca2775c32c1b742a804df6cb4115baf782bbc03fc6b5097545e662ff4b522e8237efde8feaf28f63667c76d79c0e489d88852fcd08b031c46d25c45d922577cb0aa48807858b442bb5cc7ef28624d43dda5c621bd09ef7316a0e81387fcdde14eb/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/24/f6/24f63706971ced7314424782d33ea2bf/ara-5.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www004.vipanicdn.net/streamhls/bd52b5c15fa9c73a749e06d4130e0b4c/ep.9.1677594212.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-episode-9"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www009.vipanicdn.net/streamhls/eccf06d896a9d5dd4cb9deb9a0e5ed37/ep.9.1677598259.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-dub-episode-9"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTI3ODMz",
+            "DUBBED": "MTY2MzU4"
+        },
+        "intro": {
+            "start": 218,
+            "end": 307
+        }
+    },
+    "10": {
+        "title": "Ragnarok",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/5c17c7e9821ecc46f4eacb0ad5a3bc7702a0978c88cb61b81c30ff660ac34500b6704ede3d505ea793404edc7e77e213c469792d0c76a158ed250b6b188f008939c553003acfd245492a20210126e2cce35e79fe78a899c800dbe275a7b216cfc5f949df78fb7fc2962ffc6b27c469cf14d6d669f75255a4fc8fe1d1c5cc16da/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/cd/91/cd91094df4ff6a90ef66b0ff46b3b7ff/ara-5.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www002.vipanicdn.net/streamhls/bd52b5c15fa9c73a749e06d4130e0b4c/ep.10.1677593346.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-episode-10"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www010.vipanicdn.net/streamhls/eccf06d896a9d5dd4cb9deb9a0e5ed37/ep.10.1677598652.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-dub-episode-10"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTI4Nzkx",
+            "DUBBED": "MTY2MzU5"
+        },
+        "intro": {
+            "start": 220,
+            "end": 311
+        }
+    },
+    "11": {
+        "title": "A Gamble",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eb.netmagcdn.com:2228/hls-playback/6b40d02c9e626143b88213edefbf9278e77a3c587ed373d67c92e74020d1b97a0ffe9f640c3bd88a47761e4e023ef5012e8b2b136e81b51c910b660017c6468500ba04064c8c997e27f4921f0cb5f47eaef24823cbf19f7550cf164dc2b5465e3c920717b7e5e4f1b2a78ee8519a78d0821f86395755cc348a27442b20f230b44f3825bad3f0d12e2ea7579426881cca/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/49/2e/492eb4a7b153d81f040cf30d8dc18fd9/ara-5.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www014.vipanicdn.net/streamhls/bd52b5c15fa9c73a749e06d4130e0b4c/ep.11.1677612783.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-episode-11"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www031.vipanicdn.net/streamhls/eccf06d896a9d5dd4cb9deb9a0e5ed37/ep.11.1677831029.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-dub-episode-11"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTI5NjEz",
+            "DUBBED": "MTY2MzYw"
+        },
+        "intro": {
+            "start": 0,
+            "end": 109
+        }
+    },
+    "12": {
+        "title": "The Land on the Far Bank",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://ed.netmagcdn.com:2228/hls-playback/469c6d8157661c3d4ffab476dd9482f307013752e64d0918dec1dabcad1d14f406ba9ab7764fa263b149dc1d784cb797065b33915e841fc855bcb7d0470cf10d5e7a8138496738f6a576f3aad00f286f1a1d86223ae87b75bfc16f6ec0f0af4e67ede35270f5a9ebc6f61d5b845cf42edcd1dd638a4648c8614b58ae4323e25926ee9c737b0cb04fb5b5ebb4361e8b02/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/df/70/df70c02f44fb02ade7acc881027546f8/ara-5.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www022.vipanicdn.net/streamhls/bd52b5c15fa9c73a749e06d4130e0b4c/ep.12.1677612351.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-episode-12"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www012.vipanicdn.net/streamhls/eccf06d896a9d5dd4cb9deb9a0e5ed37/ep.12.1677614515.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-dub-episode-12"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTMwMTAx",
+            "DUBBED": "MTY2MzYx"
+        },
+        "intro": {
+            "start": 0,
+            "end": 109
+        }
+    },
+    "13": {
+        "title": "Child of a Hero",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/06e812ba80d1837af392784c173bd6b8fb4128888699a5bc76ef2983999c09553083c74a10de952658aa92679da44742fff94f05a6e375822fe1fbf7824aff350fb8a4b87d6eb1cc0f03c6ecd1fb16b180d94821c7c6459b6e6a7f65af1e24f31e6bd8e72a7570338d49dfd809356750f7878118c1019cb9e8fe6f96b89ba8ff/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/55/1f/551fc5bf95b3e6d865452c6dd939e55e/ara-5.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www030.vipanicdn.net/streamhls/bd52b5c15fa9c73a749e06d4130e0b4c/ep.13.1677693870.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-episode-13"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www033.vipanicdn.net/streamhls/eccf06d896a9d5dd4cb9deb9a0e5ed37/ep.13.1677827213.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-dub-episode-13"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTMwNzY5",
+            "DUBBED": "MTY2MzYy"
+        },
+        "intro": {
+            "start": 57,
+            "end": 147
+        }
+    },
+    "14": {
+        "title": "The Light of Dawn",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/981c8e1432b2028cb3a91a373e3b90e19f9e75b660a43c5169f0f2e4e7a87b7e6819216cb6f83cad3690a74855cf5a6ce5b629b3f4990fb0f5cdf483519b1fc788c1ec9e5bb9f73a72779d8703b56d3ed514740ef9d889cf54d2e063c5b227c686fc7ac26b5c965a019f576d2eaa52f68dca8ff75c2b2ee83d380196d238a04e/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/bd/89/bd89f66b971726ae2fc27083cca719d9/ara-5.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www014.vipanicdn.net/streamhls/bd52b5c15fa9c73a749e06d4130e0b4c/ep.14.1677612951.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-episode-14"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www014.vipanicdn.net/streamhls/eccf06d896a9d5dd4cb9deb9a0e5ed37/ep.14.1677617927.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-dub-episode-14"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTMxNTAz",
+            "DUBBED": "MTY2MzYz"
+        },
+        "intro": {
+            "start": 114,
+            "end": 205
+        }
+    },
+    "15": {
+        "title": "After Yule",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/3ea416d5a314eb42000dcc99cb0ef3dbf2dbec727ac19b35968a9fdee199268bbd5dddc1576c51b7944ebf2bf92cc1bcac490f337d1fb6c1c28b0388b13fc95b0d1f62cb720edff3ed8d7fcc41ce32caf735301adfa1d899779557dd35845b8b0791d7e6e939ece9a6ca8ac25adcf9ac5bbaa5300784b4afb4d868acd644ca23/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/be/1d/be1d87fe33f930ba2597f7d985a2c334/ara-5.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www020.vipanicdn.net/streamhls/bd52b5c15fa9c73a749e06d4130e0b4c/ep.15.1677696095.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-episode-15"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www015.vipanicdn.net/streamhls/eccf06d896a9d5dd4cb9deb9a0e5ed37/ep.15.1677619092.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-dub-episode-15"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTMyMDQ5",
+            "DUBBED": "MTY2MzY0"
+        },
+        "intro": {
+            "start": 99,
+            "end": 189
+        }
+    },
+    "16": {
+        "title": "History of Beasts",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/b7896877edba8de0333306caae797e3e08f69a460263db89c488d9670fa9ed0d85f9366e5da6b9a4d28747c611b7e5d49ed5f1954d0168942ee3c7d7ad8154e08a9e2a82efdc74befc0a02b4a87e4d4a43401ff37e0a633f86b9d6755e2a5e8e0238133cdb6dee920323c8bcb5a0f861de8d55ded3618883502808a70f8ca9e7/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/a2/0f/a20f57ee1c4b817c41794d98d0ab33a3/ara-5.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www024.vipanicdn.net/streamhls/bd52b5c15fa9c73a749e06d4130e0b4c/ep.16.1677648748.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-episode-16"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www036.vipanicdn.net/streamhls/eccf06d896a9d5dd4cb9deb9a0e5ed37/ep.16.1677831786.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-dub-episode-16"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTMyNTAz",
+            "DUBBED": "MTY2MzY1"
+        },
+        "intro": {
+            "start": 106,
+            "end": 196
+        }
+    },
+    "17": {
+        "title": "Servant",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/c84ee0eddfed8bff2c0153bc89b96376b6468fba0ec8795b730b09dd80b833324ebbcaeba84a61faf4bd9989ea9437f9aefaccb6f581a8ee477bfc8cbb1b6a9bd1fc0df992b13baeb700b6f30d265c01f588a2fe5788caba3066ce6500247a790960392a2aa0e1369474797b9d9105d47ff56a0d0729307cbb281e3e57dbd344/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/f2/d8/f2d8754cc243efe43a759384917580e2/ara-5.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www003.vipanicdn.net/streamhls/bd52b5c15fa9c73a749e06d4130e0b4c/ep.17.1677594036.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-episode-17"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www047.vipanicdn.net/streamhls/eccf06d896a9d5dd4cb9deb9a0e5ed37/ep.17.1696409687.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-dub-episode-17"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTMyOTYy",
+            "DUBBED": "MTY2MzY2"
+        },
+        "intro": {
+            "start": 114,
+            "end": 205
+        }
+    },
+    "18": {
+        "title": "Out of the Cradle",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/6531aa6fdc21f0af57d242a19a424e263e7c46baf85246b0ae33c811b3b01dd3ed4b6914d0914728bb85e954b77094397760325c8d82825702ce572636e4049e57c43d5bb133bac4c1deb0223d3f75aa29101095c12003993168f4b2ee108514ba6172c269e6aff6295141285ac679c8919a57315491a882a6ba4fcd73227385/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/44/79/4479ef7ecb58fb245a9fd3b329a7d676/ara-5.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www018.vipanicdn.net/streamhls/bd52b5c15fa9c73a749e06d4130e0b4c/ep.18.1677611620.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-episode-18"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www018.vipanicdn.net/streamhls/eccf06d896a9d5dd4cb9deb9a0e5ed37/ep.18.1677615993.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-dub-episode-18"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTMzOTM3",
+            "DUBBED": "MTY2MzY3"
+        },
+        "intro": {
+            "start": 172,
+            "end": 263
+        }
+    },
+    "19": {
+        "title": "United Front",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/8fe580a2f0f48fcb0fd6dac1b70086afbfda74823b22b0b2837bd016f05665fd3d0f88f801cb3d592eebf5839f456459a5245886cc4760dcad27b8411658086fb31c0aa609cbf6d70bb8f807c6520819ad6518c4467522fffd8bf956de6ad03b187c59d6f42fe66dacb72c0d499019a07849cc437f42ecf40fb61fedfcfcde84/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/23/d1/23d186a6f5a5939928315040084779d2/ara-5.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www024.vipanicdn.net/streamhls/bd52b5c15fa9c73a749e06d4130e0b4c/ep.19.1677649076.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-episode-19"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www039.vipanicdn.net/streamhls/eccf06d896a9d5dd4cb9deb9a0e5ed37/ep.19.1677829511.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-dub-episode-19"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTM0MjQz",
+            "DUBBED": "MTY2MzY4"
+        },
+        "intro": {
+            "start": 108,
+            "end": 198
+        }
+    },
+    "20": {
+        "title": "Crown",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/571069c168d9e5439fa856a4aad358d1bc8763b76658ee202ba5b48249a10975778523b9e8d3f50dd9209feed34274a0e98f6c2a3927a15dfaf4de5041bd16acfd254201cd5039aa471956ffff8e5e0f8b2d764f532c5757ea17fac8be1021ac5f9f23a11e39c914727b7828a645505a4cec95849ca0f19789771ff9750f0622/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/04/7e/047ea73d8f52d320fdfa5e09dd276876/ara-5.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www024.vipanicdn.net/streamhls/bd52b5c15fa9c73a749e06d4130e0b4c/ep.20.1677648948.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-episode-20"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www040.vipanicdn.net/streamhls/eccf06d896a9d5dd4cb9deb9a0e5ed37/ep.20.1677833788.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-dub-episode-20"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTM0NDUz",
+            "DUBBED": "MTY2MzY5"
+        },
+        "intro": {
+            "start": 134,
+            "end": 225
+        }
+    },
+    "21": {
+        "title": "Reunion",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/8b64327396373f926dbfa5a9cefb959d607bd84205b15da486855ef1556634866b6b0e2f5f7fad711b0f4ad015fe7bdf903596a185f5d0683f7c2237c4d74fa1789a193eff28485b4bda66e6dd528912ea53d6c89d0754c3d000ab175f72080934d9040593e2e0fdf6f274eb86ad604b44673528f150d33ef2407a09efb18db9/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/44/ae/44aee6f8c2bd535e100f314bb5a991a7/ara-5.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www005.vipanicdn.net/streamhls/bd52b5c15fa9c73a749e06d4130e0b4c/ep.21.1677598921.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-episode-21"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www041.vipanicdn.net/streamhls/eccf06d896a9d5dd4cb9deb9a0e5ed37/ep.21.1677852235.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-dub-episode-21"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTM0Njc0",
+            "DUBBED": "MTY2Mzcw"
+        },
+        "intro": {
+            "start": 0,
+            "end": 90
+        }
+    },
+    "22": {
+        "title": "Lone Wolf",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/e7c32125a3f2173066c735572376bf420e794c414d027e283533897e4f3af2e2cbb4f9b902c44dbffc2c8f71551cfae06ef3c826587467063196064975f60d61592185c1c551629a3bee29a3cd0195ebcef70616d1df958b54bbc623b2359ab2071fe1ba0a52a5ff8cffd82ca9591b6bc43fb080f978a5d5c178c615516c777d/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/fc/2a/fc2a66b9f55ed0effa010ff024ab60f6/ara-5.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www008.vipanicdn.net/streamhls/bd52b5c15fa9c73a749e06d4130e0b4c/ep.22.1677595136.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-episode-22"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www022.vipanicdn.net/streamhls/eccf06d896a9d5dd4cb9deb9a0e5ed37/ep.22.1677617839.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-dub-episode-22"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTM0ODI3",
+            "DUBBED": "MTY2Mzcx"
+        },
+        "intro": {
+            "start": 137,
+            "end": 228
+        }
+    },
+    "23": {
+        "title": "Miscalculation",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://ea.netmagcdn.com:2228/hls-playback/db6a831911b34b3d5fae673947e9ec95f96308e38cb99a0f95067fdf52487a2b303e1decb4372dfb1143d672df156e6c5e2cbd8a6db62f079b0006b8bcaf78fe5a3464b84435fb63666c81c6acbfedc8d2c4d50873ab4e5ade50e429b6f4590c4865b51aaca12c1a567653a420802867e565c45ebf79c81f452c1283caa5423d4423b0f455ee00231f49f967144eafd1/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/8f/e1/8fe15325ee34544e2d2c1314c9c4310f/ara-5.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www027.vipanicdn.net/streamhls/bd52b5c15fa9c73a749e06d4130e0b4c/ep.23.1677795515.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-episode-23"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www043.vipanicdn.net/streamhls/eccf06d896a9d5dd4cb9deb9a0e5ed37/ep.23.1677850026.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-dub-episode-23"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTM1MDI2",
+            "DUBBED": "MTY2Mzcy"
+        },
+        "intro": {
+            "start": 0,
+            "end": 109
+        }
+    },
+    "24": {
+        "title": "End of the Prologue",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/0869a1fbe280a410d841f84af3b56e8f27a6b09ba151731559ce21be0aece48819913c89775b37d924f88e4994fef2a70ef191be03ee059de82e50487799184d96f1309899b335115b531104c4c4d05f060af89456621064293be81c9202612a96e4a33b6e1a7825bf92f88aa4d187435e2896b309b91c579e58add11016c473/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/4b/5d/4b5da6edbd49f4ebd442bab360b1381b/ara-5.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www005.vipanicdn.net/streamhls/bd52b5c15fa9c73a749e06d4130e0b4c/ep.24.1677597285.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-episode-24"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www044.vipanicdn.net/streamhls/eccf06d896a9d5dd4cb9deb9a0e5ed37/ep.24.1677853778.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=vinland-saga-dub-episode-24"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTM1Mjc0",
+            "DUBBED": "MTY2Mzcz"
+        },
+        "intro": {
+            "start": 92,
+            "end": 183
+        }
+    }
 }

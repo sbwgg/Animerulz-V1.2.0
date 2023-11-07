@@ -1,22 +1,28 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=one-piece-film-z-episode-",
-        "down_links": [
-            "NDA1NjE="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=one-piece-film-z-dub-episode-",
-        "down_links": [
-            "MTQ4MDk5"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": [
-        1
-    ]
+    "1": {
+        "title": "Full",
+        "isFiller": true,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www002.vipanicdn.net/streamhls/988d419d8f1f613c40d90fedd8f373aa/ep.1.1677593428.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=one-piece-film-z-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www020.vipanicdn.net/streamhls/4e00d5fc518af1c049002566dbbd4488/ep.1.1677704394.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=one-piece-film-z-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA1NjE=",
+            "DUBBED": "MTQ4MDk5"
+        }
+    }
 }

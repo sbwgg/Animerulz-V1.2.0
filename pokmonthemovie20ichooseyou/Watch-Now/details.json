@@ -1,13 +1,29 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=pokemon-movie-20-kimi-ni-kimeta-episode-",
-        "down_links": [
-            "MTA1MjU0"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/b36d7428b20bfcac9aefc11186973057ee228f63820c5e6997531113642ce5ef56f2cc4f0b183fba08ea0a606527a56313a9060d89d6171dead7078792bde1088e17ca3b61a9ca073cddbe91eb24dea9a73dfb45c2a73799a400276bafbf0fcf194a871719f738b5c5a087a34527391e83ea2676ea518627a8b9551f8f55e3ab/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/2c/5a/2c5a39c5488cafd2695848295ea42191/cze-16.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www015.vipanicdn.net/streamhls/84bfdc05b01b870ea2431a137f8d8c4f/ep.1.1677630927.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=pokemon-movie-20-kimi-ni-kimeta-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=pokemon-movie-20-kimi-ni-kimeta-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTA1MjU0"
+        },
+        "intro": null
+    }
 }

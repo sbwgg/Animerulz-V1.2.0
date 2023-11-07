@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=human-lost-ningen-shikkaku-episode-",
-        "down_links": [
-            "MTQ0NzIz"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=human-lost-ningen-shikkaku-dub-episode-",
-        "down_links": [
-            "MTQ0NzI1"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/a0d27cab6a5427cf7e9433cd89f183843515690d219b895f412e5469aa266b1ccb441e485bcc82f563f1971c39b9e40eb12a841c511319457dfd3b30ae255d1becd5f420a201638c6c901fd530d3861e551f1431972176b23cb10d5d5ed121d655d020b7b6c70d5d0c817d392e85545c2197f1173c4e8ebefcc6a743fd391903/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/38/18/38189ce24427f8db7bbf1ba18c1ffe30/38189ce24427f8db7bbf1ba18c1ffe30.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www004.vipanicdn.net/streamhls/eabe0825e610fb8bfbdebb3d9350ae35/ep.1.1677712225.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=human-lost-ningen-shikkaku-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www036.vipanicdn.net/streamhls/8c1985bd23cce3d51db18a3ea98ac3c5/ep.1.1677839522.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=human-lost-ningen-shikkaku-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTQ0NzIz",
+            "DUBBED": "MTQ0NzI1"
+        },
+        "intro": null
+    }
 }

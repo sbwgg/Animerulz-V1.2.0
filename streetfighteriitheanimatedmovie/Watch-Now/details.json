@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=street-fighter-ii-the-movie-episode-",
-        "down_links": [
-            "NDA4NTM="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=street-fighter-ii-the-movie-dub-episode-",
-        "down_links": [
-            "OTA2MjI="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/db9284f5cdcbf777d8250efb1330e96956621f7b197504bb3e991b95a02ea5e73dc2ebe06003458a00741afe58aa02a31114d3c4696ff111f9a6947be164eae0b55c5f3cdfb004c8ea1b4b75d096b750ce804e10093d96e28db28dfdcb4ca224af8f04eb89b65f9747f94c548e126b897f516bf391cccab8faf976d497444c91/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/e6/5d/e65d98f3177ba106704e7d4e2a3aea08/e65d98f3177ba106704e7d4e2a3aea08.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www024.vipanicdn.net/streamhls/a195fd9a22c9d58a24dd947b22b4784e/ep.1.1677663667.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=street-fighter-ii-the-movie-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www023.vipanicdn.net/streamhls/4b67739dce15cdec727223b32075084d/ep.1.1677724634.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=street-fighter-ii-the-movie-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NDA4NTM=",
+            "DUBBED": "OTA2MjI="
+        },
+        "intro": null
+    }
 }

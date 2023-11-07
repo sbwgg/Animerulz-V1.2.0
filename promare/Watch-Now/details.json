@@ -1,20 +1,33 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=promare-episode-",
-        "down_links": [
-            "MTM2MjE2"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=promare-dub-episode-",
-        "down_links": [
-            "MTM4OTk2"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/f2693198fef61bba07dc37c7c9b1f6da6eed01b94273ea2ab3ea3ea8a5407864486e197d04386e50fc03800f9d76e73c6bd31e61c152eb7b70b57ed9d65d482ec8680072ab909403d1d8ac03edd430c5131d94060bdba5625312abbe89a170cb87fd6530d899c66adc999a3d458660e06c0bbe4889c8f66569b243734bf2c871/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/f9/21/f921c67830967fcd2a2965a0487904db/f921c67830967fcd2a2965a0487904db.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www017.vipanicdn.net/streamhls/0d93bba65dffa9d6bba8540c62b38dbd/ep.1.1677699283.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=promare-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www007.vipanicdn.net/streamhls/888f6e67f9559c7abe2c512a187ad37b/ep.1.1677692175.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=promare-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTM2MjE2",
+            "DUBBED": "MTM4OTk2"
+        },
+        "intro": null
+    }
 }

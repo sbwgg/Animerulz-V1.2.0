@@ -1,20 +1,28 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=boku-no-hero-academia-the-movie-futari-no-hero-episode-",
-        "down_links": [
-            "MTEzMzQz"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=boku-no-hero-academia-the-movie-futari-no-hero-dub-episode-",
-        "down_links": [
-            "MTE1MzMz"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www004.vipanicdn.net/streamhls/4059d6ee4103a01cd944f5ea035caa2c/ep.1.1677593701.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=boku-no-hero-academia-the-movie-futari-no-hero-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www014.vipanicdn.net/streamhls/d800c9333ed4ed6a07936b4457d2c57a/ep.1.1677612170.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=boku-no-hero-academia-the-movie-futari-no-hero-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MTEzMzQz",
+            "DUBBED": "MTE1MzMz"
+        }
+    }
 }

@@ -1,20 +1,28 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=one-piece-adventure-of-nebulandia-episode-",
-        "down_links": [
-            "NzAyMjQ="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=one-piece-adventure-of-nebulandia-dub-episode-",
-        "down_links": [
-            "MjEwNjUz"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "title": "Full",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www045.vipanicdn.net/streamhls/bca1cc10f1862dc93d269c6680d44b92/ep.1.1692897793.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=one-piece-adventure-of-nebulandia-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www044.vipanicdn.net/streamhls/3c2e5a707cbd5fe22f445c0d80ecd9ef/ep.1.1692899449.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=one-piece-adventure-of-nebulandia-dub-episode-1"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "NzAyMjQ=",
+            "DUBBED": "MjEwNjUz"
+        }
+    }
 }
