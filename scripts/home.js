@@ -10,20 +10,9 @@ function setContinueWatchingContainer(){
         let counteR = 0;
         for(let i = continueWatchingData.length - 1; i >= 0; i --){
             let animeNameForHome = continueWatchingData[i].animeName;
-            let lastClickedButtonForHome = localStorage.getItem("lastClickedButton" + animeNameForHome.replace(/[^a-zA-Z0-9]/g, ""));
-            let lastClickedAudioButtonForHome = localStorage.getItem("lastClickedButtonAudio" + animeNameForHome.replace(/[^a-zA-Z0-9]/g, ""));
-            if (lastClickedAudioButtonForHome == null)
-               lastClickedAudioButtonForHome = "eng";
-            let animeEpisodeNumberForHome;
-            let listOfLastClickedButtonData;
-            if(lastClickedButtonForHome != null){
-               listOfLastClickedButtonData = lastClickedButtonForHome.split("-");
-               animeEpisodeNumberForHome = listOfLastClickedButtonData[listOfLastClickedButtonData.length - 1];
-            }
-            else
-               animeEpisodeNumberForHome = 1;
+            let animeEpisodeNumberForHome = localStorage.getItem(animeNameForHome.replace(/[^a-zA-Z0-9]/g, "").toLowerCase() + '-last-clicked-episode');
             tempData += `<div class="anime-continue-watching" onclick="rearrangeAnimes(${counteR + 1})">
-                  <a class="anchor-to-continue-watching" title="Continue Watching ${animeNameForHome}"  href="../${animeNameForHome.replace(/[^a-zA-Z0-9]/g, "").toLowerCase()}/Watch-Now/?ep=${animeEpisodeNumberForHome}&aud=${lastClickedAudioButtonForHome}">
+                  <a class="anchor-to-continue-watching" title="Continue Watching ${animeNameForHome}"  href="../${animeNameForHome.replace(/[^a-zA-Z0-9]/g, "").toLowerCase()}/Watch-Now/">
                      <div class="data_cont-watching__" style="background: url('${continueWatchingData[i].animeImage}') no-repeat center center;background-size: 100% auto;">
                         <div class="play-btn__">
                            <i class="fa-regular fa-circle-play"></i>
