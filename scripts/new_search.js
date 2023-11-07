@@ -259,11 +259,11 @@ function handleError(error) {
 
 }
 function show_search_box(){
+    let searchContainerDivision = document.getElementsByClassName("search-container")[0];
+    searchContainerDivision.style.display = "block"; 
     setTimeout(() => {
         document.getElementsByTagName("input")[0].focus();
-    }, 500);
-    let searchContainerDivision = document.getElementsByClassName("search-container")[0];
-    searchContainerDivision.style.display = "block";   
+    }, 500);  
 }
 function hideSearchBox(){
     let searchContainerDivision = document.getElementsByClassName("search-container")[0];
