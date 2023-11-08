@@ -1135,3 +1135,23 @@ html{
   z-index: 10;
   background-color: red;;
 }
+
+
+iframe.video-player{
+  height: 600px;
+}
+@media only screen and (max-width:1000px){
+  iframe.video-player{
+    height: 500px;
+  }
+}
+@media only screen and (max-width:800px){
+  iframe.video-player{
+    height: 400px;
+  }
+}
+@media only screen and (max-width:600px){
+  iframe.video-player{
+    height: 300px;
+  }
+}
