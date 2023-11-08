@@ -80,6 +80,24 @@ html{
   background-color: rgba(0, 0, 0, 0);
   min-height: 600px;
 }
+@media only screen and (max-width:1000px){
+  .video-player iframe{
+    background-color: rgba(0, 0, 0, 0);
+    min-height: 500px;
+  } 
+}
+@media only screen and (max-width:1000px){
+  .video-player iframe{
+    background-color: rgba(0, 0, 0, 0);
+    min-height: 400px;
+  } 
+}
+@media only screen and (max-width:1000px){
+  .video-player iframe{
+    background-color: rgba(0, 0, 0, 0);
+    min-height: 300px;
+  } 
+}
 .video-player{
   margin: 0;
   padding: 0;
