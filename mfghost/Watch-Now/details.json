@@ -1,24 +1,54 @@
 {
-    "jap": {
-        "no_epi": "3",
-        "link": "https://player.ryuk.to?id=mf-ghost-episode-",
-        "down_links": [
-            "MjEyNjU5",
-            "MjEzMDQw",
-            "MjEzNDU5"
-        ]
+    "1": {
+        "title": "The Challenger from England",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Awesome Stream": "https://player.ryuk.to?id=mf-ghost-episode-1"
+            },
+            "DUBBED": {
+                "Awesome Stream": "https://player.ryuk.to?id=mf-ghost-dub-episode-1"
+            }
+        },
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
+        "downloadLink": {
+            "SUBBED": "MjEyNjU5",
+            "DUBBED": "MjEzNDYy"
+        }
     },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=mf-ghost-dub-episode-",
-        "down_links": [
-            "MjEzNDYy"
-        ]
+    "2": {
+        "title": "The Shocking New MFG Generation",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Awesome Stream": "https://player.ryuk.to?id=mf-ghost-episode-2"
+            }
+        },
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
+        "downloadLink": {
+            "SUBBED": "MjEzMDQw"
+        }
     },
-    "episodes_names": [
-        "The Challenger from England",
-        "The Shocking New MFG Generation",
-        "Episode 3"
-    ],
-    "fillers": []
+    "3": {
+        "title": "Episode 3",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Awesome Stream": "https://player.ryuk.to?id=mf-ghost-episode-3"
+            }
+        },
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
+        "downloadLink": {
+            "SUBBED": "MjEzNDU5"
+        }
+    }
 }
