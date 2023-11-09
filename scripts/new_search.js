@@ -153,6 +153,10 @@ async function getDataFromAnilist(animeKey){
               month
               day
             }
+            nextAiringEpisode {
+                timeUntilAiring
+                episode
+            }
           }
         }
       }
@@ -205,6 +209,10 @@ function handleData(data) {
     else{
         let temp;
         for(let i = 0; i < animeCount; i ++){
+            let animePresentEpisodes;
+            if(requiredAnimeData[i].nextAiringEpisode){
+                animePresentEpisodes =  requiredAnimeData[i].nextAiringEpisode['episode'] - 1;
+            }else animePresentEpisodes = requiredAnimeData[i].episodes;
             temp = "";
             if(requiredAnimeData[i].title.english != null){
             try{
@@ -217,7 +225,7 @@ function handleData(data) {
                 <div class="bottom-data-search-res">
                     <div class="btm-div-1">
                         <div class="anime-info-search-data">
-                            <div class="anime-info-item-search">Episodes : ${requiredAnimeData[i].episodes}</div>
+                            <div class="anime-info-item-search">Episodes : ${animePresentEpisodes}</div>
                             <div class="anime-info-item-search">${requiredAnimeData[i].format}</div>
                             <div class="anime-info-item-search">Score : ${requiredAnimeData[i].averageScore}</div>
                             </div>
