@@ -1,24 +1,62 @@
 {
-    "jap": {
-        "no_epi": "3",
-        "link": "https://player.ryuk.to?id=shy-episode-",
-        "down_links": [
-            "MjEyNzQz",
-            "MjEzMDcx",
-            "MjEzNTAx"
-        ]
+    "1": {
+        "title": "Because it's shy",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=shy-episode-1"
+                }
+            },
+            "DUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=shy-dub-episode-1"
+                }
+            }
+        },
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
+        "downloadLink": {
+            "SUBBED": "MjEyNzQz",
+            "DUBBED": "MjEzNTA3"
+        }
     },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=shy-dub-episode-",
-        "down_links": [
-            "MjEzNTA3"
-        ]
+    "2": {
+        "title": "With All of My Heart",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=shy-episode-2"
+                }
+            }
+        },
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
+        "downloadLink": {
+            "SUBBED": "MjEzMDcx"
+        }
     },
-    "episodes_names": [
-        "Because it's shy",
-        "With All of My Heart",
-        "Conversation at the Dinner Table"
-    ],
-    "fillers": []
+    "3": {
+        "title": "Conversation at the Dinner Table",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=shy-episode-3"
+                }
+            }
+        },
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
+        "downloadLink": {
+            "SUBBED": "MjEzNTAx"
+        }
+    }
 }
