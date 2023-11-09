@@ -1,54 +1,24 @@
 {
-    "1": {
-        "title": "The Trading Company",
-        "isFiller": false,
-        "source": {
-            "SUBBED": {
-                "Awesome Stream": "https://player.ryuk.to?id=seijo-no-maryoku-wa-bannou-desu-2nd-season-episode-1"
-            },
-            "DUBBED": {
-                "Awesome Stream": "https://player.ryuk.to?id=seijo-no-maryoku-wa-bannou-desu-2nd-season-dub-episode-1"
-            }
-        },
-        "intro": {
-            "start": 0,
-            "end": 0
-        },
-        "downloadLink": {
-            "SUBBED": "MjEyNzky",
-            "DUBBED": "MjEzNTMx"
-        }
+    "jap": {
+        "no_epi": "3",
+        "link": "https://player.ryuk.to?id=seijo-no-maryoku-wa-bannou-desu-2nd-season-episode-",
+        "down_links": [
+            "MjEyNzky",
+            "MjEzMTEw",
+            "MjEzNTI2"
+        ]
     },
-    "2": {
-        "title": "A Foreign Country",
-        "isFiller": false,
-        "source": {
-            "SUBBED": {
-                "Awesome Stream": "https://player.ryuk.to?id=seijo-no-maryoku-wa-bannou-desu-2nd-season-episode-2"
-            }
-        },
-        "intro": {
-            "start": 0,
-            "end": 0
-        },
-        "downloadLink": {
-            "SUBBED": "MjEzMTEw"
-        }
+    "eng": {
+        "no_epi": "1",
+        "link": "https://player.ryuk.to?id=seijo-no-maryoku-wa-bannou-desu-2nd-season-dub-episode-",
+        "down_links": [
+            "MjEzNTMx"
+        ]
     },
-    "3": {
-        "title": "Episode 3",
-        "isFiller": false,
-        "source": {
-            "SUBBED": {
-                "Awesome Stream": "https://player.ryuk.to?id=seijo-no-maryoku-wa-bannou-desu-2nd-season-episode-3"
-            }
-        },
-        "intro": {
-            "start": 0,
-            "end": 0
-        },
-        "downloadLink": {
-            "SUBBED": "MjEzNTI2"
-        }
-    }
+    "episodes_names": [
+        "The Trading Company",
+        "A Foreign Country",
+        "Episode 3"
+    ],
+    "fillers": []
 }

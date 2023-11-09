@@ -1,50 +1,29 @@
 {
-    "1": {
-        "title": "Episode 1",
-        "isFiller": false,
-        "source": {
-            "SUBBED": {
-                "Awesome Stream": "https://player.ryuk.to?id=wu-nao-monu-episode-1"
-            }
-        },
-        "intro": {
-            "start": 0,
-            "end": 0
-        },
-        "downloadLink": {
-            "SUBBED": "MjA3NzI3"
-        }
+    "jap": {
+        "no_epi": "3",
+        "link": "https://player.ryuk.to?id=wu-nao-monu-episode-",
+        "down_links": [
+            "MjA3NzI3",
+            "MjA3NzI4",
+            "MjA4MDcy",
+            "MjA4NDU4",
+            "MjA4OTQ1",
+            "MjA5NDgw",
+            "MjA5ODIz",
+            "MjEwMTc3",
+            "MjEwNjQw",
+            "MjExMDE3",
+            "MjExNDI2",
+            "MjExOTI5",
+            "MjEyMjMx",
+            "MjEyNTYw",
+            "MjEyOTI3"
+        ]
     },
-    "2": {
-        "title": "Episode 2",
-        "isFiller": false,
-        "source": {
-            "SUBBED": {
-                "Awesome Stream": "https://player.ryuk.to?id=wu-nao-monu-episode-2"
-            }
-        },
-        "intro": {
-            "start": 0,
-            "end": 0
-        },
-        "downloadLink": {
-            "SUBBED": "MjA3NzI4"
-        }
-    },
-    "3": {
-        "title": "Episode 3",
-        "isFiller": false,
-        "source": {
-            "SUBBED": {
-                "Awesome Stream": "https://player.ryuk.to?id=wu-nao-monu-episode-3"
-            }
-        },
-        "intro": {
-            "start": 0,
-            "end": 0
-        },
-        "downloadLink": {
-            "SUBBED": "MjA4MDcy"
-        }
-    }
+    "episodes_names": [
+        "Episode 1",
+        "Episode 2",
+        "Episode 3"
+    ],
+    "fillers": []
 }

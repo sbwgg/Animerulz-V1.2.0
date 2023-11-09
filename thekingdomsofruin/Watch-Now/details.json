@@ -1,34 +1,16 @@
 {
-    "1": {
-        "title": "And So, Our Story Begins",
-        "isFiller": false,
-        "source": {
-            "SUBBED": {
-                "Awesome Stream": "https://player.ryuk.to?id=hametsu-no-oukoku-episode-1"
-            }
-        },
-        "intro": {
-            "start": 0,
-            "end": 0
-        },
-        "downloadLink": {
-            "SUBBED": "MjEyOTU3"
-        }
+    "jap": {
+        "no_epi": "2",
+        "link": "https://player.ryuk.to?id=hametsu-no-oukoku-episode-",
+        "down_links": [
+            "MjEyOTU3",
+            "MjEzMjcy",
+            "MjEzNjM0"
+        ]
     },
-    "2": {
-        "title": "Episode 2",
-        "isFiller": false,
-        "source": {
-            "SUBBED": {
-                "Awesome Stream": "https://player.ryuk.to?id=hametsu-no-oukoku-episode-2"
-            }
-        },
-        "intro": {
-            "start": 0,
-            "end": 0
-        },
-        "downloadLink": {
-            "SUBBED": "MjEzMjcy"
-        }
-    }
+    "episodes_names": [
+        "And So, Our Story Begins",
+        "Episode 2"
+    ],
+    "fillers": []
 }

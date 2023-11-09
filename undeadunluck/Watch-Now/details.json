@@ -1,34 +1,16 @@
 {
-    "1": {
-        "title": "Undead and Unluck",
-        "isFiller": false,
-        "source": {
-            "SUBBED": {
-                "Awesome Stream": "https://player.ryuk.to?id=undead-unluck-episode-1"
-            }
-        },
-        "intro": {
-            "start": 0,
-            "end": 0
-        },
-        "downloadLink": {
-            "SUBBED": "MjEyOTU5"
-        }
+    "jap": {
+        "no_epi": "2",
+        "link": "https://player.ryuk.to?id=undead-unluck-episode-",
+        "down_links": [
+            "MjEyOTU5",
+            "MjEzMjc1",
+            "MjEzNjM2"
+        ]
     },
-    "2": {
-        "title": "Union",
-        "isFiller": false,
-        "source": {
-            "SUBBED": {
-                "Awesome Stream": "https://player.ryuk.to?id=undead-unluck-episode-2"
-            }
-        },
-        "intro": {
-            "start": 0,
-            "end": 0
-        },
-        "downloadLink": {
-            "SUBBED": "MjEzMjc1"
-        }
-    }
+    "episodes_names": [
+        "Undead and Unluck",
+        "Union"
+    ],
+    "fillers": []
 }

@@ -1,62 +1,25 @@
 {
-    "1": {
-        "title": "Episode 1 - Witches Blow a New Pipe",
-        "isFiller": false,
-        "source": {
-            "SUBBED": {
-                "Awesome Stream": "https://player.ryuk.to?id=burn-the-witch-episode-1"
-            },
-            "DUBBED": {
-                "Awesome Stream": "https://player.ryuk.to?id=burn-the-witch-dub-episode-1"
-            }
-        },
-        "intro": {
-            "start": 0,
-            "end": 0
-        },
-        "downloadLink": {
-            "SUBBED": "MTQ2MDE5",
-            "DUBBED": "MTU0ODgy"
-        }
+    "jap": {
+        "no_epi": "3",
+        "link": "https://player.ryuk.to?id=burn-the-witch-episode-",
+        "down_links": [
+            "MTQ2MDE5",
+            "MTQ2MDIw",
+            "MTQ2MDIx"
+        ]
     },
-    "2": {
-        "title": "Episode 2 - Ghillie Suit / She Makes Me Special",
-        "isFiller": false,
-        "source": {
-            "SUBBED": {
-                "Awesome Stream": "https://player.ryuk.to?id=burn-the-witch-episode-2"
-            },
-            "DUBBED": {
-                "Awesome Stream": "https://player.ryuk.to?id=burn-the-witch-dub-episode-2"
-            }
-        },
-        "intro": {
-            "start": 0,
-            "end": 0
-        },
-        "downloadLink": {
-            "SUBBED": "MTQ2MDIw",
-            "DUBBED": "MTU0ODgz"
-        }
+    "eng": {
+        "no_epi": "3",
+        "link": "https://player.ryuk.to?id=burn-the-witch-dub-episode-",
+        "down_links": [
+            "MTU0ODgy",
+            "MTU0ODgz",
+            "MTU0ODg0"
+        ]
     },
-    "3": {
-        "title": "Episode 3 - If a lion could speak, we couldn't understand",
-        "isFiller": false,
-        "source": {
-            "SUBBED": {
-                "Awesome Stream": "https://player.ryuk.to?id=burn-the-witch-episode-3"
-            },
-            "DUBBED": {
-                "Awesome Stream": "https://player.ryuk.to?id=burn-the-witch-dub-episode-3"
-            }
-        },
-        "intro": {
-            "start": 0,
-            "end": 0
-        },
-        "downloadLink": {
-            "SUBBED": "MTQ2MDIx",
-            "DUBBED": "MTU0ODg0"
-        }
-    }
+    "episodes_names": [
+        "Episode 1 - Witches Blow a New Pipe",
+        "Episode 2 - Ghillie Suit / She Makes Me Special",
+        "Episode 3 - If a lion could speak, we couldn't understand"
+    ]
 }

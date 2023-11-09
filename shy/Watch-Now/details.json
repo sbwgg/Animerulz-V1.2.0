@@ -1,54 +1,24 @@
 {
-    "1": {
-        "title": "Because it's shy",
-        "isFiller": false,
-        "source": {
-            "SUBBED": {
-                "Awesome Stream": "https://player.ryuk.to?id=shy-episode-1"
-            },
-            "DUBBED": {
-                "Awesome Stream": "https://player.ryuk.to?id=shy-dub-episode-1"
-            }
-        },
-        "intro": {
-            "start": 0,
-            "end": 0
-        },
-        "downloadLink": {
-            "SUBBED": "MjEyNzQz",
-            "DUBBED": "MjEzNTA3"
-        }
+    "jap": {
+        "no_epi": "3",
+        "link": "https://player.ryuk.to?id=shy-episode-",
+        "down_links": [
+            "MjEyNzQz",
+            "MjEzMDcx",
+            "MjEzNTAx"
+        ]
     },
-    "2": {
-        "title": "With All of My Heart",
-        "isFiller": false,
-        "source": {
-            "SUBBED": {
-                "Awesome Stream": "https://player.ryuk.to?id=shy-episode-2"
-            }
-        },
-        "intro": {
-            "start": 0,
-            "end": 0
-        },
-        "downloadLink": {
-            "SUBBED": "MjEzMDcx"
-        }
+    "eng": {
+        "no_epi": "1",
+        "link": "https://player.ryuk.to?id=shy-dub-episode-",
+        "down_links": [
+            "MjEzNTA3"
+        ]
     },
-    "3": {
-        "title": "Conversation at the Dinner Table",
-        "isFiller": false,
-        "source": {
-            "SUBBED": {
-                "Awesome Stream": "https://player.ryuk.to?id=shy-episode-3"
-            }
-        },
-        "intro": {
-            "start": 0,
-            "end": 0
-        },
-        "downloadLink": {
-            "SUBBED": "MjEzNTAx"
-        }
-    }
+    "episodes_names": [
+        "Because it's shy",
+        "With All of My Heart",
+        "Conversation at the Dinner Table"
+    ],
+    "fillers": []
 }

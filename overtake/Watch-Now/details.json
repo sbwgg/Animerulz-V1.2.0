@@ -1,50 +1,17 @@
 {
-    "1": {
-        "title": "The Man Who Races",
-        "isFiller": false,
-        "source": {
-            "SUBBED": {
-                "Awesome Stream": "https://player.ryuk.to?id=overtake-episode-1"
-            }
-        },
-        "intro": {
-            "start": 0,
-            "end": 0
-        },
-        "downloadLink": {
-            "SUBBED": "MjEyNjgw"
-        }
+    "jap": {
+        "no_epi": "3",
+        "link": "https://player.ryuk.to?id=overtake-episode-",
+        "down_links": [
+            "MjEyNjgw",
+            "MjEzMDM3",
+            "MjEzNDU1"
+        ]
     },
-    "2": {
-        "title": "Enthusiasm and Spirit",
-        "isFiller": false,
-        "source": {
-            "SUBBED": {
-                "Awesome Stream": "https://player.ryuk.to?id=overtake-episode-2"
-            }
-        },
-        "intro": {
-            "start": 0,
-            "end": 0
-        },
-        "downloadLink": {
-            "SUBBED": "MjEzMDM3"
-        }
-    },
-    "3": {
-        "title": "How Many Kilometers to the Winner`s Podium?",
-        "isFiller": false,
-        "source": {
-            "SUBBED": {
-                "Awesome Stream": "https://player.ryuk.to?id=overtake-episode-3"
-            }
-        },
-        "intro": {
-            "start": 0,
-            "end": 0
-        },
-        "downloadLink": {
-            "SUBBED": "MjEzNDU1"
-        }
-    }
+    "episodes_names": [
+        "The Man Who Races",
+        "Enthusiasm and Spirit",
+        "How Many Kilometers to the Winner`s Podium?"
+    ],
+    "fillers": []
 }
