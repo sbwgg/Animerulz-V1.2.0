@@ -265,7 +265,6 @@ function setShortEpisodes(presentEpisode){
     let temp = "";
     let first = 1;
     let second = 2;
-    console.log(max);
     Object.keys(data).sort(function(a, b){ return a - b}).forEach(episode => {
         if(first == 1){
             first = 2;
@@ -807,11 +806,29 @@ function setHlsPlayer(source, intro, outro){
                 player.play();
             }
             
+            let volumeButton = document.querySelector(".plyr__controls__item.plyr__volume");
+            volumeButton.style.display = "none";
+
+            plyrControls = document.querySelector(".plyr__controls");
+            if(plyrControls.children.length <= 9){
+                let b = document.createElement("button");
+                b.setAttribute("class", 'plyr__control');
+                b.setAttribute("onclick", 'backwardTenSec()');
+                b.setAttribute("style", "font-size:13px !important;")
+                b.innerHTML = `<i class="fa-solid fa-backward-fast"></i><span>&nbsp;10</span>`;
+                plyrControls.insertBefore(b, volumeButton);
+                let a = document.createElement("button");
+                a.setAttribute("class", 'plyr__control');
+                a.setAttribute("style", "font-size:13px !important;")
+                a.setAttribute("onclick", 'forwardTenSec()');
+                a.innerHTML = `<span>10&nbsp;</span><i class="fa-solid fa-forward-fast"></i>`
+                plyrControls.insertBefore(a, volumeButton);
+            }
+
           })
           if(localStorage.getItem("autoSkipIntro") == 'true')
             video.addEventListener('timeupdate', setVideoEventListner);
         });
-        
         hls.attachMedia(video);
         window.hls = hls;
   
@@ -923,4 +940,13 @@ function enterVideoFullscreen(element) {
   }
   
 
-  
+function forwardTenSec(){
+    let video = document.querySelector("video");
+    video.currentTime += 10;
+}
+function backwardTenSec(){
+    let video = document.querySelector("video");
+    if(video.currentTime > 9)
+        video.currentTime -= 10;
+    else video.currentTime = 0;
+}
