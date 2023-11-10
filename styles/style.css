@@ -876,17 +876,20 @@ color: #faa300;
   animation: fadeIn 2s ease both;
   background-size: contain;
   animation-timeline: view();
-  animation-range: entry 25% cover 35%;
+  animation-range: entry 5% cover 30%;
 } 
 @keyframes fadeIn {
   0%{
     opacity: 0.3;
     /* width: 70%; */
     margin-inline: auto;
-    width: 85%;
+    width: 0%;
     transform: translateY(50px);
   }
   50%{
+    width: 95%;
+  }
+  100%{
     opacity: 1;
     width: 100%;
     margin-inline: auto;
