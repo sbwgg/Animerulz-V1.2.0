@@ -82,7 +82,7 @@ a{
   display: flex;
 }
 .r-container-pg{
-  width: calc(100% - 200px);
+  width: 100%;
 }
 .ad-unit-n-a{
   height: 700px;
@@ -238,9 +238,8 @@ a{
   width: 98%;
   margin-left: auto;
   margin-right: auto;
+  transition: all 1s;
 }
-
-
 @media only screen and (max-width:1000px){
   .anime-in-trending{
     min-width: 200px;
