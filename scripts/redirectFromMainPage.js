@@ -20,7 +20,8 @@ if(urlList.length > 4){
         "tokyorevengersseason2part2",
         "attackontitanfinalseasonthefinalchaptersspecial1",
         "attackontitanfinalseasonthefinalchaptersspecial2",
-        "attackontitanfinalseasonpart3"
+        "attackontitanfinalseasonpart3",
+        "goblinslayerii"
     ]
     const redirectTo = [
         "myheroacademia2",
@@ -35,7 +36,8 @@ if(urlList.length > 4){
         "tokyorevengerstenjikuhen",
         "attackontitanthefinalseasonpart3",
         "attackontitanthefinalseasonpart3",
-        "attackontitanthefinalseasonpart3"
+        "attackontitanthefinalseasonpart3",
+        "goblinslayer2ndseason"
     ]
 
     for(let i = 1; i <= redirectThis.length ; i ++){
