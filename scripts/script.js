@@ -346,28 +346,6 @@ try{
     activeAnime.setAttribute("href", "https://Animerulz.in/" + activeAnime.textContent.replace(/[^a-zA-Z0-9]/g, "").toLowerCase());
 }
 catch{}
-try{
-    // console.log(localStorage.getItem("lastClickedButtonOnePiece")
-    let check = document.getElementsByClassName("active-page-tag-season")[0];
-    let activeAnimeNew;
-    if(!check){
-        nnnnn = document.getElementById("active-page-tag").textContent.replace(/[^a-zA-Z0-9]/g, "");
-        activeAnimeNew = nnnnn.toLowerCase().trim();
-        // console.log(activeAnimeNew);
-    }
-    // console.log(document.getElementsByClassName("btns-in-data")[0].getElementsByTagName("a")[0]);
-    let abbb = localStorage.getItem('lastClickedButton' + nnnnn).split('-');
-    let activeAnimeNewEpi = abbb[abbb.length - 1];
-
-    if (!activeAnimeNewEpi)
-        activeAnimeNewEpi = 1;
-    let tttt = localStorage.getItem("lastClickedButtonAudio" + nnnnn);
-    if(!tttt)
-        tttt = 'jap';
-    document.getElementsByClassName("btns-in-data")[0].getElementsByTagName("a")[0].setAttribute("href", "/" + activeAnimeNew +  "/Watch-Now/?ep=" + activeAnimeNewEpi + "&aud=" + tttt); 
-    // document.getElementsByClassName('button-read-manga')[0].setAttribute("onclick", "window.open('https://mangareader.to/')");
-}
-catch{}
 
 try{
     if(document.getElementById("home-anchor-tag") != null)
