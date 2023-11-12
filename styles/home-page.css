@@ -196,6 +196,19 @@ h1, h2, h3{
     margin-block: 10px;
     color: rgba(255, 255, 255, 0.9);
 }
+h1{
+    line-height: 1.2cm;
+}
+@media only screen and (max-width:1000px){
+    h1{
+        line-height: 1cm;
+    }
+}
+@media only screen and (max-width:1000px){
+    h1{
+        line-height: 0.7cm;
+    }
+}
 .mw-body p{
     color: rgba(255, 255, 255, 0.6);
 }
