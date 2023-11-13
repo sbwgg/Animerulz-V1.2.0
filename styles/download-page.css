@@ -104,11 +104,14 @@ html{
   /* height:500px; */
   border: 0;
   width: 100%;
-  min-height: 280px;
+  /* min-height: 280px !important; */
   /* position: absolute; */
   z-index: -1;
   max-height: 800px;
 }
+/* .video-player video{
+  min-height: 280px !important;
+} */
 .plyr{
   max-height: 800px;
 }
@@ -1171,5 +1174,70 @@ iframe.video-player{
 @media only screen and (max-width:600px){
   iframe.video-player{
     height: 300px;
+  }
+}
+
+@media only screen and (max-width:700px){
+  .plyr__controls{
+    width: 100%;
+    padding-inline: 3% !important;
+  }
+  .plyr__controls__item.plyr__progress__container{
+    position: absolute;
+    left: 3%;
+    width: 75%;
+    top: 10px;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  .plyr__controls__item.plyr__time--duration.plyr__time,.plyr__controls__item.plyr__time--current.plyr__time{
+    position: absolute;
+    top: 10px;
+  }
+  .plyr__controls__item.plyr__time--current.plyr__time{
+    width: 8%;
+    right: 14%;
+  }
+  .plyr__controls__item.plyr__time--duration.plyr__time{
+    width: 10%;
+    right: 4%;
+  }
+}
+@media only screen and (max-width:620px){
+  .plyr__controls__item.plyr__progress__container{
+    width: 70%;
+  }
+  .plyr__controls__item.plyr__time--current.plyr__time{
+    right: 16%;
+  }
+}
+@media only screen and (max-width:520px){
+  .plyr__controls__item.plyr__progress__container{
+    /* width: 70%; */
+  }
+  .plyr__controls__item.plyr__time--current.plyr__time{
+    right: 18%;
+  }
+  .plyr__controls__item.plyr__time--current.plyr__time, .plyr__controls__item.plyr__time--duration.plyr__time{
+    font-size: 12px !important;
+  }
+}
+@media only screen and (max-width:479px){
+  .plyr__controls__item.plyr__progress__container{
+    top: 0;
+  }
+  .plyr__controls__item.plyr__time--current.plyr__time, .plyr__controls__item.plyr__time--duration.plyr__time{
+    top: 0;
+  }
+}
+@media only screen and (max-width:420px){
+  .plyr__controls__item.plyr__progress__container{
+    width: 80%;
+  }
+  .plyr__controls__item.plyr__time--current.plyr__time{
+    right: 8%;
+  }
+  .plyr__controls__item.plyr__time--duration.plyr__time{
+    display: none;
   }
 }

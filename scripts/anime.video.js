@@ -698,9 +698,22 @@ function setHlsPlayer(source, intro, outro){
         document.querySelector('.video-player').style.minHeight = 'auto';
         // const source = 'https://www044.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1080.1697942773.m3u8';
         const video = document.querySelector('video');
-  
 
         const defaultOptions = {};  
+        defaultOptions.controls =  [
+            'play-large', // The large play button in the center
+            'play', // Play/pause playback
+            'progress', // The progress bar and scrubber     for playback and buffering
+            'current-time', // The current time of playback
+            'duration',
+            'mute', // Toggle mute
+            'volume', // Volume control
+            'captions', // Toggle captions
+            'settings', // Settings menu
+            'pip', // Picture-in-picture (currently Safari only)
+            'airplay', // Airplay (currently Safari only)
+            'fullscreen', // Toggle fullscreen
+          ];
   
         // For more Hls.js options, see https://github.com/dailymotion/hls.js
         const hls = new Hls();
@@ -740,7 +753,7 @@ function setHlsPlayer(source, intro, outro){
   
           // Initialize new Plyr player with quality options
           const player = new Plyr(video, defaultOptions);
-
+          console.log(player);
           player.config.autoplay = true;
         //   player.addEventListener("fullscreenchange", () => {
         //     console.log('fullscreen changed');
@@ -777,6 +790,10 @@ function setHlsPlayer(source, intro, outro){
             else
                 screen.orientation.lock('landscape');}catch{}
           })
+          video.addEventListener("playing", () => {
+            let posterElement = document.querySelector(".plyr__poster");
+            posterElement.setAttribute("style", "opacity:0 !important");
+          });
           video.addEventListener("canplay", () => {  
             let progressBar = document.querySelector(".plyr__progress");
             let duration = video.duration;
@@ -805,8 +822,13 @@ function setHlsPlayer(source, intro, outro){
                 document.querySelector("video").click();
                 player.play();
             }
-            
-            let volumeButton = document.querySelector(".plyr__controls__item.plyr__volume");
+            if(video.currentTime == 0){
+                let posterElement = document.querySelector(".plyr__poster");
+                posterElement.removeAttribute("hidden");
+                posterElement.setAttribute("style", "background-image: url(/images/Animerulz.png);opacity:1 !important");
+            }
+          })
+          let volumeButton = document.querySelector(".plyr__controls__item.plyr__volume");
             volumeButton.style.display = "none";
 
             plyrControls = document.querySelector(".plyr__controls");
@@ -825,9 +847,8 @@ function setHlsPlayer(source, intro, outro){
                 plyrControls.insertBefore(a, volumeButton);
             }
 
-          })
-          if(localStorage.getItem("autoSkipIntro") == 'true')
-            video.addEventListener('timeupdate', setVideoEventListner);
+            // video.setAttribute("data-poster", "/images/Animerulz.png");
+
         });
         hls.attachMedia(video);
         window.hls = hls;
