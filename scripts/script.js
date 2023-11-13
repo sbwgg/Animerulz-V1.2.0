@@ -511,7 +511,7 @@ function disableScroll(){
 function setTrendingAnimeInSearch(){
     let trendingAnimeInSearchContainer = document.getElementsByClassName("list-search-trending")[0];
     let trendingAnime = [
-        "One Piece","Naruto", "Jujutsu Kaisen Season 2", "Bleach Thousand Year Blood War Season 2", "Zom 100"
+        "Attack on Titan Final Season Part 3", "One Piece","Naruto", "Jujutsu Kaisen Season 2", "Tokyo Revengers Tenjiku hen"
     ]
     let temppp = "";
     let counterrr = 0;
