@@ -201,6 +201,7 @@ grid-template-columns: repeat(6, 1fr);
 gap: 10px 5px;
 }
 .small-animes-a .item-a{
+min-height: 250px;
 position: relative;
 height: auto;
 cursor: pointer;
