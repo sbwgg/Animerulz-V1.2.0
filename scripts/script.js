@@ -4,7 +4,7 @@ const pageType = document.getElementsByTagName("html")[0].getAttribute('page-typ
 setTimeout(preloaderDisplayNone, 1000);
 window.addEventListener("load", function(){
     if(pageType != 'a-main' && pageType != 'b-sub' && pageType != 'home')
-    setMoreMenu();
+        setMoreMenu();
     preloaderDisplayNone();
     setAnimesInTrendingHover();
 });
@@ -35,7 +35,7 @@ function setMoreMenu(){
      </div>
      <div class="version-txt-a-a">
       <span>
-       Version 1.2.1
+       Version 1.3.0
       </span>
      </div>
     </div>
