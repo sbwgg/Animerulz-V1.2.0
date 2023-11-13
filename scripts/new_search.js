@@ -24,7 +24,21 @@ searchBox.onkeyup = (e) => {
         else 
             selectAnilistUpItem();
     }else if(e.keyCode == 13 && searchBox.value){
-        window.open("/search/?anime=" + searchBox.value, "_self");
+        let anime = searchBox.value;
+        searchHistory = localStorage.getItem("searchHistory");
+        if(searchHistory){
+            searchHistory = JSON.parse(searchHistory);
+            searchHistory.forEach((item) => {
+                if(anime == item)
+                    searchHistory.splice(searchHistory.indexOf(anime), 1);
+            });
+            searchHistory.unshift(anime);
+            if(searchHistory.length > 5)
+                searchHistory.pop();
+        }else searchHistory = [anime];
+        localStorage.setItem("searchHistory", JSON.stringify(searchHistory));
+
+        window.open("/search/?anime=" + anime, "_self");
     }
     else{
         if(e.keyCode == 8 && !searchBox.value){
@@ -195,11 +209,9 @@ function handleResponse(response) {
 }
 
 function handleData(data) {
-    console.log(data);
     resultsDataContainer.innerHTML = "";
     let animeCount = 4;
     let requiredAnimeData = data.data.Page.media;
-    console.log(requiredAnimeData);
     if(requiredAnimeData.length == 0){
         resultsDataContainer.innerHTML = ` <div class="no-results-found-section">
         <span>No Results Found</span>
@@ -216,7 +228,7 @@ function handleData(data) {
             temp = "";
             if(requiredAnimeData[i].title.english != null){
             try{
-                temp = `<li class="item-search-data_" id="element-${i}" onclick="window.open('https://animerulz.in/${requiredAnimeData[i].title.english.replace(/[^a-zA-Z0-9]/g, "").toLowerCase()}', '_self')">
+                temp = `<li class="item-search-data_" id="element-${i}" onclick="openSearchNew(${requiredAnimeData[i].title.english})">
                 <div class="image-data"><img src="${requiredAnimeData[i].coverImage.medium}" alt="" class="img-search-res"></div>
                 <div class="search-anime-data-res">
                 <div class="head-data-search-res">
@@ -276,4 +288,22 @@ function show_search_box(){
 function hideSearchBox(){
     let searchContainerDivision = document.getElementsByClassName("search-container")[0];
     searchContainerDivision.style.display = "none";   
+}
+
+
+function openSearchNew(anime){
+    searchHistory = localStorage.getItem("searchHistory");
+    if(searchHistory){
+        searchHistory = JSON.parse(searchHistory);
+        searchHistory.forEach((item) => {
+            if(anime == item)
+                searchHistory.splice(searchHistory.indexOf(anime), 1);
+        });
+        searchHistory.unshift(anime);
+        if(searchHistory.length > 5)
+            searchHistory.pop();
+    }else searchHistory = [anime];
+    localStorage.setItem("searchHistory", JSON.stringify(searchHistory));
+
+    window.open(`/${anime.replace(/[^a-zA-Z0-9]/g, "").toLowerCase()}`, '_self');
 }

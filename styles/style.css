@@ -1725,10 +1725,12 @@ animation: animation-from-btm ease-in 0.2s;
 display: flex;
 flex-direction: column;
 width: 98%;
-padding: 10px 1%;
 position: relative;
 display: none;
 /* background-color: #faa300; */
+}
+.search-container .search-results-container__ .search-results-trending-container__, .search-container .search-results-container__ .recent-searches-txt-container__{
+  padding: 10px 1%;
 }
 .search-container .anilist-search-container .search-anilist-data .loader-for-search-results{
 width: 100%;
@@ -1781,12 +1783,12 @@ animation-delay: 0.7s;
 .search-container .search-results-container__ .anilist-search-container{
 display: none;
 }
-.search-container .search-results-container__ .search-results-trending-container__ .head-section-trending-search_ .head-seaction-txt-search, .search-container .search-results-container__  .head-search-container_ .txt-head-search-container_{
+.search-container .search-results-container__ .head-section-trending-search_ .head-seaction-txt-search, .search-container .search-results-container__  .head-search-container_ .txt-head-search-container_ {
 font-weight: 600;
 color: #faa300;
 font-size: 20px;
 }
-.search-container .search-results-container__ .trending-search-data{
+.search-container .search-results-container__ .trending-search-data, .search-container .search-results-container__ .trending-search-data{
 padding-block: 10px;
 }
 .search-container .search-results-container__ .trending-search-data .list-search-trending{

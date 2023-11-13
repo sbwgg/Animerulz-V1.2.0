@@ -508,25 +508,62 @@ function disableScroll(){
  }
 
 
-function setTrendingAnimeInSearch(){
-    let trendingAnimeInSearchContainer = document.getElementsByClassName("list-search-trending")[0];
+function setTrendingAnimeInSearch(counterrr){
+    let trendingAnimeInSearchContainer = document.getElementsByClassName("list-search-trending")[1];
     let trendingAnime = [
         "Attack on Titan Final Season Part 3", "One Piece","Naruto", "Jujutsu Kaisen Season 2", "Tokyo Revengers Tenjiku hen"
     ]
     let temppp = "";
-    let counterrr = 0;
     trendingAnime.forEach((animee) => {
         temppp += `
-        <li class="element-search-tr__" onclick="window.open('https://animerulz.in/search/?anime=${animee}', '_self')" id="ele-${counterrr}"><svg class="arrow-element-in-search__" xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 576 512"><path d="M384 160c-17.7 0-32-14.3-32-32s14.3-32 32-32H544c17.7 0 32 14.3 32 32V288c0 17.7-14.3 32-32 32s-32-14.3-32-32V205.3L342.6 374.6c-12.5 12.5-32.8 12.5-45.3 0L192 269.3 54.6 406.6c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3l160-160c12.5-12.5 32.8-12.5 45.3 0L320 306.7 466.7 160H384z"/></svg><span class="txt">${animee}</span></li>
+        <li class="element-search-tr__" onclick="openSearch('${animee}')" id="ele-${counterrr}"><svg class="arrow-element-in-search__" xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 576 512"><path d="M384 160c-17.7 0-32-14.3-32-32s14.3-32 32-32H544c17.7 0 32 14.3 32 32V288c0 17.7-14.3 32-32 32s-32-14.3-32-32V205.3L342.6 374.6c-12.5 12.5-32.8 12.5-45.3 0L192 269.3 54.6 406.6c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3l160-160c12.5-12.5 32.8-12.5 45.3 0L320 306.7 466.7 160H384z"/></svg><span class="txt">${animee}</span></li>
         `;
         counterrr ++;
     });
     trendingAnimeInSearchContainer.innerHTML = temppp;
 } 
+function setRecentSearches(){
+    let searchHistory = localStorage.getItem("searchHistory");
+    if(searchHistory){
+        let recentSearches = JSON.parse(searchHistory);
+        let temppp = "";
+        let counterrr = 0
+        recentSearches.forEach((animee) => {
+            temppp += `
+            <li class="element-search-tr__" onclick="openSearch('${animee}')" id="ele-${counterrr}"><i class="fa-solid fa-clock-rotate-left"></i><span class="txt">${animee}</span></li>
+            `;
+            counterrr ++;
+        });
 
-setTrendingAnimeInSearch();
+        document.querySelector(".recent-searches-txt-container__ .list-search-trending").innerHTML = temppp;
+        return counterrr;
+    }else{
+        document.getElementsByClassName("recent-searches-txt-container__")[0].style.display = "none";
+        return 0;
+    }
+}
 
+if(pageType){
+    counterrr = setRecentSearches();
+    setTrendingAnimeInSearch(counterrr);
+}
 
+function openSearch(anime){
+    searchHistory = localStorage.getItem("searchHistory");
+    if(searchHistory){
+        searchHistory = JSON.parse(searchHistory);
+        searchHistory.forEach((item) => {
+            if(anime == item)
+                searchHistory.splice(searchHistory.indexOf(anime), 1);
+        });
+        searchHistory.unshift(anime);
+        if(searchHistory.length > 5)
+            searchHistory.pop();
+    }else searchHistory = [anime];
+    localStorage.setItem("searchHistory", JSON.stringify(searchHistory));
+
+    window.open(`/search/?anime=${anime}`, "_self");
+}
 
 const moreSeasonsOfThisSection = document.querySelectorAll(".anime-seasons-items__");
 const wholeMoreSeasonsContainer = document.getElementsByClassName("more-season-anime-container__")[0];
