@@ -38,7 +38,7 @@ function setContinueWatchingContainer(){
         let outputData = `
         <div class="data-continue-watching">
             <div class="header-in-trending">
-               <h2>Continue Watching</h2>
+               <h2><i class="fa-solid fa-clock-rotate-left"></i>&nbsp;&nbsp;Continue Watching</h2>
             </div>
             <div class="continue-watching-data__">
         ` + tempData + 
