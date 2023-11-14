@@ -1,16 +1,20 @@
 const searchContainer = document.querySelector(".search-container");
 const searchBox = searchContainer.querySelector(".input-box__");
 const trendingAnimeSearch = document.getElementsByClassName("search-results-trending-container__")[0];
+const recentSearchesContainer = document.getElementsByClassName("recent-searches-txt-container__")[0];
 const anilistContainer = document.getElementsByClassName("anilist-search-container")[0];
 const loaderAnilist = document.getElementsByClassName("loader-for-search-results")[0];
 const resultsDataContainer = document.getElementsByClassName("anilist-search-data-list")[0];
 const searchIcon = document.getElementsByClassName("search-box-icon__")[0];
 let key = 0;
 
-if(searchBox.value)
+if(searchBox.value){
     anilistContainer.style.display = "flex";
-else
+}
+else{
     trendingAnimeSearch.style.display = "flex";
+    recentSearchesContainer.style.display = "flex";
+}
 
 searchBox.onkeyup = (e) => {
     if(e.keyCode == 40){
@@ -44,10 +48,12 @@ searchBox.onkeyup = (e) => {
         if(e.keyCode == 8 && !searchBox.value){
             key = 0;
             trendingAnimeSearch.style.display = 'flex';
+            recentSearchesContainer.style.display = 'flex';
             anilistContainer.style.display = "none";
         }
         else{
             key = 1;
+            recentSearchesContainer.style.display = 'none';
             trendingAnimeSearch.style.display = 'none';
             anilistContainer.style.display = "flex";
             // loaderAnilist.style.display = "flex";
