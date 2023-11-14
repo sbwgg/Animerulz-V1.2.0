@@ -753,12 +753,14 @@ function setHlsPlayer(source, intro, outro){
   
           // Initialize new Plyr player with quality options
           const player = new Plyr(video, defaultOptions);
-          console.log(player);
           player.config.autoplay = true;
         //   player.addEventListener("fullscreenchange", () => {
         //     console.log('fullscreen changed');
         //   });
     
+        if(localStorage.getItem("autoSkipIntro") == 'true'){
+            video.addEventListener("timeupdate", setVideoEventListner);
+          }
           if(localStorage.getItem("autoPlayNext") == 'true'){
             video.addEventListener('ended', nextEpisode);
           }
@@ -784,11 +786,14 @@ function setHlsPlayer(source, intro, outro){
             }catch{}
           })
           window.addEventListener("orientationchange", () => {
-            try{let windowOrientation = window.orientation;
-            if(windowOrientation === 0 || windowOrientation === 100)
-                screen.orientation.lock('portrait');
-            else
-                screen.orientation.lock('landscape');}catch{}
+            try{
+                let windowOrientation = window.orientation;
+                if(windowOrientation === 0 || windowOrientation === 100)
+                    screen.orientation.lock('portrait');
+                else
+                    screen.orientation.lock('landscape');
+                }
+            catch{}
           })
           video.addEventListener("playing", () => {
             let posterElement = document.querySelector(".plyr__poster");
