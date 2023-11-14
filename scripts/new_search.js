@@ -13,7 +13,7 @@ if(searchBox.value){
 }
 else{
     trendingAnimeSearch.style.display = "flex";
-    recentSearchesContainer.style.display = "flex";
+    // recentSearchesContainer.style.display = "flex";
 }
 
 searchBox.onkeyup = (e) => {
