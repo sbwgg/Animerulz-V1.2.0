@@ -79,6 +79,8 @@ function handleData(data) {
     let temp = "";
     let animesSearchResult = data.data.Page.media;
     if(animesSearchResult.length != 0){
+        animeContainerSearch.style.display = 'grid';
+        animeContainerSearch.innerHTML = ``;
         for(let i = 0; i < animesSearchResult.length;i ++ ){
             if(animesSearchResult[i].title.english != null){
             temp = `
