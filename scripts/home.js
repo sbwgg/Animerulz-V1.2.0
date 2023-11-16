@@ -11,6 +11,9 @@ function setContinueWatchingContainer(){
         for(let i = continueWatchingData.length - 1; i >= 0; i --){
             let animeNameForHome = continueWatchingData[i].animeName;
             let animeEpisodeNumberForHome = localStorage.getItem(animeNameForHome.replace(/[^a-zA-Z0-9]/g, "").toLowerCase() + '-last-clicked-episode');
+            if(!animeEpisodeNumberForHome){
+               animeEpisodeNumberForHome = 1;
+            }
             tempData += `<div class="anime-continue-watching" onclick="rearrangeAnimes(${counteR + 1})">
                   <a class="anchor-to-continue-watching" title="Continue Watching ${animeNameForHome}"  href="../${animeNameForHome.replace(/[^a-zA-Z0-9]/g, "").toLowerCase()}/Watch-Now/">
                      <div class="data_cont-watching__" style="background: url('${continueWatchingData[i].animeImage}') no-repeat center center;background-size: 100% auto;">
