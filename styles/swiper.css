@@ -43,6 +43,10 @@ background-repeat: no-repeat;
 background-size: cover;
 background-position-x: center;
 /* backdrop-filter: linear-gradient(90deg, rgba(0,0,0,0.7)20%, rgba(0,0,0,0.5)40%, rgba(0,0,0,0.4) 60%, rgba(0,0,0,0.2) 80%, rgba(0,0,0,0.4) 100%); */
+animation: newAnimation 1s forwards ease;
+}
+@keyframes newAnimation {
+
 }
 .slide-image-dup,.slide-image-dup-2{
 position: absolute;
@@ -51,14 +55,14 @@ height: 100%;
 max-width: 1800px;
 }
 .slide-image-dup{
-background: linear-gradient(90deg, rgba(0,0,0,0.8)0%, rgba(0,0,0,0.5)20%, rgba(0,0,0,0.4)40%, rgba(0,0,0,0.4) 60%, rgba(0,0,0,0.2) 80%, rgba(0,0,0,0.7) 100%) ;
+background: linear-gradient(90deg, rgba(0,0,0,1)0%, rgba(0,0,0,0.8)20%, rgba(0,0,0,0.4)40%, rgba(0,0,0,0.4) 60%, rgba(0,0,0,0.2) 80%, rgba(0,0,0,0.9) 100%) ;
 }
 .slide-image-dup-2{
-background: linear-gradient(0deg,rgba(0,0,0,0.5)0%, rgba(0,0,0,0.1)20%, rgba(0,0,0,0.1)40%, rgba(0,0,0,0) 60%, rgba(0,0,0,0.1) 80%, rgba(0,0,0,0.4) 100%) ;
+background: linear-gradient(0deg,rgba(0,0,0,0.7)0%, rgba(0,0,0,0.2)20%, rgba(0,0,0,0.1)40%, rgba(0,0,0,0) 60%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.7) 100%) ;
 }
 @media only screen and (max-width:600px){
 .slide-image-dup{
-  background: linear-gradient(90deg, rgba(0,0,0,0.8)0%, rgba(0,0,0,0.5)20%, rgba(0,0,0,0.4)40%, rgba(0,0,0,0.4) 60%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.7) 100%) ;
+  background: linear-gradient(90deg, rgba(0,0,0,0.9)0%, rgba(0,0,0,0.5)20%, rgba(0,0,0,0.4)40%, rgba(0,0,0,0.4) 60%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.9) 100%) ;
 }
 .slide-image-dup-2{
   background: linear-gradient(0deg,rgba(0,0,0,0.9)0%, rgba(0,0,0,0.2)20%, rgba(0,0,0,0.2)40%, rgba(0,0,0,0) 60%, rgba(0,0,0,0.1) 80%, rgba(0,0,0,0.9) 100%) ;
@@ -451,4 +455,11 @@ cursor: pointer;
 
 .slide-container span{
 color:rgba(255, 255, 255, 0.5);
+}
+
+.img-anime-logo{
+height: 150px;
+}
+.img-anime-logo img{
+height: 100%;
 }
