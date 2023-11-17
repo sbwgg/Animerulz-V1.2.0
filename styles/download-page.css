@@ -1228,60 +1228,23 @@ iframe.video-player{
   }
   .plyr__controls__item.plyr__progress__container{
     position: absolute;
-    left: 3%;
-    width: 75%;
+    left: 2%;
+    width: 95%;
     top: 10px;  
     margin: 0 !important;
-    padding: 0 !important;
-  }
-  .plyr__controls__item.plyr__time--duration.plyr__time,.plyr__controls__item.plyr__time--current.plyr__time{
-    position: absolute;
-    top: 10px;
-  }
-  .plyr__controls__item.plyr__time--current.plyr__time{
-    width: 8%;
-    right: 14%;
-  }
-  .plyr__controls__item.plyr__time--duration.plyr__time{
-    width: 10%;
-    right: 4%;
+    padding-inline: 3% !important;
   }
 }
 @media only screen and (max-width:620px){
-  .plyr__controls__item.plyr__progress__container{
-    width: 70%;
-  }
-  .plyr__controls__item.plyr__time--current.plyr__time{
-    right: 16%;
-  }
-}
-@media only screen and (max-width:520px){
-  .plyr__controls__item.plyr__progress__container{
-    /* width: 70%; */
-  }
-  .plyr__controls__item.plyr__time--current.plyr__time{
-    right: 18%;
-  }
-  .plyr__controls__item.plyr__time--current.plyr__time, .plyr__controls__item.plyr__time--duration.plyr__time{
-    font-size: 12px !important;
+  .plyr__control{
+    padding: 5px !important;
   }
 }
 @media only screen and (max-width:479px){
   .plyr__controls__item.plyr__progress__container{
     top: 0;
   }
-  .plyr__controls__item.plyr__time--current.plyr__time, .plyr__controls__item.plyr__time--duration.plyr__time{
-    top: 0;
-  }
 }
-@media only screen and (max-width:420px){
-  .plyr__controls__item.plyr__progress__container{
-    width: 80%;
-  }
-  .plyr__controls__item.plyr__time--current.plyr__time{
-    right: 8%;
-  }
-  .plyr__controls__item.plyr__time--duration.plyr__time{
-    display: none;
-  }
+.new-control-a{
+  font-size: 20px;
 }
