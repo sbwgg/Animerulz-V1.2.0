@@ -1524,7 +1524,7 @@ position: relative;
 padding-top: 20px;
 }
 .recommendations{
-margin-top: 20px;
+margin-block: 20px;
 }
 
 /*for testing*/
@@ -2189,9 +2189,9 @@ cursor: pointer;
 .animes-in-container-dubbed .anime-dubbed__:hover .img-container-dubbed__ img{
 transform: scale(1.04);
 }
-.animes-in-container-dubbed .anime-dubbed__:hover .data-in-dubbed-anime__{
+/* .animes-in-container-dubbed .anime-dubbed__:hover .data-in-dubbed-anime__{
 height: 50%;
-}
+} */
 
 @media only screen and (max-width:1100px){
 .animes-in-container-dubbed .anime-dubbed__ .languages-list ul li{
@@ -2909,11 +2909,13 @@ box-shadow: 0 1px 2px #faa300;
 }
 
 .anime-in-trending .anime-hover-data .watch-now-hover button{
-all: unset;
-padding: 8px 20px;
-background-color: #faa300;
-border-radius: 20px;
-color: rgba(0,0,0,0.9);
+  all: unset;
+  display: block;
+  width: 100%;
+  padding-block: 8px;
+  background-color: #faa300;
+  border-radius: 20px;
+  color: rgba(0,0,0,0.9);
 }
 .anime-in-trending .anime-hover-data .watch-now-hover{
 text-align: center;
@@ -2922,9 +2924,10 @@ text-align: center;
 margin: 0;
 font-weight: 700;
 display: -webkit-box;
-  -webkit-line-clamp: 2;
+  -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
+  font-size: 19px;
 /* color: #faa300; */
 }
 .anime-in-trending .anime-hover-data .anime-name{
