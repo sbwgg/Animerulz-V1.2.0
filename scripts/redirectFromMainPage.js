@@ -2,9 +2,9 @@ const url = window.location.href;
 // url = "https://animerulz.in/Naruto/"
 const urlList = url.split("/");
 let index;
-console.log(urlList.length);
+// console.log(urlList.length);
 
-if(urlList.length > 4){
+if(urlList.length > 4 && urlList[4] != ''){
     window.location.href = "https://animerulz.in/"
 }else{
     const redirectThis = [
@@ -18,10 +18,6 @@ if(urlList.length > 4){
         "attackontitanfinalseason",
         "bleachthousandyearbloodwar",
         "tokyorevengersseason2part2",
-        "attackontitanfinalseasonthefinalchaptersspecial1",
-        "attackontitanfinalseasonthefinalchaptersspecial2",
-        "attackontitanfinalseasonpart3",
-        "goblinslayerii"
     ]
     const redirectTo = [
         "myheroacademia2",
@@ -33,11 +29,7 @@ if(urlList.length > 4){
         "rurounikenshinmeijikenkakuromantan2023",
         "attackontitanfinalseasonpart1",
         "bleachthousandyearbloodwararc",
-        "tokyorevengerstenjikuhen",
-        "attackontitanthefinalseasonpart3",
-        "attackontitanthefinalseasonpart3",
-        "attackontitanthefinalseasonpart3",
-        "goblinslayer2ndseason"
+        "tokyorevengerstenjikuhen"
     ]
 
     for(let i = 1; i <= redirectThis.length ; i ++){
