@@ -381,6 +381,9 @@ html{
     grid-template-columns: repeat(auto-fit, minmax(30px, 15%));
     justify-content: space-evenly;
   }
+  h2{
+    font-size: 17px;
+  }
 }
 .main-container-video-sec-2 .body .body-cont .content::-webkit-scrollbar{
   width: 10px;
@@ -473,6 +476,14 @@ html{
 }
 .video-number .span{
   font-size: 12px;
+}
+@media only screen and (max-width:450px){
+  .video-number .span{
+    font-size: 11px;
+  }
+  .video-number p{
+    font-size: 14px;
+  }
 }
 .video-des hr{
   margin: 0 0 10px 0;
@@ -802,6 +813,9 @@ html{
   .button-change-epi{
     width: 25%;
   }
+  .anime-info-text h2{
+    font-size: 23px;
+  }
 }
 
 
@@ -897,6 +911,14 @@ html{
 @media only screen and (max-width:500px){
   .short-anime-ep{
     font-size: 12px;
+  }
+  .play-svg{
+    margin-top: -15px;
+  }
+}
+@media only screen and (max-width:420px){
+  .short-anime-ep{
+    font-size: 11px;
   }
   .play-svg{
     margin-top: -15px;
@@ -1067,6 +1089,20 @@ html{
     font-size: 10px;
   }
 }
+@media only screen and (max-width:420px){
+  .medium-t{
+    font-size: 12px;
+  }
+  .medium-t-s{
+    font-size: 11px;
+  }
+  .small-t{
+    font-size: 10px;
+  }
+  .tiny-t{
+    font-size: 9px;
+  }
+}
 .video-details .control{
   cursor:pointer;
   height: 30px;
@@ -1114,6 +1150,14 @@ html{
     width: calc(100% - 150px);
   }
 }
+@media only screen and (max-width:420px){
+  .video-s-audio-section .audio-info-a{
+    width: 120px;
+  }
+  .video-s-audio-section .audio-servers-a{
+    width: calc(100% - 120px);
+  }
+}
 .video-s-audio-section .audio-servers-a .servers-div{
   display: flex;
   flex-wrap: wrap;
@@ -1141,9 +1185,9 @@ html{
 }
 
 @media only screen and (max-width:400px){
-  .video-details .controls-div-a .control{
+  /* .video-details .controls-div-a .control{
     min-width: 100px;
-  }
+  } */
   .video-controls .control-txt{
     white-space: nowrap;
   }
@@ -1186,7 +1230,7 @@ iframe.video-player{
     position: absolute;
     left: 3%;
     width: 75%;
-    top: 10px;
+    top: 10px;  
     margin: 0 !important;
     padding: 0 !important;
   }
