@@ -234,7 +234,7 @@ function handleData(data) {
             temp = "";
             if(requiredAnimeData[i].title.english != null){
             try{
-                temp = `<li class="item-search-data_" id="element-${i}" onclick="openSearchNew(${requiredAnimeData[i].title.english})">
+                temp = `<li class="item-search-data_" id="element-${i}" onclick="openSearchNew('${requiredAnimeData[i].title.english}')">
                 <div class="image-data"><img src="${requiredAnimeData[i].coverImage.medium}" alt="" class="img-search-res"></div>
                 <div class="search-anime-data-res">
                 <div class="head-data-search-res">
@@ -298,6 +298,7 @@ function hideSearchBox(){
 
 
 function openSearchNew(anime){
+    console.log('in');
     searchHistory = localStorage.getItem("searchHistory");
     if(searchHistory){
         searchHistory = JSON.parse(searchHistory);
@@ -311,5 +312,6 @@ function openSearchNew(anime){
     }else searchHistory = [anime];
     localStorage.setItem("searchHistory", JSON.stringify(searchHistory));
 
+    console.log(`/${anime.replace(/[^a-zA-Z0-9]/g, "").toLowerCase()}`);
     window.open(`/${anime.replace(/[^a-zA-Z0-9]/g, "").toLowerCase()}`, '_self');
 }

@@ -1731,6 +1731,7 @@ display: none;
 }
 .search-container .search-results-container__ .search-results-trending-container__, .search-container .search-results-container__ .recent-searches-txt-container__{
   padding: 10px 1%;
+  flex-direction: column;
 }
 .search-container .anilist-search-container .search-anilist-data .loader-for-search-results{
 width: 100%;
