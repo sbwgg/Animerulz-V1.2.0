@@ -922,7 +922,9 @@ function nextEpisode(){
         if(document.fullscreenElement)
             localStorage.setItem("isPrevVideoFullScreen", true);
         }
-        document.querySelector(".control.next-episode").click();
+        try{
+            document.querySelector(".control.next-episode").click();
+        }catch{}
 }
 
 
