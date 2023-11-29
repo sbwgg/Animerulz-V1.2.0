@@ -1,33 +1,36 @@
 {
     "1": {
+        "intro": {
+            "end": null,
+            "start": null
+        },
         "title": "Full",
-        "isFiller": false,
         "source": {
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www047.anifastcdn.info/videos/hls/TvMArsZnkF0oqos7Iodv6w/1698270525/154886/cd414df71ee4c0b50bb43d6e7f99d49d/ep.1.1696415651.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=lupin-iii-lupin-vs-fukusei-ningen-episode-dub-1"
+                }
+            },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/4c174accb54104b9c415f3ea95ba14161fe9eb8c0675afaa46ad259da9393b959aa61e660657a6eb7f0d323d030654fc0b776454d6a32df6dbf9d199c21573d8d0c1f2c5776793acd228a5326586372570b249383a9f82288125a4832b66eeb3ae297e6c0fc894698a3bbc3b7274ea38b5b35fdb6c5a0658e74fa7cc2d595a1c/master.m3u8",
                     "captions": "https://ccb.megaresources.co/dc/a9/dca9553ed2399b59386975a3e221c1f4/eng-2.vtt"
                 },
                 "Vid Streaming": {
-                    "link": "https://www036.vipanicdn.net/streamhls/77a32c965ff176930ebb2166ab5d5b8b/ep.1.1677837474.m3u8"
+                    "link": "https://www036.anifastcdn.info/videos/hls/gjTkoN9r8Nq2NMzSBPwtzA/1698270520/154885/77a32c965ff176930ebb2166ab5d5b8b/ep.1.1677837474.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=lupin-iii-lupin-vs-fukusei-ningen-episode-1"
                 }
-            },
-            "DUBBED": {
-                "Vid Streaming": {
-                    "link": "https://www047.vipanicdn.net/streamhls/cd414df71ee4c0b50bb43d6e7f99d49d/ep.1.1696415651.m3u8"
-                },
-                "Awesome Stream": {
-                    "link": "https://player.ryuk.to?id=lupin-iii-lupin-vs-fukusei-ningen-dub-episode-1"
-                }
             }
         },
+        "isFiller": false,
         "downloadLink": {
-            "SUBBED": "MTU0ODg1",
-            "DUBBED": "MTU0ODg2"
-        },
-        "intro": null
+            "DUBBED": "MTU0ODg2",
+            "SUBBED": "MTU0ODg1"
+        }
     }
 }

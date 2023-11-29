@@ -1,20 +1,29 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=gyakusatsu-kikan-episode-",
-        "down_links": [
-            "MTUyNzE4"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=gyakusatsu-kikan-dub-episode-",
-        "down_links": [
-            "MTUyNzE5"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "intro": null,
+        "title": "Full",
+        "source": {
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www020.anifastcdn.info/videos/hls/1rwjzsRnUBB4d4W6mv957A/1698258439/152719/ee841daffd2d80124c883f7ae81eaf80/ep.1.1677706367.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gyakusatsu-kikan-episode-dub-1"
+                }
+            },
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www019.anifastcdn.info/videos/hls/rb59emjQx7T51S6VqMPRZA/1698258436/152718/61fe0334119d873642115f555ce8c23f/ep.1.1677703694.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gyakusatsu-kikan-episode-1"
+                }
+            }
+        },
+        "isFiller": false,
+        "downloadLink": {
+            "DUBBED": "MTUyNzE5",
+            "SUBBED": "MTUyNzE4"
+        }
+    }
 }

@@ -1,33 +1,36 @@
 {
     "1": {
+        "intro": {
+            "end": null,
+            "start": null
+        },
         "title": "Full",
-        "isFiller": false,
         "source": {
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www003.anifastcdn.info/videos/hls/TiU2oExbP4qAK5Ob3tl4gg/1698258869/107192/3b766fe8673c6880c5a67a8b67abdd33/ep.1.1677680862.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=hal-episode-dub-1"
+                }
+            },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/0552f57ac5bf38f28f61b4f737d7176967b93ee5527b6656f66570220c8e65f9b35fdb437f9439fdd992bf04eb7fe833b2ca6cce37ddd6815af05480417aa675b6b333f70e422a7f21e9eae14b5c058241b4a4249897dcb44f0eb0324532172d3c2d068cd0dca81e4043a81c6a940cb3541d7e8a906dc738f6438d7b2dcc5772/master.m3u8",
                     "captions": "https://ccb.megaresources.co/23/90/23903052c1fd3c6a656ffab8a6c2aff8/23903052c1fd3c6a656ffab8a6c2aff8.vtt"
                 },
                 "Vid Streaming": {
-                    "link": "https://www030.vipanicdn.net/streamhls/302b9121762f6e9d49d1076ab6ef2367/ep.1.1677660732.m3u8"
+                    "link": "https://www030.anifastcdn.info/videos/hls/44JpFEk7oqYIdnjJLcfRvA/1698258867/41429/302b9121762f6e9d49d1076ab6ef2367/ep.1.1677660732.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=hal-episode-1"
                 }
-            },
-            "DUBBED": {
-                "Vid Streaming": {
-                    "link": "https://www003.vipanicdn.net/streamhls/3b766fe8673c6880c5a67a8b67abdd33/ep.1.1677680862.m3u8"
-                },
-                "Awesome Stream": {
-                    "link": "https://player.ryuk.to?id=hal-dub-episode-1"
-                }
             }
         },
+        "isFiller": false,
         "downloadLink": {
-            "SUBBED": "NDE0Mjk=",
-            "DUBBED": "MTA3MTky"
-        },
-        "intro": null
+            "DUBBED": "MTA3MTky",
+            "SUBBED": "NDE0Mjk="
+        }
     }
 }

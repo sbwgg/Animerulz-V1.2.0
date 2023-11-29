@@ -1,20 +1,36 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=inu-x-boku-ss-special-episode-",
-        "down_links": [
-            "MjAzMzE="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=inu-x-boku-ss-special-dub-episode-",
-        "down_links": [
-            "OTI4Mjc="
-        ]
-    },
-    "episodes_names": [
-        "Special"
-    ],
-    "fillers": []
+    "1": {
+        "intro": {
+            "end": null,
+            "start": null
+        },
+        "title": "Special",
+        "source": {
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www008.anifastcdn.info/videos/hls/RI8BVQEzHufoyOm_DEQL9A/1698262817/92827/a5d8e7bf851ddfccf419d0821a10c594/ep.1.1677676583.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=inu-x-boku-ss-special-episode-dub-1"
+                }
+            },
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/bd849caf89e27a10c446b7f46af76c25b64c1b5cdd47f9c26dc0518adc1de076407599d3f6b6783002febbc1f90ba7be47f9f0194634cafe526c094332aacda255b7e4b9f82a4967eecaa61b0b11e249d57da1acec0d73a99c78002906bcc6c2b22bf46eeeb5589b5b03c0c90154c84f0d4302f58f7d1acd1d351365a0e106de/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/ca/19/ca1918e0e1f452c9cc8c21962f4ea80f/ca1918e0e1f452c9cc8c21962f4ea80f.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www022.anifastcdn.info/videos/hls/RqqgBxXmfnkdQAmWMKDzsA/1698262815/20331/a1452123a8d1a94824da87a33a65a13b/ep.1.1677634368.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=inu-x-boku-ss-special-episode-1"
+                }
+            }
+        },
+        "isFiller": false,
+        "downloadLink": {
+            "DUBBED": "OTI4Mjc=",
+            "SUBBED": "MjAzMzE="
+        }
+    }
 }

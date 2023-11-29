@@ -1,20 +1,36 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=waga-seishun-no-arcadia-episode-",
-        "down_links": [
-            "MTEzNDE2"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=waga-seishun-no-arcadia-dub-episode-",
-        "down_links": [
-            "MTE3NjIw"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "intro": {
+            "end": null,
+            "start": null
+        },
+        "title": "Full",
+        "source": {
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www021.anifastcdn.info/videos/hls/iCOTSgZgvllHYwK0prCFaQ/1698346390/117620/365a0da997d72ef6a4537650e91f1809/ep.1.1677689409.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=waga-seishun-no-arcadia-episode-dub-1"
+                }
+            },
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/3eea55807eab11a9441b3e9a27ce72294fc8de729e72a3da412f762de8be2b89f57a871a6adfc237796b597d85f53de185a957f12b2515aa0624becf6c30c8cd499aa9c13582579a672b7e19065fd763ab5a4daafe60eb908dbbe2836334da46e23797d63726bd9aad338f755674508af8cc948f932ac3d3522e936dbb6f6d72/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/34/8d/348d233e0cb08b7a083ce92094fc277a/348d233e0cb08b7a083ce92094fc277a.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www017.anifastcdn.info/videos/hls/rly1GxrncytHS-nPohR12Q/1698346385/113416/b11e6d2ad97f1f9fa27aa48a9d06f8c8/ep.1.1677689966.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=waga-seishun-no-arcadia-episode-1"
+                }
+            }
+        },
+        "isFiller": false,
+        "downloadLink": {
+            "DUBBED": "MTE3NjIw",
+            "SUBBED": "MTEzNDE2"
+        }
+    }
 }

@@ -1,20 +1,36 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=appleseed-episode-",
-        "down_links": [
-            "NDAzOTI="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=appleseed-dub-episode-",
-        "down_links": [
-            "MTA3MjA1"
-        ]
-    },
-    "episodes_names": [
-        "OVA"
-    ],
-    "fillers": []
+    "1": {
+        "intro": {
+            "end": null,
+            "start": null
+        },
+        "title": "OVA",
+        "source": {
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www016.anifastcdn.info/videos/hls/Un176AiOfh7efxMbmTJxRA/1698163939/107205/80c966516417b1cf54b1646d38e08999/ep.1.1677683736.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=appleseed-episode-dub-1"
+                }
+            },
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/9bfc7c5d792d3db3e8666cf13d89f16b9c346c0d1027d9fc93c3e51811a765d89f6c1655c9821d5a6c412fc3310ca3b0c282bbbf912b92321978313150ddd5a20ee89eec4139c0eb25ab79d20a8086a72b9acb697fc991f3f88a9721ce0f540598f07065be0d02272faaa8aacd8013af/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/c4/58/c45807e5fbccd1128e89efbb2d1be41d/eng-4.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www013.anifastcdn.info/videos/hls/k9cDdrWrczrOMvJdNgBZZw/1698163936/40392/845407b74bfb476f819fd6272737a5b6/ep.1.1677660396.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=appleseed-episode-1"
+                }
+            }
+        },
+        "isFiller": false,
+        "downloadLink": {
+            "DUBBED": "MTA3MjA1",
+            "SUBBED": "NDAzOTI="
+        }
+    }
 }

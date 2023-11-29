@@ -1,33 +1,36 @@
 {
     "1": {
+        "intro": {
+            "end": null,
+            "start": null
+        },
         "title": "Full",
-        "isFiller": false,
         "source": {
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www011.anifastcdn.info/videos/hls/NnKq6aITNY9pzhO21Jdyhg/1698270451/142810/d0a7df1f11227f45b5693cb72180792f/ep.1.1677714682.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=lupin-iii-1-money-wars-episode-dub-1"
+                }
+            },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/3a4f66e4efb07d0fbcf00b97e8a9f2dc9f466d1ed3ce070b04a38b4c5e18e3bc622ca55535d4ee4a0e989ff18fee093be8aa43f4f4a2dfae2ec7db7b1bb8bc0102948612d157c8576aea278f06cab35ef294ed0b80dc045cccfd1224baf304f6ca24e20afb7120daaea01a2016f7672e2c673f1c0025a8b092fa79e2ac49cffa/master.m3u8",
                     "captions": "https://ccb.megaresources.co/1d/5d/1d5d35096cc8a2959221f0475143ce51/eng-3.vtt"
                 },
                 "Vid Streaming": {
-                    "link": "https://www025.vipanicdn.net/streamhls/2425fc233f0f1c303950828dfa7b5892/ep.1.1677840700.m3u8"
+                    "link": "https://www025.anifastcdn.info/videos/hls/uu4Ky-Mk38QkphfDZ2oDoA/1698270449/142914/2425fc233f0f1c303950828dfa7b5892/ep.1.1677840700.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=lupin-iii-1-money-wars-episode-1"
                 }
-            },
-            "DUBBED": {
-                "Vid Streaming": {
-                    "link": "https://www011.vipanicdn.net/streamhls/d0a7df1f11227f45b5693cb72180792f/ep.1.1677714682.m3u8"
-                },
-                "Awesome Stream": {
-                    "link": "https://player.ryuk.to?id=lupin-iii-1-money-wars-dub-episode-1"
-                }
             }
         },
+        "isFiller": false,
         "downloadLink": {
-            "SUBBED": "MTQyOTE0",
-            "DUBBED": "MTQyODEw"
-        },
-        "intro": null
+            "DUBBED": "MTQyODEw",
+            "SUBBED": "MTQyOTE0"
+        }
     }
 }

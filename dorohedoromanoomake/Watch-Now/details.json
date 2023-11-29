@@ -1,20 +1,36 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=dorohedoro-ma-no-omake-episode-",
-        "down_links": [
-            "MTQyNTUy"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=dorohedoro-ma-no-omake-dub-episode-",
-        "down_links": [
-            "MTQ2NDEz"
-        ]
-    },
-    "episodes_names": [
-        "OVA"
-    ],
-    "fillers": []
+    "1": {
+        "intro": {
+            "end": null,
+            "start": null
+        },
+        "title": "OVA",
+        "source": {
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www044.anifastcdn.info/videos/hls/Tg-cua1a9tWOh_PxwqPprA/1698252869/146413/11316e337b86c2b0b1615de79407b228/ep.1.1677860949.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=dorohedoro-ma-no-omake-episode-dub-1"
+                }
+            },
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/1961b49802d1eed06928b9a258d537bab4709c9a6db8b81d01fa0f2e4519b4681fbfbc181394952660afa8c680092f296d728d389334a49e9d731fafedf5c533cf29961b4d655d057a8bca2bf3688abb8f9b5d2d6437b8d56f723ae15bd2740e454d9b6ee2a9497e4e2f8e4e4591ce06bbc50a560896cea71537e9c08887f3fb/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/2d/37/2d37517cfece7e7c7b5a6a15de6a9df3/2d37517cfece7e7c7b5a6a15de6a9df3.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www023.anifastcdn.info/videos/hls/OdFaITq83dWyqIY0HlkLtg/1698252864/142552/96e166ecbd39fe7b80ba39e2ad5c2ded/ep.1.1677809992.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=dorohedoro-ma-no-omake-episode-1"
+                }
+            }
+        },
+        "isFiller": false,
+        "downloadLink": {
+            "DUBBED": "MTQ2NDEz",
+            "SUBBED": "MTQyNTUy"
+        }
+    }
 }

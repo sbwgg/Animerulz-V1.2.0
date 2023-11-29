@@ -1,20 +1,36 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=midnight-eye-gokuu-ii-episode-",
-        "down_links": [
-            "MTE5OTM3"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=midnight-eye-gokuu-ii-dub-episode-",
-        "down_links": [
-            "MTE5OTM1"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "intro": {
+            "end": null,
+            "start": null
+        },
+        "title": "Full",
+        "source": {
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www046.anifastcdn.info/videos/hls/W_48hu0EBBbaVkGtquG0Xg/1698272710/119935/b0cf2c5f36550158230c23b12296635c/ep.2.1697749771.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=midnight-eye-gokuu-ii-episode-dub-1"
+                }
+            },
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/02312764467d376551b8c0eff7a9109ebea5bbf1c4918f94c5e8eae6d2b087418e0b501dbbd85ab0aab0be0f847fa76547072bff14f80f053f4832fcf10e0872961b1b70155a032d2f6d9b3859d9873b14ef694744454b9d1755acd127336133b7f004d0f770af8f41107148e58ac4a66bca11564b3c88fcb8090fae672dcfe8/master.m3u8",
+                    "captions": "https://imgb.megaresources.co/_a_preview/cb/cba220622d18d4f2436eeab12d704a0d/thumbnails/sprite.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www048.anifastcdn.info/videos/hls/bSRqbW_BwBfpvAiK8V857Q/1698272707/119937/49074274306bdb4da65cb9a5e92e48c6/ep.1.1697749988.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=midnight-eye-gokuu-ii-episode-1"
+                }
+            }
+        },
+        "isFiller": false,
+        "downloadLink": {
+            "DUBBED": "MTE5OTM1",
+            "SUBBED": "MTE5OTM3"
+        }
+    }
 }

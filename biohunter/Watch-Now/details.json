@@ -1,20 +1,36 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=bio-hunter-episode-",
-        "down_links": [
-            "MTQ0OTE3"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=bio-hunter-dub-episode-",
-        "down_links": [
-            "MTQ0OTE4"
-        ]
-    },
-    "episodes_names": [
-        "Episode 1"
-    ],
-    "fillers": []
+    "1": {
+        "intro": {
+            "end": null,
+            "start": null
+        },
+        "title": "Episode 1",
+        "source": {
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www019.anifastcdn.info/videos/hls/rfqz3IMupwBNny5YGa3XGg/1698231998/144918/03a8a092e004f2a693f37a3ffb69e69b/ep.1.1677699948.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=bio-hunter-episode-dub-1"
+                }
+            },
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/399764ea1c59ebfd7feb9ea2c7b3734cb7c41fd12d9063a2455329625a125a447b4837d1b4e99e93aea4493726a2546870ecd3969a30c2474a72f4d99a0e867a28510cdbd8e7c88d51f99077b7acd14937c438a3c13a35be6526571345a55e5c38bb9f2c936a61ab68efb918757668a7329712a93f7598b155e49809e92b3dba/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/87/fb/87fb553cb28a35ad7bc2e909c9cb9901/eng-2.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www048.anifastcdn.info/videos/hls/RuCMkKy_4xuFjPa9cfdYOA/1698231994/144917/721ffa2be79bce679432dc3126685549/ep.1.1677855653.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=bio-hunter-episode-1"
+                }
+            }
+        },
+        "isFiller": false,
+        "downloadLink": {
+            "DUBBED": "MTQ0OTE4",
+            "SUBBED": "MTQ0OTE3"
+        }
+    }
 }

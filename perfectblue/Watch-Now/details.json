@@ -1,33 +1,36 @@
 {
     "1": {
+        "intro": {
+            "end": null,
+            "start": null
+        },
         "title": "Full",
-        "isFiller": false,
         "source": {
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www051.anifastcdn.info/videos/hls/cyCfYAjbJO-twUCZVqRKEA/1698301557/93990/b326fc99bddfac81d81ee864be5399ce/ep.1.1684232879.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=perfect-blue-episode-dub-1"
+                }
+            },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/288f72e6d559f3298141e8e9ef031f59b89a915ba3bd3d9da5057c7fa8a436ef5be75f0516e078d1d5cb8a81e5b3fb877e1b57fdefb31253ba75bd5244febbc7a6bfaabc124e5c023bf11b1dc1e6d2b1072571a7afc729f3f2748584e16934138605aa678169f858801dc38ff7bdc4ff929bfb154711e4abb75c21ebc01988f9/master.m3u8",
                     "captions": "https://ccb.megaresources.co/b6/68/b6680358ddfdcbe6169d88e0376ede78/b6680358ddfdcbe6169d88e0376ede78.vtt"
                 },
                 "Vid Streaming": {
-                    "link": "https://www028.vipanicdn.net/streamhls/eb7be7ac95b83731d22bc1ead500552e/ep.1.1677662474.m3u8"
+                    "link": "https://www028.anifastcdn.info/videos/hls/nBfgIw4DW65U14HP-gdckg/1698301555/40947/eb7be7ac95b83731d22bc1ead500552e/ep.1.1677662474.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=perfect-blue-episode-1"
                 }
-            },
-            "DUBBED": {
-                "Vid Streaming": {
-                    "link": "https://www051.vipanicdn.net/streamhls/b326fc99bddfac81d81ee864be5399ce/ep.1.1684232879.m3u8"
-                },
-                "Awesome Stream": {
-                    "link": "https://player.ryuk.to?id=perfect-blue-dub-episode-1"
-                }
             }
         },
+        "isFiller": false,
         "downloadLink": {
-            "SUBBED": "NDA5NDc=",
-            "DUBBED": "OTM5OTA="
-        },
-        "intro": null
+            "DUBBED": "OTM5OTA=",
+            "SUBBED": "NDA5NDc="
+        }
     }
 }

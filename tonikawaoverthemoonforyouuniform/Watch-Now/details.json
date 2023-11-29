@@ -1,20 +1,36 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=tonikaku-kawaii-seifuku-episode-",
-        "down_links": [
-            "MTk1MjU2"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=tonikaku-kawaii-seifuku-dub-episode-",
-        "down_links": [
-            "MjAyMzc4"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "intro": {
+            "end": null,
+            "start": null
+        },
+        "title": "Full",
+        "source": {
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www049.anifastcdn.info/videos/hls/0eGFkalDvk6EWITFJUpO1w/1698344243/202378/42d7f49fcf8ff5b2133984071fae4d0d/ep.1.1680892409.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tonikaku-kawaii-seifuku-episode-dub-1"
+                }
+            },
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/b39887736e4d5df311c1b858a58639e7bdc20dfb0a3d9d1eac2d373d09428150040c30dbd4f38730de3e5a5a6fc530e77c4809d3f93a9a772c9d8dc39c9013f8a6c0af2e4a2afd3d754e764488b836579acbd613e4779274d73274a47d50071d27bc7f78eb30567d62a347a3fe99f3db7f777f7d64d1a4edd612256e3a693627/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/b1/08/b1087e81e4981c808d82b06afb96fc09/eng-2.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www047.anifastcdn.info/videos/hls/o9SxziVPJTXu6XB2AMmCmw/1698344240/195256/a204426d8aaa4da3b5b0092ba32dfa65/ep.1.1677836865.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tonikaku-kawaii-seifuku-episode-1"
+                }
+            }
+        },
+        "isFiller": false,
+        "downloadLink": {
+            "DUBBED": "MjAyMzc4",
+            "SUBBED": "MTk1MjU2"
+        }
+    }
 }

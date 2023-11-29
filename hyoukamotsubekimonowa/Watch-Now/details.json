@@ -1,20 +1,36 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=hyouka-motsubeki-mono-wa-episode-",
-        "down_links": [
-            "MTQ4NDc3"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=hyouka-motsubeki-mono-wa-dub-episode-",
-        "down_links": [
-            "MTQ4NDc4"
-        ]
-    },
-    "episodes_names": [
-        "OVA"
-    ],
-    "fillers": []
+    "1": {
+        "intro": {
+            "end": null,
+            "start": null
+        },
+        "title": "OVA",
+        "source": {
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www009.anifastcdn.info/videos/hls/-2-gdcxjDzcN0LWJQgRwYQ/1698262012/148478/15b03c23ed3aedd7584075b591052239/ep.1.1677625043.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=hyouka-motsubeki-mono-wa-episode-dub-1"
+                }
+            },
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/e871b0c7bc9a3b158d15353ca2325ee6062823adf5f9bbf2165f4a8f433451fe1a1ad084e693909681c0fd7f8aaf2b5a7c1abb1e6f8e0f7c85c5296d3d8eeb2d63ad899ad590cdbeaf71418595ce8368208e98ad96b19a6318f8557707c19ce4972e940d61636629af0678c510a05b63f5f78b636fe2bc5080d11b9a18dd6a8a/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/93/37/93371852fa8892ecd4d135c2568c2f93/93371852fa8892ecd4d135c2568c2f93.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www008.anifastcdn.info/videos/hls/zfBfbkWJfmYjh0YEnIfIZQ/1698262009/148477/2bf93527b9e1efa5e91ba479951dba35/ep.1.1677612232.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=hyouka-motsubeki-mono-wa-episode-1"
+                }
+            }
+        },
+        "isFiller": false,
+        "downloadLink": {
+            "DUBBED": "MTQ4NDc4",
+            "SUBBED": "MTQ4NDc3"
+        }
+    }
 }

@@ -1,33 +1,36 @@
 {
     "1": {
+        "intro": {
+            "end": null,
+            "start": null
+        },
         "title": "Full",
-        "isFiller": false,
         "source": {
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www019.anifastcdn.info/videos/hls/-WaAo2dyHs5XYDaCDse98A/1698345153/112998/040dece697d8fa2a00e847f38f96e474/ep.1.1677687373.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=uchiage-hanabi-shita-kara-miru-ka-yoko-kara-miru-ka-episode-dub-1"
+                }
+            },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/d85c2b57fd764fbcae7e94bf19f47cf3e726db2a57479110239212bf4e1be7aa68939c00be8dee8e69d433a02790efee53fb792194605374084aa24c0d7d0fdd8d412115dd5ea4b10eaee784f7db02d3a860a6eb881c72e5514504f064084210c42bbea583510ec37b9d1134a5ded388429768d02af407bcf6e616cf545bb08e/master.m3u8",
                     "captions": "https://ccb.megaresources.co/a8/f8/a8f834160cda7a566badb11dc6e27de7/a8f834160cda7a566badb11dc6e27de7.vtt"
                 },
                 "Vid Streaming": {
-                    "link": "https://www026.vipanicdn.net/streamhls/7897eb00f4156fe5f7cb4271dcfb268e/ep.1.1677687605.m3u8"
+                    "link": "https://www026.anifastcdn.info/videos/hls/l_ZEEiL4-mdfNbJYkG7b7g/1698345151/105145/7897eb00f4156fe5f7cb4271dcfb268e/ep.1.1677687605.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=uchiage-hanabi-shita-kara-miru-ka-yoko-kara-miru-ka-episode-1"
                 }
-            },
-            "DUBBED": {
-                "Vid Streaming": {
-                    "link": "https://www019.vipanicdn.net/streamhls/040dece697d8fa2a00e847f38f96e474/ep.1.1677687373.m3u8"
-                },
-                "Awesome Stream": {
-                    "link": "https://player.ryuk.to?id=uchiage-hanabi-shita-kara-miru-ka-yoko-kara-miru-ka-dub-episode-1"
-                }
             }
         },
+        "isFiller": false,
         "downloadLink": {
-            "SUBBED": "MTA1MTQ1",
-            "DUBBED": "MTEyOTk4"
-        },
-        "intro": null
+            "DUBBED": "MTEyOTk4",
+            "SUBBED": "MTA1MTQ1"
+        }
     }
 }

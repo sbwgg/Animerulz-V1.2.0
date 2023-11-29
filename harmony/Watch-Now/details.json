@@ -1,20 +1,36 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=harmony-episode-",
-        "down_links": [
-            "NzE2MjU"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=harmony-dub-episode-",
-        "down_links": [
-            "MTk1ODY5"
-        ]
-    },
-    "episodes_names": [
-        "Harmony",
-        "Harmony"
-    ]
+    "1": {
+        "intro": {
+            "end": null,
+            "start": null
+        },
+        "title": "Full",
+        "source": {
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www040.anifastcdn.info/videos/hls/U9FN21nfy9vOf2fmPc3DSA/1698259289/195869/519075ab31e027abfb269d3f20c591ee/ep.1.1677816605.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=harmony-episode-dub-1"
+                }
+            },
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/7ce687a6fca04ace171fa491c738aa5232dda82da31b6a09ecc9505aae15cd395f4732988ef1272b52eae1666fd0f88055860fc966e98bc3464eb325ae4fcc5af7632b79d0cf1a86ffe5f840498e21664484c7f86f63f836c735cb4b5a9bb36d48528cec2e66ebfa7e4d60167fe92ae5f1cccb24303796b70efd0c2a6752f392/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/a3/78/a37896b814b24fc98107b65ddfa7b768/a37896b814b24fc98107b65ddfa7b768.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www016.anifastcdn.info/videos/hls/8Sd0ZZC-TlLjntIDyl-aPA/1698259286/71625/5de76d73adaf2ac6122283665dbde2a6/ep.1.1677665218.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=harmony-episode-1"
+                }
+            }
+        },
+        "isFiller": false,
+        "downloadLink": {
+            "DUBBED": "MTk1ODY5",
+            "SUBBED": "NzE2MjU="
+        }
+    }
 }

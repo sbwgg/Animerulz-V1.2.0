@@ -1,33 +1,36 @@
 {
     "1": {
+        "intro": {
+            "end": null,
+            "start": null
+        },
         "title": "Full",
-        "isFiller": false,
         "source": {
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www026.anifastcdn.info/videos/hls/BtW2syeNUR2yOpqUiabn9w/1698342569/91525/017e3a9c81aefd65c3eb389ee5384de5/ep.1.1677679705.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=the-cat-returns-episode-dub-1"
+                }
+            },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/be35b181f06761527e6876468bab36909d8834209e296e01915c4ff9f15afa33c670f926fe55b0c693f5c43dcdd184279f5853adc435e899ad74d9a1c4ef435a222522a76657a755b7a27509a9ed5368523338d51494a16816a712bcdd67178a5d1de736fc0bf233baabf8362834f6f135f4456648d69bddc33e4e83c7c0378e/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/6a/a9/6aa9353f4d4c4f4343cf3b14fde04a28/ara-3.vtt"
+                    "captions": "https://ccb.megaresources.co/6a/a9/6aa9353f4d4c4f4343cf3b14fde04a28/eng-2.vtt"
                 },
                 "Vid Streaming": {
-                    "link": "https://www010.vipanicdn.net/streamhls/a2a257d1b68a94986e7b88649f71b87a/ep.1.1677659147.m3u8"
+                    "link": "https://www010.anifastcdn.info/videos/hls/0m3c199rSTEew9WC6D25dA/1698342566/40809/a2a257d1b68a94986e7b88649f71b87a/ep.1.1677659147.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=the-cat-returns-episode-1"
                 }
-            },
-            "DUBBED": {
-                "Vid Streaming": {
-                    "link": "https://www026.vipanicdn.net/streamhls/017e3a9c81aefd65c3eb389ee5384de5/ep.1.1677679705.m3u8"
-                },
-                "Awesome Stream": {
-                    "link": "https://player.ryuk.to?id=the-cat-returns-dub-episode-1"
-                }
             }
         },
+        "isFiller": false,
         "downloadLink": {
-            "SUBBED": "NDA4MDk=",
-            "DUBBED": "OTE1MjU="
-        },
-        "intro": null
+            "DUBBED": "OTE1MjU=",
+            "SUBBED": "NDA4MDk="
+        }
     }
 }

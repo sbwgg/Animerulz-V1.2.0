@@ -1,33 +1,36 @@
 {
     "1": {
+        "intro": {
+            "end": null,
+            "start": null
+        },
         "title": "Full",
-        "isFiller": false,
         "source": {
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www047.anifastcdn.info/videos/hls/xaQNoo7RVjGaQhIwwqnw2Q/1698323495/149826/9f84de928d3518539af94a56ef7c6b16/ep.1.1696417743.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=rezero-kara-hajimeru-isekai-seikatsu-memory-snow-episode-dub-1"
+                }
+            },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/8edf850724cece8e99e7335aa9deb9391b91c63a1c27de618324c38989eee3ce87dc127f0db5e12ceb34e1c15e9e5a14ab3e0d94254915dc8aa7883380b2d16710e6e107bb1eb6b82d58cec9d9f4da5e67a0aec39070876d633881908333b038698707e44e2681a89216eb258f825ca20faf999463d96592a8ca81852f4f5121/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/58/54/585443938fe081ab799c4261f0a8a52d/ara-3.vtt"
+                    "captions": "https://ccb.megaresources.co/58/54/585443938fe081ab799c4261f0a8a52d/eng-2.vtt"
                 },
                 "Vid Streaming": {
-                    "link": "https://www024.vipanicdn.net/streamhls/27fcb14a52b60f6b4ecc820a63417cad/ep.1.1677695919.m3u8"
+                    "link": "https://www024.anifastcdn.info/videos/hls/ouQEvv_ISWTUFWI2G9kABQ/1698323492/122513/27fcb14a52b60f6b4ecc820a63417cad/ep.1.1677695919.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=rezero-kara-hajimeru-isekai-seikatsu-memory-snow-episode-1"
                 }
-            },
-            "DUBBED": {
-                "Vid Streaming": {
-                    "link": "https://www047.vipanicdn.net/streamhls/9f84de928d3518539af94a56ef7c6b16/ep.1.1696417743.m3u8"
-                },
-                "Awesome Stream": {
-                    "link": "https://player.ryuk.to?id=rezero-kara-hajimeru-isekai-seikatsu-memory-snow-dub-episode-1"
-                }
             }
         },
+        "isFiller": false,
         "downloadLink": {
-            "SUBBED": "MTIyNTEz",
-            "DUBBED": "MTQ5ODI2"
-        },
-        "intro": null
+            "DUBBED": "MTQ5ODI2",
+            "SUBBED": "MTIyNTEz"
+        }
     }
 }

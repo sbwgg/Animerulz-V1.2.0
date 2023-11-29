@@ -1,20 +1,36 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=fruits-basket-prelude-episode-",
-        "down_links": [
-            "MTg2MjQ2"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=fruits-basket-prelude-dub-episode-",
-        "down_links": [
-            "MTkzMzYz"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "intro": {
+            "end": null,
+            "start": null
+        },
+        "title": "Full",
+        "source": {
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www014.anifastcdn.info/videos/hls/I2aHBv6vfDDbpfFH6PyxZw/1698255293/193363/52d35e9d6098ac6d05f3a731ad9b10f1/ep.1.1677632519.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=fruits-basket-prelude-episode-dub-1"
+                }
+            },
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/0eb6462961d8ac52f4bb49b9caaf9344df4bc0d3d57ec271c4809630a91b3bda821d396228a204a94657d17c75df6b11747fa2cf70ff3d89b1446bf4afdc75615be841a619874ea4f960480e45b598796c310a1f8ba8ab07747f5a75bd9adb9e9d60d3b0142808783d5ab9964354230ed187b0d9e1d489fe306c3bb7653f6c86/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/aa/a1/aaa1f16d46cb617f939c3ae5018ec621/aaa1f16d46cb617f939c3ae5018ec621.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www007.anifastcdn.info/videos/hls/xIi335MgXhPkdPJtINGyrw/1698255290/186246/ded93b1c5440189a59d62dac1ab84c5c/ep.1.1677596228.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=fruits-basket-prelude-episode-1"
+                }
+            }
+        },
+        "isFiller": false,
+        "downloadLink": {
+            "DUBBED": "MTkzMzYz",
+            "SUBBED": "MTg2MjQ2"
+        }
+    }
 }

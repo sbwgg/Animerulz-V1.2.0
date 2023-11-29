@@ -1,20 +1,36 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=kamiarizuki-no-kodomo-episode-",
-        "down_links": [
-            "MTgwMjQ0"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=kamiarizuki-no-kodomo-dub-episode-",
-        "down_links": [
-            "MTgwMjU0"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "intro": {
+            "end": null,
+            "start": null
+        },
+        "title": "Full",
+        "source": {
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www015.anifastcdn.info/videos/hls/PJnfgRP5e51DFQQ23nHpog/1698264609/180254/48f38f855b388d938c98f1d646e42892/ep.1.1677637498.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=kamiarizuki-no-kodomo-episode-dub-1"
+                }
+            },
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/706f5585940863a341550057ceb5d9f530f76870bb9830a8b57623f98257a3c8ab362566900ae0b82bab5cba223fe3cc4206d0cd5f42b1cc9abd8acce5be24a2a95afc57554f69292e4b39eaf40f56658eaa11170f66f1dbf659e8bbd00da1286643836b8310ff1d6320d9625dc4753d7e5114a1455ac4fa4c10f65fe2ed2e73/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/47/1d/471d722908e0e74658b3274dceb22eac/eng-9.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www035.anifastcdn.info/videos/hls/PZ8XsR5F9CMzUllOztJoQA/1698264606/180244/47c3419cfaea17ecac81e84ea83b7274/ep.1.1677825001.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=kamiarizuki-no-kodomo-episode-1"
+                }
+            }
+        },
+        "isFiller": false,
+        "downloadLink": {
+            "DUBBED": "MTgwMjU0",
+            "SUBBED": "MTgwMjQ0"
+        }
+    }
 }

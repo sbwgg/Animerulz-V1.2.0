@@ -1,33 +1,36 @@
 {
     "1": {
+        "intro": {
+            "end": null,
+            "start": null
+        },
         "title": "Full",
-        "isFiller": false,
         "source": {
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www021.anifastcdn.info/videos/hls/D-T106EMEcruYNNJTtX4pw/1698298936/104120/295ce7ac86cdbe106b0c0ffb4ff47362/ep.1.1677681866.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=no-game-no-life-zero-episode-dub-1"
+                }
+            },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/bf8a576c47d7cf964fdc69149a47fc6cef1ddcc01f1e1a6978b01e939f5eba35dc7f3535c36a90be8a7aca874768ac3684c070455f05fbdf9579cbbf3dafaa4b49509f4efb88d6c9396e349e3381b9755c2045c7c918e5c093227dd116a67371bb79824d549179acbae6afc5499f4cfcbbdbde6cf4967efbfb77bc46049a1d59/master.m3u8",
                     "captions": "https://ccb.megaresources.co/73/21/732151ad05fdef05648a9e739dc7d006/eng-2.vtt"
                 },
                 "Vid Streaming": {
-                    "link": "https://www002.vipanicdn.net/streamhls/91e1e3716d47565fccd5fe1078446dc9/ep.1.1677599672.m3u8"
+                    "link": "https://www002.anifastcdn.info/videos/hls/h1_xpEGT4ZH_Duvf--ieEg/1698298934/104011/91e1e3716d47565fccd5fe1078446dc9/ep.1.1677599672.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=no-game-no-life-zero-episode-1"
                 }
-            },
-            "DUBBED": {
-                "Vid Streaming": {
-                    "link": "https://www021.vipanicdn.net/streamhls/295ce7ac86cdbe106b0c0ffb4ff47362/ep.1.1677681866.m3u8"
-                },
-                "Awesome Stream": {
-                    "link": "https://player.ryuk.to?id=no-game-no-life-zero-dub-episode-1"
-                }
             }
         },
+        "isFiller": false,
         "downloadLink": {
-            "SUBBED": "MTA0MDEx",
-            "DUBBED": "MTA0MTIw"
-        },
-        "intro": null
+            "DUBBED": "MTA0MTIw",
+            "SUBBED": "MTA0MDEx"
+        }
     }
 }

@@ -1,33 +1,36 @@
 {
     "1": {
+        "intro": {
+            "end": null,
+            "start": null
+        },
         "title": "Full",
-        "isFiller": false,
         "source": {
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www020.anifastcdn.info/videos/hls/3em2-lCfsrXRxQtzmh9t9w/1698272953/121099/223106fe4d9175466a24df4e341eb81e/ep.1.1677691596.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=mirai-no-mirai-episode-dub-1"
+                }
+            },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/a607a761342559bba8b7c6e6f10bf36178eb4750c5b1ce640d50c6499fe5d93c10e425d7335f3fee68ab09b4475613072ca0ece86fd10a4acf99201f14331035a147a8666db1099068ca724becdda42d53916a776b9d2eedc2e621ab83582682f38e0446e16794a95448ac4a5feadeffe4ce0dde410ab01cf89888a3e2074a77/master.m3u8",
                     "captions": "https://ccb.megaresources.co/0e/cd/0ecd41f9232fa3f7c0ca51bd0347d351/0ecd41f9232fa3f7c0ca51bd0347d351.vtt"
                 },
                 "Vid Streaming": {
-                    "link": "https://www017.vipanicdn.net/streamhls/b04f09b972768c4f420eb64991afd6c3/ep.1.1677689796.m3u8"
+                    "link": "https://www017.anifastcdn.info/videos/hls/-3jXspRUeCLph2z52k-KOQ/1698272950/113116/b04f09b972768c4f420eb64991afd6c3/ep.1.1677689796.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=mirai-no-mirai-episode-1"
                 }
-            },
-            "DUBBED": {
-                "Vid Streaming": {
-                    "link": "https://www020.vipanicdn.net/streamhls/223106fe4d9175466a24df4e341eb81e/ep.1.1677691596.m3u8"
-                },
-                "Awesome Stream": {
-                    "link": "https://player.ryuk.to?id=mirai-no-mirai-dub-episode-1"
-                }
             }
         },
+        "isFiller": false,
         "downloadLink": {
-            "SUBBED": "MTEzMTE2",
-            "DUBBED": "MTIxMDk5"
-        },
-        "intro": null
+            "DUBBED": "MTIxMDk5",
+            "SUBBED": "MTEzMTE2"
+        }
     }
 }

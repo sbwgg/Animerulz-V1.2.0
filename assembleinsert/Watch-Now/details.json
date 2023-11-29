@@ -1,23 +1,70 @@
 {
-    "jap": {
-        "no_epi": "2",
-        "link": "https://player.ryuk.to?id=assemble-insert-episode-",
-        "down_links": [
-            "NjM0NjU=",
-            "NjM0NjY="
-        ]
+    "1": {
+        "intro": {
+            "end": 256,
+            "start": 178
+        },
+        "title": "Episode 1",
+        "source": {
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www044.anifastcdn.info/videos/hls/XePsiyf6Bo3P3iVFmyKlzQ/1698164541/146083/5cd0d0782e461b64bbbcaa83f55a4f42/ep.1.1698137451.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=assemble-insert-episode-dub-1"
+                }
+            },
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/1e49b24903968bba47fa6b440d1f8f878e29a3d10caabeca042a1a2b374169de60f7255146c1a9f5cbedf4c3e0d006e259e3663ebab660ae14ad263f81fc5bc011d2625a019d586e677243b408c38629c3e8fd0ed3136eca4d78bc9bffa508070794a50712d2b9d780f6aad76afe64eb63382cf31ef1515dc52e02f6d025113d/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/5b/89/5b89e1b213f46efa726f5d3a7e6dbf9d/jpn-2.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www046.anifastcdn.info/videos/hls/mkkP7vcaZtG0XwaQIzECzA/1698164538/63465/1185f5462af3cdfb8e773b14d8b41abb/ep.1.1698136882.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=assemble-insert-episode-1"
+                }
+            }
+        },
+        "isFiller": false,
+        "downloadLink": {
+            "DUBBED": "MTQ2MDgz",
+            "SUBBED": "NjM0NjU="
+        }
     },
-    "eng": {
-        "no_epi": "2",
-        "link": "https://player.ryuk.to?id=assemble-insert-dub-episode-",
-        "down_links": [
-            "MTQ2MDgz",
-            "MTQ2MDg0"
-        ]
-    },
-    "episodes_names": [
-        "Episode 1",
-        "Episode 2"
-    ],
-    "fillers": []
+    "2": {
+        "intro": {
+            "end": 277,
+            "start": 198
+        },
+        "title": "Episode 2",
+        "source": {
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www045.anifastcdn.info/videos/hls/mFJMFgfIO7c11vc-5piuOQ/1698164541/146084/5cd0d0782e461b64bbbcaa83f55a4f42/ep.2.1698137888.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=assemble-insert-episode-dub-2"
+                }
+            },
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/ea48a1231a075a896786485016e401b9fa9d7dfcb645733d676321f8fcd5b4c314b6f8df42c72e56e54594821efbb775915f4a5107e21df7dbf746bf636be54fcb5cde5593cf05bf59fc1be5dbcf43d418b0386027bf399ce2903acb02cfc3117adec883db83cd0cab86f259ab51cdd27afed961223708a54e4991ac732c8ecc/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/b7/54/b7546e1355bcd4ff755f35f540b8ff35/jpn-2.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www047.anifastcdn.info/videos/hls/AJNHL9qA7EQlQEP7EC5DCg/1698164538/63466/1185f5462af3cdfb8e773b14d8b41abb/ep.2.1698136942.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=assemble-insert-episode-2"
+                }
+            }
+        },
+        "isFiller": false,
+        "downloadLink": {
+            "DUBBED": "MTQ2MDg0",
+            "SUBBED": "NjM0NjY="
+        }
+    }
 }

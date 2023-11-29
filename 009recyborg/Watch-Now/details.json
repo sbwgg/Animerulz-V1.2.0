@@ -1,20 +1,36 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=009-recyborg-episode-",
-        "down_links": [
-            "NDA3Nzk="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=009-recyborg-dub-episode-",
-        "down_links": [
-            "NzMyOTg="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "intro": {
+            "end": null,
+            "start": null
+        },
+        "title": "Full",
+        "source": {
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www009.anifastcdn.info/videos/hls/O1aEIR3xi_56h0hqL6ZfJA/1698160818/73298/409cc8cfbeb31359e41030175a223289/ep.1.1677618268.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=009-recyborg-episode-dub-1"
+                }
+            },
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/cfc608d2582c16df34ae29697ea8feef138f0b73c45dfbd511908e41beaeea81a4bc93c91f3a659f4a27facc217fc970faed21b7f4e56388488b7562b7cc088d11af457e9b4ce4341caa8af6553e7e6deac688af84a0a160953555588040ad906accdbc2f5a992414c3c1b4f6116f99c93b374356300fe743a80518ca9affa57/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/c1/9f/c19ff5eeaecdfb03fda9857c603f2d0b/c19ff5eeaecdfb03fda9857c603f2d0b.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www010.anifastcdn.info/videos/hls/ST1TKY3P5tJwStMiS4KZVg/1698160815/40779/d2231cbf015413bd5d379f3002c84175/ep.1.1677659106.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=009-recyborg-episode-1"
+                }
+            }
+        },
+        "isFiller": false,
+        "downloadLink": {
+            "DUBBED": "NzMyOTg=",
+            "SUBBED": "NDA3Nzk="
+        }
+    }
 }

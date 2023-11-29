@@ -1,33 +1,36 @@
 {
     "1": {
+        "intro": {
+            "end": null,
+            "start": null
+        },
         "title": "Full",
-        "isFiller": false,
         "source": {
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www019.anifastcdn.info/videos/hls/2qmqL-U0b39M3PnAlXW_3w/1698274424/147138/146ee02e9999411e970fc79310fa9386/ep.1.1677700895.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=nanatsu-no-taizai-movie-tenkuu-no-torawarebito-episode-dub-1"
+                }
+            },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/5dae28b9153776b45868bc18d171892051375da321825964a79c7574aa644a668b7ca6f644d280184e5d036eb8aea74b39acd296ff5a034f0e47e687e4a2948d8c92f83ef46b5fb28766ff265a3087e6bffaa082d98a248198acdbaa784af930fc4467540b0e8eea3253c4de21f4356029ad412b970596c9703967497599cd53/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/c3/36/c33602f27f4248b9f9bb7794fced05d8/ara-20.vtt"
+                    "captions": "https://ccb.megaresources.co/c3/36/c33602f27f4248b9f9bb7794fced05d8/eng-2.vtt"
                 },
                 "Vid Streaming": {
-                    "link": "https://www008.vipanicdn.net/streamhls/ace6a7051684284a96925ded37b20985/ep.1.1677601147.m3u8"
+                    "link": "https://www008.anifastcdn.info/videos/hls/CJ0bkhXoydklLg3yyTc0YA/1698274422/112207/ace6a7051684284a96925ded37b20985/ep.1.1677601147.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=nanatsu-no-taizai-movie-tenkuu-no-torawarebito-episode-1"
                 }
-            },
-            "DUBBED": {
-                "Vid Streaming": {
-                    "link": "https://www019.vipanicdn.net/streamhls/146ee02e9999411e970fc79310fa9386/ep.1.1677700895.m3u8"
-                },
-                "Awesome Stream": {
-                    "link": "https://player.ryuk.to?id=nanatsu-no-taizai-movie-tenkuu-no-torawarebito-dub-episode-1"
-                }
             }
         },
+        "isFiller": false,
         "downloadLink": {
-            "SUBBED": "MTEyMjA3",
-            "DUBBED": "MTQ3MTM4"
-        },
-        "intro": null
+            "DUBBED": "MTQ3MTM4",
+            "SUBBED": "MTEyMjA3"
+        }
     }
 }

@@ -1,33 +1,36 @@
 {
     "1": {
+        "intro": {
+            "end": null,
+            "start": null
+        },
         "title": "Full",
-        "isFiller": false,
         "source": {
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www055.anifastcdn.info/videos/hls/rG6QCAUb6hx1Dtfk_jGy8A/1698253858/205609/d469609ec53e4a5af379dfd070e16e60/ep.1.1686024555.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=eien-no-831-episode-dub-1"
+                }
+            },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/4ac49a2a8053314024afaa6619067b0d8f02466e4b58b45fb2e0a53b806ae7ac83241f7c0aaaaca642a0fbef69edbf67e37415097f9b46aa9fa376a879f8527c8acc9ae7944574b2c9798cefa5206db722bd44afb1c79d38db5df126ab0eba05448e4d860e7deb4cad066c761db5c10efda41f4ff0ff85562fac31ee64a1acf4/master.m3u8",
                     "captions": "https://ccb.megaresources.co/9a/c6/9ac633c664ccb2e94eac3a7be582ec16/eng-2.vtt"
                 },
                 "Vid Streaming": {
-                    "link": "https://www053.vipanicdn.net/streamhls/90a9cad0cae2185528105b86792fdeba/ep.1.1686024680.m3u8"
+                    "link": "https://www053.anifastcdn.info/videos/hls/7859H25mfuYrskUPb21avg/1698253855/205607/90a9cad0cae2185528105b86792fdeba/ep.1.1686024680.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=eien-no-831-episode-1"
                 }
-            },
-            "DUBBED": {
-                "Vid Streaming": {
-                    "link": "https://www055.vipanicdn.net/streamhls/d469609ec53e4a5af379dfd070e16e60/ep.1.1686024555.m3u8"
-                },
-                "Awesome Stream": {
-                    "link": "https://player.ryuk.to?id=eien-no-831-dub-episode-1"
-                }
             }
         },
+        "isFiller": false,
         "downloadLink": {
-            "SUBBED": "MjA1NjA3",
-            "DUBBED": "MjA1NjA5"
-        },
-        "intro": null
+            "DUBBED": "MjA1NjA5",
+            "SUBBED": "MjA1NjA3"
+        }
     }
 }

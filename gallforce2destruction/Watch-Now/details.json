@@ -1,20 +1,36 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=gall-force-2-destruction-episode-",
-        "down_links": [
-            "MTQxNjc2"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=gall-force-2-destruction-dub-episode-",
-        "down_links": [
-            "MTA3MDA5"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "intro": {
+            "end": null,
+            "start": null
+        },
+        "title": "Full",
+        "source": {
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www030.anifastcdn.info/videos/hls/wObjtSkZ_MLHLoudSNy7Dw/1698256090/107009/6d9005158c9af307080db73ab74e13b4/ep.1.1677683327.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gall-force-2-destruction-episode-dub-1"
+                }
+            },
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/dd3fc649b99181f9d60485f311ea03f12f0e2ac239085c5297b1327695319e6c59b69cf7eb02a327f12df5c7ad5cfef027029ad948987693ba2db7a25e8d708688942d723e0aeaee9700f9cbb58deabda8dd07cbc3b338dd1cbd0b983c5bf97c5662948284524889185e19a67e3eacaa940424847c789c9b2d380fc556a4c5e4/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/ab/36/ab3613355e394059b6fac8a515e33aec/ab3613355e394059b6fac8a515e33aec.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www017.anifastcdn.info/videos/hls/35OXHBdLsQuMLX5LZshgyw/1698256087/141676/552ae2f9749d606a1e32a671267a7e71/ep.1.1677702376.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=gall-force-2-destruction-episode-1"
+                }
+            }
+        },
+        "isFiller": false,
+        "downloadLink": {
+            "DUBBED": "MTA3MDA5",
+            "SUBBED": "MTQxNjc2"
+        }
+    }
 }

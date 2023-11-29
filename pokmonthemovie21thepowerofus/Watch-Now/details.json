@@ -1,33 +1,36 @@
 {
     "1": {
+        "intro": {
+            "end": null,
+            "start": null
+        },
         "title": "Full",
-        "isFiller": false,
         "source": {
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www001.anifastcdn.info/videos/hls/A24ZzS01EXnXgY8l93bq7Q/1698306821/111690/5767b7574f2f8a55c15af8e7f7acfc13/ep.1.1677689688.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=pokemon-movie-21-minna-no-monogatari-episode-dub-1"
+                }
+            },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/1683519ba3ff5b6a19dc59808ed1f720eb90e8fe3bafbb2c22e57ab17cdc415f877d4708de87e1b85e67631f48b0f938a10925b1e7fa36a23af23509c25d52616e9db7ed828e6bb9ccb5228c20c41dff9aea73e570119876572f3d419d287fa180ff6e80d80a3e2ff45dfad3b328b21fd438bbfe1acc392e18eb5a133ab9873e/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/e7/8a/e78aed4fc1bb318e94394f853fab0d76/cze-20.vtt"
+                    "captions": "https://ccb.megaresources.co/e7/8a/e78aed4fc1bb318e94394f853fab0d76/eng-14.vtt"
                 },
                 "Vid Streaming": {
-                    "link": "https://www028.vipanicdn.net/streamhls/fe72fb515175a1be8dfdf1cccbae62db/ep.1.1677689873.m3u8"
+                    "link": "https://www028.anifastcdn.info/videos/hls/4i9f3gMO25j7KnimXjMXiA/1698306819/112257/fe72fb515175a1be8dfdf1cccbae62db/ep.1.1677689873.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=pokemon-movie-21-minna-no-monogatari-episode-1"
                 }
-            },
-            "DUBBED": {
-                "Vid Streaming": {
-                    "link": "https://www001.vipanicdn.net/streamhls/5767b7574f2f8a55c15af8e7f7acfc13/ep.1.1677689688.m3u8"
-                },
-                "Awesome Stream": {
-                    "link": "https://player.ryuk.to?id=pokemon-movie-21-minna-no-monogatari-dub-episode-1"
-                }
             }
         },
+        "isFiller": false,
         "downloadLink": {
-            "SUBBED": "MTEyMjU3",
-            "DUBBED": "MTExNjkw"
-        },
-        "intro": null
+            "DUBBED": "MTExNjkw",
+            "SUBBED": "MTEyMjU3"
+        }
     }
 }

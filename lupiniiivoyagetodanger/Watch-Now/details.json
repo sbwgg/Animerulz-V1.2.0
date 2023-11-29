@@ -1,33 +1,36 @@
 {
     "1": {
+        "intro": {
+            "end": null,
+            "start": null
+        },
         "title": "Full",
-        "isFiller": false,
         "source": {
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www038.anifastcdn.info/videos/hls/SGJR3ssBFBWnVb1Ok9N7_w/1698270518/142807/10967374c4199554707e25178df6de7b/ep.1.1677836149.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=lupin-iii-lupin-ansatsu-shirei-episode-dub-1"
+                }
+            },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/82eca878c9d623203327000a44ec8c057a60b50023a5ce3810b5d2242a4d6c92ef786a3da32e316e94a67a95b0e63c1dc0ebab7a886cc859dcc72fce8667d53a8ea102cd5e1c7116893583bda84fe5d84af5357aca58b1b89f7a6a0bc65999075a9b93da723b04526f6bcd74e188edaac96a0364f2c7ff38b4e8bfe577681b09/master.m3u8",
                     "captions": "https://ccb.megaresources.co/50/8b/508b64de548bb7adf995d71fd8034d65/eng-3.vtt"
                 },
                 "Vid Streaming": {
-                    "link": "https://www042.vipanicdn.net/streamhls/9d0f45734d505a3d4eb43d70d67d0bd2/ep.1.1677851816.m3u8"
+                    "link": "https://www042.anifastcdn.info/videos/hls/Ryd-D_9NRS-1AIyNQ_9wOw/1698270516/142911/9d0f45734d505a3d4eb43d70d67d0bd2/ep.1.1677851816.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=lupin-iii-lupin-ansatsu-shirei-episode-1"
                 }
-            },
-            "DUBBED": {
-                "Vid Streaming": {
-                    "link": "https://www038.vipanicdn.net/streamhls/10967374c4199554707e25178df6de7b/ep.1.1677836149.m3u8"
-                },
-                "Awesome Stream": {
-                    "link": "https://player.ryuk.to?id=lupin-iii-lupin-ansatsu-shirei-dub-episode-1"
-                }
             }
         },
+        "isFiller": false,
         "downloadLink": {
-            "SUBBED": "MTQyOTEx",
-            "DUBBED": "MTQyODA3"
-        },
-        "intro": null
+            "DUBBED": "MTQyODA3",
+            "SUBBED": "MTQyOTEx"
+        }
     }
 }

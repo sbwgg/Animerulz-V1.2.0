@@ -1,20 +1,36 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=riding-bean-episode-",
-        "down_links": [
-            "MTM4OTk3"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=riding-bean-dub-episode-",
-        "down_links": [
-            "OTkzMDE="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "intro": {
+            "end": null,
+            "start": null
+        },
+        "title": "Full",
+        "source": {
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www002.anifastcdn.info/videos/hls/SNnMrj6Y-2d-bZZy4n4F-w/1698334366/99301/c1f02e4b838fe800c819b1aabfb7a0ab/ep.1.1677678801.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=riding-bean-episode-dub-1"
+                }
+            },
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/a635c43456ac913e43fdc6a6e6ae5c752e69e7892454bbc75f975c06a88f45080f83a291c925200f5aa8109a3f5f2702a9aacc6daf6b0800f519e491069050358731fbf891910c75fb9f0a82d0c999c7c0d22e0d1f59f08438979e035b4bc2b3c4dc429a1e4a6caf3aaa0d84a7a453c239ba81aa703d088d50f0127a763937dc/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/be/3b/be3b11ce01415784390df11e00e4886a/be3b11ce01415784390df11e00e4886a.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www048.anifastcdn.info/videos/hls/pl5jSW4LRkhRuC_eoiZIMQ/1698334362/138997/08ec886719dd9dc3351414b51495811f/ep.1.1677857096.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=riding-bean-episode-1"
+                }
+            }
+        },
+        "isFiller": false,
+        "downloadLink": {
+            "DUBBED": "OTkzMDE=",
+            "SUBBED": "MTM4OTk3"
+        }
+    }
 }

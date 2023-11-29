@@ -1,18 +1,27 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=haiyore-nyaruko-san-f-episode-",
-        "down_links": [
-            "NTk5MTM"
-        ]
-    },
-    "eng": {
-        "no_epi": 0,
-        "link": "https://player.ryuk.to?id=haiyore-nyaruko-san-f-dub-episode-",
-        "down_links": []
-    },
-    "episodes_names": [
-        "Haiyore! Nyaruko-san F",
-        "Haiyore! Nyaruko-san F"
-    ]
+    "1": {
+        "intro": {
+            "end": null,
+            "start": null
+        },
+        "title": "Full",
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://ed.netmagcdn.com:2228/hls-playback/7cced205a4e2d6ff4a4e5bbc65af750f92d311722a7c3a9c66c15f61fd2648d7e7f894ffd1f3ab6299d31ce936f04c8be1636bfaf0dc374c5dc9e46ce0634d31d22296547956a5e8082df722aabeffce0f05aadef880df586edb8667734194696040aee7f6dfd570afa59f9593501e1a5a191688917d96b12669a4e78c11c4e4c63dd976abb766c54a1e6e476d5cbd97/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/d7/ae/d7aeebb7ecc2202bd10c8df9e879fd03/d7aeebb7ecc2202bd10c8df9e879fd03.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www004.anifastcdn.info/videos/hls/sr1xomV-TKailxmqt2Odyg/1698258627/59913/f5f3d0b9d1bf1f62b432cd3262b8f34e/ep.1.1677663143.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=haiyore-nyaruko-san-f-episode-1"
+                }
+            }
+        },
+        "isFiller": false,
+        "downloadLink": {
+            "SUBBED": "NTk5MTM="
+        }
+    }
 }

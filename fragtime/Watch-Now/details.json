@@ -1,20 +1,36 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=fragtime-episode-",
-        "down_links": [
-            "MTM5NTAz"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=fragtime-dub-episode-",
-        "down_links": [
-            "MTk2MzAy"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "intro": {
+            "end": null,
+            "start": null
+        },
+        "title": "Full",
+        "source": {
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www033.anifastcdn.info/videos/hls/IP-hVtMADFEPxfEPXWOcBA/1698255146/196302/6b93099428ed6d7cbebdc46684d1d44e/ep.1.1677815352.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=fragtime-episode-dub-1"
+                }
+            },
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/d9e70d1f961b020c1f4fd1b5ba33b74cf086d50eedaa35f504194c7fc16ffddc0f33a9dce9910335119da6ec07444241639881caefe0c3c49a5888d9b4aca2d957cd64c79691679c04cc8f4016c33ac91c1186566c93707d3782cd76cd095b3135e0f21b45795e1605c180ff71b09440ff1990ea34a6a44732d38fd1cfeac250/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/e5/b9/e5b9ddb8ac3e3110169a7bf1a6c4dafe/e5b9ddb8ac3e3110169a7bf1a6c4dafe.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www004.anifastcdn.info/videos/hls/lN2dOTK3tZAjG8s_qUKcQw/1698255143/139503/a3c205d1bb35f374f3792ea216042f09/ep.1.1677693224.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=fragtime-episode-1"
+                }
+            }
+        },
+        "isFiller": false,
+        "downloadLink": {
+            "DUBBED": "MTk2MzAy",
+            "SUBBED": "MTM5NTAz"
+        }
+    }
 }

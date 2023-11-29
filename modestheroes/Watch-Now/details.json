@@ -1,33 +1,36 @@
 {
     "1": {
+        "intro": {
+            "end": null,
+            "start": null
+        },
         "title": "Full",
-        "isFiller": false,
         "source": {
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www026.anifastcdn.info/videos/hls/c249c4EatPUnwuteVqcqQg/1698249365/115825/0e131ce16a6aff92268cd431dc70c99a/ep.1.1677694348.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=chiisana-eiyuu-kani-to-tamago-to-toumei-ningen-episode-dub-1"
+                }
+            },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/f159998423746b581705cba1174794a39c7bb29ec6d4477de545c7eaef224d4fc671fb83666681bcff271e371a9013a598f690b06c70e83eb94fd3e8f3089d6b5dce40f2930031f3ae5f0020c65e560e0ee00eeab57ef2d9e0a415bbe8774299fe0c8ad5d6ceb00a52c0060a15b657ab981a2d83091206b4f923725ee1f426e4/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/a7/31/a731522dbb0004129e140e74c70e6cf4/ara-3.vtt"
+                    "captions": "https://ccb.megaresources.co/a7/31/a731522dbb0004129e140e74c70e6cf4/eng-2.vtt"
                 },
                 "Vid Streaming": {
-                    "link": "https://www025.vipanicdn.net/streamhls/71e8a6c88f12aafc16c6a2db10589e7a/ep.1.1677778908.m3u8"
+                    "link": "https://www025.anifastcdn.info/videos/hls/xeqVeq0RtFeMN9LwCGgreg/1698249361/115824/71e8a6c88f12aafc16c6a2db10589e7a/ep.1.1677778908.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=chiisana-eiyuu-kani-to-tamago-to-toumei-ningen-episode-1"
                 }
-            },
-            "DUBBED": {
-                "Vid Streaming": {
-                    "link": "https://www026.vipanicdn.net/streamhls/0e131ce16a6aff92268cd431dc70c99a/ep.1.1677694348.m3u8"
-                },
-                "Awesome Stream": {
-                    "link": "https://player.ryuk.to?id=chiisana-eiyuu-kani-to-tamago-to-toumei-ningen-dub-episode-1"
-                }
             }
         },
+        "isFiller": false,
         "downloadLink": {
-            "SUBBED": "MTE1ODI0",
-            "DUBBED": "MTE1ODI1"
-        },
-        "intro": null
+            "DUBBED": "MTE1ODI1",
+            "SUBBED": "MTE1ODI0"
+        }
     }
 }

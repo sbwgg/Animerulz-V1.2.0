@@ -1,20 +1,36 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=bright-samurai-soul-episode-",
-        "down_links": [
-            "MTcyNDUy"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=bright-samurai-soul-dub-episode-",
-        "down_links": [
-            "MTcyNDU0"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "intro": {
+            "end": null,
+            "start": null
+        },
+        "title": "Full",
+        "source": {
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www045.anifastcdn.info/videos/hls/dwoASXZE9oKs-tRQZQWUsw/1698248230/172454/4d1baa55939a20e5172421e9386d5673/ep.1.1677852369.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=bright-samurai-soul-episode-dub-1"
+                }
+            },
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/19834979b716650b0cc5ff511452692e7c01aeaef1343177a505e1e4a6c94c56aca38e3dea2ec61badb78908212a0c8502f461facbfab4fc144c91a360eb41360927b08e868d418354d4a676e82b2b7c614f66bfe09e3cc14d17cf243490a00d30c866efd309fc80d62a258a89a2d75abe267b293ea139626415cb07310f5159/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/eng-2.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www043.anifastcdn.info/videos/hls/-Z_rLNLAVQIlSQ-W3_RYOQ/1698248226/172452/e2713041503bb4ab8c882ffee55a278a/ep.1.1677847222.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=bright-samurai-soul-episode-1"
+                }
+            }
+        },
+        "isFiller": false,
+        "downloadLink": {
+            "DUBBED": "MTcyNDU0",
+            "SUBBED": "MTcyNDUy"
+        }
+    }
 }

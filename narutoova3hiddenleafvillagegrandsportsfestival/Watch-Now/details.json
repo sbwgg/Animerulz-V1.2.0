@@ -1,22 +1,36 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=naruto-dai-katsugeki-yuki-hime-shinobu-houjou-dattebayo-konoha-no-sato-no-dai-undouaki-episode-",
-        "down_links": [
-            "MTIyNjM0"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=naruto-dai-katsugeki-yuki-hime-shinobu-houjou-dattebayo-konoha-no-sato-no-dai-undouaki-dub-episode-",
-        "down_links": [
-            "MTIyNjM1"
-        ]
-    },
-    "episodes_names": [
-        "OVA"
-    ],
-    "fillers": [
-        1
-    ]
+    "1": {
+        "intro": {
+            "end": null,
+            "start": null
+        },
+        "title": "OVA",
+        "source": {
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www026.anifastcdn.info/videos/hls/_M1nJi_E3b3d0Og5B5hxOg/1698298182/122635/2c9b2a90d1034695ecea4dcb184f21dc/ep.1.1677697794.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=naruto-dai-katsugeki-yuki-hime-shinobu-houjou-dattebayo-konoha-no-sato-no-dai-undouaki-episode-dub-1"
+                }
+            },
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/60740cdc05599faabf00c458d650c479543d16b9fcd0bb95b89d1b28b7263bc3121c62f6e2ed7d1f5cf9966db0f59746c9a7ab5227360bd40b1feb594c8dcd1e1eafb94d4fdb18f8f0ab71e6f2a08f244dbdf2274271f3c3f8a24ef72a84c71abec6e8b2d5931ec5dd061b9e07981ab9649b572423e07667c0bc6e646f9bbc1e/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/51/f7/51f7cc489f41c83cfae9d4e4a6183631/eng-2.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www025.anifastcdn.info/videos/hls/2VR05TgQvrkEIjTmp0pftQ/1698298177/122634/71d933f0b74f1c8590041df7240231d3/ep.1.1677791151.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=naruto-dai-katsugeki-yuki-hime-shinobu-houjou-dattebayo-konoha-no-sato-no-dai-undouaki-episode-1"
+                }
+            }
+        },
+        "isFiller": true,
+        "downloadLink": {
+            "DUBBED": "MTIyNjM1",
+            "SUBBED": "MTIyNjM0"
+        }
+    }
 }

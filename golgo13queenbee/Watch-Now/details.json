@@ -1,20 +1,36 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=golgo-13-queen-bee-episode-",
-        "down_links": [
-            "MTE0MDMx"
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=golgo-13-queen-bee-dub-episode-",
-        "down_links": [
-            "MTA3MTg1"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "intro": {
+            "end": null,
+            "start": null
+        },
+        "title": "Full",
+        "source": {
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www026.anifastcdn.info/videos/hls/qjXvZPfLLNB775_DhhSroQ/1698257744/107185/84b22e91860b68072f7b5e31f9210aca/ep.1.1677688939.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=golgo-13-queen-bee-episode-dub-1"
+                }
+            },
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/540abf3d18a963d866a7cb28067d3a595c8b5077f6cf04e32eb63e2fb68c76cf0894b9f8e46b1239a90b82b7fde8b63f8bf48c01342e6ca4dc5f073ce538893b8e3400e5a46d7107bda148a7b16b6b1fde7232635a3fdf7f9dd0e430983a708772de5f7252fa12de197571eccba5236f596acadb57faf0c72d90efb3c676fd96/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/d8/04/d8041cc787224e6a2c70f4c26d42f092/d8041cc787224e6a2c70f4c26d42f092.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www002.anifastcdn.info/videos/hls/n_AcoNt_sO8B9KTC2IQXTQ/1698257741/114031/287b9831bd83740bb8752b7119d6b35d/ep.1.1677684970.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=golgo-13-queen-bee-episode-1"
+                }
+            }
+        },
+        "isFiller": false,
+        "downloadLink": {
+            "DUBBED": "MTA3MTg1",
+            "SUBBED": "MTE0MDMx"
+        }
+    }
 }

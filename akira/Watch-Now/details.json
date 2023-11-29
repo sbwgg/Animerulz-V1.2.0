@@ -1,33 +1,36 @@
 {
     "1": {
+        "intro": {
+            "end": null,
+            "start": null
+        },
         "title": "Full",
-        "isFiller": false,
         "source": {
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www005.anifastcdn.info/videos/hls/sECd4kuz4us01YLOSr9SSg/1698162900/82204/43fcc5f21ac59db9865bf398e627a211/ep.1.1677672961.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=akira-episode-dub-1"
+                }
+            },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/e4632ff8de4a399fe72b241c58520610eda6d89cbedb06689c84bcfb480caa0a50b13ff77debc88159d501deab73084b131363ecb3fcf28ec9c4724e25361a1254722450944f617671369e362d0107735e94975ae71e27b993a57d394b2a2bc53ddcb13c312393ae73b86a364d17340a66bf08dd686ca226a574d09f15cb7b4a/master.m3u8",
                     "captions": "https://ccb.megaresources.co/fd/80/fd802d93ac88a3fc431d41a06a8b1b59/fd802d93ac88a3fc431d41a06a8b1b59.vtt"
                 },
                 "Vid Streaming": {
-                    "link": "https://www004.vipanicdn.net/streamhls/e0863a74655d512e7963ef09efd24bc8/ep.1.1677601317.m3u8"
+                    "link": "https://www004.anifastcdn.info/videos/hls/PRVuBe1jxFY0OxxXjbFUdg/1698162896/40353/e0863a74655d512e7963ef09efd24bc8/ep.1.1677601317.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=akira-episode-1"
                 }
-            },
-            "DUBBED": {
-                "Vid Streaming": {
-                    "link": "https://www005.vipanicdn.net/streamhls/43fcc5f21ac59db9865bf398e627a211/ep.1.1677672961.m3u8"
-                },
-                "Awesome Stream": {
-                    "link": "https://player.ryuk.to?id=akira-dub-episode-1"
-                }
             }
         },
+        "isFiller": false,
         "downloadLink": {
-            "SUBBED": "NDAzNTM=",
-            "DUBBED": "ODIyMDQ="
-        },
-        "intro": null
+            "DUBBED": "ODIyMDQ=",
+            "SUBBED": "NDAzNTM="
+        }
     }
 }

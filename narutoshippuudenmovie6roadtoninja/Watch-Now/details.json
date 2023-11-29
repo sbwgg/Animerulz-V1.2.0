@@ -1,22 +1,29 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=naruto-shippuuden-movie-6-road-to-ninja-episode-",
-        "down_links": [
-            "NDA1OTQ="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=naruto-shippuuden-movie-6-road-to-ninja-dub-episode-",
-        "down_links": [
-            "MTUzNzA1"
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": [
-        1
-    ]
+    "1": {
+        "intro": null,
+        "title": "Full",
+        "source": {
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www016.anifastcdn.info/videos/hls/zO_tqMW83LO9A0lFoqH0EA/1698298200/153705/c0066a3101e8441c3aa0c5e31b6a4666/ep.1.1677705559.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=naruto-shippuuden-movie-6-road-to-ninja-episode-dub-1"
+                }
+            },
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www005.anifastcdn.info/videos/hls/Mzs58wi6HhIYr7OmV1yglw/1698298155/40594/19d06be2efebb1de9db337d2d932f846/ep.1.1677601565.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=naruto-shippuuden-movie-6-road-to-ninja-episode-1"
+                }
+            }
+        },
+        "isFiller": true,
+        "downloadLink": {
+            "DUBBED": "MTUzNzA1",
+            "SUBBED": "NDA1OTQ="
+        }
+    }
 }

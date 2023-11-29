@@ -1,20 +1,36 @@
 {
-    "jap": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=shakugan-no-shana-movie-episode-",
-        "down_links": [
-            "Mzc3MTE="
-        ]
-    },
-    "eng": {
-        "no_epi": "1",
-        "link": "https://player.ryuk.to?id=shakugan-no-shana-movie-dub-episode-",
-        "down_links": [
-            "ODc5MTU="
-        ]
-    },
-    "episodes_names": [
-        "Full"
-    ],
-    "fillers": []
+    "1": {
+        "intro": {
+            "end": null,
+            "start": null
+        },
+        "title": "Full",
+        "source": {
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www016.anifastcdn.info/videos/hls/hOq2KTAowUWOnIg8gOOEjw/1698337046/87915/a35406db3a9b09dac767ace6235a4252/ep.1.1677671508.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=shakugan-no-shana-movie-episode-dub-1"
+                }
+            },
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/e437e7c0bbe215571b0175b1c99e869639cc93a5acc4db4af5a47344a6d611b956129bb26a4e7aeac9164eb10d90d19c5935420ec0e64965c4ec2761f82c9e3c361755fc9b94b664584738c983ab255baa994c7adf9f6a3d08107631ce8763e4300b2cc109afc568188c124cc3e8e8e3aaf6c1a16bb69bfdb3e4ab39af388342/master.m3u8",
+                    "captions": "https://ccb.megaresources.co/8b/ea/8beaf3fb9a1ad4c1a001a8ddba2f39dc/8beaf3fb9a1ad4c1a001a8ddba2f39dc.vtt"
+                },
+                "Vid Streaming": {
+                    "link": "https://www002.anifastcdn.info/videos/hls/TgI-4P8lYGRAPSuFQ-nYJA/1698337044/37711/180050869029ea4392273645619e8945/ep.1.1677663673.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=shakugan-no-shana-movie-episode-1"
+                }
+            }
+        },
+        "isFiller": false,
+        "downloadLink": {
+            "DUBBED": "ODc5MTU=",
+            "SUBBED": "Mzc3MTE="
+        }
+    }
 }

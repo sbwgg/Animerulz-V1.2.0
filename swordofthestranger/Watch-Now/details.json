@@ -1,33 +1,36 @@
 {
     "1": {
+        "intro": {
+            "end": null,
+            "start": null
+        },
         "title": "Full",
-        "isFiller": false,
         "source": {
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www027.anifastcdn.info/videos/hls/NebvPcjyDdcoMd0NihbRHw/1698341005/90626/7dde98c048fab8ec5c065d2a2b1033da/ep.1.1677713649.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=sword-of-the-stranger-episode-dub-1"
+                }
+            },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/be09c9a6ff2c65479c512f1f74a609e6a30632bf459775d843b0399f8a18107aaf038d5e52a7c72d604f2de9c578e9ddcae46c41b40f122303d86a411b2e5aebf55ef85730903c5ad66e505d05fbaea1765406f8311eec4f883d8031075b15e5f4ef7a91931d895773da9133b6ccbbe2254c95a0a605b8b302ad95ef6df5c18e/master.m3u8",
                     "captions": "https://ccb.megaresources.co/4c/58/4c5814dcf795d7091205d9e139baff0e/eng-5.vtt"
                 },
                 "Vid Streaming": {
-                    "link": "https://www006.vipanicdn.net/streamhls/aefe6143340901e3ed9872d9772c6caa/ep.1.1677604318.m3u8"
+                    "link": "https://www006.anifastcdn.info/videos/hls/3isTPOFmZXw3_5QMuxCyFg/1698341002/40415/aefe6143340901e3ed9872d9772c6caa/ep.1.1677604318.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=sword-of-the-stranger-episode-1"
                 }
-            },
-            "DUBBED": {
-                "Vid Streaming": {
-                    "link": "https://www027.vipanicdn.net/streamhls/7dde98c048fab8ec5c065d2a2b1033da/ep.1.1677713649.m3u8"
-                },
-                "Awesome Stream": {
-                    "link": "https://player.ryuk.to?id=sword-of-the-stranger-dub-episode-1"
-                }
             }
         },
+        "isFiller": false,
         "downloadLink": {
-            "SUBBED": "NDA0MTU=",
-            "DUBBED": "OTA2MjY="
-        },
-        "intro": null
+            "DUBBED": "OTA2MjY=",
+            "SUBBED": "NDA0MTU="
+        }
     }
 }
