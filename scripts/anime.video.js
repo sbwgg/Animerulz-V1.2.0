@@ -303,7 +303,7 @@ function setShortEpisodes(presentEpisode){
     let episodeSection = document.querySelector("#episodes-in-section");
     episodeSection.setAttribute("style", 'display:grid; grid-template-columns: 100%;grid-gap:0 0;');
     let loader1 = document.getElementsByClassName("loading-animation-a-1")[0]
-    if(episodesHtml != "" && loader1){
+    if(temp != "" && loader1){
         loader1.style.display = 'none';
         episodeSection.style.minHeight = 'none'
     }

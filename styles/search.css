@@ -115,9 +115,6 @@ a{
         margin-top: 20px;
         padding: 1%;
     }
-    /* .anime-item-set{
-        width: 40%;
-    } */
 }
 @media only screen and (max-width:800px){
     .main-l-container___ .result-items-in-container___{
@@ -154,7 +151,7 @@ a{
 
 .loading-animation-a .animation-l-a{
     /* width: 50%; */
-    width: 200px;
+    width: 150px;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 5px;
@@ -167,8 +164,8 @@ a{
 }
 .animation-l-a .rings-cont{
     background-color: #faa300;
-    width: 60px;
-    height: 60px;
+    width: 40px;
+    height: 40px;
     border-radius: 50%;
     animation: newAnimation 1.5s infinite ease;
 }
@@ -196,10 +193,10 @@ a{
 
 @media only screen and (max-width:700px) {
     .loading-animation-a .animation-l-a{
-        width: 150px;
+        width: 100px;
     }
     .animation-l-a .rings-cont{
-        width: 40px;
-        height: 40px;
+        width: 30px;
+        height: 30px;
     }
 }
