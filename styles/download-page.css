@@ -1316,14 +1316,23 @@ div.video-player video{
       opacity: 1;
   }
 }
-
+@media only screen and (max-width:900px){
+  .loading-animation-a-1{
+    min-height: 350px;
+  }
+}
 @media only screen and (max-width:700px) {
   .loading-animation-a .animation-l-a{
-      width: 100px;
+      width: 70px;
   }
   .animation-l-a .rings-cont{
-      width: 30px;
-      height: 30px;
+      width: 20px;
+      height: 20px;
+  }
+}
+@media only screen and (max-width:550px){
+  .loading-animation-a-1{
+    min-height: 250px;
   }
 }
 .mega .super .anime-in-trending{
