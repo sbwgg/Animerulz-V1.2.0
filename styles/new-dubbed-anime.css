@@ -1,4 +1,3 @@
-
 .new-dubbed-animes .new-dubbed-container{
   width: 100%;
   margin-inline: auto;
@@ -206,6 +205,9 @@ position: relative;
 height: auto;
 cursor: pointer;
 }
+.span-2{
+grid-column: span 2;
+}
 .small-animes-a .item-a .anime-content-a{
 display: flex;
 flex-direction: column-reverse;
@@ -252,7 +254,7 @@ position: absolute;
 height: 100%;
 width: 100%;
 z-index: 1;
-background: linear-gradient(0deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.4) 20%, rgba(0,0,0,0.3) 40%, rgba(0,0,0,0.2) 60%, rgba(0,0,0,0.3) 80%, rgba(0,0,0,0.3) 100%);
+background: linear-gradient(0deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.6) 20%, rgba(0,0,0,0.4) 40%, rgba(0,0,0,0.2) 60%, rgba(0,0,0,0.3) 80%, rgba(0,0,0,0.3) 100%);
 }
 .small-animes-a .image-div-a img{
 height: 100%;
