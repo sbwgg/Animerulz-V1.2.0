@@ -39,7 +39,7 @@ getAnime();
 
 function getAnime(){
     let request = new XMLHttpRequest();
-    request.open("get", "details.json", true);
+    request.open("get", "https://animerulz.in/onepiece/Watch-Now/details.json", true);
     request.send();
     request.onload = function() {
         if(this.readyState == 4 && this.status == 200){
@@ -112,6 +112,7 @@ function getAnimeType(){
 
 //to set long anime episodes
 function setLongEpisodes(presentEpisode){
+
     let lowerLimit = Math.floor(presentEpisode / 100) * 100 + 1;
     let upperLimit = Math.ceil(presentEpisode / 100) * 100 ;
     lowerLimit = lowerLimit > upperLimit ? lowerLimit - 100 : lowerLimit;
@@ -196,7 +197,12 @@ function setLongAnimeEpisodes(lowerLimit, upperLimit, presentEpisode){
         }
     });
     let episodeSection = document.querySelector("#episodes-in-section");
-    episodeSection.setAttribute("style", 'grid-template-columns: repeat(auto-fit, 55px);');
+    episodeSection.setAttribute("style", 'display:grid;grid-template-columns: repeat(auto-fit, 55px);');
+    let loader1 = document.getElementsByClassName("loading-animation-a-1")[0];
+    if(episodesHtml != "" && loader1){
+        loader1.style.display = 'none';
+        episodeSection.style.minHeight = 'none'
+    }
     episodeSection.innerHTML = episodesHtml;
     let activeEpisode = episodeSection.querySelector(".active");
     if(activeEpisode)
@@ -295,7 +301,12 @@ function setShortEpisodes(presentEpisode){
 
 
     let episodeSection = document.querySelector("#episodes-in-section");
-    episodeSection.setAttribute("style", 'grid-template-columns: 100%;grid-gap:0 0;');
+    episodeSection.setAttribute("style", 'display:grid; grid-template-columns: 100%;grid-gap:0 0;');
+    let loader1 = document.getElementsByClassName("loading-animation-a-1")[0]
+    if(episodesHtml != "" && loader1){
+        loader1.style.display = 'none';
+        episodeSection.style.minHeight = 'none'
+    }
     episodeSection.innerHTML = temp;
     let activeEpisode = episodeSection.querySelector(".active-episode");
     if(activeEpisode)
@@ -413,6 +424,9 @@ function setServers(presentEpisode){
                     </div></div>`;
         }
         totalServers += temp;
+        let loader3 = document.getElementsByClassName("loading-animation-a-3")[0]
+        if(loader3)
+            loader3.style.display = 'none';
         document.querySelector('.video-a').innerHTML = totalServers;
     }else{
         let keys = Object.keys(data);
@@ -424,10 +438,10 @@ function setServers(presentEpisode){
         existingAudio = urlData.audio;
         if(animeType == 'short')
             setShortEpisodes(presentEpisode);
-        else
+        else 
             setLongEpisodes(presentEpisode);
         setServers(keys[0]);
-        changeUrl(presentEpisode)
+        changeUrl(presentEpisode);
     }
 }
 
@@ -444,6 +458,12 @@ function callSetActiveServers(presentAudio, presentEpisode, server){
 }
 
 function setActiveServers(presentAudio, presentEpisode, server = 'Vid Streaming'){
+    let loader2 = document.getElementsByClassName("loading-animation-a-2")[0];
+    if(loader2){
+        loader2.style.display = 'none';
+        document.querySelector("div.video-player").style.position = 'static';   
+    }
+
     setDownloadBtn();
     let otherLanguages = {
         'tel' : "Telugu",
@@ -924,8 +944,7 @@ function nextEpisode(){
         }
         try{
             document.querySelector(".control.next-episode").click();
-        }catch{}
-}
+        }catch{}}
 
 
 function setDownloadBtn(){
