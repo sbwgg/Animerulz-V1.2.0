@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
 html,body{
   margin: 0;
   padding:0;
@@ -443,6 +444,9 @@ h1{
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
+}
+.latest-dubbed-animes h2{
+  margin-bottom: 0;
 }
 .anchor-to-main a{
   color: rgba(255,255,255,0.5);
@@ -2090,26 +2094,53 @@ flex-wrap: wrap;
 /* for latest dubbed anime */
 
 .animes-in-container-dubbed{
-/* display: flex; */
-display: grid;
-margin-bottom: 40px;
+display: flex;
+/* display: grid; */
 width: 100%;
-grid-template-columns: repeat(4, 1fr);
+/* grid-template-columns: repeat(4, 1fr); */
 gap: 10px;
+overflow-x: scroll;
 }
-.animes-in-container-dubbed .anime-dubbed__{
-/* width: 100%; */
-height: 300px;
+.animes-in-container-dubbed::-webkit-scrollbar{
+  display: none;
+}
+.anime-dubbed__{
+max-width: 25vw;
+min-width: 350px;
+min-height: 300px;
 position: relative;
+transition: all 0.2s;
+border-radius: 20px;
+display: flex;
+justify-content: center;
+align-items: center;
 /* transition: all 0.5s; */
 /* background-color: #faa300; */
+}
+.anime-dubbed__::before{
+  transition: all 0.2s;
+  content: "";
+  height: 0%;
+  width: 0%;
+  position: absolute;
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+.animes-in-container-dubbed .anime-dubbed__:hover::before{
+  height: 100%;
+  width: 100%;
 }
 .animes-in-container-dubbed .anime-data-dubbed__{
 width: 100%;
 height: 100%;
+border-radius: 20px;
+overflow: hidden;
 }
 .animes-in-container-dubbed .anime-dubbed__ .anime-more-data-container-dubbbed__{
-height: 100%;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
 }
 .animes-in-container-dubbed .anime-dubbed__ .data-in-dubbed-anime__{
 transition: all 0.5s;
@@ -2117,25 +2148,26 @@ bottom: 0;
 width: 100%;
 /* margin-t: 50%; */
 height: 40%;
-background-color: rgba(0,0,0,0.6);
 display: flex;
 flex-direction: column;
 justify-content: space-between;
 /* display: none; */
 z-index: 2;
-position: absolute;
+padding-block: 10px;
 }
 .animes-in-container-dubbed .anime-dubbed__ .img-container-dubbed__{
-height: 90%;
-width: 100%;
+  height: 200px;
+  width: 100%;
 position: relative;
 overflow: hidden;
+border-radius: 20px;
 }
 .anime-dubbed__ .img-container-dubbed__ img{
 transition: transform 1s;
 width: 100%;
-height: 100%;
-position: absolute;
+/* aspect-ratio: 2 / 1; */
+/* height: 100%; */
+object-fit: cover;
 z-index: 0;
 }
 .anime-dubbed__ .img-container-dubbed__::before{
@@ -2147,7 +2179,11 @@ z-index: 1;
 background: linear-gradient(180deg, rgba(0,0,0,0.2) 0%,  rgba(0,0,0,0.1) 20%, rgba(0,0,0,0.1) 40%, rgba(0,0,0,0.3) 60%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.7) 100%);
 }
 .animes-in-container-dubbed .anime-dubbed__ a.main-anchor-to-dub-anime{
+  display: block;
+  padding: 15px;
+border-radius: 20px;
 width: 100%;
+/* background-color: #43a047; */
 }
 .animes-in-container-dubbed .anime-dubbed__ .anime-dubbed-name__ h3{
 margin: 10px;
@@ -2155,37 +2191,44 @@ font-size: 25px;
 color: rgba(255, 255, 255, 0.9);
 color: #faa300;
 display: -webkit-box;
-  -webkit-line-clamp: 2;
+  -webkit-line-clamp: 1;
   -webkit-box-orient: vertical;
   overflow: hidden;
   transition:  all 1s;
 }
 .animes-in-container-dubbed .anime-dubbed__ .languages-list{
+  width: 90%;
 color: rgba(255, 255, 255, 0.8);
 padding:0 5px;
 }
 .animes-in-container-dubbed .anime-dubbed__ .languages-list ul,.animes-in-container-dubbed .anime-dubbed__ .languages-list ul li{
 list-style: none;
 margin: 0;
-border: 0;
 /* padding-left: 10px; */
 }
 .animes-in-container-dubbed .anime-dubbed__ .languages-list ul{
 padding-inline-start: 0px;
+max-width: 100%;
 /* margin-top: 10px; */
 display: flex;
-flex-wrap: wrap;
+/* flex-wrap: wrap; */
+overflow-x: scroll;
+gap: 5px 0;
+}
+.animes-in-container-dubbed .anime-dubbed__ .languages-list ul::-webkit-scrollbar{
+  display: none;
 }
 .animes-in-container-dubbed .anime-dubbed__ .languages-list ul li{
-color: #000;
-padding-inline: 5px;
-background-color:rgba(255, 255, 255, 0.7);
-margin: 2px;
+color: rgba(255 ,255, 255, 0.7);
+padding:3px 0px;
+padding-left: 5px;
+/* background-color:rgba(255, 255, 255, 0.7); */
+/* margin: 2px; */
 width:fit-content;
-border-radius: 5px;
 }
-.animes-in-container-dubbed .anime-dubbed__:hover {
+.animes-in-container-dubbed .anime-dubbed__:hover{
 cursor: pointer;
+/* background-color: rgba(255, 255, 255, 0.2); */
 }
 .animes-in-container-dubbed .anime-dubbed__:hover .img-container-dubbed__ img{
 transform: scale(1.04);
@@ -2195,11 +2238,8 @@ height: 50%;
 } */
 
 @media only screen and (max-width:1100px){
-.animes-in-container-dubbed .anime-dubbed__ .languages-list ul li{
-  font-size: 12px;
-}
 .animes-in-container-dubbed .anime-dubbed__{
-  height: 270px;
+  min-height: 270px;
 }
 }
 @media only screen and (max-width:1000px){
@@ -2207,7 +2247,7 @@ height: 50%;
 font-size: 22px;
 }
 .animes-in-container-dubbed .anime-dubbed__{
-  height: 250px;
+  min-height: 250px;
 }
 }
 @media only screen and (max-width:900px){
@@ -2226,7 +2266,7 @@ font-size: 22px;
       grid-template-columns: 1fr 1fr;
     }
     .animes-in-container-dubbed .anime-dubbed__{
-      height: 230px;
+      min-height: 230px;
     }
 .animes-in-container-dubbed .anime-dubbed__ .data-in-dubbed-anime__{
 height: auto;
@@ -2237,7 +2277,7 @@ height: auto;
   font-size: 16px;
 }
   .animes-in-container-dubbed .anime-dubbed__{
-    height: 200px;
+    min-height: 200px;
   }
 }
 /* for continue Watching division */
@@ -3227,4 +3267,73 @@ width: calc(100% - 300px);
 
 .genres-div{
 margin-bottom: 10px;
+}
+.dot-right{
+  display: flex;
+  align-items: center;
+  /* border-left: 1px solid rgba(255 ,255, 255, 0.7); */
+}
+.dot-right::after{
+  content: "";
+  height: 5px;
+  width: 5px;
+  margin-left: 5px;
+  background-color: rgba(255 ,255, 255, 0.7);
+  border-radius: 100%;
+  /* border-right: 1px solid rgba(255 ,255, 255, 0.7); */
+
+}
+
+.tiny-t{
+  font-size: 12px;
+}
+@media only screen and (max-width:800px){
+  .animes-in-container-dubbed{
+    display: grid;
+    gap: 10px;
+    width: 95%;
+    grid-template-columns: repeat(2, 1fr); 
+    margin-inline: auto; 
+  }
+  .animes-in-container-dubbed .anime-dubbed__{
+    width: 90%;
+    min-width: 100%;
+    max-width: 100%;
+    align-items: normal;
+    /* padding: 2%; */
+  }
+  .animes-in-container-dubbed .anime-dubbed__ a.main-anchor-to-dub-anime{
+    padding: 0;
+  }
+  .animes-in-container-dubbed .anime-dubbed__ .img-container-dubbed__{
+    height: 150px;
+  }
+  .animes-in-container-dubbed .anime-dubbed__ .anime-dubbed-name__ h3{
+    -webkit-line-clamp: 2;
+  }
+  .tiny-t{
+    font-size: 11px;
+  }
+  .latest-dubbed-animes h2{
+    margin-bottom: 10px;
+  }
+  .animes-in-container-dubbed .anime-dubbed__ a.main-anchor-to-dub-anime{
+    width: 100%;
+  }
+}
+@media only screen and (max-width:450px){
+  .animes-in-container-dubbed .anime-dubbed__ .img-container-dubbed__{
+    height: 120px;
+  }
+  /* .main-anchor-to-dub-anime{
+    padding: 5px;
+  } */
+  .tiny-t{
+    font-size: 10px;
+  }
+}
+@media only screen and (max-width:380px){
+  animes-in-container-dubbed .anime-dubbed__ .img-container-dubbed__{
+    height: 100px;
+  }
 }
