@@ -39,7 +39,7 @@ getAnime();
 
 function getAnime(){
     let request = new XMLHttpRequest();
-    request.open("get", "https://animerulz.in/onepiece/Watch-Now/details.json", true);
+    request.open("get", "details.json", true);
     request.send();
     request.onload = function() {
         if(this.readyState == 4 && this.status == 200){
