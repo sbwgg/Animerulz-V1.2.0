@@ -303,7 +303,7 @@ function setShortEpisodes(presentEpisode){
     let episodeSection = document.querySelector("#episodes-in-section");
     episodeSection.setAttribute("style", 'display:grid; grid-template-columns: 100%;grid-gap:0 0;');
     let loader1 = document.getElementsByClassName("loading-animation-a-1")[0]
-    if(episodesHtml != "" && loader1){
+    if(temp != "" && loader1){
         loader1.style.display = 'none';
         episodeSection.style.minHeight = 'none'
     }
@@ -361,7 +361,7 @@ function setNewShortAnimeEpisode(presentEpisode){
 function setServers(presentEpisode){
     if(data[presentEpisode]){
         let source = data[presentEpisode].source;
-        let totalServers = "";
+        let totalServers = "";  
         let temp = '';
         let otherLanguages = {
             "Telugu" : 'tel',
@@ -375,6 +375,9 @@ function setServers(presentEpisode){
             "Multi1080" : 'mul1080' 
         }
         if(source.hasOwnProperty('OTHER LANGUAGES')){
+            let serverName = 'OTHER LANGUAGES'
+            if(!source.hasOwnProperty('SUBBED') && !source.hasOwnProperty('DUBBED'))
+                serverName = 'LANGUAGES';
             Object.keys(source['OTHER LANGUAGES']).forEach(server => {
                 temp += `<div class="button-a-b-cc server-btn-a small-t" role="button" lan="${otherLanguages[server]}" onclick="callSetActiveServers('${otherLanguages[server]}', ${presentEpisode}, ${null})">
                             <span class="bold">${server}</span>
@@ -383,7 +386,7 @@ function setServers(presentEpisode){
             temp = `<div class="video-s-audio-section border-bottom border-top other-languages-server">
                     <div class="audio-info-a">
                     <div class="audio-txt-a-b audio-btn-a-a medim-t-s">
-                        <span class="bold">OTHER LANGUAGES :</span>
+                        <span class="bold">${serverName} :</span>
                         </div>
                     </div>
                     <div class="audio-servers-a"><div class="servers-div">${temp}</div></div>
