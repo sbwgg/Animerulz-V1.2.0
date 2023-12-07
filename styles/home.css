@@ -350,81 +350,6 @@ a{
   font-size: 70%;
 }
 }
-
-.notification{
-  display: none;
-  height: 80vh;
-  width: 90vw;
-  z-index: 100;
-  padding: 10vh 5vw 10vh 5vw;
-  position: fixed;
-}
-.notification-content{
-  /* background-color: #faa300; */
-  width: 100%;
-  height: 100%;
-  display: grid;
-  grid-template-columns: 1fr;
-}
-.notification-background{
-  position: absolute;
-  z-index: -1;
-  height: 80vh;
-  width: 90vw;
-  background:linear-gradient(90deg, rgba(0,0,0,0.4)0%,rgba(0,0,0,0.3) 20%, rgba(0,0,0,0.3) 40%, rgba(0,0,0,0.4) 60%,rgba(0,0,0,0.5) 80%, rgba(0,0,0,0.8)100%), url(https://images.alphacoders.com/127/1271677.png);
-  filter: blur(5px);
-  background-size: cover;
-}
-.notification .close-div-not{
-  height: 40px;
-  width: 40px;
-  /* float: right; */
-  margin: 10px;
-  padding: 15px;
-  padding-bottom: 20px;
-  transition: all 0.5s;
-  background-color: rgba(255,255,255,0.4);
-  border-radius: 50%;
-  cursor: pointer;
-  right: 6vw;
-  position: absolute;
-}
-.notification .close-div-not:hover{
-  background-color: rgba(255,255,255,0.7);
-}
-.notification .close-div-not{
-  height: 20px;
-  width: 20px;
-}
-.notification .notification-container{
-  width: 80vw;
-  height: 70vh;
-  margin-left: auto;
-  margin-right: auto;
-  display: flex;
-  flex-direction: column;
-  padding-top: 300px;
-}
-.notification .notification-container .left-container-not{
-  width: 40%;
-}
-.notification .notification-container .right-container-not{
-  width: 40%;
-}
-.notification h3{
-  font-size: 20px;
-  margin: 0;
-}
-.notification h2{
-  font-size: 50px;
-  margin:20px 10px 10px 0;
-}
-.notification .sub-sub{
-  display: flex;
-}
-.notification .sub-sub span{
-  margin-top: 50px;
-}
 .right-container-not .countdown{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
@@ -436,7 +361,7 @@ a{
 }
 .right-container-not .countdown .hours-txt{
   font-size: 20px;
-  color: rgba(255,255,255,0.7);
+  color: rgba(255,255,255,0.7); 
 }
 
 .newly-added-animes .newly-added-container{
@@ -886,7 +811,7 @@ a{
 }
 @media only screen and (max-width:600px){
   .view-more-cartoons a{
-    padding-block: 8px;
+    padding-block: 13px;
   }
 }
 .view-more-cartoons a i{
