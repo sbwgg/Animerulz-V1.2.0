@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
 html,body{
   margin: 0;
   padding:0;
@@ -443,6 +444,9 @@ h1{
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
+}
+.latest-dubbed-animes h2{
+  margin-bottom: 0;
 }
 .anchor-to-main a{
   color: rgba(255,255,255,0.5);
@@ -2090,26 +2094,54 @@ flex-wrap: wrap;
 /* for latest dubbed anime */
 
 .animes-in-container-dubbed{
-/* display: flex; */
-display: grid;
-margin-bottom: 40px;
+display: flex;
+/* display: grid; */
 width: 100%;
-grid-template-columns: repeat(4, 1fr);
+/* grid-template-columns: repeat(4, 1fr); */
 gap: 10px;
+overflow-x: scroll;
 }
-.animes-in-container-dubbed .anime-dubbed__{
-/* width: 100%; */
-height: 300px;
+.animes-in-container-dubbed::-webkit-scrollbar{
+  display: none;
+}
+.anime-dubbed__{
+max-width: 25vw;
+min-width: 350px;
+width: calc(25% - 10px);
+min-height: 300px;
 position: relative;
+transition: all 0.2s;
+border-radius: 20px;
+display: flex;
+justify-content: center;
+align-items: center;
 /* transition: all 0.5s; */
 /* background-color: #faa300; */
+}
+.anime-dubbed__::before{
+  transition: all 0.2s;
+  content: "";
+  height: 0%;
+  width: 0%;
+  position: absolute;
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+.animes-in-container-dubbed .anime-dubbed__:hover::before{
+  height: 100%;
+  width: 100%;
 }
 .animes-in-container-dubbed .anime-data-dubbed__{
 width: 100%;
 height: 100%;
+border-radius: 20px;
+overflow: hidden;
 }
 .animes-in-container-dubbed .anime-dubbed__ .anime-more-data-container-dubbbed__{
-height: 100%;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
 }
 .animes-in-container-dubbed .anime-dubbed__ .data-in-dubbed-anime__{
 transition: all 0.5s;
@@ -2117,25 +2149,26 @@ bottom: 0;
 width: 100%;
 /* margin-t: 50%; */
 height: 40%;
-background-color: rgba(0,0,0,0.6);
 display: flex;
 flex-direction: column;
 justify-content: space-between;
 /* display: none; */
 z-index: 2;
-position: absolute;
+padding-block: 10px;
 }
 .animes-in-container-dubbed .anime-dubbed__ .img-container-dubbed__{
-height: 90%;
-width: 100%;
+  height: 200px;
+  width: 100%;
 position: relative;
 overflow: hidden;
+border-radius: 20px;
 }
 .anime-dubbed__ .img-container-dubbed__ img{
 transition: transform 1s;
 width: 100%;
-height: 100%;
-position: absolute;
+/* aspect-ratio: 2 / 1; */
+/* height: 100%; */
+object-fit: cover;
 z-index: 0;
 }
 .anime-dubbed__ .img-container-dubbed__::before{
@@ -2147,7 +2180,11 @@ z-index: 1;
 background: linear-gradient(180deg, rgba(0,0,0,0.2) 0%,  rgba(0,0,0,0.1) 20%, rgba(0,0,0,0.1) 40%, rgba(0,0,0,0.3) 60%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.7) 100%);
 }
 .animes-in-container-dubbed .anime-dubbed__ a.main-anchor-to-dub-anime{
+  display: block;
+  padding: 15px;
+border-radius: 20px;
 width: 100%;
+/* background-color: #43a047; */
 }
 .animes-in-container-dubbed .anime-dubbed__ .anime-dubbed-name__ h3{
 margin: 10px;
@@ -2155,37 +2192,44 @@ font-size: 25px;
 color: rgba(255, 255, 255, 0.9);
 color: #faa300;
 display: -webkit-box;
-  -webkit-line-clamp: 2;
+  -webkit-line-clamp: 1;
   -webkit-box-orient: vertical;
   overflow: hidden;
   transition:  all 1s;
 }
 .animes-in-container-dubbed .anime-dubbed__ .languages-list{
+  width: 90%;
 color: rgba(255, 255, 255, 0.8);
 padding:0 5px;
 }
 .animes-in-container-dubbed .anime-dubbed__ .languages-list ul,.animes-in-container-dubbed .anime-dubbed__ .languages-list ul li{
 list-style: none;
 margin: 0;
-border: 0;
 /* padding-left: 10px; */
 }
 .animes-in-container-dubbed .anime-dubbed__ .languages-list ul{
 padding-inline-start: 0px;
+max-width: 100%;
 /* margin-top: 10px; */
 display: flex;
-flex-wrap: wrap;
+/* flex-wrap: wrap; */
+overflow-x: scroll;
+gap: 5px 0;
+}
+.animes-in-container-dubbed .anime-dubbed__ .languages-list ul::-webkit-scrollbar{
+  display: none;
 }
 .animes-in-container-dubbed .anime-dubbed__ .languages-list ul li{
-color: #000;
-padding-inline: 5px;
-background-color:rgba(255, 255, 255, 0.7);
-margin: 2px;
+color: rgba(255 ,255, 255, 0.7);
+padding:3px 0px;
+padding-left: 5px;
+/* background-color:rgba(255, 255, 255, 0.7); */
+/* margin: 2px; */
 width:fit-content;
-border-radius: 5px;
 }
-.animes-in-container-dubbed .anime-dubbed__:hover {
+.animes-in-container-dubbed .anime-dubbed__:hover{
 cursor: pointer;
+/* background-color: rgba(255, 255, 255, 0.2); */
 }
 .animes-in-container-dubbed .anime-dubbed__:hover .img-container-dubbed__ img{
 transform: scale(1.04);
@@ -2195,11 +2239,8 @@ height: 50%;
 } */
 
 @media only screen and (max-width:1100px){
-.animes-in-container-dubbed .anime-dubbed__ .languages-list ul li{
-  font-size: 12px;
-}
 .animes-in-container-dubbed .anime-dubbed__{
-  height: 270px;
+  min-height: 270px;
 }
 }
 @media only screen and (max-width:1000px){
@@ -2207,7 +2248,7 @@ height: 50%;
 font-size: 22px;
 }
 .animes-in-container-dubbed .anime-dubbed__{
-  height: 250px;
+  min-height: 250px;
 }
 }
 @media only screen and (max-width:900px){
@@ -2226,7 +2267,7 @@ font-size: 22px;
       grid-template-columns: 1fr 1fr;
     }
     .animes-in-container-dubbed .anime-dubbed__{
-      height: 230px;
+      min-height: 230px;
     }
 .animes-in-container-dubbed .anime-dubbed__ .data-in-dubbed-anime__{
 height: auto;
@@ -2237,7 +2278,12 @@ height: auto;
   font-size: 16px;
 }
   .animes-in-container-dubbed .anime-dubbed__{
-    height: 200px;
+    min-height: 200px;
+  }
+}
+@media only screen and (max-width:400px){
+  .animes-in-container-dubbed .anime-dubbed__ .anime-dubbed-name__ h3{
+    font-size: 14px;
   }
 }
 /* for continue Watching division */
@@ -3227,4 +3273,302 @@ width: calc(100% - 300px);
 
 .genres-div{
 margin-bottom: 10px;
+}
+.dot-right{
+  display: flex;
+  align-items: center;
+  /* border-left: 1px solid rgba(255 ,255, 255, 0.7); */
+}
+.dot-right::after{
+  content: "";
+  height: 5px;
+  width: 5px;
+  margin-left: 5px;
+  background-color: rgba(255 ,255, 255, 0.7);
+  border-radius: 100%;
+  /* border-right: 1px solid rgba(255 ,255, 255, 0.7); */
+
+}
+
+.tiny-t{
+  font-size: 12px;
+}
+@media only screen and (max-width:800px){
+  .animes-in-container-dubbed{
+    display: grid;
+    gap: 10px;
+    width: 95%;
+    grid-template-columns: repeat(2, 1fr); 
+    margin-inline: auto; 
+  }
+  .animes-in-container-dubbed .anime-dubbed__{
+    width: 90%;
+    min-width: 95%;
+    margin-inline: auto;
+    max-width: 100%;
+    align-items: normal;
+    /* padding: 2%; */
+  }
+  .animes-in-container-dubbed .anime-dubbed__ a.main-anchor-to-dub-anime{
+    padding: 0px;
+  }
+  .animes-in-container-dubbed .anime-dubbed__ .img-container-dubbed__{
+    height: 120px;
+  }
+  .animes-in-container-dubbed .anime-dubbed__ .anime-dubbed-name__ h3{
+    -webkit-line-clamp: 2;
+  }
+  .tiny-t{
+    font-size: 11px;
+  }
+  .latest-dubbed-animes h2{
+    margin-bottom: 10px;
+  }
+  .animes-in-container-dubbed .anime-dubbed__ a.main-anchor-to-dub-anime{
+    width: 100%;
+  }
+  .newly-added-animes .newly-added-container{
+    width: 95%;
+  }
+}
+@media only screen and (max-width:450px){
+  .animes-in-container-dubbed .anime-dubbed__{
+    min-height: auto;
+  }
+  .animes-in-container-dubbed .anime-dubbed__ .img-container-dubbed__{
+    height: 100px;
+  }
+  /* .main-anchor-to-dub-anime{
+    padding: 5px;
+  } */
+  .tiny-t{
+    font-size: 10px;
+  }
+  .animes-in-container-dubbed .anime-dubbed__ a.main-anchor-to-dub-anime{
+    padding: 0;
+  }
+  .animes-in-container-dubbed .anime-dubbed__ .data-in-dubbed-anime__{
+    padding: 0;
+  }
+}
+@media only screen and (max-width:380px){
+  animes-in-container-dubbed .anime-dubbed__ .img-container-dubbed__{
+    height: 80px;
+  }
+}
+
+/* notifications styles start */
+.notification-pop-up{
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 99;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.notification-div{
+  position: relative;
+  /* height: 90%; */
+  width: 95%;
+  max-width: 1000px;
+  /* max-height: 1000px; */
+  animation: popUpNew 0.2s forwards ease-in;
+  /* background-color: #43a047; */
+}
+@keyframes popUpNew {
+  0%{
+    opacity: 0;
+  }
+}
+.notification-div::before{
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  background: linear-gradient(0deg, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.7) 100%), url(https://m.media-amazon.com/images/M/MV5BZGFiMWFhNDAtMzUyZS00NmQ2LTljNDYtMmZjNTc5MDUxMzViXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_QL75_UY562_CR7,0,380,562_.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  filter: blur(3px);
+}
+.notification-content{
+  height: calc(100% - 40px);
+  display: flex;
+  justify-content: center;
+}
+.n-a{
+  width: 100%;
+  max-width: 400px;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* background-color: #43a047; */
+}
+.padding-20{
+  padding: 20px;
+}
+.color-white{
+  color: rgba(255 ,255, 255, 0.8);
+}
+.color-white-n{
+  color: rgba(255 ,255, 255, 0.6);
+}
+.color-o{
+  color: #faa300;
+}
+.data-n-a{
+  width: 100%;
+  margin-inline: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.img-data-n-a{
+  width: calc(100% - 40px);
+  display: flex;
+  justify-content: center;
+  padding-block: 20px;
+}
+.head-n-a{
+  margin-inline: auto;
+}
+.img-data-n-a img, .head-n-a{
+  max-width: 300px;
+}
+.n-b-a{
+  padding-block: 10px;
+}
+.btns-n-a{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.align-center{
+  text-align: center;
+}
+.a-n-a{
+  display: flex;
+  gap: 5px;
+  justify-content: center;
+  align-items: center;
+  width: calc(100% - 20px);
+  padding: 10px;
+  border-radius: 30px;
+  position: relative;
+  color: rgba(0,0,0,0.9);
+}
+.a-n-a::before{
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  transition: all 0.3s;
+  border-radius: 30px;
+}
+.a-n-a-details:active::before{
+  padding: 3px;
+  border: 2px solid rgba(255 ,255, 255, 0.8);
+}
+.a-n-a-watch:active::before{
+  padding: 3px;
+  border: 2px solid #faa300;
+}
+.a-n-a-details{
+  background-color: rgba(255 ,255, 255, 0.8);
+}
+.a-n-a-watch{
+  background-color: #faa300;
+}
+.g-n-b{
+  list-style: none;
+  padding-inline-start: 0;
+  display: flex;
+  overflow-x: scroll;
+  margin: 0;
+}
+.g-n-b::-webkit-scrollbar{
+  display: none;
+}
+.g-n-b .item-n-b{
+  padding-inline-start: 5px;
+}
+.cursor-pointer{
+  cursor: pointer;
+}
+.n-b-a-a{
+  padding: 10px;
+  width: calc(100% - 20px);
+}
+.close-n-a{
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+.close-n-a i{
+  transition: all 0.5s;
+}
+.close-n-a:hover{
+  background-color: rgba(255 ,255, 255, 0.1);
+}
+.close-n-a:hover i{
+  transform: rotate(180deg);
+}
+.huge-font{
+  font-size: 25px;
+}
+.m-font{
+  font-size: 15px;
+}
+.s-font{
+  font-size: 12px;
+}
+@media only screen and (max-width:1000px){
+  .huge-font{
+    font-size: 22px;
+  }
+  .m-font{
+    font-size: 14px;
+  }
+  .s-font{
+    font-size: 11px;
+  }
+  .img-data-n-a img, .head-n-a{
+    max-width: 250px;
+  }
+}
+@media only screen and (max-width:500px){
+  .notification-div::before{
+    background-size: 100% 100%;
+  }
+  .huge-font{
+    font-size: 20px;
+  }
+  .m-font{
+    font-size: 13px;
+  }
+  .s-font{
+    font-size: 10px;
+  }
+  .img-data-n-a img, .head-n-a{
+    max-width: 220px;
+  }
+}
+@media only screen and (max-width:350px){
+  .huge-font{
+    font-size: 19px;
+  }
+  .m-font{
+    font-size: 12px;
+  }
+  .s-font{
+    font-size: 9px;
+  }
+  .img-data-n-a img, .head-n-a{
+    max-width: 170px;
+  }
 }
