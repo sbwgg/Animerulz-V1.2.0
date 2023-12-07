@@ -1,5 +1,7 @@
 const searchContainer = document.querySelector(".search-container");
-const searchBox = searchContainer.querySelector(".input-box__");
+let searchBox = searchContainer.querySelector(".input-box__");
+if(!searchBox)
+    searchBox = searchContainer.querySelector(".input-box_");
 const trendingAnimeSearch = document.getElementsByClassName("search-results-trending-container__")[0];
 const recentSearchesContainer = document.getElementsByClassName("recent-searches-txt-container__")[0];
 const anilistContainer = document.getElementsByClassName("anilist-search-container")[0];
@@ -298,7 +300,6 @@ function hideSearchBox(){
 
 
 function openSearchNew(anime){
-    console.log('in');
     searchHistory = localStorage.getItem("searchHistory");
     if(searchHistory){
         searchHistory = JSON.parse(searchHistory);
