@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,30 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=fullmetal-alchemist-the-conqueror-of-shamballa-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/41baa4bed29c15acee0538036c735cf042cc315557ecc99519cb1dd9de7d21db2aa5b405f69e104d02fa468bfa906ed39fcf47c7b86185c5275d77ae80daaeff2f97820a0eb1633f6264607bbad7bb32aac8c69789a3a52f7d50ba14a50eba6e56c61282949f9be8705b584d0372841f/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/4f/4f9ef15c765531ca0eeb8b850ca3a47b/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/7467a0111c30bdeeb6ed0e73fc60879d65248429e4a5212fcc1a2004f73c8271ba8c96864b6d4fb977862b8052f7fb8d9323840a17b3a28551bcb39a310119f2bb35421fd02709d187930aa73db0e572aedf123295fe776a3e4531cca3ac105b830ca4066c678a4c89671ce384b12728/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/da/2d/da2dc4efde996b541c1525cdfd48e279/eng-3.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/7467a0111c30bdeeb6ed0e73fc60879d65248429e4a5212fcc1a2004f73c8271ba8c96864b6d4fb977862b8052f7fb8d9323840a17b3a28551bcb39a310119f2bb35421fd02709d187930aa73db0e572aedf123295fe776a3e4531cca3ac105bd490bd5d3531dc3eb872fc61e3e50425/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/da/2d/da2dc4efde996b541c1525cdfd48e279/eng-3.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/4f/4f9ef15c765531ca0eeb8b850ca3a47b/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www009.vipanicdn.net/streamhls/306bc96da867097135efbe7453dd68f8/ep.1.1677614277.m3u8"
@@ -31,6 +49,10 @@
         "downloadLink": {
             "DUBBED": "MTU0NDQ1",
             "SUBBED": "MTU0MjY4"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

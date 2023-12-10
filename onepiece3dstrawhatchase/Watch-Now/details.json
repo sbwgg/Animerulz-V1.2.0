@@ -1,6 +1,9 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Full",
         "source": {
             "SUBBED": {
@@ -9,12 +12,29 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=one-piece-3d-mugiwara-chase-episode-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/60c0e654a30960a6b41e39ef4136a2c09b683440304994d7383864201470ecc59617fe1a310c61155a1a337ca550ac429e3c029176b70874a28ded2ce83c8433d6d0f51762fa482bef14b795386a08eb9bec5049f9b61c67a3a4dca557385647ed3661cf544aa9fd916691e99cccf8ec19a7b6b4e442158b99d544f54795a110/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/61/8d/618d4016878c1359890f369c7d5334b3/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/99/99418c1a1c053acc59ad7196fb947696/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": true,
         "downloadLink": {
             "SUBBED": "NDA1NjM="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

@@ -1,6 +1,9 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Full",
         "source": {
             "SUBBED": {
@@ -9,12 +12,29 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=wind-a-breath-of-heart-episode-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/3e92ad40db46219771b60b57e8bccf80da8b839a84b0b5255e32a0110c52c674bf2c15ece265f99dbb0dc2765d4c0684235b138451629c5dc346c8f7458eece9b3bd13646af96e67bd8a72fe3aada41cdf8b8ea88b87307ab70d402e220f0e7703be4fe42e4121294ad044ebe30fc4224969f28572835848513235a2d1e7e8de/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/01/ad/01adb3a1c63c9c42e5ff469f299de7e4/01adb3a1c63c9c42e5ff469f299de7e4.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/e9/e9afccf831ae558cecc7bcf388c9009c/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NTQzNw=="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

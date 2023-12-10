@@ -1,15 +1,36 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/b8a30a811caeaa1cf89cd1eb42a9d9a0c9299e352bfa1f275f683b8695d3f183f2136ea9b85d60bb58f799a1943a829c39a179011d6f36425005b02f73e4d6f2394e7c3ee3ad3b62cf88a34d5811f3b87f85997357b68662de33c465172ef3b7a06711069d6ffe096f245619f9e708d3bb214a2aa37762e8069b2fed8bf9facf/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/3b/a7/3ba7c35ac4b23b76b458138e7cde8e31/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/3b/a7/3ba7c35ac4b23b76b458138e7cde8e31/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/3b/a7/3ba7c35ac4b23b76b458138e7cde8e31/ind-3.vtt",
+                            "lang": "Indonesian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/3b/a7/3ba7c35ac4b23b76b458138e7cde8e31/tha-4.vtt",
+                            "lang": "Thai"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/3b/a7/3ba7c35ac4b23b76b458138e7cde8e31/vie-5.vtt",
+                            "lang": "Vietnamese"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/21/215e78bcd86759671001aeb4eb434e9c/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www034.vipanicdn.net/streamhls/f5026be822cfd9413686e60dacfbe223/ep.1.1677820776.m3u8"
@@ -22,6 +43,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTgyOTQz"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

@@ -1,20 +1,38 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=dragon-ball-z-movie-2-worlds-strongest-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/8fb9b5054811cbf8891992db182bacb7f0c339c39fb7ea53c651cbde6ca251efaee58da4ce0ed063643e0779c87f1f6b900e52c25d156791a5b353e425cbfeb066bfde347d7f7ed3586779bd5442ee9d2ad48a95ae79f379f43b00089e934697eaa856b727eedcb20ddecd702ac77be3174da67c36a9e029eca79597eeb8c792/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/70/704c75431b05a3db155f8d99fec6317d/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/f8eeaa4aec9afccf9b624c0e8c3f0f40787f48810bb8c507bc9f87dbf136be4d44dca97c37edcfcf91b4d242ab8c6af7351e38ffb963f1c0e1350fbd2524c8e6a31fb4c7a4ee7a3a8f90914b3c42a4faf1c44e242bfa8023ba0d6b11fdadbfc99b84ef8b8412ad88f42de33925382b0ec53b261e152b3f224f86dd055244ba37/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/a1/57/a157040140ab33cf5ef9526901db293a/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/a1/57/a157040140ab33cf5ef9526901db293a/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/70/704c75431b05a3db155f8d99fec6317d/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www009.vipanicdn.net/streamhls/1328b3e04e377f585b5512a9a5a0390e/ep.1.1677621952.m3u8"
@@ -27,6 +45,10 @@
         "isFiller": true,
         "downloadLink": {
             "SUBBED": "NDA3MTg="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

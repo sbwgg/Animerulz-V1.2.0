@@ -1,20 +1,38 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=turn-a-gundam-i-movie-earth-light-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/c451a3cd86e53dd0827e31d9da410fd657eb2f82a192be4d222080f33081048cc70d13ac919cf27eeab975be60c6ec6a3535b9fc8056c14fe8d30a26fbe015c9918e819702a5bd6f5de53169e56f6cb55f75bf750ba1c374cd59a18054802f10706cece8411781904c5084a6fcbc9c6e/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/68/68e1230ce6b16ef593f62bdf4c3310a3/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/024303f40aaaeda2a33a7cfbc51cd3513c1a9c17a746ec07f9689a7eca4594428b99c71f07328851dc039711a153d69137a807545a701be4aabf3b512a471f1b8785d2a7ca506ccf57bd9310b40ef1486c6a09da1c193d1f627970282811a012a741c12580835e49e8d9fc530fd4ec12/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/ae/85/ae85e4a5baf5a86ced7ae0d841cd0b91/eng-3.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/024303f40aaaeda2a33a7cfbc51cd3513c1a9c17a746ec07f9689a7eca4594428b99c71f07328851dc039711a153d69137a807545a701be4aabf3b512a471f1b8785d2a7ca506ccf57bd9310b40ef1486c6a09da1c193d1f627970282811a012c877196ad6b715c4aacb12623b9208bd/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/ae/85/ae85e4a5baf5a86ced7ae0d841cd0b91/eng-3.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/68/68e1230ce6b16ef593f62bdf4c3310a3/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www010.vipanicdn.net/streamhls/4c9e35561a10748f91f5c86466c27337/ep.1.1677689447.m3u8"
@@ -27,6 +45,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTQwMjU5"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

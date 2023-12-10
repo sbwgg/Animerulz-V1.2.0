@@ -1,11 +1,23 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Episode 1",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=tian-guan-ci-fu-special-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/79e431c2bc527923d25d7d4c45b8a0a348b07bad7a77ef62f12b4e5efc6e2ff7af880a3046e0479dcf0f1e42a538cf2289a2df01b7d92f3270847b3b35665e4d8148fdeccebf889701efa2695a381261b3498f8c91c3c43f24799df8699533deefdda7286641ac02838b7779014749a5f9f9d38aad82d29a53267999d82df711/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/ea/ea12c3cd4aed5808bb5aadf15dc3d8e9/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
@@ -20,6 +32,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTUzNDEx"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

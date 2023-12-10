@@ -1,15 +1,32 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/5ca546f64623d24cecce6dfd0d137f3d205ad288765a430dd56176664ec12cc5edb06c4c30d6f2bda04097082aef5c5558f3f3484f3f1ecfd80282bf1e9f3fad0beb5e61558373e050b3427ecb771b9138ebe5f65ce9211e86909cb5987d9fbb90cb208e1f98db6c4e4f7e2c6e8c5d78f0fd4ae022813115e7220b54a71477ef/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/d5/f7/d5f7ff7c635aea2a24f0adeafd3e8128/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/d5/f7/d5f7ff7c635aea2a24f0adeafd3e8128/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/d5/f7/d5f7ff7c635aea2a24f0adeafd3e8128/por-4.vtt",
+                            "lang": "Portuguese"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/d5/f7/d5f7ff7c635aea2a24f0adeafd3e8128/spa-3.vtt",
+                            "lang": "Spanish"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/ee/ee4df91c699684faea64086fa1b84735/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www009.vipanicdn.net/streamhls/b0a65d0f9f14e1ecaed435156024a7ba/ep.0.1677621085.m3u8"
@@ -22,6 +39,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTEyMjA4"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,34 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=karakai-jouzu-no-takagi-san-movie-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/4f7588b3a51b800846fdf1bcd5ca5140232dbb4d268b90de3921da5b04ab9911bfe837df598bf9b5e8443e234fe4b0fa9350154eb3a1299ae84e22f0765ffd6927269e00ee259a576c5f4431200eef5e3e26f015e0ef11ed97c29377fe2f953d3d38f127b2474fe5c8d876405f592c6ad6aa79c13e8dcafd8ad5761a1de354b4/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/1d/5a/1d5a61d6a86a4fd7ba78220892fffda7/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/63/63da147afcc72ba4f05fc79d0d4439c7/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/2e46a84380e2dc8a22d84c0953b6ddee263340203b53542b5f211f6b92ccee43d2bba9f65fd0acfd399fd87f0efbf570208590552fef2f0a670a640fc0c27db539789e6f9712595e06447a0e219a13496b6934d64cb984013b8df2add4297448f11e647165899d4ed32395f22f06dd09c59fd47fd394ae12df956d32b4cd492a/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/00/29/0029ae5b5b24207450d2cc8a16d0cf43/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/00/29/0029ae5b5b24207450d2cc8a16d0cf43/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/63/63da147afcc72ba4f05fc79d0d4439c7/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www047.vipanicdn.net/streamhls/624d8e05af1390b290588129670421be/ep.1.1677835330.m3u8"
@@ -31,6 +53,10 @@
         "downloadLink": {
             "DUBBED": "MjAzNjc2",
             "SUBBED": "MTk3MTE2"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

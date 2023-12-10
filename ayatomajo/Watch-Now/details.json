@@ -1,6 +1,9 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Full",
         "source": {
             "DUBBED": {
@@ -9,6 +12,15 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=earwig-and-the-witch-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/2ae0136167b83c9eae36043fb31ee4ed782df2d17f809244538de33de631d16cff76a4c439981805ec0aee54e70b0a51ed4868d01b63e333fa122bb2d69cff8b34ddcf81a6c837a92822f4229c529810367adad9aa3cba88e1120cab30cb6aeb5bf742950b9f90513770fd7067b6596aa797754de3e860355bf7ac0ff0058c66/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/d2/d25da7bee09b544db7a9d54549479023/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
@@ -24,6 +36,10 @@
         "downloadLink": {
             "DUBBED": "MTUxOTcz",
             "SUBBED": "MTUxOTQw"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,30 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=kuroshitsuji-movie-book-of-the-atlantic-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/5a2b6159df1ab2a50e328d6e4950302f9679124afa921a072bb83221d933bf6127ab9fc45e9c2666ce513390b8b74fa7128112f2eedc5fbdcec281e2ec966fb2543d2fa079f7f49e1f352f0f8769b7246ac4331221361737e337197a3637db8e26a99a35a5a010a90e0cd74e1eba26531cf9c549e3e6174fb41c6b4e59688ae3/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/10/10c31bca0dd7598950101ebde5f8e53d/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/18a17fa6ccc46df9b3965503b1e3c4c10947f1f34320c19b675e56a536c0e81cb705f1ab156f055e164b3deb965336c41d5f8f5b6e5ffe619d7dc9e0fd1c352ebbfe34332fd8f1c580151024050a23bede82ab1e9362078259bd13d3d3d9e893d18943aac7bff5c38a7c6abbb8e0cd467f37ff1ac3892c330ad339678dd37bb5/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/df/2a/df2a8bf71b4e7c022f90e17a206c5abe/df2a8bf71b4e7c022f90e17a206c5abe.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/18a17fa6ccc46df9b3965503b1e3c4c10947f1f34320c19b675e56a536c0e81cb705f1ab156f055e164b3deb965336c41d5f8f5b6e5ffe619d7dc9e0fd1c352ebbfe34332fd8f1c580151024050a23bede82ab1e9362078259bd13d3d3d9e893d18943aac7bff5c38a7c6abbb8e0cd46daf8936b456c0923246c33e1b13e1205/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/df/2a/df2a8bf71b4e7c022f90e17a206c5abe/df2a8bf71b4e7c022f90e17a206c5abe.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/10/10c31bca0dd7598950101ebde5f8e53d/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www022.vipanicdn.net/streamhls/83af6303e88752d80df4251a88683d82/ep.1.1677621476.m3u8"
@@ -31,6 +49,10 @@
         "downloadLink": {
             "DUBBED": "MTUwMDQ3",
             "SUBBED": "MTAxNzUx"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

@@ -1,20 +1,38 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=urusei-yatsura-movie-6-always-my-darling-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/61b48e7154f7b126a1021153b626680e7bcc44673be51a43efc468653d6dee585407fbbb0c5e5a7310f0532c5c8b0788e8d97791b98209c8eee70babfef21dbaaeb0aba2957d0ef335161efada6b6db82792a1c742cdaa3830a46d298b994499c635177b12c11ec5b05a529c9fc743617e79618059920b764fc618346c19044e/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/ef/ef8e62186f3ca5918a50be807977669c/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/94a3c52d0e492c72249e97c2945776db07713f6e3e3da43bdbb5dc5bd2fc268277e05a534d606a106159f701802250980a7d2ff89e0e96171d2150802aeee36a0087e8ac518f8eb6b76a2553c382f101427fea33c1d0193c93ab9c3b1e105ae5afa0cc844ba0a2d5c81b29639ea8357869a7bc49ef5b4e60b6b41e671f7e3d8f/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/6b/1d/6b1db384238cd183f6539cd5fbba1a08/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/6b/1d/6b1db384238cd183f6539cd5fbba1a08/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/ef/ef8e62186f3ca5918a50be807977669c/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www012.vipanicdn.net/streamhls/89ec50dd696dba66c057475a90f01f76/ep.1.1677662721.m3u8"
@@ -27,6 +45,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDAzOTE="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

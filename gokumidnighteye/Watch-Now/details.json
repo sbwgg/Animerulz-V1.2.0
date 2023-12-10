@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,26 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=midnight-eye-gokuu-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/5851383e142b8a2986f807cf6a2177962b9584593998a2363851b08d9c736d4c652e19952793dd7212d02d9a1bf548b3ed47024c93831b53de87e7575fc15bb07321c32bbfa70ca25c43e69e22acbe061e2ecfba321733755fc9faef6ea4abd61a1f0f4cd5fbd6b43517b51ad8a287ed09e023ab02045db3a1a709f5edb77361/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/db/db6804af03056aa8745bf733e3374a45/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/e9912179120c6c0496475e1eed22b032a5be807b9312d8694fe649a8dc0c59403fc5012272585e86fc440f168cbca3ec4ddd64d7862ebc06d1d1b924c29b289a0874cbdb0d6c921ef084346ef7838149fcb6b063176ece346f20b2617ddee9c1250003e749aa36a6924dfeb6ce57935d4d83c51f7870fbdec02ce22fb3314132/master.m3u8",
-                    "captions": "https://imgb.megaresources.co/_a_preview/db/db6804af03056aa8745bf733e3374a45/thumbnails/sprite.vtt"
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/db/db6804af03056aa8745bf733e3374a45/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www047.vipanicdn.net/streamhls/270af8786b6c885e21007bebb21380dc/ep.1.1697749010.m3u8"
@@ -31,6 +45,10 @@
         "downloadLink": {
             "DUBBED": "MTE5OTM0",
             "SUBBED": "MTE5OTM2"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

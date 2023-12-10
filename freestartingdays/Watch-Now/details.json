@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Free! Starting Days",
         "source": {
@@ -12,12 +12,30 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=highspeed-free-starting-days-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/7656eedb494df270c346e6a499c21dde55d67204d17019b9e6a0362ac7d167077c02036e554c4db99ec27cf39adc689d030930fff00e52f7a186beebf1ca86ff3218ba405532b8dd734f55c69a8492c95124e15963f99c987487d029b59fcf88e39cd289f65156f28c394abf955e85065780741b57b17103d3e0df9e477f5ea6/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/4b/4b75c89d0a5dbf19810f927c9e5f934d/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/937e191600fd3e9db812bfbe431e01e0bdde2b49922ead80371d4f6507da16f0407b07a67da63cba58045aa1682dedeab55f81e0ee9ac848f4a1260d8965dfee3b7cca5a48fc1f1bfe99448626f377962e260755059b1bfae4863cd45d0c831117c247d9faaaed5ef8aedfa5a0dcf7922fc317aba17bd004fc116f9a86a2ce60/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/bd/b4/bdb4d04da7e94286e347599a5c7a90c0/bdb4d04da7e94286e347599a5c7a90c0.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/bd/b4/bdb4d04da7e94286e347599a5c7a90c0/bdb4d04da7e94286e347599a5c7a90c0.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/4b/4b75c89d0a5dbf19810f927c9e5f934d/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www019.vipanicdn.net/streamhls/a1f35729d5c9b1434fea3a25a622d250/ep.1.1677668133.m3u8"
@@ -31,6 +49,10 @@
         "downloadLink": {
             "DUBBED": "MTI5Mjcy",
             "SUBBED": "NzM2Njg="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

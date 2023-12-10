@@ -1,36 +1,62 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Prince of Aritia",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/a3eaa8834faf2ee19355ae1f5d7587a84bda88180613a01281450fcda612d908f350b7d06593c22e9082f4782ab514629e45812b8bec23e77e0d25056fe8cc2aee70951e663f378e6c6f897ce005bc76a61bdfb7b88bb5b5b6a68bea7eafca39c22d36f7836e4dd44d4651dbdc5e8ab292e72cb75139dbf4a260a9f1053a9124/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/f6/e2/f6e2076c61f906bdadbedf63ed8bc81f/f6e2076c61f906bdadbedf63ed8bc81f.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/f6/e2/f6e2076c61f906bdadbedf63ed8bc81f/f6e2076c61f906bdadbedf63ed8bc81f.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/fc/fce58e72dd196792bb16380ee353fce3/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
     },
     "2": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Crimson Warrior",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/5596adde8e8b6c8efbadd39aab00060c946a9ffaa9c81c6dcd1404d8ae4c57d2ecf6d0f315de1553def2ba4358b1b44ce00103c4f942581312e0004192529b35c0adc3bac6ccf0c6cdd87695a2c7542a1be80df466d58b2f378381883b412ad8e4edd619933b53d44f397471b0b1ffdffb304cf97db1d33bad688a49063592b3/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/d4/5e/d45e023d35230ee1fdc36aac2b0d12b1/d45e023d35230ee1fdc36aac2b0d12b1.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/d4/5e/d45e023d35230ee1fdc36aac2b0d12b1/d45e023d35230ee1fdc36aac2b0d12b1.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/9a/9ad2f6ec5960af85214d0f84c1291818/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
     }
 }

@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "OVA",
         "source": {
@@ -12,12 +12,30 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=shinmai-maou-no-testament-burst-ova-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/4e92a6f3384c551b501e3b4d80d0ae0f4e06c055f4c6f5ec9dda5b5399bd3aefd261e5e0015b3912af1a89eeda5a892f515613058b756b4cee643a82d29abd62a618f8dcbde148c81fd81ebb5fbf626bbb934969d500b53d6e1fb640317fa97443d9083d4b81fc82b694bb5ad1421be4a7459bdcb6af013e80f0f36b5639612a/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/5f/5fc9fd1149b2d929c2e9732b2df03fbd/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/7789fbe660d2f2b3a0b66be5b05807ef4280cd8fc6174df8c4b67ff7b3a5912375238dfa43cddd36769723d2062a230c8d0797a07df383f326997ac5aa4cf7449fc1689fcaa366e2362696588572ac1080dbcd37588e27075df772be404a3a72e7cad1994223dcb2ba9c49872675d41ab6b0885bfa0319775eed34a7dd3205ec/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/2a/ab/2aabb0134f0d4ae48881104155043f3a/2aabb0134f0d4ae48881104155043f3a.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/7789fbe660d2f2b3a0b66be5b05807ef4280cd8fc6174df8c4b67ff7b3a5912375238dfa43cddd36769723d2062a230c8d0797a07df383f326997ac5aa4cf7449fc1689fcaa366e2362696588572ac1080dbcd37588e27075df772be404a3a72e7cad1994223dcb2ba9c49872675d41a278d056b2be5c809d64ccd1578457271/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/2a/ab/2aabb0134f0d4ae48881104155043f3a/2aabb0134f0d4ae48881104155043f3a.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/5f/5fc9fd1149b2d929c2e9732b2df03fbd/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www022.vipanicdn.net/streamhls/d0be4ef5dd6448821b9455995da2c27f/ep.1.1677615555.m3u8"
@@ -31,6 +49,10 @@
         "downloadLink": {
             "DUBBED": "MTQ5MjA1",
             "SUBBED": "NzA2NzE="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

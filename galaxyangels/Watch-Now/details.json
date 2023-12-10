@@ -1,15 +1,24 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "OVA",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/3e1ec79368dd1102f1bec69644ad728a21198bf8b4ef7a1bffd1ae59ceaf275c5e9cbe2f351bb4c104fae01160583a0b7765cb22e606e6e89129be38697b5913dfa83a7f60d15c88d7fb8ecaa8079f07924b8d5c953264e550edae4123da1a06e273c74e649b524d4f0bb1a32440cdd4e13cd8f301eef2144781c5eaf16819dc/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/34/75/3475ab0020c9fbbd2caabbbfdbdf738b/eng-3.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/3e1ec79368dd1102f1bec69644ad728a21198bf8b4ef7a1bffd1ae59ceaf275c5e9cbe2f351bb4c104fae01160583a0b7765cb22e606e6e89129be38697b5913dfa83a7f60d15c88d7fb8ecaa8079f07924b8d5c953264e550edae4123da1a06e273c74e649b524d4f0bb1a32440cdd4c0a8f0fbc9d5f78e11062e658b00b3b4/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/34/75/3475ab0020c9fbbd2caabbbfdbdf738b/eng-3.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/77/778c7b5ddac420fc1f6184216ab5db90/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www048.vipanicdn.net/streamhls/e5114ea7d443bc40b1ba37069a09c547/ep.1.1687627075.m3u8"
@@ -22,6 +31,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTUyODk3"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

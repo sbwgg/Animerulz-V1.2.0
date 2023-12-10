@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,30 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=sword-art-online-progressive-movie-hoshi-naki-yoru-no-aria-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/fb8b0da0383ba0845b6094c7354b995bf5b7aed2889b8e0c46f26dabbe3b0fd5ddbb64b006e8a2fe524685348eec9591d9a0b282941c876640e7bfb6229897ae50e797c99f01c24f943d7ad8035be4a2e78843627a7c06a23996a0d0644ea84f1b7a20595fae3b54205428c8e4fd89c9f66f556869a768daebf4d58677cdfe5b/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/60/6030eb21d43e2d0c829c63f5a3c2f07c/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/d62b43035efb025c8bb9a53ede514b342e0ed27b3e1fd0e07ec2aa56467b90e3ad59ba62d0f76167e2ce8165c3b509a0181b0db116c2454ffe243805fdb04668341f5526283675625d040c2bf1c88c15590c9a2667f97bb3f60b18d9e5a146c6146522ebd6c4d60d558775fe2a9a95ec95b28ed06e909e77c54b70b710e36949/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/5e/fa/5efa3c4ed6ef37d0d932a545ed358bd5/5efa3c4ed6ef37d0d932a545ed358bd5.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/5e/fa/5efa3c4ed6ef37d0d932a545ed358bd5/5efa3c4ed6ef37d0d932a545ed358bd5.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/60/6030eb21d43e2d0c829c63f5a3c2f07c/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www029.vipanicdn.net/streamhls/f44b57af00c3c2585a11816cf0b9cfe1/ep.1.1677646661.m3u8"
@@ -31,6 +49,10 @@
         "downloadLink": {
             "DUBBED": "MTk1Mzg5",
             "SUBBED": "MTg4ODQ4"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

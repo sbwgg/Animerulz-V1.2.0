@@ -1,19 +1,56 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/314f6c9e09cfb206febd48cc35673970d27412e464e2dcfd01b8b117ae55fd60c2075415a69c2a2e8e9f3b9b407368c3983293e625e69606b6504579d07863d532d7032ee75f375ba5170310cb0e6d5944f4932f6ff0db9bc3b950addfcd037f16cb9ef99dda5a282a318f9463b1216bb8045788ba071b035d9e192dac60bc59/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/c1/ea/c1ea3cf1580908e931b80c1995a3890b/eng-4.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/c1/ea/c1ea3cf1580908e931b80c1995a3890b/chi-2.vtt",
+                            "lang": "Chinese"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/c1/ea/c1ea3cf1580908e931b80c1995a3890b/chi-3.vtt",
+                            "lang": "Chinese"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/c1/ea/c1ea3cf1580908e931b80c1995a3890b/eng-4.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/c1/ea/c1ea3cf1580908e931b80c1995a3890b/fre-5.vtt",
+                            "lang": "French"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/c1/ea/c1ea3cf1580908e931b80c1995a3890b/ger-6.vtt",
+                            "lang": "German"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/c1/ea/c1ea3cf1580908e931b80c1995a3890b/jpn-7.vtt",
+                            "lang": "Japanese"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/c1/ea/c1ea3cf1580908e931b80c1995a3890b/kor-8.vtt",
+                            "lang": "Korean"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/6d/6d808d62e61bc9247fe12bb8c7b50007/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
     }
 }

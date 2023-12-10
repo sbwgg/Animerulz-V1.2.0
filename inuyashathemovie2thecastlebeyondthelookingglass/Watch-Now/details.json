@@ -1,20 +1,38 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=inuyasha-movie-2-the-castle-beyond-the-looking-glass-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/73de4d7aef3778f1e3f9958245fb560913a626de38ce7b7b221362c555486355ec69744c9d430ff8089e77dacd2f989141afa7f3d8554ac952c0e72f158ec8d054ca1c9f1613e57285e3da3e68b89f9edc0038479e61dd47fc1ff2f222b841cbe469bce585e6fe61100878341ffb4b52ff7b9bb37eaa0e224a63c6fcfbed3791/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/25/257490709c7f6e06214de556cf19a1d5/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/bfc240dab898a5f4958c276671b14b736dc0639fe85c466416cb9f6c385b207cf1604758d42ba71342bf8cfe29ab07e6bf270e4209659a7437b6a18b15349e3b517f1d99d6f6b9e5aa6e1001cd5d67db3c4ef5cd0f89e188df31ab30b321c29e56c7aa207d3302564648952a22f0704340f366e0a88265d1376facfdda99587a/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/80/30/8030746c9fee55b8d1a6556c782e1ba0/8030746c9fee55b8d1a6556c782e1ba0.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/80/30/8030746c9fee55b8d1a6556c782e1ba0/8030746c9fee55b8d1a6556c782e1ba0.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/25/257490709c7f6e06214de556cf19a1d5/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www028.vipanicdn.net/streamhls/669375386957a39c146b377968a90a4e/ep.1.1677662337.m3u8"
@@ -27,6 +45,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDA2Nzc="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

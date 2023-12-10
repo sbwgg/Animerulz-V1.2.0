@@ -1,15 +1,24 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "The Shut-in Vampire Goes Outside",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/d95dbca515db22fd2cb4ea2cf91f70050becc08a6150ded1eb73f1c0c28c17c2167b2694295dacfadd596e48e92e688dfc21c7c557274f9d99c78adfa9d16613f7f010c65eed6d867224686c044516e290b3ae9d8500358add3eccbbadf7634f06e3593fe0caca12254f2f8c843d7f6ce55a93075d82cfe3e277b299892f1578/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/9a/28/9a282ec015486b7522fecab72b9d14a2/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/9a/28/9a282ec015486b7522fecab72b9d14a2/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/4a/4a579591f800d4fd3720c5056c810860/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www047.vipanicdn.net/streamhls/e6f0775ee6fcedcccf455fb364fc3bfc/ep.1.1696688984.m3u8"
@@ -22,19 +31,32 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MjEzMDA2"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     },
     "2": {
         "intro": {
-            "end": 216,
-            "start": 127
+            "start": 127,
+            "end": 216
         },
         "title": "A Sudden Insurrection",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/6c88b069201dff3bd7e310849a39694038e4e5a3c897949a7f72bdb15bb39615d1d46d231ad282ee7b1970f056fb9437f35541b854dd4111f9fc3bb35550cbcf3f37b5d2c4e495ae3c0fe6e38f0c7c11c3e693448373b0c2a2243d00be96ac9e93cabf1e4bf34747031e3918ced3617ab7fee9a78f9c64b7cd792c08701a1b02/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/a6/f0/a6f0539a76767e71821e6da4d103664c/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/a6/f0/a6f0539a76767e71821e6da4d103664c/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/56/565cc18754fdf05de0aef25ab0e20ba5/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www050.vipanicdn.net/streamhls/e6f0775ee6fcedcccf455fb364fc3bfc/ep.2.1697293618.m3u8"
@@ -47,11 +69,18 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MjEzMzI5"
+        },
+        "outro": {
+            "start": 1406,
+            "end": 1495
         }
     },
     "3": {
-        "intro": null,
-        "title": "episode-3",
+        "intro": {
+            "start": 145,
+            "end": 234
+        },
+        "title": "The Darkness of the Shut-in Vampire Princess",
         "source": {
             "SUBBED": {
                 "Vid Streaming": {
@@ -59,17 +88,38 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=hikikomari-kyuuketsuki-no-monmon-episode-3"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/f72abdc71779bfc2cf3410083fcfbf9044a3bddca4bcb8bec92de2a85e455c4b576524120b3741694a7f767ba384411594ae190226a0463d809a4b7873497e538326b90d0ffaa4f844acc4464198d0a180785f833595923be1946140e860447fb7328ba5c3842c55999f5ab88415b05a0d886eacbf85529199ce9959ec113de5/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/de/76/de76a2e23f610b7b929fe5ed00fb00ff/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/6a/6a1769cd644a62a99dd310078a0ac028/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "idFiller": false,
         "downloadLink": {
             "SUBBED": "MjEzNjc0"
+        },
+        "isFiller": false,
+        "outro": {
+            "start": 1346,
+            "end": 1435
         }
     },
     "4": {
-        "intro": null,
-        "title": "episode-4",
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
+        "title": "The Mercy of the Lonely Crimson",
         "source": {
             "SUBBED": {
                 "Vid Streaming": {
@@ -77,17 +127,38 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=hikikomari-kyuuketsuki-no-monmon-episode-4"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/af8f00698bba85d682668595d1f6f6d53fca0d8e97e0fbe84c7e0e16203bd95d4ec306cdf66c130a21b3dbde87b9343e98119f422bdf5183babb9ecf55c02d3d768c90ab9072836f8e72e03071b7c72cb7e5d33bc4bd3a98596ac8fa5cc37c32c17a48d00b55f0943815f99606fcc24bab77c78eaf25ce28e65333c33082a502/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/1f/bd/1fbd353a3bc434351f4bf6acddea3734/eng-0.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/9d/9d4197677d26f7a6f6627560810df3fd/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "idFiller": false,
         "downloadLink": {
             "SUBBED": "MjE0MjI2"
+        },
+        "isFiller": false,
+        "outro": {
+            "start": 1345,
+            "end": 1435
         }
     },
     "5": {
-        "intro": null,
-        "title": "episode-5",
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
+        "title": "Sakuna Memoir and the Seven Crimson Lords",
         "source": {
             "SUBBED": {
                 "Vid Streaming": {
@@ -95,17 +166,38 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=hikikomari-kyuuketsuki-no-monmon-episode-5"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/5a154af3ed633fca75380bdd9297166db6baf5eabb31cc33cdc9ddb56f403476db8b35e492df312be58a18e0c7c13e2d1d45e6ef3de91ca9b767d4dd05564be2cb1c0296e650df6acc345339b50fae58b235eace4332ea84fa8b16a28aa5d033a82024751a115551bfa57179850d2f2db4ac488985c78c88f1ed37bbb9f40c44/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/75/f0/75f06f1627c1f48249a2d3db055f2cd2/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/4e/4e219d84369bd1d361ebcb1afbfd43a1/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "idFiller": false,
         "downloadLink": {
             "SUBBED": "MjE0NjEz"
+        },
+        "isFiller": false,
+        "outro": {
+            "start": 1395,
+            "end": 1435
         }
     },
     "6": {
-        "intro": null,
-        "title": "episode-6",
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
+        "title": "A Roundtable of Lowlives",
         "source": {
             "SUBBED": {
                 "Vid Streaming": {
@@ -113,17 +205,38 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=hikikomari-kyuuketsuki-no-monmon-episode-6"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/3745ead3e08e89f72d6278afd2d6a0879a6bffdb9add5939128e2857d598febb56c45b1574d89620aa4d2c81e9513a331a7cff857a983c2e1f37b6961bdeac4ec436d37b4fcee3a61f7bdb46106abc717de4ac5658f2c3a2231bd80133dd0350b9ec3ce662b16f07a9912ad4e2d6e5e603e7e13ab10a89f8fb5f8058128b0619/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/9b/d9/9bd99aeeca741bb241f61ad0bfacb80b/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/82/8218913aa01af3dd3593e580f2a3bd10/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "idFiller": false,
         "downloadLink": {
             "SUBBED": "MjE1MTA5"
+        },
+        "isFiller": false,
+        "outro": {
+            "start": 1346,
+            "end": 1435
         }
     },
     "7": {
-        "intro": null,
-        "title": "episode-7",
+        "intro": {
+            "start": 104,
+            "end": 193
+        },
+        "title": "The Scarlet Stage",
         "source": {
             "SUBBED": {
                 "Vid Streaming": {
@@ -131,17 +244,38 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=hikikomari-kyuuketsuki-no-monmon-episode-7"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/64f5eece7bbc95743a0514b3fc42538cd5c6b1ba2d1b90c467b9b35bf76cf3444a8ab43f148307819b60e122573508d40d0665c7ae4dde10ff01f2a07defe55d809914edfc82954cc3b3bd2681a8343013c89043ba91e736707b999f3c181f16c2a67839d2ca649c0010ac5dc0a0d543a44fc3212dc80a3cd7c5358ef0d39de6/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/cd/32/cd32a1a20bb70bd875a7c1c4a9dd0290/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/24/249610cfacf8b07ce6974290fa4aef5b/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "idFiller": false,
         "downloadLink": {
             "SUBBED": "MjE1NTk3"
+        },
+        "isFiller": false,
+        "outro": {
+            "start": 1345,
+            "end": 1435
         }
     },
     "8": {
-        "intro": null,
-        "title": "episode-8",
+        "intro": {
+            "start": 56,
+            "end": 145
+        },
+        "title": "Wheels of Asterism",
         "source": {
             "SUBBED": {
                 "Vid Streaming": {
@@ -149,12 +283,30 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=hikikomari-kyuuketsuki-no-monmon-episode-8"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/e3aa97e442a5335a51082a9361295c9da02d6e15a36a2165d4b6079fe0a548629562b6de7c149a28a80036b3a7bd28f461bdf7fde7efbdc251840d31d11d0c72986dc8a9b7f72ccaf7644265f81bfd3ac8a90cf93aa2283b956c8dbfb4113da1e0629a9b4b898dfacfb5c6ba136be953f595f259f5e4ddf92642b800ff0b1d1b/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/64/13/6413fe5b7801df701052e4362c9d3bee/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/dc/dc9abee2551ae171add09e9b8ac89783/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "idFiller": false,
         "downloadLink": {
             "SUBBED": "MjE2MDc0"
+        },
+        "isFiller": false,
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

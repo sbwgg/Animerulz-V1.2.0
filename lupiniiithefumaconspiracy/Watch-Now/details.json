@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,30 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=lupin-iii-fuuma-ichizoku-no-inbou-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/6f30b801f2be8bcd877aec6ce03166a0ca7a6aebd376c83886d50bc9c070fec525d081768bffc4138dd950d743efabbac96961713cb335673bea07aad092d2b3fa3ec3ccefec3f0b4cf9c2e76820463be544c593e1daa4b7ca3376388d47765536c6985e5b9adafb9abbb1e52b2d3afc/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/1a/1ac39fa1946c128c464e2b8198bb96bd/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/a265793dfb10f1ad4ff389bd1fa047ee662c0f3b398b08f7f6471bfa732053a42354063a3ed1c537d443216a2c2c61b66513ddcc24dc76af826c8d10cb442c525e7c2ecfbebd77e6f04dc45f3b94307451b65cd832f901296f9949b683e403a7c2f10f2d176d87eb1258957a159b30df/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/2f/6b/2f6bfa63f252136d4b4476b09ae6f7ff/eng-2.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/a265793dfb10f1ad4ff389bd1fa047ee662c0f3b398b08f7f6471bfa732053a42354063a3ed1c537d443216a2c2c61b66513ddcc24dc76af826c8d10cb442c525e7c2ecfbebd77e6f04dc45f3b94307451b65cd832f901296f9949b683e403a716c7e0738a3a8213d1c346f17f40acfe/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/2f/6b/2f6bfa63f252136d4b4476b09ae6f7ff/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/1a/1ac39fa1946c128c464e2b8198bb96bd/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www032.vipanicdn.net/streamhls/3d43a36b4b212d11e860b21a6dc93c74/ep.1.1677836168.m3u8"
@@ -31,6 +49,10 @@
         "downloadLink": {
             "DUBBED": "MTQyOTA4",
             "SUBBED": "MTQyNzYx"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

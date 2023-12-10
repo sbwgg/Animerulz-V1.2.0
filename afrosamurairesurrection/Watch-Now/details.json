@@ -1,12 +1,54 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
-            "DUBBED": {},
+            "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/745581a84837f52c5707ebdd342ccbe0870c71c5dbd5ee7a740def977df7a9577d7b8fde531ec2b9f04740f945501e75cb2d9de572ef1e0b0cfa5e7d4bcaf2cb63ac0ca7a7fbfecb1edb243ac21fc3046cb851ad90ebd6d0f6870562249d1e44eb0e2ec8afd97229554cf30b6ab1d0ec53865dd7cf5e7a2e4477c5f95f87d013/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/b9/5c/b95c8ccbd4cd045fcdca4e975caeeba7/ara-2.vtt",
+                            "lang": "Arabic"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/b9/5c/b95c8ccbd4cd045fcdca4e975caeeba7/eng-3.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/b9/5c/b95c8ccbd4cd045fcdca4e975caeeba7/ger-4.vtt",
+                            "lang": "German"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/b9/5c/b95c8ccbd4cd045fcdca4e975caeeba7/ind-5.vtt",
+                            "lang": "Indonesian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/b9/5c/b95c8ccbd4cd045fcdca4e975caeeba7/por-6.vtt",
+                            "lang": "Portuguese"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/b9/5c/b95c8ccbd4cd045fcdca4e975caeeba7/srp-7.vtt",
+                            "lang": "Serbian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/b9/5c/b95c8ccbd4cd045fcdca4e975caeeba7/spa-8.vtt",
+                            "lang": "Spanish"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/b9/5c/b95c8ccbd4cd045fcdca4e975caeeba7/vie-9.vtt",
+                            "lang": "Vietnamese"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/08/08860064b979d78acaeae842c873a2dc/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
+                }
+            },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/b539fa8b9b733b740a9715ab2f5f9b6a69a8f4b171d2178c7a871cf7bd8eb2641769a396a6ab3218dc75a6db4e0e89d00a52753d5a9631b3ecbc53249f164e9cd56e3a53c3d5c9c93e1c7e27efb84efe524cf2eb55ba49b7053b83b73a6648e8f1ca515cdf67b369d3a2a3cdcb277d881d621e36cc79f50fb6c71425a057a60f/master.m3u8",
@@ -15,6 +57,10 @@
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
     }
 }

@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,30 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=spriggan-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/222eb7c46f566e04255442c363657f7904ecd99d575bdce596268f41445be818fade0de09ef4f3d8c9cdffed585995ab67b13fbb9abe13bbe845959cd2fdf65a541563b94a3ea4e24703c73cd1de9a5626fdf5a5455585477809008ae36c89ac8edd4577a3601dc9b7dec95d2e46bd88c2c0ec67fc3de20bb36171aed54859c9/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/26/260a92d07e9ea59fe93637497e61621c/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/d14d9a2e139b49da8c99f4d895330232411506c1c1563846a47750952c77a3148de7b50efebfb15e56dec8fd1411bbbdb9b45a98e29156e603da7e384e12c1db4d235481fe2c132b1a9d468a1788eb9cdae664584cd4ffd7c6b90e2cb9f25d7c6fd4f56985e5655b6fa27e66e8b39e388c15e29dba7c276d3daf77c9201c085f/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/7a/3b/7a3b75060bb33adbf9058050a69e236b/eng-3.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/d14d9a2e139b49da8c99f4d895330232411506c1c1563846a47750952c77a3148de7b50efebfb15e56dec8fd1411bbbdb9b45a98e29156e603da7e384e12c1db4d235481fe2c132b1a9d468a1788eb9cdae664584cd4ffd7c6b90e2cb9f25d7c6fd4f56985e5655b6fa27e66e8b39e38dd3574c5fe872d4f2b3e0dabca088a85/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/7a/3b/7a3b75060bb33adbf9058050a69e236b/eng-3.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/26/260a92d07e9ea59fe93637497e61621c/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www001.vipanicdn.net/streamhls/db84b4fb1b944d3b6962a0bf1f8bffd3/ep.1.1677661152.m3u8"
@@ -31,6 +49,10 @@
         "downloadLink": {
             "DUBBED": "OTA2MTU=",
             "SUBBED": "NDA4NjA="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

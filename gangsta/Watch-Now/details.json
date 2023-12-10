@@ -1,20 +1,51 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Special: Recap",
         "source": {
-            "DUBBED": {},
+            "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/0114c9825575b93014826b2663a628316807df4b02ea14e854cca0ec8e3cac88d350323d779606d268f1c7632602b118f10d2791382c9ec979d58c799fc1eb21c69e30d41a77615dc3e5f83c1060c0fac95b6e1713280f65bf1d5c73a5243c7c0b23321d32cbda78ad3b01e5aa3ce08e3e95a376437bff0c685fc7501dae99f0/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/dc/dc8dbda87a7f1886157afb9ae5e71a23/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
+                }
+            },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/20543f491e37d21898f8286645e61c5b9901d13d09d39a356bc61dd875fb22b2bb0edeffb26c0bdd7117b2d5183f32c972500d20553f9449d55935cde085e3ca8bd99d2b2d7db8fefed53214dd2dca3302f1eecadc611d718f942c5a7f5dd3a2353316c43e6d765ae397fb7df41ea7850ccd8978e9675e6c036a3a37ac19a1d8/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/e7/d3/e7d386e9d853f0353f910e12e26462e9/eng-0.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/e7/d3/e7d386e9d853f0353f910e12e26462e9/eng-0.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/e7/d3/e7d386e9d853f0353f910e12e26462e9/por-2.vtt",
+                            "lang": "Portuguese"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/e7/d3/e7d386e9d853f0353f910e12e26462e9/spa-1.vtt",
+                            "lang": "Spanish"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/dc/dc8dbda87a7f1886157afb9ae5e71a23/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
     }
 }

@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,30 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=mirai-no-mirai-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/d1a5cab5f92bf23145432977f530a248e0212a209417e18f334b8d97ea567a47e1fce773a04f3e6fe9d0c1912a33ca8ee37e51a1a9db0a33c62a81ae640c5a68c62dd4345c9e5c75a7e75de60c4f3962e403fc9fba3fca9d8ebf4383a7b17516b1d435c13de27c9e1eefe6ff168e28560b2b68fcc3c00a6f8f2c7bc6afb66816/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/c7/c707d4676fb31aa7d73ec43d349f05e0/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/a607a761342559bba8b7c6e6f10bf36178eb4750c5b1ce640d50c6499fe5d93c10e425d7335f3fee68ab09b4475613072ca0ece86fd10a4acf99201f14331035a147a8666db1099068ca724becdda42d53916a776b9d2eedc2e621ab83582682f38e0446e16794a95448ac4a5feadeffe4ce0dde410ab01cf89888a3e2074a77/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/0e/cd/0ecd41f9232fa3f7c0ca51bd0347d351/0ecd41f9232fa3f7c0ca51bd0347d351.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/a607a761342559bba8b7c6e6f10bf36178eb4750c5b1ce640d50c6499fe5d93c10e425d7335f3fee68ab09b4475613072ca0ece86fd10a4acf99201f14331035a147a8666db1099068ca724becdda42d53916a776b9d2eedc2e621ab83582682f38e0446e16794a95448ac4a5feadeff465ad76a8af2534f7824e042f1dd3644/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/0e/cd/0ecd41f9232fa3f7c0ca51bd0347d351/0ecd41f9232fa3f7c0ca51bd0347d351.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/c7/c707d4676fb31aa7d73ec43d349f05e0/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www017.vipanicdn.net/streamhls/b04f09b972768c4f420eb64991afd6c3/ep.1.1677689796.m3u8"
@@ -31,6 +49,10 @@
         "downloadLink": {
             "DUBBED": "MTIxMDk5",
             "SUBBED": "MTEzMTE2"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

@@ -1,15 +1,24 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Special",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/d027fc01c818077ce324f8b4133ccd265dedf2d597fd183af6ec2c70dc5127d27c6e1b82cc7ec1d4310917a01e7cdab598786688aa5430ff1e6e8ce1273765dc9359c3540c1aeb35a52eed0d3eab7c6eb9970a1ef419b842c9d6035bdf43b628697b1ef66fdd312376c222befb4387fdd3952dab12b058ce9186f9ab50c37427/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/42/ac/42ac32c661fdc8ed3a50d5988bf632dd/42ac32c661fdc8ed3a50d5988bf632dd.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/d027fc01c818077ce324f8b4133ccd265dedf2d597fd183af6ec2c70dc5127d27c6e1b82cc7ec1d4310917a01e7cdab598786688aa5430ff1e6e8ce1273765dc9359c3540c1aeb35a52eed0d3eab7c6eb9970a1ef419b842c9d6035bdf43b628697b1ef66fdd312376c222befb4387fdbd9b8eb31834a9cd952e6336ca65ba4e/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/42/ac/42ac32c661fdc8ed3a50d5988bf632dd/42ac32c661fdc8ed3a50d5988bf632dd.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/9c/9c11797691d968006f53529c192c15c5/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www008.vipanicdn.net/streamhls/d36b5a7fde75ef0e4e399d0601a1f02b/ep.1.1677603467.m3u8"
@@ -22,6 +31,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTc1Njg3"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

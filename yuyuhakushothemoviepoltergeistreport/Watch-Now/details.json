@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,34 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=yu-yu-hakusho-poltergeist-report-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/932706c95b348a34c3aa8c9417ad4826aff60382a81feec2034f4892b7078e0e96bb4b6843bf577a2ac2d7926506194a55e6b5ed6d8833a168d3120b7a3241ab195d937ebbab725abc4194eed088393ed5ac6bfa8906cae88047cc3689a50e8b379dfdb2e9c4b2c7aa1afeb058a44a4ae4759625f03c55fafe1512d5031263c8/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/97/973cc13818c492d86793bf765412353f/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/476a77af7c40e2dd026cf1b5a6aee4ebe30ad00ecb0f2b0af4928b6102bd4787521f27f19b72868338e548773665c969a43be0b4d95e7c07d2b8ae4955b731221512c8e6bdfc5227c7e8dda9b80a97e560c015d04ced5d1239e9ffa89d52ec7647df5ff1816ebef0d8aacf7d233e9d063df0956ff06b42fb10b65675705e01d0/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/ad/9f/ad9f1d2991cd7b3549f2deab745b51b2/eng-3.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/ad/9f/ad9f1d2991cd7b3549f2deab745b51b2/eng-3.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/ad/9f/ad9f1d2991cd7b3549f2deab745b51b2/eng-4.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/97/973cc13818c492d86793bf765412353f/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www009.vipanicdn.net/streamhls/d8175aafcb8a66a6fe92decefd58bb49/ep.1.1677664902.m3u8"
@@ -31,6 +53,10 @@
         "downloadLink": {
             "DUBBED": "Nzk4NDk=",
             "SUBBED": "NDA3NDg="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

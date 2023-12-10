@@ -1,6 +1,9 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Special",
         "source": {
             "DUBBED": {
@@ -9,6 +12,15 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=elfen-lied-tooriame-nite-arui-wa-shoujo-wa-ikani-shite-sono-shinjou-ni-itatta-ka-regenschauer-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/26192a57b82cf007865792e05e286fb86e69b316eca1a14abb454ec46e19c7e60a77b3be299cf25b29974ccb9a98f56438ec7140522fd729ae5d1e83abf524e1cd04cbc7d85ce4ecbb7713ec3d417af2421343f05ca19c7cecfee9a28c2de8d3b62ba6af213d83560fc79b050f4bea845c74859fa2d6d0acd5a98437f4b51277/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/55/55edcf05802fb97e5933ff4aa3642578/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
@@ -24,6 +36,10 @@
         "downloadLink": {
             "DUBBED": "MTQ3ODY3",
             "SUBBED": "MTQ3ODY2"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

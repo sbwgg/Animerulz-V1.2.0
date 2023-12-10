@@ -1,19 +1,32 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Pure Romance / Pure Egoist / Pure Terrorist",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/0fda3a93556de86251a2c198e7785aafddff3e4544f24d4c00a25e311d6cc1b1513bd4ebfc4b97c0ae9fdbf41c480b29784a9f9c247ca0e403573dff908b033bdde430154de6b2a99a98a7a6ad536cfe42b2eaa597e3234333cb56d662f39311ccdc49ae8262620e84c11ca07df2e4c3d982352eb1c67c5cb8549a65969b5f80/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/e0/b2/e0b24da19212f89c240b6b5b2b34e8fc/e0b24da19212f89c240b6b5b2b34e8fc.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/e0/b2/e0b24da19212f89c240b6b5b2b34e8fc/e0b24da19212f89c240b6b5b2b34e8fc.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/d5/d5ed3034a6f6c46b5493982b12f9e4a9/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
     }
 }

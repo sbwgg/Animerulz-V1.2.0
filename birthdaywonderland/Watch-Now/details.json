@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,30 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=birthday-wonderland-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/f11c56a6b466314380f1cb36ebedb45918e7546b4359ed731013e99023d62a16bc90a610b5f5c892228f99ff37318381e3c473a92bdd452e954d2e8187b97bd6da060534d1d3b599312cedb0a4e4d112fc53b9dd4cb8e82b7320d4cea3417395050ebece46dbee46df52a1439be530952d34c1e50ebf65cd2f38b1153cea397b/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/b7/b7e50cab077d0cd3e87a4b72ae71fc97/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/6c3c03f1b0f58ad845311a86c56fef749f0af545c4d376892a3d21cc40fecef3e3ba406841e1839d0757c84aac0fef15aa12acd1ced7a6a4906c056d2e5acf4338da4665e64d206c2fe90e6e0aeb8c6667572dd90f2d2476d04ad2a644d6a1add3ab5ac9eb3dafea3364238a7857faa84c22105d3ddb8b490a182d0116c0e559/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/c1/eb/c1eb1489783c27faa581858907814770/eng-5.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/6c3c03f1b0f58ad845311a86c56fef749f0af545c4d376892a3d21cc40fecef3e3ba406841e1839d0757c84aac0fef15aa12acd1ced7a6a4906c056d2e5acf4338da4665e64d206c2fe90e6e0aeb8c6667572dd90f2d2476d04ad2a644d6a1add3ab5ac9eb3dafea3364238a7857faa89e3204b9594845ffd7b489bb175fd387/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/c1/eb/c1eb1489783c27faa581858907814770/eng-5.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/b7/b7e50cab077d0cd3e87a4b72ae71fc97/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www004.vipanicdn.net/streamhls/2bbe16f83940e8916f19905be8cc0d34/ep.1.1677691712.m3u8"
@@ -31,6 +49,10 @@
         "downloadLink": {
             "DUBBED": "MTUyNjA1",
             "SUBBED": "MTM2MTcz"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

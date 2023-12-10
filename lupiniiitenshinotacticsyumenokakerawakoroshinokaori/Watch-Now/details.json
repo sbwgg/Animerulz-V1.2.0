@@ -1,20 +1,50 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=lupin-iii-tenshi-no-tactics-yume-no-kakera-wa-koroshi-no-kaori-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/aa351d46adc6ddf6630c458425c6f636d99e6920f6c58524044b035bedb9d986e0fa512172045031224cac4259bb35c47077cf2a50f79c29a098bae88f1b1d44b4e5e39e34335ab181419535d6d74e0579c9c12f331c07b08edb64b7f4f77e0f73048b7f5170c0786b329a1f7949ad99dc338ad686a58e9bf93d8bc4cefd7950/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/42/4267f207a7b23744061e8c7d28b571b2/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/afbc45d3cd5cbeacd17205871a2aa791d381a67555d955534ecc67c40c84101782b1106408e7f09f3a5cab7ab3ebc20aeab3fb7abddee257daa437e043770167e433b1309a7fd23cf1234294a12c8f9cfccbbfbf4925f5be4d6e3ac02bdd3d78fa338f8c7ec4a49df4c04f508d1fec97929af08295c707042973b907fd0d75f8/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/69/3f/693fce3ec1cd93f380a212c068476bd9/eng-1.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/afbc45d3cd5cbeacd17205871a2aa791d381a67555d955534ecc67c40c84101782b1106408e7f09f3a5cab7ab3ebc20aeab3fb7abddee257daa437e043770167e433b1309a7fd23cf1234294a12c8f9cfccbbfbf4925f5be4d6e3ac02bdd3d78fa338f8c7ec4a49df4c04f508d1fec97d4f14be1643735e023232103e0d1a986/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/69/3f/693fce3ec1cd93f380a212c068476bd9/eng-1.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/69/3f/693fce3ec1cd93f380a212c068476bd9/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/69/3f/693fce3ec1cd93f380a212c068476bd9/ita-5.vtt",
+                            "lang": "Italian - Cartelli"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/69/3f/693fce3ec1cd93f380a212c068476bd9/ita-6.vtt",
+                            "lang": "Italian - Cartelli e dialoghi"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/42/4267f207a7b23744061e8c7d28b571b2/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www046.vipanicdn.net/streamhls/ad26dab109c86085e73c57fee09120d2/ep.1.1677852939.m3u8"
@@ -27,6 +57,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTYzMjE1"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

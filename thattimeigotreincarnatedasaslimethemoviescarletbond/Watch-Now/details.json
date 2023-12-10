@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "HD-1080p",
         "source": {
@@ -12,12 +12,30 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=tensei-shitara-slime-datta-ken-movie-guren-no-kizuna-hen-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/c6abdcb2b8a120e39cde48d4a6bdf333632738644da7c5a4d2e2a039b16f0b7a70c1f71bced3c4d4fc09ada52eff128f931729131e24dfa43877e078053aab219d1fa974794bb790cf5ecc67e1bec2a80eeda8e0384ce5acd02a6ba1e5bead012cf53a0d08c1965740c1ee816acba5652c9795b730f5940a0620643c6ffefc30/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/5e/5e74c54ffe626b22a2912eecd1dbc2a3/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/cc428e28a26bfe59dcabd73ced9e145ce5513a7e42f74351381f883d74c891fb5c7c64811ae3491e93896fd3057e20af04df78738acd9f9c88d7f50e0e95e832e41a3e21a2e212db5734803b65b8cb307731159403e9f09efc9b3ca9686aca12be43b0abe169717d9649a99c0fdfec885cbcc54b8ef6272c6e29bb6e438870ca/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/14/2e/142e6032dae3d3d3b8afc7198d7b1d43/142e6032dae3d3d3b8afc7198d7b1d43.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/14/2e/142e6032dae3d3d3b8afc7198d7b1d43/142e6032dae3d3d3b8afc7198d7b1d43.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/5e/5e74c54ffe626b22a2912eecd1dbc2a3/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www042.vipanicdn.net/streamhls/e057df863689f16ac8ffedd303625da6/ep.1.1679592814.m3u8"
@@ -31,6 +49,10 @@
         "downloadLink": {
             "DUBBED": "MjAzMTg2",
             "SUBBED": "MjAxNTEx"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

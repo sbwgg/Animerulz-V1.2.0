@@ -1,20 +1,38 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=princess-principal-crown-handler-1-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/d2b4ef05c0a36f13b1f742b45b5dcdf39f80fd323337bf58ffdfbde3bc2443a35472a5c1e67baf79dc87acce9b47cb43b7d477ade9bba9cadfc1ba6c8c18e0fafffbdd391323c6c4fb8d4a3a612379c82e1b6fdcf8b6b11a0ad22288cc87125cc22d13f0c9bd2a71e242f7adea0ea6cdeb90d13da79b78dbe5287cc54d068ec3/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/a7/a7e7920d73fd3003f0385472fc446cd6/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/9f7fa19b6e05740359eecb091e0189ea68a208eca3ea6fc000e4bc8afde2d4e9ece26fe9bd8e7a1df30cbea4e999806675403f9acfb344ab02225b08da337451d37808dc3eebaf0751425348b126b24b823f2f59907102523a9121e6921ce56c9970e2d3cd7ccdb58f8a1510fec807edeee31c585f455139b5fa3bafe3099d1c/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/81/39/813984e8a197dc3d14612603e2a6e869/813984e8a197dc3d14612603e2a6e869.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/81/39/813984e8a197dc3d14612603e2a6e869/813984e8a197dc3d14612603e2a6e869.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/a7/a7e7920d73fd3003f0385472fc446cd6/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www039.vipanicdn.net/streamhls/dc8d23292ed386d2be7ddf69273ca70c/ep.1.1677831573.m3u8"
@@ -27,6 +45,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTYyMDQ4"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

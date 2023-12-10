@@ -1,19 +1,44 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/32c31efc28fbd86c2161f486ecf4ce5f6aca1fa8e7407fe85ba2eee28002e14668fcc0882ac1b7a58aa8599542c6d1dc2dea3432bf4640ea484162356270dc9976e931f20f1d3416efc61207a102d33bf672bba198ea45d14db59379abfd1fe984db8a420f806d40032b5d24749e675c3b865dc3345d8492138edf6ab63b4855/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/cd/7f/cd7f0176c740bf7f5cb5387da80a4539/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/cd/7f/cd7f0176c740bf7f5cb5387da80a4539/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/cd/7f/cd7f0176c740bf7f5cb5387da80a4539/fre-3.vtt",
+                            "lang": "French - Francais(France)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/cd/7f/cd7f0176c740bf7f5cb5387da80a4539/ita-4.vtt",
+                            "lang": "Italian - Italiano"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/cd/7f/cd7f0176c740bf7f5cb5387da80a4539/por-5.vtt",
+                            "lang": "Portuguese - Portugues(Brasil)"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/54/5498b97f3d00c4c94457698d23da03dd/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
     }
 }

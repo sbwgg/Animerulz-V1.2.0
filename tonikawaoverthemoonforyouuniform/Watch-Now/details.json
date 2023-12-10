@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,46 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=tonikaku-kawaii-seifuku-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/1dcfd719be392252142063604a7334718d3e477b682422dc5188681e67daa24e8d67524a14b20354b67988271d71550d2a4d5bd539abdf2341d3c3a7fa46c7de9cd278f36603cd7d69e9057b2b1f16c8d37273d4c7195e776aa265cc3650b80584498dc76063a8f11cfccb09d68f671c698e0022071e88834d270c27ac03fdfb/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/c2/c250613f3a7058046d5da7c0601f7dd1/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/b39887736e4d5df311c1b858a58639e7bdc20dfb0a3d9d1eac2d373d09428150040c30dbd4f38730de3e5a5a6fc530e77c4809d3f93a9a772c9d8dc39c9013f8a6c0af2e4a2afd3d754e764488b836579acbd613e4779274d73274a47d50071d27bc7f78eb30567d62a347a3fe99f3db7f777f7d64d1a4edd612256e3a693627/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/b1/08/b1087e81e4981c808d82b06afb96fc09/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/b1/08/b1087e81e4981c808d82b06afb96fc09/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/b1/08/b1087e81e4981c808d82b06afb96fc09/ita-6.vtt",
+                            "lang": "Italian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/b1/08/b1087e81e4981c808d82b06afb96fc09/por-5.vtt",
+                            "lang": "Portuguese - Brazilian Portuguese"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/b1/08/b1087e81e4981c808d82b06afb96fc09/spa-4.vtt",
+                            "lang": "Spanish - European Spanish"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/b1/08/b1087e81e4981c808d82b06afb96fc09/spa-3.vtt",
+                            "lang": "Spanish - Latin American Spanish"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/c2/c250613f3a7058046d5da7c0601f7dd1/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www047.vipanicdn.net/streamhls/a204426d8aaa4da3b5b0092ba32dfa65/ep.1.1677836865.m3u8"
@@ -31,6 +65,10 @@
         "downloadLink": {
             "DUBBED": "MjAyMzc4",
             "SUBBED": "MTk1MjU2"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

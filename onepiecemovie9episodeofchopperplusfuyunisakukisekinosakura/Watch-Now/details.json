@@ -1,6 +1,9 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Full",
         "source": {
             "SUBBED": {
@@ -9,12 +12,33 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=one-piece-movie-9-bloom-in-the-winter-miracle-sakura-episode-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/13e4cc2d203c4aadf0e5f664e0f783010cef1c41c832774663d8b9a9aa6847f1c93fafc340b134aa1d2d593033a3d89e2365dc4546e6876e1e7f4263cee4ad6f3b31b5287ccedf0a108f0eab297182c18b8ac91e523b10652a4fa49340c3435ef193b15d08a7414731f1d744c0f8fa2a46db2d32d8117f838c37f23f6bb95061/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/a8/13/a813e72a7e2a131bfcff26de464960ce/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/a8/13/a813e72a7e2a131bfcff26de464960ce/eng-3.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/b3/b312c07e8ee10580e4d7da1bff542be0/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDA1NTg="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

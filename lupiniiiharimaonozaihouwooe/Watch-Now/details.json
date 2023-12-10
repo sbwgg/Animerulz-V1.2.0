@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,34 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=lupin-iii-harimao-no-zaihou-wo-oe-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/5031469824d8228297a2352cd2c0e6277d460d445d86213d68a9c5c5a665e097a3d57b9de66cc66a18138810815edf70a2168e8feb1b9e09b3f6b722f1dd6a9f000cbce7b59ffdcae6d40dcb4170055ee81e44c584792ee2da216c145f0b35a1a895662ab6ab53d824102c33881bf17d4353688b7d8c0bf439e3df67636520c4/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/e5/e56da5483e3f6d2e332ca514ad7ddf9b/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/518ac9074760727ac0925aa2c6be6fab60ede50424d4eda840e4767e6d6a0f93e6237bf89ea112e2af3ced773f3187f52338c1df43db17877d7d4244ec13539718a3b147cf53880f845db0a62bcb200c69dd5206bd4afcc61f2653f62f037abab75fdd83db08d7ba3784f55392262251e6f4a5875f2348abae26364648ae853a/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/a0/37/a0378933c1f7b3b0950b928fb48f9cdd/eng-2.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/518ac9074760727ac0925aa2c6be6fab60ede50424d4eda840e4767e6d6a0f93e6237bf89ea112e2af3ced773f3187f52338c1df43db17877d7d4244ec13539718a3b147cf53880f845db0a62bcb200c69dd5206bd4afcc61f2653f62f037abab75fdd83db08d7ba3784f55392262251a2e75a059e5ac02803e06c9c55b794a7/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/a0/37/a0378933c1f7b3b0950b928fb48f9cdd/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/a0/37/a0378933c1f7b3b0950b928fb48f9cdd/ita-6.vtt",
+                            "lang": "Italian - Dialoghi"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/e5/e56da5483e3f6d2e332ca514ad7ddf9b/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www049.vipanicdn.net/streamhls/444e915b5260549cfc68cffd661efd49/ep.1.1677840083.m3u8"
@@ -31,6 +53,10 @@
         "downloadLink": {
             "DUBBED": "MTg2Njc5",
             "SUBBED": "MTg2Njc4"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

@@ -1,19 +1,40 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/29ac2b7cd66cb3b20c7be4fc268747ea48fa44334c25a177de9e4d91a48f0dc6f591b49da245158fb0bc2fc448222d1c97a0009f747415d5857936710f9520a620ca9b76ea3f9ffe82fb440b1f3ca69281b63a172c07c7bea51c6daf598a239ca985b701e90ad663ba3ffdda316bd351ee7d058eed5e36b559ccb398138a3048/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/06/81/068118aee2bcf9cdf57f0766c155423c/eng-3.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/06/81/068118aee2bcf9cdf57f0766c155423c/eng-3.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/06/81/068118aee2bcf9cdf57f0766c155423c/por-4.vtt",
+                            "lang": "Portuguese"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/06/81/068118aee2bcf9cdf57f0766c155423c/spa-2.vtt",
+                            "lang": "Spanish"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/09/090e40787b00f720d8233413e50fa771/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
     }
 }

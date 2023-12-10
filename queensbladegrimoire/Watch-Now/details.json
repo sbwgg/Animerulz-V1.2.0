@@ -1,15 +1,24 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Awaken, Demon Hunter of Little Red Riding Hood",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/44cdd911f63bb497a5833c3af3bda8c9f9a48d1a5d600755c2a408af864c012f5853e5439d85609b55e590c39730ece1891cdf3e38451e5a5905f253d518cd75c06dca21dc54829138c8d195781c3757c8ac60f37207303e02ed0474b700eb4b1451d1aa20c400bafda4c06307c9f609a3e91d3e66dd4cae9010cf504b9ebec1/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/f2/71/f271662d1c05309f4013b3e29f04996f/f271662d1c05309f4013b3e29f04996f.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/f2/71/f271662d1c05309f4013b3e29f04996f/f271662d1c05309f4013b3e29f04996f.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/09/0915dd6a4f3619ca3924db4f22e31b4c/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www007.vipanicdn.net/streamhls/c32f05872b5e8b026f8ece0858aff98d/ep.1.1677663977.m3u8"
@@ -22,19 +31,32 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NzExNjY="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     },
     "2": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Round Dance, The dreaming mermaid princess",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/b1dc071b26bd79e96003a1a88f448f5ee971db2bf8db89b25f7cddeb2af42307e55e353df5ac0d95873c275706a5963e6f5bceba39c465718dcdd336e9991a35d3f40640d78c0936d08cb301b6190ac74e4dc26018a16de117073be4cfd4e70a80cb0d7bac3bcb969e34dafaf3ff79d323dea35e24a40d623eb06b9ed64878ad/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/be/c5/bec588a140d5e5a75c2beff0315cd177/bec588a140d5e5a75c2beff0315cd177.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/be/c5/bec588a140d5e5a75c2beff0315cd177/bec588a140d5e5a75c2beff0315cd177.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/23/237c0e07a2a1b2510cb8bffed3196596/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www004.vipanicdn.net/streamhls/c32f05872b5e8b026f8ece0858aff98d/ep.2.1677667089.m3u8"
@@ -47,19 +69,32 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "Nzg5OTM="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     },
     "3": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Special",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/1b588a68276db373ab0b8a497a349dbf5e3ce53a28c4e701318c611e9375a29162634ee11302de0fe05ee42508d12a230abe1aaa2295d5681218efe6427f5bcf01f7dbbfed84ef85e7035b89dae140c9ad63a6fdaa989ea335d6fc89440c4361115106b4bd526bec02e03dc933f4d637a02ea13a5a8dce1c4889747068d6eedb/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/5c/33/5c33983cee7d31957bf97b5a55ad2c16/5c33983cee7d31957bf97b5a55ad2c16.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/5c/33/5c33983cee7d31957bf97b5a55ad2c16/5c33983cee7d31957bf97b5a55ad2c16.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/87/8759ea903aaa0e810fdfaead03d4b86f/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=queen-s-blade-grimoire-episode-3"
@@ -67,6 +102,10 @@
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
     }
 }

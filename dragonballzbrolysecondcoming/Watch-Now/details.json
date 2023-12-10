@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,34 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=dragon-ball-z-movie-10-broly-second-coming-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/e83362a811f7fe143a90b31247851f371726c658a5f77826131d95b9b1384d26e9a0bd2460ee676858df4b4c0c6c25194a95a2bf6bf758e972bd07fe226ea1eb95722b2420ca931815355d234533b95488a230a85fceb63847616f99aa7e0b13a6804747baa5be002fbb52d115a7bbdb7f798450eae3ebb7120d2c8a73cf5a7b/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/51/516004e25432432638b3c51bc27ec662/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/077cefc584a7dfcb959a6df6fb63ce2433423817e9c270cba8265c001e188f61d9c58c4fc13be56257d1f02aee064628ea49dd56c780d3687ec6c7527e81318904a676ef3bb1468589cd156172f4da39421be75d9849a0bdd5a5e75385c283c6ca774e800efe532ff218f60a6136031a251b72224c966ef11fe27cfb9f84e8db/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/e4/2f/e42fda71fdfce92f01938a1be61034b1/eng-4.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/e4/2f/e42fda71fdfce92f01938a1be61034b1/eng-4.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/ea/f3/eaf34bc6abeeeff612a13b5caa9ea9b8/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/51/516004e25432432638b3c51bc27ec662/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www030.vipanicdn.net/streamhls/b8265c5fc1063b4e5048496f5808d702/ep.1.1677660385.m3u8"
@@ -31,6 +53,10 @@
         "downloadLink": {
             "DUBBED": "OTM2NDI=",
             "SUBBED": "NDA3MDk="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

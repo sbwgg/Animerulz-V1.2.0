@@ -1,11 +1,23 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=detective-conan-movie-2-the-fourteenth-target-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/2ca842501a50c5a2ec413ff70e8774c615eca74a199819d3f52fc741e87cd044de132a32af0c27d4157de888860382837248e166db5ea79808b6c52c7539f9c10dbd29d0c62a505b209769e80729dee3a8084bb0a4fa41c434a24dbaa5683fb3ce399fadf56483f640abc1281000b4cb/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/33/334695c8a1bac39ae6e1b4837dbb70a7/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
@@ -14,12 +26,29 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=detective-conan-movie-2-the-fourteenth-target-episode-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/1f39d0c784fac3729b586785d314dad4263f2bc697bb89c74a966584b945958f713d976a3ad607591b70c798e2655356f8ac8780b6ed2619a493ea063b09f193d57f9f736d9af0326cb6aa542d68ccf1bfdb81bc8dcb653e8990b94f68b9457e1d931a3147923916f0272f636ce481ca80ef741403be256d9859ec9aaac2a286/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/ef/ad/efadffeff1e165b9f2cf95bdc145d5cd/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/33/334695c8a1bac39ae6e1b4837dbb70a7/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDA1ODE="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

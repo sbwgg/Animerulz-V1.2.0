@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,34 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=ai-no-utagoe-wo-kikasete-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/ae4c247f2795013deb7bba89d913a52eef97be8c57e7fc04bb0c4f69c9b7baae1fab56a4a49e56937b23191f64657d24d68b3287325f409ce0916ca09cc43679b84dbd8cc858d67d46b01a3ff1099e09774495f3ee6d1f9a70c4163c506c78e17921064e46e4d29145af018faffc06e443055e160edc2c7e89d2e880b0dda62f/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/f5/e9/f5e92f44fa1480accdfb1ff598df85d8/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/23/2382ca11989284fbc2f1f48f020b04cb/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/1af8cd0eb8e3f4834d84e09b39d0fc8e09f259b53221e0720c5d8cbf35e1b2d33ec79fb820a7d6a0246bafece31d8f1fe149de956977cfd47bbb1e89786375edd676170cecad60eb757d0759ae3de13ffaa41b66bebf0c1045d8c88be9dae86d32152c37f88ddf74b4b3205175b82187b969632a22e5d53dc4d13efa82785c44/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/b6/57/b6570a8bd85550ea6811847d3227a51f/b6570a8bd85550ea6811847d3227a51f.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/b6/57/b6570a8bd85550ea6811847d3227a51f/b6570a8bd85550ea6811847d3227a51f.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/23/2382ca11989284fbc2f1f48f020b04cb/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www006.vipanicdn.net/streamhls/96e0cc79afaab97a874457205ea3491d/ep.1.1677596615.m3u8"
@@ -31,6 +53,10 @@
         "downloadLink": {
             "DUBBED": "MTkxMDQ4",
             "SUBBED": "MTg0NTk1"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

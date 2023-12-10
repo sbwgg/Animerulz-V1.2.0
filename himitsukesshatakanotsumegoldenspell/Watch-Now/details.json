@@ -1,15 +1,24 @@
 {
     "1": {
         "intro": {
-            "end": 60,
-            "start": 0
+            "start": 0,
+            "end": 60
         },
         "title": "Golden Spell",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/14762b6f294c031046f2ae2dce11d6b01d0a0466e791294b77f5091598dfb733a2f4ea662424cff98b568c68ad60e3eba49633502fcf86bc9aab94f4b3335eb92a8078b51787111cff2d8362eb22a0597cd17bd27ca8af563ab1d363ff23e5fae1f5418aed4ce0b945d0cf3914f579876184396d366487c5c844def7df8538b5/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/4c/a1/4ca143ef8a4ad8628100f476273658aa/4ca143ef8a4ad8628100f476273658aa.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/4c/a1/4ca143ef8a4ad8628100f476273658aa/4ca143ef8a4ad8628100f476273658aa.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/f5/f57744fda196b8ab6d7d4f41e242a89f/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www046.vipanicdn.net/streamhls/789982343d0637dbdcf49beabfcc5e67/ep.1.1677856807.m3u8"
@@ -22,19 +31,32 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTQ2MTM1"
+        },
+        "outro": {
+            "start": 665,
+            "end": 695
         }
     },
     "2": {
         "intro": {
-            "end": 60,
-            "start": 0
+            "start": 0,
+            "end": 60
         },
         "title": "Anti-Spell",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/f4e497f3e1fb22bff3d967789f45ef8252fdf53bfe64cfd9db97ee27a594cf3a41a7d9f0ec5c80fc499fa340968f30af55a68afff732aafc9a41fbb348e5a427e281223b6325e40681fef8c2ae3b22bed4039a227e0c913b7d5889c8607f389c1588dbb591c2f66fd2a38331c79533da8da1e0cc4591f547788852fa6c19d15b/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/e5/9b/e59b2520bcd837518dd5412903f0df5d/e59b2520bcd837518dd5412903f0df5d.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/e5/9b/e59b2520bcd837518dd5412903f0df5d/e59b2520bcd837518dd5412903f0df5d.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/d4/d4ba6d5564a9e398f458ad901030d507/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www027.vipanicdn.net/streamhls/789982343d0637dbdcf49beabfcc5e67/ep.2.1677817685.m3u8"
@@ -47,19 +69,32 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTQ2MzA2"
+        },
+        "outro": {
+            "start": 665,
+            "end": 695
         }
     },
     "3": {
         "intro": {
-            "end": 60,
-            "start": 0
+            "start": 0,
+            "end": 60
         },
         "title": "Baby Talk Spell",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/1a77562ff37bb82c4b1c46eb176c1907dcde28666622b27edd16a3cb74a0ebd64f49f889dc0eb889c88d09b6713592efbd7c3287aadb558ea8ac232966377a0fdcde89befc3f946b0a6784279576840d21d48de2de33c9066f2c3995d19eb22d014915d6e47f8b53390697e312b4d9b3789a5fd46c34af97e7e4660bd686906c/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/ec/97/ec974d601091d37f8d9a355c58bf3b7d/ec974d601091d37f8d9a355c58bf3b7d.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/ec/97/ec974d601091d37f8d9a355c58bf3b7d/ec974d601091d37f8d9a355c58bf3b7d.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/ca/ca07575b67fbad9cccdd47395d48c9a9/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www001.vipanicdn.net/streamhls/789982343d0637dbdcf49beabfcc5e67/ep.3.1677707253.m3u8"
@@ -72,19 +107,32 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTQ2NTUw"
+        },
+        "outro": {
+            "start": 665,
+            "end": 695
         }
     },
     "4": {
         "intro": {
-            "end": 60,
-            "start": 0
+            "start": 0,
+            "end": 60
         },
         "title": "Help Spell",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/d0f70fbcb89236d617fe31e97d4a1336958022c07a5c6079850205824253b03f069624c18618bb29070c8d0be8410182b0c82a6b3526927d41e33efb094c216e24841bf7ba9ee3076761eed7eaad6042b056a365ddddcea9637e6fd3f2e4a82f622edf46e8a3565e286f95b508693bce568de3d93df4e22435080b8c90162007/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/70/55/70553d6c427c2a97baaaba39c8eb3e7a/70553d6c427c2a97baaaba39c8eb3e7a.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/70/55/70553d6c427c2a97baaaba39c8eb3e7a/70553d6c427c2a97baaaba39c8eb3e7a.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/c1/c11c6f1705806dbb71d1bc84232cefd1/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www034.vipanicdn.net/streamhls/789982343d0637dbdcf49beabfcc5e67/ep.4.1677834181.m3u8"
@@ -97,19 +145,32 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTQ2NzYz"
+        },
+        "outro": {
+            "start": 665,
+            "end": 695
         }
     },
     "5": {
         "intro": {
-            "end": 60,
-            "start": 0
+            "start": 0,
+            "end": 60
         },
         "title": "Tear Off Your Clothes When You Hear a Compliment Spell",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/9923f59de5a66a0ba542d66d44494f3ac4311cc8b6b6d54a47428aa7806babe51afb96c9f0f7be5c5077f91325807e0da7943465b8c22dbbfcb2048a9f1313cd36602dac7e53fe4d1232db02d3ddedccc47f344d28550fa0213f4a8fb807eaa3a196975a2dab6145bb601c5617300e19ec5a6d54f53f39c77de16efd6c8c2f8f/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/2c/88/2c88e0d08d0ee87d7bbc2039f8ef8946/2c88e0d08d0ee87d7bbc2039f8ef8946.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/2c/88/2c88e0d08d0ee87d7bbc2039f8ef8946/2c88e0d08d0ee87d7bbc2039f8ef8946.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/00/009c71e7ab68f728407c05724556fb3a/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www042.vipanicdn.net/streamhls/789982343d0637dbdcf49beabfcc5e67/ep.5.1677850597.m3u8"
@@ -122,19 +183,32 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTQ3MDcx"
+        },
+        "outro": {
+            "start": 665,
+            "end": 695
         }
     },
     "6": {
         "intro": {
-            "end": 90,
-            "start": 0
+            "start": 0,
+            "end": 90
         },
         "title": "Chasing Sugar",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/ca1de1f5c90f101554f6be5b50873cf5c0e0116b55dcacfd72475970bfe5a1c490b91edde78763426cb52f40cfb14c5ff69399888356212ba70a89950782bb782ac3b5366b7c4e850c4b20f825b867cbaeaca430f3a3344c02ce0967b12b37f0e5ccea8f830d9b8c32fddbc9d0cccf1059ec15a523a98abccf7b305b9a04093c/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/c9/30/c93065c9befc4c111dc19f9a05c769f2/c93065c9befc4c111dc19f9a05c769f2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/c9/30/c93065c9befc4c111dc19f9a05c769f2/c93065c9befc4c111dc19f9a05c769f2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/c8/c89bbddabd4da7c79e906a7baa2e9ba1/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www035.vipanicdn.net/streamhls/789982343d0637dbdcf49beabfcc5e67/ep.6.1677839488.m3u8"
@@ -147,19 +221,32 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTQ3MzI0"
+        },
+        "outro": {
+            "start": 665,
+            "end": 695
         }
     },
     "7": {
         "intro": {
-            "end": 60,
-            "start": 0
+            "start": 0,
+            "end": 60
         },
-        "title": "Yoshida\u2019s Plot",
+        "title": "Yoshida\u00e2\u20ac\u2122s Plot",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/51c4b01a9151d7f98ca2385d9cb8781b80a87c5a535b60c0bcd3c18a351de04506f579a4e3610cdf9f181f3b729326a20b1ce814b80f43e8ca330d43d2305cf359a78da6632f4478a9d03d66fb57f7c08c8a5db1dfbdb322c9613bf0cf1d8a710aa0026c97967a96a29c8d1510f9fddee4ae27737d101b693c2c9b4a28996415/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/b4/41/b4418914cace48290527ddcc81a86b06/b4418914cace48290527ddcc81a86b06.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/b4/41/b4418914cace48290527ddcc81a86b06/b4418914cace48290527ddcc81a86b06.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/f8/f8256efb5db61ec35750dbd442674500/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www030.vipanicdn.net/streamhls/789982343d0637dbdcf49beabfcc5e67/ep.7.1677700348.m3u8"
@@ -172,19 +259,32 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTQ3NzQ5"
+        },
+        "outro": {
+            "start": 665,
+            "end": 695
         }
     },
     "8": {
         "intro": {
-            "end": 60,
-            "start": 0
+            "start": 0,
+            "end": 60
         },
         "title": "Betrayal",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/e9bae86fd2ff846d917e3bc6c341c3128090016eabc1ea4cfbcff75eea500c1ec504b76c3e6000478b6556ffcf9b6b2b806199e747511b3177bff8aa9b6ed49ca9385637c92537870f88adfeeed364ee7b41e85cb6b0082beb156526898fcbbc502481c8a2243be990c3f42f6e674d0ae9c86145f5bbb25b6f93a6e116954c7d/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/db/c7/dbc712c485cecacbaee91616b398b5f6/dbc712c485cecacbaee91616b398b5f6.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/db/c7/dbc712c485cecacbaee91616b398b5f6/dbc712c485cecacbaee91616b398b5f6.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/ec/ec0ec58d5cd51663ed78efcd3f948712/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www030.vipanicdn.net/streamhls/789982343d0637dbdcf49beabfcc5e67/ep.8.1677700457.m3u8"
@@ -197,19 +297,32 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTQ3OTg5"
+        },
+        "outro": {
+            "start": 665,
+            "end": 695
         }
     },
     "9": {
         "intro": {
-            "end": 60,
-            "start": 0
+            "start": 0,
+            "end": 60
         },
         "title": "Rage Spell",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/6204f3b37d5f2316e9483c2e1a26357209519b47aa58af824a04ed8d7e2a4387ff06b54c0322d351e8dedb3b64448c36d09ded25fae3e0e96976f10babc58349b25beb3f74bb3a33566006b5230f79313b5d11550a4881bc713de504fc903f76339a7ee8f5c27e79487cced2883cdc8a3e9e1e1075ef7d3efe9cabbfb1f8fbff/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/1c/22/1c22a2bf2539ca44dfe0283ee0c0fc63/1c22a2bf2539ca44dfe0283ee0c0fc63.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/1c/22/1c22a2bf2539ca44dfe0283ee0c0fc63/1c22a2bf2539ca44dfe0283ee0c0fc63.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/9f/9fb4efa3c3e44e51f4ab59ffca54683b/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www025.vipanicdn.net/streamhls/789982343d0637dbdcf49beabfcc5e67/ep.9.1677848646.m3u8"
@@ -222,19 +335,32 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTQ4MjU0"
+        },
+        "outro": {
+            "start": 665,
+            "end": 695
         }
     },
     "10": {
         "intro": {
-            "end": 60,
-            "start": 0
+            "start": 0,
+            "end": 60
         },
         "title": "Zombie Spell",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/59dc8e4913244377f12550aac2629925d21e0d286787310ef8ac8de5cd2e32d669ab015f39e239396242dffab782dabdb0ee6c1d3ebe3be7cf1e32e34650916e5d10359d49bbc399f49240de809deff460e9d96ab232742c5cac4175b0b95cc01e40c8ffebe473dfc0fe2095f5aa66584912dfd1fdc75d8c5e0b4aa6afce60ed/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/3f/f2/3ff212feaa713aa61a6ec5844146f562/3ff212feaa713aa61a6ec5844146f562.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/3f/f2/3ff212feaa713aa61a6ec5844146f562/3ff212feaa713aa61a6ec5844146f562.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/b2/b270050abb8c0c2477a6f0061551322a/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www028.vipanicdn.net/streamhls/789982343d0637dbdcf49beabfcc5e67/ep.10.1677706202.m3u8"
@@ -247,19 +373,32 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTQ4NTI3"
+        },
+        "outro": {
+            "start": 665,
+            "end": 695
         }
     },
     "11": {
         "intro": {
-            "end": 60,
-            "start": 0
+            "start": 0,
+            "end": 60
         },
         "title": "Showdown",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/5c40613df0c568ec44eb79b49c2d8e8bc2a85339870d8e2143cd363652d00ff9cdc2099e0209dc83785b7a1239e86c204933e027986dd8e380f758ee92eecd71cfb9d231665b0863712fd9e7799233901199debd6999add05025c53db5834e757163fd9896ad15ad72b3e155f3895355eb8899991ae86fc3d0b534d3534571d5/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/80/1d/801d8e1ec7471ede7a6e4b9b909b70f1/801d8e1ec7471ede7a6e4b9b909b70f1.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/80/1d/801d8e1ec7471ede7a6e4b9b909b70f1/801d8e1ec7471ede7a6e4b9b909b70f1.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/b3/b3afd49d5421eb50260c621a3bb38dc3/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www013.vipanicdn.net/streamhls/789982343d0637dbdcf49beabfcc5e67/ep.11.1677700452.m3u8"
@@ -272,19 +411,32 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTQ5MDIy"
+        },
+        "outro": {
+            "start": 665,
+            "end": 695
         }
     },
     "12": {
         "intro": {
-            "end": 60,
-            "start": 0
+            "start": 0,
+            "end": 60
         },
         "title": "Ultimate Anti-Spell",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/05afdd9106d57b2f9acdbee35a7cbe5df634285a232910439cf5165abd75916374830be28cfa3a63d646bbc8cff14172de71737d066bfcc5826f372d252cd53000e284afebc45c8db0220a8aa394f6284786cd70323feb1a4c20c79cf3593ff6a9a5a641df45609526bdc7499df62125233aa9610116412e5da9728286744bd5/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/d0/6f/d06fcc1b610b80d11f580e46d6203053/d06fcc1b610b80d11f580e46d6203053.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/d0/6f/d06fcc1b610b80d11f580e46d6203053/d06fcc1b610b80d11f580e46d6203053.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/19/190168cefdc3e182ed7b80c0d17b11f2/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www017.vipanicdn.net/streamhls/789982343d0637dbdcf49beabfcc5e67/ep.12.1677706277.m3u8"
@@ -297,6 +449,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTQ5MzU2"
+        },
+        "outro": {
+            "start": 665,
+            "end": 695
         }
     }
 }

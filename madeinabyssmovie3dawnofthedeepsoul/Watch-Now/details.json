@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,42 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=made-in-abyss-movie-3-fukaki-tamashii-no-reimei-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/17c7554241e6e8853bd605e6445d1dea745f8771eb6dededc31c8668e76f3f1ee94589250ed1e635bb69f7e40871670e5ef8649bf2b08f60c1af5d0339a44a48ea7f8127ba391ea5606abe5c1f049a38173781911a8a6dc87fab3f038c7fbfdb0508d1fc7a46a5425ed3fc98f30f783a5158f083b3de429b66099ced706a63ad/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/7e/7ed19d7f6d281eafea1ed3323f1dee77/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/ed44bd84a6b983afcc902686ba1ecb7bbc724a2e44d029e96567f0e7323a82daf40ade01ce73eefeba8d8666d9ac35a3e30c2c730f4cae1917a45c2692584e8123e668c42a40c2461b70c97a13a9f52535afd230a5dd5664b6a7dacabe3afc42c997d5b980f479f8e11bf9027b0973ab82b834de10d074f6c82d697ec2adceeb/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/2e/a7/2ea759112daa8feadcfbe252b3583ba3/eng-2.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/ed44bd84a6b983afcc902686ba1ecb7bbc724a2e44d029e96567f0e7323a82daf40ade01ce73eefeba8d8666d9ac35a3e30c2c730f4cae1917a45c2692584e8123e668c42a40c2461b70c97a13a9f52535afd230a5dd5664b6a7dacabe3afc42c997d5b980f479f8e11bf9027b0973ab332a4ca16590aaee4421efdf012956e9/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/2e/a7/2ea759112daa8feadcfbe252b3583ba3/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/2e/a7/2ea759112daa8feadcfbe252b3583ba3/eng-5.vtt",
+                            "lang": "English - Asenshi-MTBB"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/2e/a7/2ea759112daa8feadcfbe252b3583ba3/fre-3.vtt",
+                            "lang": "French"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/2e/a7/2ea759112daa8feadcfbe252b3583ba3/spa-4.vtt",
+                            "lang": "Spanish"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/7e/7ed19d7f6d281eafea1ed3323f1dee77/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www027.vipanicdn.net/streamhls/70168f77701c43aa83a1830648b4a062/ep.1.1677816502.m3u8"
@@ -31,6 +61,10 @@
         "downloadLink": {
             "DUBBED": "MTYwNzEy",
             "SUBBED": "MTQ1ODU2"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

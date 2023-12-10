@@ -1,20 +1,38 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=lupin-iii-bye-bye-liberty-kiki-ippatsu-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/75e434333d7c452c2a798369e096bae85d480c51992ecc31cc2b1174c564a21ed65fdb71ab99ff5ebcc7a83ea6467f49e484dc806e4d8458df361bc943fd99dc3ff8d70c6bae0a31dfe094856023792ce639365d865bb8c5f6b006016cfb641a00c8bf73270eef3f0345205324061c8b35d9c26945a5d0a01850a15f4ffacb8e/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/3a/3acb6088280d0c29cb8abeacf45eae2a/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/c93775aea7b08c02c2c257ff037d04fa90f4021d5d32ff6ee237d036ec6f1ef585ef372d8702f31a9047a1e0ba4beca070d2f9487ba9d2dd8c4f988da3c168aab5f531f948b42da7906e52fab6f10e99d61db30aa34aedc86e6c538c87802010ba2cbc89a1e54f5d1e66b85621f88a2c61f0795ece644769b404274719cc45e8/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/20/9f/209fdcc04285d8bfecba56ba64f2a8f6/209fdcc04285d8bfecba56ba64f2a8f6.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/c93775aea7b08c02c2c257ff037d04fa90f4021d5d32ff6ee237d036ec6f1ef585ef372d8702f31a9047a1e0ba4beca070d2f9487ba9d2dd8c4f988da3c168aab5f531f948b42da7906e52fab6f10e99d61db30aa34aedc86e6c538c87802010ba2cbc89a1e54f5d1e66b85621f88a2c488eb2ae72c42ca9c2c3499ed704e080/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/20/9f/209fdcc04285d8bfecba56ba64f2a8f6/209fdcc04285d8bfecba56ba64f2a8f6.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/3a/3acb6088280d0c29cb8abeacf45eae2a/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www040.vipanicdn.net/streamhls/252fa68daeb8a3ac833866b5cfd8256a/ep.1.1677842291.m3u8"
@@ -27,6 +45,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTUxOTI5"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

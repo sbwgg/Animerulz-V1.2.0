@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,26 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=kimi-no-na-wa-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/7212e5dd342f1958f704a51562f94664bfed3d9abc6331b720abaab9530c0249113fca2330a9dabb8add4de1255525e303b47454b5c6f5050943ede593d49e307493bef3d3bf43af966caf5192f89b10f2b8be8ca74aafc46aaff138e7d6bbd45db80a2d02322a2787dc1960477f31d665f43ae8a7371bd660e627979bed8255/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/e5/e5a3ed0bb3462092f0ddbeb8e08e7b5d/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/462f0ad7b60573e9fceb9391a56938ef1a2f5b224bf5ecc273c50df25aa3619f364e68a109158ef83abf922fbe6416e062efe5c4e4740fa10741eba6167fd6aa5fa9c9ead6710d62286590c62c5f8348a821531898b652184eb36a68cc8e97888b53aba9d267fdf9c00647e5a72cba416d2f6821427273b6a2fdf45b1d6b350e/master.m3u8",
-                    "captions": "https://imgb.megaresources.co/_a_preview/e5/e5a3ed0bb3462092f0ddbeb8e08e7b5d/thumbnails/sprite.vtt"
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/e5/e5a3ed0bb3462092f0ddbeb8e08e7b5d/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www019.vipanicdn.net/streamhls/3156f3d297890e087320879cdfce8e23/ep.1.1677608214.m3u8"
@@ -31,6 +45,10 @@
         "downloadLink": {
             "DUBBED": "MTMyMTU1",
             "SUBBED": "NzU4ODg="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

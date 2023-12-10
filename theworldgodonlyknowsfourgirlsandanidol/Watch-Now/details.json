@@ -1,6 +1,9 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Full",
         "source": {
             "DUBBED": {
@@ -9,6 +12,15 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=kami-nomi-zo-shiru-sekai-4-nin-to-idol-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/79dfde661d5b5a17dd48bfbda7174749f47b127696d28e34bf7d7ed13397399b45ccbaefc642ec50c30b9ccbd4a1b187060e133545504e84f794ef8d54538013934c3d83fe9f707f29430e7c3b83bb5dfb37468106fc5029b705a2e0c30921ca8766fbcea6b8e55371b6918777000d9d4840cbe766bb713e658fcd007a4a120f/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/23/234cd538bfe302b2102158d395c5ab0c/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
@@ -24,6 +36,10 @@
         "downloadLink": {
             "DUBBED": "MTY1ODE4",
             "SUBBED": "MTY1ODE3"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

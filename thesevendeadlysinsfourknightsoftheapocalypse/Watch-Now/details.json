@@ -1,15 +1,24 @@
 {
     "1": {
         "intro": {
-            "end": 90,
-            "start": 0
+            "start": 0,
+            "end": 90
         },
         "title": "The Boy's Departure",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/65c7f249cd3524ef6fac4dab48405e9bf1ece67faabccf46efcb16f65b2bdcb1c1a87cffaddd5d0bbbae0e78eedc12c68fc77623ba0b06023e28af7dbd07105024272d578f5923edea8f821837580e167f9fa29e18dbeac026d33d53129c16884d953ab3730f816a2a13ef11b0e7c6cd7a075ce3a2b279b5bdcd97ee0cadb9dc/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/1c/da/1cda6e7c101a7172ce24f5e1afddc60b/1cda6e7c101a7172ce24f5e1afddc60b.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/1c/da/1cda6e7c101a7172ce24f5e1afddc60b/1cda6e7c101a7172ce24f5e1afddc60b.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/09/09a18cbac7fea337e2e62216a1de0108/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www050.vipanicdn.net/streamhls/d24fda52d648a068a2929e3e82d9fd82/ep.1.1697217413.m3u8"
@@ -22,19 +31,32 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MjEzMTA5"
+        },
+        "outro": {
+            "start": 1332,
+            "end": 1421
         }
     },
     "2": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "The Unknown Force",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/2d8e709b08eb690cbbdd56c72580588404b8a826d7f8d2f7ae7c127d2fafc45427f9abc731b282e57e1d708c2aacbf69bc07f33462b2edc81bc2c385564559fcc6cbeae1fe1d4d7a3af71fba12e765fd1c4cd379ef62cfbf94c55d57b72f516ccdebd0350b5a6427c56ed95d115c68528be9812291b7a4aa96182d186b878e9c/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/6a/fc/6afc0507aa0404d2a601ee9aa90c7c4f/6afc0507aa0404d2a601ee9aa90c7c4f.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/6a/fc/6afc0507aa0404d2a601ee9aa90c7c4f/6afc0507aa0404d2a601ee9aa90c7c4f.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/7a/7ae75721b674e16414b5b3bf2f9dcb39/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www043.vipanicdn.net/streamhls/d24fda52d648a068a2929e3e82d9fd82/ep.2.1697597998.m3u8"
@@ -47,11 +69,18 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MjEzNTMy"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     },
     "3": {
-        "intro": null,
-        "title": "episode-3",
+        "intro": {
+            "start": 0,
+            "end": 89
+        },
+        "title": "The Four Knights of the Apocalypse",
         "source": {
             "SUBBED": {
                 "Vid Streaming": {
@@ -59,17 +88,38 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=nanatsu-no-taizai-mokushiroku-no-yonkishi-episode-3"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/4849793eefa407c8a21b919e622e80d0c4562cd017b32d151acedbdb6a7b3f3b5218d7a72c433e43e6fddd8a89a78f9b5bfbfbe8aeba0b570130fe1d1b773efa731dd4722de228cff83fa9c5e764e3cf3023a2fb55956d41d96bb6a1322ab2fe9db79b799221819f24f582c7c759826fb9e1bd1abfeea807c86c1d8830c8e328/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/b6/82/b682dc7b0787a170a3c55a4942dda87a/b682dc7b0787a170a3c55a4942dda87a.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/bb/bbcefca94d5665f92bc4246224831b0d/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "idFiller": false,
         "downloadLink": {
             "SUBBED": "MjE0MDA0"
+        },
+        "isFiller": false,
+        "outro": {
+            "start": 1331,
+            "end": 1420
         }
     },
     "4": {
-        "intro": null,
-        "title": "episode-4",
+        "intro": {
+            "start": 38,
+            "end": 127
+        },
+        "title": "The Demon of Echo Gorge",
         "source": {
             "SUBBED": {
                 "Vid Streaming": {
@@ -77,17 +127,38 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=nanatsu-no-taizai-mokushiroku-no-yonkishi-episode-4"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/862e12ced39b132ca81d5b2cce8761a5a17d0004039ea7d63c0abd5c8efc01c4bd2e239c18b9f32532623c821ea41e5a8629c678b027b6920fdb1b174b4cf44b8df1f41a9c21ad5d97f9b2b525c04c3401bbb66bd14ca23d9a54423b0fecb24b05b4ad1450fe98db906773161f1270d8884be24312d871943a00802a21362ab7/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/e5/2e/e52ecc7c3fbff4efb40d17ddfb05aee2/e52ecc7c3fbff4efb40d17ddfb05aee2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/e0/e09147997b9b7b6316bdd75daffc06b9/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "idFiller": false,
         "downloadLink": {
             "SUBBED": "MjE0Mzg0"
+        },
+        "isFiller": false,
+        "outro": {
+            "start": 1333,
+            "end": 1422
         }
     },
     "5": {
-        "intro": null,
-        "title": "episode-5",
+        "intro": {
+            "start": 68,
+            "end": 157
+        },
+        "title": "A Resolve Further Honed",
         "source": {
             "SUBBED": {
                 "Vid Streaming": {
@@ -95,17 +166,38 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=nanatsu-no-taizai-mokushiroku-no-yonkishi-episode-5"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/cbd3fa3d9c4e1a867ceae93eaaa88c5adc34a235683d21b58664c49f9f94a27f74e08d38da071c2e694662951f90f0c7aa058d48e33a2fb97acec844224bdcc48628b71ab2690577de5e8dc9db749d93d1165d31784604242c82a08cf9a721723107bc53ecabbc2f6ceb99f26346c1591c85ebe835b4a38ac9bb844482a31802/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/2d/5d/2d5d617b3fb4646bd754bf6c3e84bc54/2d5d617b3fb4646bd754bf6c3e84bc54.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/e3/e3513b3a668974bd0ee3ffd53f707188/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "idFiller": false,
         "downloadLink": {
             "SUBBED": "MjE0Nzk4"
+        },
+        "isFiller": false,
+        "outro": {
+            "start": 1273,
+            "end": 1362
         }
     },
     "6": {
-        "intro": null,
-        "title": "episode-6",
+        "intro": {
+            "start": 114,
+            "end": 204
+        },
+        "title": "Sistana Shaken",
         "source": {
             "SUBBED": {
                 "Vid Streaming": {
@@ -113,17 +205,38 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=nanatsu-no-taizai-mokushiroku-no-yonkishi-episode-6"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/0dacf780a35c434dc7b90947bc0ba4ea7d0e8e6293a837004f48d5888925279aa15345c2752450113bd472759aab417c9bdbf299e66717417b9d8106d8867d527ab83749a968e4a3bb2fb5b1a996cc7368024ef793b0c75e9b782c2f6f62700628c1ffb454bde3dfdeef3f03e7b11512afc7b608dbdb3f90be5d0fc6e4fa2814/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/d4/36/d4364aa4b735a05d24896b9c41449863/d4364aa4b735a05d24896b9c41449863.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/57/570031d16ff36d13bbee2f1cd26356b9/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "idFiller": false,
         "downloadLink": {
             "SUBBED": "MjE1NzU0"
+        },
+        "isFiller": false,
+        "outro": {
+            "start": 1331,
+            "end": 1420
         }
     },
     "7": {
-        "intro": null,
-        "title": "episode-7",
+        "intro": {
+            "start": 0,
+            "end": 90
+        },
+        "title": "The Name of the Magic",
         "source": {
             "SUBBED": {
                 "Vid Streaming": {
@@ -131,17 +244,38 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=nanatsu-no-taizai-mokushiroku-no-yonkishi-episode-7"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/409df36eaab1e10cacf77aa956a9f797a51295a113e61a680d45cc01937baad35c178d4055fd89a505f0dc31ea4c382bff5010d8f5cc4186288d1c6bd62c3c23013f23675de6e5043ad20256eed6498426845b5436cac2f034273a89674f0060071aaee424fd732f826562af85feda6a4a9e4b730cb116286ecbf4d682c877bb/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/55/e5/55e54066b38cdc87474c1bf9e7afcf91/55e54066b38cdc87474c1bf9e7afcf91.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/cb/cb759341cadc16f6c4b211ee7481212f/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "idFiller": false,
         "downloadLink": {
             "SUBBED": "MjE2MzQ3"
+        },
+        "isFiller": false,
+        "outro": {
+            "start": 1332,
+            "end": 1421
         }
     },
     "8": {
-        "intro": null,
-        "title": "episode-8",
+        "intro": {
+            "start": 26,
+            "end": 115
+        },
+        "title": "Young Heroes",
         "source": {
             "SUBBED": {
                 "Vid Streaming": {
@@ -149,12 +283,30 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=nanatsu-no-taizai-mokushiroku-no-yonkishi-episode-8"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/20556cd22cd8271dd2564349b8733338f68ed6aaf0ee423584112e22218d0016c77a5d76d673fab48222d7aabfdd4fcb63cad5f67fd6041d8317be8f531bb5cc6a94eb18fcad9354554230a3a06b0fd448d7a01b665090a1fbc9a1f11bda0f22950c2320e69eb1068bb57fd155317699d28c1a06f1527ec2fd2c0dc795a2841c/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/92/04/920431ed172280ff7805e877399ae64c/920431ed172280ff7805e877399ae64c.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/35/3575a17735915237d0c22790e0e38c92/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "idFiller": false,
         "downloadLink": {
             "SUBBED": "MjE2NTk5"
+        },
+        "isFiller": false,
+        "outro": {
+            "start": 1266,
+            "end": 1355
         }
     }
 }

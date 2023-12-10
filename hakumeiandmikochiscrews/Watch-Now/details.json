@@ -1,20 +1,38 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "OVA",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=hakumei-to-mikochi-neji-to-bed-to-irori-to-bakuchi-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/526a3faf52ca5372d81fe766a823b020fd518df749fbb7ac64a717682671c9b61ae10b5aee4cba1a6f029ca19145aac835a805fb9664cae04f229a5a403b7ca27054b0964f56bb71f2ad40491f3284542f6b13a6b33575d9cc1a78435078d70133aa55b590ce822d2a23aef9fb3600db8faf0a7624f283c16c0309e07a1fe991/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/32/324fb35b3002a534f81cd82846c779c1/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/b586f5fcfbdccb106fc757f704326b26a4f944233a2acccc8ac361a35f4f373fc32aced2664893b4d514a29fe06644eed276ec9224d0970aba0802d406ef6aeae7eddd7dafe71baa14b6868c1920a2bf533c2f4da38c676ce3af5e47bb12dbc19a98a7e04a79f82afe754777ea22bb1ce660553d8049f605c3ef9480f23291ec/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/b0/1b/b01b1670ae06ba07f5e848186e769295/b01b1670ae06ba07f5e848186e769295.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/b586f5fcfbdccb106fc757f704326b26a4f944233a2acccc8ac361a35f4f373fc32aced2664893b4d514a29fe06644eed276ec9224d0970aba0802d406ef6aeae7eddd7dafe71baa14b6868c1920a2bf533c2f4da38c676ce3af5e47bb12dbc19a98a7e04a79f82afe754777ea22bb1c306c79ef1eb4b676fb27e06dcd76e84a/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/b0/1b/b01b1670ae06ba07f5e848186e769295/b01b1670ae06ba07f5e848186e769295.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/32/324fb35b3002a534f81cd82846c779c1/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www016.vipanicdn.net/streamhls/88098d17f8a8a982c79fd9fd7129f813/ep.1.1677683281.m3u8"
@@ -27,6 +45,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTA2MzA1"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

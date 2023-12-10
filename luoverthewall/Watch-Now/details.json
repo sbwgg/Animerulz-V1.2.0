@@ -1,20 +1,38 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=yoake-tsugeru-lu-no-uta-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/e362eaaa83876e8a2b363f3dc0d368d26fef7d57e1c60addc1a894d194f029f372a00039f09df0ee7f25a53e03c384d875bb6d1a986a8c645d4f3e2da8b4e7ac0d8365d1691a0a68e54e01cf4932a33c59177741008911931a75641290d19933149181310ee5ed7ce912ab8207de1dfa580d91c00f63ff94d1e91943f096a5ab/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/bc/bc96451dadb35c2b25751ddd17b8c3de/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/55cad68b2612b7980e023d2faca691b53454ff5f56c823ed1edf53fd60e40b9732b114e466f47ae347ec509d4385795d8461c2317296fb55a601d8d04f47191e9aca20b89de0a706d79d4cf6561efd0aad42c797f8c6e1e7c5448c0541790bd2bf886a285433af9ad06fa416745cd3abbb11c400038d5ed23ca9759715cb25bc/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/3f/67/3f679c1e0fc51eac358e953d345a404d/3f679c1e0fc51eac358e953d345a404d.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/3f/67/3f679c1e0fc51eac358e953d345a404d/3f679c1e0fc51eac358e953d345a404d.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/bc/bc96451dadb35c2b25751ddd17b8c3de/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www021.vipanicdn.net/streamhls/dd2d743f9fe6450540e08c49af4d3f46/ep.1.1677686060.m3u8"
@@ -27,6 +45,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTExMjYw"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

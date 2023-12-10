@@ -1,20 +1,38 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=bleach-movie-2-the-diamond-dust-rebellion-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/e8b4012d867df8ecaa2a9e2f60eb6752d8fe2bd7de8d2ecdfa776cdc8e644fd1709e85bef7df628998ba763e966ee0457ca27d98a8f9bfd5e6a99f77dc45a9f09bb5d97269953e234597b0ff8bf9859f6a1c7c279e77a8bfe3c9679e0733178feaba389da5fb57dfe2b7174f5436ac3e75a98f720ed94ab983c854ca9c9de8dc/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/f3/f3b16d2af02381183c6b7f8aa50c5a10/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/36fe706e01cd880cdabbbad1af42cd77e1ed064e4f25fedad8fb8f4528e9f826f635836047e56ee2b064756ccbcab1de97e2fdeedf2d045e8291149ff37cb3551173a7846a46d89d6b0efcdfcd0c81a38c79a78f06f96ef0320fadbc7fa9d2ed6019b710f34f3baa213e56e84c5ae713cd1b2b21c870ec7f4d25dfae4493fbe8/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/6c/e4/6ce4e8a3eb803e2d561e037ef2a4dfa6/6ce4e8a3eb803e2d561e037ef2a4dfa6.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/36fe706e01cd880cdabbbad1af42cd77e1ed064e4f25fedad8fb8f4528e9f826f635836047e56ee2b064756ccbcab1de97e2fdeedf2d045e8291149ff37cb3551173a7846a46d89d6b0efcdfcd0c81a38c79a78f06f96ef0320fadbc7fa9d2ed6019b710f34f3baa213e56e84c5ae713d985ced60db138f0bdbecc64a7daa77b/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/6c/e4/6ce4e8a3eb803e2d561e037ef2a4dfa6/6ce4e8a3eb803e2d561e037ef2a4dfa6.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/f3/f3b16d2af02381183c6b7f8aa50c5a10/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www006.vipanicdn.net/streamhls/79175e1431f3b8f1277cf96fe1c2eea6/ep.1.1677603081.m3u8"
@@ -27,6 +45,10 @@
         "isFiller": true,
         "downloadLink": {
             "SUBBED": "NDA0NDU="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

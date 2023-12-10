@@ -1,36 +1,496 @@
 {
     "1": {
         "intro": {
-            "end": 210,
-            "start": 121
+            "start": 121,
+            "end": 210
         },
         "title": "Cometary Encounter",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/c85cffa869c7638937a06ec757edfe6f159becef8ec8e9774c8528768eb164e4ee0fd96a0ea25563e842cc1b5f9ed6bb9315873ce7885a60833e710f15519bfd3dbffdeb6f0ce2c5b268eb068db71cd2c0306ffea854eb9bbb878532b5d65e98a1e33c49c7eafb9b3f035e5105058e5cc9fd2f30d26f862884770da46fe2b148/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/27/33/27336bb60578086286d6ecd4d8ba2ec0/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/27/33/27336bb60578086286d6ecd4d8ba2ec0/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/27/33/27336bb60578086286d6ecd4d8ba2ec0/fre-6.vtt",
+                            "lang": "French"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/27/33/27336bb60578086286d6ecd4d8ba2ec0/ger-7.vtt",
+                            "lang": "German"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/27/33/27336bb60578086286d6ecd4d8ba2ec0/ita-8.vtt",
+                            "lang": "Italian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/27/33/27336bb60578086286d6ecd4d8ba2ec0/por-3.vtt",
+                            "lang": "Portuguese - Portuguese(Brazil)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/27/33/27336bb60578086286d6ecd4d8ba2ec0/rus-9.vtt",
+                            "lang": "Russian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/27/33/27336bb60578086286d6ecd4d8ba2ec0/spa-5.vtt",
+                            "lang": "Spanish"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/27/33/27336bb60578086286d6ecd4d8ba2ec0/spa-4.vtt",
+                            "lang": "Spanish - Spanish(Latin_America)"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/4c/4cea68b9be53d338161f1f0b69f6a207/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 1310,
+            "end": 1399
+        }
     },
     "2": {
         "intro": {
-            "end": 183,
-            "start": 94
+            "start": 94,
+            "end": 183
         },
         "title": "Sunset Rocket",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/40f4e2382025b353905d615fdaeb0e95a1d497472e8ce6582acdf8f104c96921311ed13e775dff05e90005c708612a9e8fa4bdd4b4c9b55d9b376681914871a9ca7487eb2737cab72c730575630ff2e3b8fcd664cece9d2db855d26c9dfda51b0194e012db3b6b627b6f831de2d8ae371fdcc3375ddab9638eb3257a75491016/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/c1/31/c131863ee9a95ec72f48649160b44eac/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/c1/31/c131863ee9a95ec72f48649160b44eac/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/c1/31/c131863ee9a95ec72f48649160b44eac/fre-6.vtt",
+                            "lang": "French"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/c1/31/c131863ee9a95ec72f48649160b44eac/ger-7.vtt",
+                            "lang": "German"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/c1/31/c131863ee9a95ec72f48649160b44eac/ita-8.vtt",
+                            "lang": "Italian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/c1/31/c131863ee9a95ec72f48649160b44eac/por-3.vtt",
+                            "lang": "Portuguese - Portuguese(Brazil)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/c1/31/c131863ee9a95ec72f48649160b44eac/rus-9.vtt",
+                            "lang": "Russian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/c1/31/c131863ee9a95ec72f48649160b44eac/spa-5.vtt",
+                            "lang": "Spanish"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/c1/31/c131863ee9a95ec72f48649160b44eac/spa-4.vtt",
+                            "lang": "Spanish - Spanish(Latin_America)"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/e9/e97179b9c2de6acd5e5a28ba3e6c8757/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 1306,
+            "end": 1395
+        }
+    },
+    "3": {
+        "source": {
+            "DUBBED": {},
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/bfb499242c42b384f8164f356225ea38fb8a9a8a72daefb98f03b90dd7512955287efe1ff15035e10aadc7875ce80eb6d965f302f9ba9b8320be24bf1192cd6c7c52e329eb7188f0914a8bb0f878d97fd6a57e7562d2cc9182038ae74043dab5e900c75b78f1a38023ded6d7f1b461ee46ee521f1ce6079f79104126eb63ef1b/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/0a/0f/0a0fa99a15bc8531cc72f9730bf47575/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/0a/0f/0a0fa99a15bc8531cc72f9730bf47575/fre-6.vtt",
+                            "lang": "French"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/0a/0f/0a0fa99a15bc8531cc72f9730bf47575/ger-7.vtt",
+                            "lang": "German"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/0a/0f/0a0fa99a15bc8531cc72f9730bf47575/ita-8.vtt",
+                            "lang": "Italian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/0a/0f/0a0fa99a15bc8531cc72f9730bf47575/por-3.vtt",
+                            "lang": "Portuguese - Portuguese(Brazil)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/0a/0f/0a0fa99a15bc8531cc72f9730bf47575/rus-9.vtt",
+                            "lang": "Russian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/0a/0f/0a0fa99a15bc8531cc72f9730bf47575/spa-5.vtt",
+                            "lang": "Spanish"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/0a/0f/0a0fa99a15bc8531cc72f9730bf47575/spa-4.vtt",
+                            "lang": "Spanish - Spanish(Latin_America)"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/4a/4a8a6689ff039d98c33eca460abf2800/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
+                }
+            }
+        },
+        "title": "Explosive Mechanic",
+        "isFiller": false,
+        "intro": {
+            "start": 25,
+            "end": 114
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
+    },
+    "4": {
+        "source": {
+            "DUBBED": {},
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/7a285582de929ae9b293ea3cc0074ccd882829045784d3237d0673638b47d68a6038757a09909f5a96e2d128bc8f901bfb2899178154786f7020c86fbb41adb6c6cbecd974fa01fa98d2496e4b9dcdb0ea9791a7a0a3fb29869d9148ddfbf23351ddc9a1aa8333ae407d5d5908c24455de9b7fc66834c590c69c328d256e9298/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/b6/af/b6af309043b52633419ee0c6372ceb65/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/b6/af/b6af309043b52633419ee0c6372ceb65/fre-6.vtt",
+                            "lang": "French"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/b6/af/b6af309043b52633419ee0c6372ceb65/ger-7.vtt",
+                            "lang": "German"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/b6/af/b6af309043b52633419ee0c6372ceb65/ita-8.vtt",
+                            "lang": "Italian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/b6/af/b6af309043b52633419ee0c6372ceb65/por-3.vtt",
+                            "lang": "Portuguese - Portuguese(Brazil)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/b6/af/b6af309043b52633419ee0c6372ceb65/rus-9.vtt",
+                            "lang": "Russian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/b6/af/b6af309043b52633419ee0c6372ceb65/spa-5.vtt",
+                            "lang": "Spanish"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/b6/af/b6af309043b52633419ee0c6372ceb65/spa-4.vtt",
+                            "lang": "Spanish - Spanish(Latin_America)"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/0d/0d5d25bbcbefd1f275f2653f01a8b251/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
+                }
+            }
+        },
+        "title": "Clashing Seaside",
+        "isFiller": false,
+        "intro": {
+            "start": 91,
+            "end": 182
+        },
+        "outro": {
+            "start": 1294,
+            "end": 1384
+        }
+    },
+    "5": {
+        "source": {
+            "DUBBED": {},
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/24a929d3b2af2d12e7d409359e1c8819805ea02bbb83bc7c060c453a4cac418e61631d78a5c095845b59ba5faf1b925ab9c7478123896600743979f65c3006981af606c4def1e8def6c684d6f1327aebaf2a1264a06d412997680b2002de0484b667b919f09c18253bb96223486bbc127ca97584389c0507647f776357ce9996/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/71/74/717421899afc2b6b698eda81eae12edc/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/97/978013774868fa5cc299badb539c8119/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
+                }
+            }
+        },
+        "title": "Endless Dreamer",
+        "isFiller": false,
+        "intro": {
+            "start": 35,
+            "end": 124
+        },
+        "outro": {
+            "start": 1307,
+            "end": 1396
+        }
+    },
+    "6": {
+        "source": {
+            "DUBBED": {},
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/92ccc7c490edfedc1c23dc21c447edf387aefb30b498419c9f25140a3c4be5966e8398655af11d112361f7801370f86dd5bff6dfdc580696b647dfaab105de00cf914389b450bcb30a1be8eb3d1459694bd10dd05379c1b4ef76950e5ff726fca346575948260dde78038bab5885030b8fbb5433b22644ab8d0bd252ac8f7d64/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/47/5b/475b7b0aef1c9850c7e0e908768cf032/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/47/5b/475b7b0aef1c9850c7e0e908768cf032/fre-6.vtt",
+                            "lang": "French"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/47/5b/475b7b0aef1c9850c7e0e908768cf032/ger-7.vtt",
+                            "lang": "German"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/47/5b/475b7b0aef1c9850c7e0e908768cf032/ita-8.vtt",
+                            "lang": "Italian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/47/5b/475b7b0aef1c9850c7e0e908768cf032/por-3.vtt",
+                            "lang": "Portuguese - Portuguese(Brazil)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/47/5b/475b7b0aef1c9850c7e0e908768cf032/rus-9.vtt",
+                            "lang": "Russian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/47/5b/475b7b0aef1c9850c7e0e908768cf032/spa-5.vtt",
+                            "lang": "Spanish"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/47/5b/475b7b0aef1c9850c7e0e908768cf032/spa-4.vtt",
+                            "lang": "Spanish - Spanish(Latin_America)"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/f6/f65deffc5ee57f538269b00f32dbdefd/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
+                }
+            }
+        },
+        "title": "Salutatory Initiation",
+        "isFiller": false,
+        "intro": {
+            "start": 47,
+            "end": 136
+        },
+        "outro": {
+            "start": 1296,
+            "end": 1385
+        }
+    },
+    "7": {
+        "source": {
+            "DUBBED": {},
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/9c42ce035acd20135451a72fd3eeda5b6c04098ba658bfb4e2feef4825e5603da27ec65773c1af78f09d5e1b0454b072e358136b161cd2cdefe6f22c7b3a31ba73642c2913e05da2b95268aab27b1da17648d310323b2b5c91658a353a9e6e38597b97cc92ae0b217307608eb0b935fb561d64d02a60bf525ab0ee9de17e3fb4/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/f8/72/f8724677f0b791f05dc0b1ef19659e1b/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/f8/72/f8724677f0b791f05dc0b1ef19659e1b/fre-6.vtt",
+                            "lang": "French"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/f8/72/f8724677f0b791f05dc0b1ef19659e1b/ger-7.vtt",
+                            "lang": "German"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/f8/72/f8724677f0b791f05dc0b1ef19659e1b/ita-8.vtt",
+                            "lang": "Italian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/f8/72/f8724677f0b791f05dc0b1ef19659e1b/por-3.vtt",
+                            "lang": "Portuguese - Portuguese(Brazil)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/f8/72/f8724677f0b791f05dc0b1ef19659e1b/rus-9.vtt",
+                            "lang": "Russian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/f8/72/f8724677f0b791f05dc0b1ef19659e1b/spa-5.vtt",
+                            "lang": "Spanish"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/f8/72/f8724677f0b791f05dc0b1ef19659e1b/spa-4.vtt",
+                            "lang": "Spanish - Spanish(Latin_America)"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/1a/1ab788c87f0070c56adb4789e1e70037/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
+                }
+            }
+        },
+        "title": "Daring Leadership",
+        "isFiller": false,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
+        "outro": {
+            "start": 1252,
+            "end": 1341
+        }
+    },
+    "8": {
+        "source": {
+            "DUBBED": {},
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/3a3ea9ae10c280f81bbc8bd72cf70284b8817c30a6b0de206264439473cdd0e094685c468718d3c6848c26f2b7063bb364e8e3c36dc96490651b1dc7fc45b01326c3a231c71a2bb412cbd14099057ab83efd8f7d8f138dd5c630f16002d6e89368ecec5638c1e5e6885e8b367ca1312a3eac2bf431185ad544c99dad859b35c6/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/1f/7b/1f7b0492bbeb5908e27e4e956fa71661/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/1f/7b/1f7b0492bbeb5908e27e4e956fa71661/fre-6.vtt",
+                            "lang": "French"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/1f/7b/1f7b0492bbeb5908e27e4e956fa71661/ger-7.vtt",
+                            "lang": "German"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/1f/7b/1f7b0492bbeb5908e27e4e956fa71661/ita-8.vtt",
+                            "lang": "Italian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/1f/7b/1f7b0492bbeb5908e27e4e956fa71661/por-3.vtt",
+                            "lang": "Portuguese - Portuguese(Brazil)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/1f/7b/1f7b0492bbeb5908e27e4e956fa71661/rus-9.vtt",
+                            "lang": "Russian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/1f/7b/1f7b0492bbeb5908e27e4e956fa71661/spa-5.vtt",
+                            "lang": "Spanish"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/1f/7b/1f7b0492bbeb5908e27e4e956fa71661/spa-4.vtt",
+                            "lang": "Spanish - Spanish(Latin_America)"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/2b/2b2029385b7aeb842d2e53153418e7be/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
+                }
+            }
+        },
+        "title": "Into Battle, Ultra High-Power Dream",
+        "isFiller": false,
+        "intro": {
+            "start": 50,
+            "end": 139
+        },
+        "outro": {
+            "start": 1293,
+            "end": 1382
+        }
+    },
+    "9": {
+        "source": {
+            "DUBBED": {},
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/a750b3d542cfee6e049b890101b21b84860626f9185874c5c51bca53d27bf8d9eb04d8d579eaa9836642d0a33204e45d3e43bbb9c48e8e2fe92f23fb5efaa0ffe24ef02c57d8fe71045d233fc162b9ee8e16a3437703ec7fcdc2b453db8ef2a397eab792cc0bdde8a4243f83540275b1986cdbbc4e1a6d4610412159d49927ac/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/15/5a/155a7ad55b8772e20ff5b523a35f4374/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/15/5a/155a7ad55b8772e20ff5b523a35f4374/fre-6.vtt",
+                            "lang": "French"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/15/5a/155a7ad55b8772e20ff5b523a35f4374/ger-7.vtt",
+                            "lang": "German"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/15/5a/155a7ad55b8772e20ff5b523a35f4374/ita-8.vtt",
+                            "lang": "Italian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/15/5a/155a7ad55b8772e20ff5b523a35f4374/por-3.vtt",
+                            "lang": "Portuguese - Portuguese(Brazil)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/15/5a/155a7ad55b8772e20ff5b523a35f4374/rus-9.vtt",
+                            "lang": "Russian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/15/5a/155a7ad55b8772e20ff5b523a35f4374/spa-5.vtt",
+                            "lang": "Spanish"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/15/5a/155a7ad55b8772e20ff5b523a35f4374/spa-4.vtt",
+                            "lang": "Spanish - Spanish(Latin_America)"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/22/2263bc21a5458399ada098499b15965c/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
+                }
+            }
+        },
+        "title": "Planetary Gravity",
+        "isFiller": false,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
     }
 }

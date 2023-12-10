@@ -1,6 +1,9 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Individual Eleven (OVA)",
         "source": {
             "DUBBED": {
@@ -9,6 +12,23 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=ghost-in-the-shell-stand-alone-complex-2nd-gig-individual-eleven-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/28d0ffd3a5abacc83ab31e35b822d20d6f957de3c38a1c94da358012230c4c414868f909d2459aff6d66357559b641356fc11edfda51ee67f398a00754626f394f642f82be0561ef3020d31a85152c9bd40187c1d19f31b60e20011ed1df3b65a544fbde4231075baeb51469265634746910ed8414cac94902b42cfd11ed6932/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/7e/ba/7ebacd90e8ee20030e7d63d8115fca11/eng-3.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/7e/ba/7ebacd90e8ee20030e7d63d8115fca11/eng-4.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/d5/d50d4e4c0a38ea08a1fc9b1c4525c7e4/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
@@ -24,6 +44,10 @@
         "downloadLink": {
             "DUBBED": "MTE0MTI4",
             "SUBBED": "MTcxMjA1"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

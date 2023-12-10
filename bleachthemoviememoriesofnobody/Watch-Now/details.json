@@ -1,20 +1,38 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=bleach-movie-1-memories-of-nobody-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/474af6f855b6b7f69e9989af1f91de13c98a6f8900106dc8cf3dc72547420d78abb6b87b022517e752faa4018687bfa4a1473c77aa96085943d49a56a5ea4f0f3dd2e3cebd1ef4f81992ddeb999df7abda465343a479cba3807b42c023890cacb05c13d3f768a02a99bb6b65c19d729dacff4a3f6ac204a4edb2babdbf1fd6ef/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/91/91f7823837f39576681f6085053d770c/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/4f390f5e8ebbb0b9a062b5e1c4ca6f5ce50e7126d4d1fdfccbe88f792153ac248c8948860ffc907bb6451a4739bdf28b9b96773c9a3acafb3bc3e8f728d4e0dd748408a63ca693f30c4748e68c3c6c8a9a6f31144693b211fcb7a4d676b66191a6ed808491ee4637921e3af06285c844ef86535eb943800bd83fbdaa4491ddec/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/97/a1/97a105797d340436df6745304867b4b9/97a105797d340436df6745304867b4b9.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/4f390f5e8ebbb0b9a062b5e1c4ca6f5ce50e7126d4d1fdfccbe88f792153ac248c8948860ffc907bb6451a4739bdf28b9b96773c9a3acafb3bc3e8f728d4e0dd748408a63ca693f30c4748e68c3c6c8a9a6f31144693b211fcb7a4d676b66191a6ed808491ee4637921e3af06285c844fd4d586e3ee64a1183519a69b9ae5ae0/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/97/a1/97a105797d340436df6745304867b4b9/97a105797d340436df6745304867b4b9.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/91/91f7823837f39576681f6085053d770c/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www004.vipanicdn.net/streamhls/c2d94d1a95103de08f2583533c74e7cb/ep.1.1677603516.m3u8"
@@ -27,6 +45,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDA0NDM="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

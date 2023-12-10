@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,38 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=lupin-iii-lupin-vs-fukusei-ningen-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/a8c69aa2b0549e07b20c0837e437705565c588f3e7723e7fca582cca7a734cbeb3d4bd6c91ff0d53544dd48b8e24e180ddc7e48e67618656b3b69d692bc34e6123d8771419fcc422209091fa8d510a2c21c926f807d1677105dc5a715bfc600ddf0d289205fbef222750515d9d302fc723a34f0d06679f4ecaa247f628110855/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/f9/f9825482ad09faa40dd06bef97dfa424/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/4c174accb54104b9c415f3ea95ba14161fe9eb8c0675afaa46ad259da9393b959aa61e660657a6eb7f0d323d030654fc0b776454d6a32df6dbf9d199c21573d8d0c1f2c5776793acd228a5326586372570b249383a9f82288125a4832b66eeb3ae297e6c0fc894698a3bbc3b7274ea38b5b35fdb6c5a0658e74fa7cc2d595a1c/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/dc/a9/dca9553ed2399b59386975a3e221c1f4/eng-2.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/4c174accb54104b9c415f3ea95ba14161fe9eb8c0675afaa46ad259da9393b959aa61e660657a6eb7f0d323d030654fc0b776454d6a32df6dbf9d199c21573d8d0c1f2c5776793acd228a5326586372570b249383a9f82288125a4832b66eeb3ae297e6c0fc894698a3bbc3b7274ea3846ad4cf71ec00b9c71e4d5d9c227e875/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/dc/a9/dca9553ed2399b59386975a3e221c1f4/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/dc/a9/dca9553ed2399b59386975a3e221c1f4/ita-5.vtt",
+                            "lang": "Italian - Sottotitoli ASS - Italiano"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/dc/a9/dca9553ed2399b59386975a3e221c1f4/ita-6.vtt",
+                            "lang": "Italian - Sottotitoli SRT - Italiano"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/f9/f9825482ad09faa40dd06bef97dfa424/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www036.vipanicdn.net/streamhls/77a32c965ff176930ebb2166ab5d5b8b/ep.1.1677837474.m3u8"
@@ -31,6 +57,10 @@
         "downloadLink": {
             "DUBBED": "MTU0ODg2",
             "SUBBED": "MTU0ODg1"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

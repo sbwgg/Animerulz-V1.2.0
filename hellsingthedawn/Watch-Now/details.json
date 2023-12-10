@@ -1,15 +1,24 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "The Dawn: A Supplementary of Hellsing",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/7e1723046a417dde2bc4e99272923d0a72c6d853fb5926e04ee1782a6b5f0fcbf67e139165bda3c0c15bd775c32eb83139d6c457bf15be90bad628e38b1fec9bb9d4e1b118ede7037a7d814fd9425171241cb2d17e8771e1ce954efe2d1f873774a6f894ff95a147de20fdb4d47a8b739119724380bb09e3fbb224cbd1df20af/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/38/90/389065801969a2ebd802ed9c1df93267/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/38/90/389065801969a2ebd802ed9c1df93267/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/40/40b17b8f188376c02ee1567f9753a523/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www030.vipanicdn.net/streamhls/cec23ffd3001f495837f9312dbed07f0/ep.1.1677653619.m3u8"
@@ -22,19 +31,32 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTkzNDk="
+        },
+        "outro": {
+            "start": 533,
+            "end": 547
         }
     },
     "2": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "The Dawn: A Supplementary of Hellsing",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/f08f6fd95d8fcb65a385299330cf5c21947b5e13967d8c94928dedda528eb5a4940b1842f586d6f79340d9786537192f4d62b38667bf094fecbc1bcbd7939597c279457f630a01feb613b3ea36b2b8f5931fef898f10b4d769f78a05d8cc78557525b77fe36241c4662f1704544ec3aa933d94c1b149b6609ed34efcbf503082/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/d3/2e/d32e5baee2187e9ecbde87f761bc0ea0/jpn-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/d3/2e/d32e5baee2187e9ecbde87f761bc0ea0/jpn-2.vtt",
+                            "lang": "Japanese - English [final8]"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/08/080eb5e470726babef9493c3b6e8cd61/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www004.vipanicdn.net/streamhls/cec23ffd3001f495837f9312dbed07f0/ep.2.1677653161.m3u8"
@@ -47,19 +69,32 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTkzNTM="
+        },
+        "outro": {
+            "start": 431,
+            "end": 451
         }
     },
     "3": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "The Dawn: A Supplementary of Hellsing",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/11256d566586fd4a081f088504e1688e61169f05a739ac01726a6b50a9233f5d7e736144dba47d7766637ab51739e1ca83f6380028bd34d940f6ef08baca615ba1e84ea207af295283fa55cb4ca69edf286a1af5932e78e253a8225537773231c899e4614687213659b475a26628929a86713efcf3b8681fd197eb52dff023c8/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/ed/a4/eda4e64f0f2968a3520ef12a77ea114f/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/ed/a4/eda4e64f0f2968a3520ef12a77ea114f/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/10/10fb7e24b7a7d7e3e15e58fed1c10564/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www006.vipanicdn.net/streamhls/cec23ffd3001f495837f9312dbed07f0/ep.3.1677652808.m3u8"
@@ -72,6 +107,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTkzNTU="
+        },
+        "outro": {
+            "start": 615,
+            "end": 638
         }
     }
 }

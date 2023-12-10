@@ -1,15 +1,24 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Redial",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/d0d8261d7298af14bdddf061eba8372e04070c0812c7a69181096e1d037fcde5e1598ca045e4f127aa23109f7146009b98b459174c597a89888b6186bb47cb7e771f36c64a2039fb9710c462f3c43a0be7d64d5d29b356c32cf8d8d4d575df5a3b81771027d23abbbe9fe93a37db7543a27280ba921fe93dc7c0cf0f110fc145/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/45/1b/451b27baf9177a4f1624f0ea35235c8e/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/45/1b/451b27baf9177a4f1624f0ea35235c8e/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/7d/7d0e60f504ef19bf73163d944ee588aa/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www045.vipanicdn.net/streamhls/9d821e394ec48aa658118f7a133de47e/ep.1.1677849614.m3u8"
@@ -22,6 +31,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTc3NDc0"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

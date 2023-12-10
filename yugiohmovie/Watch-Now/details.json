@@ -1,14 +1,23 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=yugioh-movie-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/432b75cfb02218b5d555f3078a03710ae9892bfefc00567f8f988326174d01c544487854ab8812ccc1cf0051436e1d3d5049102225884d36b752e81ba6adee786cb913c1efa49454a4377e0939f5e91f54029127bf50cde01b2d2f90135b76f65e0c5be8667f461f9c2f36ce3eeda4911fa1b8354e4f822c5f19bfae35c887f4/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/b2/b2b097386a82fb48e1c18652d0a7e35f/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
@@ -27,6 +36,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTYxODQ0"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

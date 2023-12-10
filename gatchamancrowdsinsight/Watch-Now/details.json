@@ -1,12 +1,29 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Episode 1",
         "source": {
-            "DUBBED": {},
+            "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/6a19dc8a85cb303324544f149b43f0b90800fd0d881b631d60cb5b426a15864c72d5f1e38ea35a744309598a7fb369f2f8f1c2706a04b896bce7c1d2573f775a1d13855be0a1d50bc3951fa4416798e15795c091337c8aee9c96024282bb872b119b0cf10135f0048c68eec37ce36598d0a2643a5e6e62426484112ad277d3c8/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/0b/0b80a06ceddf519f4c8486a87dfaf4a1/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
+                }
+            },
             "SUBBED": {}
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
     }
 }

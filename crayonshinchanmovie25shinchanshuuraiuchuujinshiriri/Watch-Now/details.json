@@ -1,20 +1,38 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=crayon-shin-chan-movie-25-shin-chan-shuurai-uchuujin-shiriri-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/c32bfb006b881d3bd4db97a7a2507e3fe6049ae12e2dae2e6de9fc6caeaa143d63d9cfbca115bdf8052df20dd5d7087293dac5e4ede1a1dcf22dd9ba51ca3d31d1235a2dba6faa1a57f734b6d23152a13f0d4cc94862263f0b939a4439e97c6244efbec28948bd9cb262a6843cb255dcc61b8bc70ec68cc16e2d8daf3f82ecf5/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/b9/b973b14e9d22381f45eac9f43ffe5f76/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/20e1d0e7c5e8cf69c42f3519b11c04b76e15d4562390002126573818fd0ab33e3968d05078390fc65582c5651e0c33165e5b7d8a4c8df9f1a362a1cb707a4315a15ef745f5f9a7e70afe87b363419bd16bc85cb870e4cc6e310c05a9a7bde0108fa9db0d2d4a3866ae79b071fbf6b7207091c40b5c8c8da21f530fd413ab86fb/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/f8/9f/f89fed2687e3fc9130f0ee011bed81aa/f89fed2687e3fc9130f0ee011bed81aa.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/20e1d0e7c5e8cf69c42f3519b11c04b76e15d4562390002126573818fd0ab33e3968d05078390fc65582c5651e0c33165e5b7d8a4c8df9f1a362a1cb707a4315a15ef745f5f9a7e70afe87b363419bd16bc85cb870e4cc6e310c05a9a7bde0108fa9db0d2d4a3866ae79b071fbf6b720f70ca90ddfa76d762be5d3f71da82591/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/f8/9f/f89fed2687e3fc9130f0ee011bed81aa/f89fed2687e3fc9130f0ee011bed81aa.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/b9/b973b14e9d22381f45eac9f43ffe5f76/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www004.vipanicdn.net/streamhls/1c0a22568875916234462f5bc565b485/ep.1.1677678233.m3u8"
@@ -27,6 +45,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTA0OTcz"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

@@ -1,15 +1,32 @@
 {
     "1": {
         "intro": {
-            "end": 170,
-            "start": 83
+            "start": 83,
+            "end": 170
         },
         "title": "Episode 1",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/e826678ed2d6d604d65c45e5cb567bc096e7430fddc426ba12fbce880b86bde4759101ce3d73082abd5caf18e0872e4bbb7d2f7aad0bb484e562d53b1d060e87305951cc5dfdb874a2f534ad615e25222183c75d84fc34e6411bb96a49823bc2f5069c7961171633eca84fefd952e151236484a6cf7678b8e289d0e7aa9819df/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/23/60/2360ff068234f2302a5ad192936d68d2/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/23/60/2360ff068234f2302a5ad192936d68d2/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/23/60/2360ff068234f2302a5ad192936d68d2/por-3.vtt",
+                            "lang": "Portuguese - Portuguese(Brazil)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/23/60/2360ff068234f2302a5ad192936d68d2/spa-4.vtt",
+                            "lang": "Spanish - Spanish(Latin_America)"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/51/51aa295969a86b36179bdb714f055c46/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www010.vipanicdn.net/streamhls/b4175ac6e7954bf02964c54dade02ecc/ep.1.1677599437.m3u8"
@@ -22,19 +39,40 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTkzMTE5"
+        },
+        "outro": {
+            "start": 1411,
+            "end": 1499
         }
     },
     "2": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Episode 2",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/6f4c1ebd6d1806ae40d3142c8bea0f5d879b3b3529bad975bbca7139eab95f9e85e1533d166833c7a6621d9c3be3dc2256686d6f71d14665f44309922980e0655e7cf7079f2d64926bffbd6e5feb410b5fc08b6d7a710990392ddd97fd69d44d9e7d3892dee0f816086c08f1481dff2d5c59a8145aab71bf7f9988de1be3ce98/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/f1/6e/f16ef380d99d3e24b36440c05a1052bb/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/f1/6e/f16ef380d99d3e24b36440c05a1052bb/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/f1/6e/f16ef380d99d3e24b36440c05a1052bb/por-3.vtt",
+                            "lang": "Portuguese - Portuguese(Brazil)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/f1/6e/f16ef380d99d3e24b36440c05a1052bb/spa-4.vtt",
+                            "lang": "Spanish - Spanish(Latin_America)"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/2e/2e3c91166c676f808f528d580e4d747a/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www040.vipanicdn.net/streamhls/b4175ac6e7954bf02964c54dade02ecc/ep.2.1677818386.m3u8"
@@ -47,19 +85,40 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTkzMzQ5"
+        },
+        "outro": {
+            "start": 1411,
+            "end": 1499
         }
     },
     "3": {
         "intro": {
-            "end": 90,
-            "start": 0
+            "start": 0,
+            "end": 90
         },
         "title": "Episode 3",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/a4411be08dd7c53f9688964a5a35e244773dd5952647d1f8a645d621a7372a933b5bf64ec6bffbbc9ee2910b5805301c7f88d5a0061f9a28ffd6acb9693124f87c19e26efa106320ecc6f70b8b34d3e604e3b6262c2db0abb16220898a1d2905eea18baff6b498c29df2dd93732a207eaffe0c4af006d7c56be33e813c8c1f11/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/f9/03/f9036b71bbad1eca4949d31ddb5013fe/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/f9/03/f9036b71bbad1eca4949d31ddb5013fe/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/f9/03/f9036b71bbad1eca4949d31ddb5013fe/por-3.vtt",
+                            "lang": "Portuguese - Portuguese(Brazil)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/f9/03/f9036b71bbad1eca4949d31ddb5013fe/spa-4.vtt",
+                            "lang": "Spanish - Spanish(Latin_America)"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/76/765a4e53e275b2b30cbf147ab1a5bd52/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www007.vipanicdn.net/streamhls/b4175ac6e7954bf02964c54dade02ecc/ep.3.1677608829.m3u8"
@@ -72,19 +131,40 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTkzNjU2"
+        },
+        "outro": {
+            "start": 1411,
+            "end": 1499
         }
     },
     "4": {
         "intro": {
-            "end": 90,
-            "start": 0
+            "start": 0,
+            "end": 90
         },
         "title": "Episode 4",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/47197ac19fec4985dda6254ddee7c776edd1d10f1136046e8bb22ef1a89a41ca5a550317cd395e7d8aa9a3db5012629477a4cd62a2faae1066427b8076b7e6dd7ba150e7248e909c35ff39d992d9c97ff16e0d04431fb6fb1db446f88d8fb7babf73cb060ab46554aede81c1b888583f6d832ef501aa8227d2f32167a6a40a74/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/69/2d/692d0b4681e915d7551568a274bccb6e/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/69/2d/692d0b4681e915d7551568a274bccb6e/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/69/2d/692d0b4681e915d7551568a274bccb6e/por-3.vtt",
+                            "lang": "Portuguese - Portuguese(Brazil)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/69/2d/692d0b4681e915d7551568a274bccb6e/spa-4.vtt",
+                            "lang": "Spanish - Spanish(Latin_America)"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/17/1743758d21a59113b390df92be1dcff9/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www022.vipanicdn.net/streamhls/b4175ac6e7954bf02964c54dade02ecc/ep.4.1677625877.m3u8"
@@ -97,19 +177,40 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTkzOTEx"
+        },
+        "outro": {
+            "start": 1411,
+            "end": 1499
         }
     },
     "5": {
         "intro": {
-            "end": 163,
-            "start": 73
+            "start": 73,
+            "end": 163
         },
         "title": "Episode 5",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/bd222a2fae765ab21cf1e16a3fb07ec5c263894e634f3eaef9656a7df571c187ed7f6385933ae9e523491ebb14f46713b99ac4d4c17abf6c27589e0180a5c7b0f1fd7b76f2c6b0abd6158b4853aa24c274c7f5a3b06029f5a672c5e6e258519bbaa73e8a046f4c56f0ffc4c4e63610cf27e08299f176953b139dc738e2c74b93/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/8d/e5/8de514c486fe5af019cec092274c2f18/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/8d/e5/8de514c486fe5af019cec092274c2f18/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/8d/e5/8de514c486fe5af019cec092274c2f18/por-3.vtt",
+                            "lang": "Portuguese - Portuguese(Brazil)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/8d/e5/8de514c486fe5af019cec092274c2f18/spa-4.vtt",
+                            "lang": "Spanish - Spanish(Latin_America)"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/71/7156f3efaa5a8fefcb6632a0a577aa36/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www036.vipanicdn.net/streamhls/b4175ac6e7954bf02964c54dade02ecc/ep.5.1677817666.m3u8"
@@ -122,19 +223,40 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTk0MjQ1"
+        },
+        "outro": {
+            "start": 1411,
+            "end": 1499
         }
     },
     "6": {
         "intro": {
-            "end": 177,
-            "start": 88
+            "start": 88,
+            "end": 177
         },
         "title": "Episode 6",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/d5f363d8a269d00a1c8265f522707581c13c6423b147c5c1e83c674686151b31154c993edc446dca098cac0728b3b9bc6f18e6587c65bc001c1889eb4f0082cfdddba0afc5aee703c0fc162b7c25029c9204a90838addaa4da35567ec36b74fc3587657e40f84d759485a0ca47efd604c8a5e27e457253b570006e32ded59068/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/e1/fd/e1fd5e039729778b5240266d72407287/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/e1/fd/e1fd5e039729778b5240266d72407287/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/e1/fd/e1fd5e039729778b5240266d72407287/por-3.vtt",
+                            "lang": "Portuguese - Portuguese(Brazil)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/e1/fd/e1fd5e039729778b5240266d72407287/spa-4.vtt",
+                            "lang": "Spanish - Spanish(Latin_America)"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/b2/b2450038526af03381b11f9764595f8d/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www003.vipanicdn.net/streamhls/b4175ac6e7954bf02964c54dade02ecc/ep.6.1677613272.m3u8"
@@ -147,19 +269,40 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTk0NTUy"
+        },
+        "outro": {
+            "start": 1411,
+            "end": 1499
         }
     },
     "7": {
         "intro": {
-            "end": 117,
-            "start": 28
+            "start": 28,
+            "end": 117
         },
         "title": "Episode 7",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/4dbfaa65908f530b5141eec572a48d508d8c56ff36f02532bc6ef3a40c6b2c04054af7824c3d70b7e21743a802090218e3e052e4b698d4bbac3d6cb9970ce9beb217d1f6f951479cf956674c29eb4ccdfd78bebad87239b190b0a4e4dd33f154992d070048a57a20e9ab2b27f822eed480e58cb4513c6ecdefea28ad44c5c8b3/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/42/00/4200db18be49274d6a7093c4f3483f80/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/42/00/4200db18be49274d6a7093c4f3483f80/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/42/00/4200db18be49274d6a7093c4f3483f80/por-3.vtt",
+                            "lang": "Portuguese - Portuguese(Brazil)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/42/00/4200db18be49274d6a7093c4f3483f80/spa-4.vtt",
+                            "lang": "Spanish - Spanish(Latin_America)"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/c9/c9974ea51baba71574f067adafee7315/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www045.vipanicdn.net/streamhls/b4175ac6e7954bf02964c54dade02ecc/ep.7.1677837385.m3u8"
@@ -172,19 +315,40 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTk0ODU0"
+        },
+        "outro": {
+            "start": 1411,
+            "end": 1499
         }
     },
     "8": {
         "intro": {
-            "end": 110,
-            "start": 21
+            "start": 21,
+            "end": 110
         },
         "title": "Episode 8",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/d4057161746bb9d413734b96522f9d785a481be0e65821b0af697de48e4b00aa8859dc4937db1c251893ca914741c6bc76c8481c9791cb8606502c61308b8ed707986cccf5151f00ca1333e401b1919f7988f5f7cd690da650cd3cf59a83ed0978dccc27acf9a598f781146ff87f28361035e5846a45d73ac057dd91e0985326/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/d5/c4/d5c40414a3fbb25c0f001755b6c7b39c/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/d5/c4/d5c40414a3fbb25c0f001755b6c7b39c/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/d5/c4/d5c40414a3fbb25c0f001755b6c7b39c/por-3.vtt",
+                            "lang": "Portuguese - Portuguese(Brazil)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/d5/c4/d5c40414a3fbb25c0f001755b6c7b39c/spa-4.vtt",
+                            "lang": "Spanish - Spanish(Latin_America)"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/af/afb027293f9c6d3644385007a132673a/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www041.vipanicdn.net/streamhls/b4175ac6e7954bf02964c54dade02ecc/ep.8.1677836103.m3u8"
@@ -197,19 +361,40 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTk1MTEw"
+        },
+        "outro": {
+            "start": 1411,
+            "end": 1499
         }
     },
     "9": {
         "intro": {
-            "end": 149,
-            "start": 60
+            "start": 60,
+            "end": 149
         },
         "title": "Episode 9",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/d505b59b208495971d0627200b1c071436c4e2180465fc7a69d9a1cc31502e9e1e1cce158e02c16d271348cfaf768cfd854bfa4f5e1f6f57033364a7592cdb391f9a097d4aab06f93c25b33b174af0a6ee241fe176c6f8ef48d5a4973f21222c7a78110e407f15dea06a39aa1cbe2e82f7c35f63a37f131c26c0f58d70936e87/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/a0/ca/a0ca23b369b9749b40fedfa13b26f062/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/a0/ca/a0ca23b369b9749b40fedfa13b26f062/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/a0/ca/a0ca23b369b9749b40fedfa13b26f062/por-3.vtt",
+                            "lang": "Portuguese - Portuguese(Brazil)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/a0/ca/a0ca23b369b9749b40fedfa13b26f062/spa-4.vtt",
+                            "lang": "Spanish - Spanish(Latin_America)"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/25/25134f320320f22358ca7700d9b3c21f/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www046.vipanicdn.net/streamhls/b4175ac6e7954bf02964c54dade02ecc/ep.9.1677838236.m3u8"
@@ -222,19 +407,40 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTk1Mzc1"
+        },
+        "outro": {
+            "start": 1411,
+            "end": 1499
         }
     },
     "10": {
         "intro": {
-            "end": 168,
-            "start": 77
+            "start": 77,
+            "end": 168
         },
         "title": "Episode 10",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/024d882186b1ecbf030dcb36622ac45337cc45fac6bab3b00720cbdc6cee5035b7bbcd778c6555ce2a70f65a88f93d7e1e04e07b1825308f25abf12082cf75e10d6ea09debdb7efe5e72f4d8f1496d4587a573fc321d0a1730cccab7c1ca144094d0becb9940f6d0c6bb6246f342a3d0e698a4f03c330c2d269ac626e6ddef37/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/98/a4/98a411e853a7dff9033c5d7879abde08/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/98/a4/98a411e853a7dff9033c5d7879abde08/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/98/a4/98a411e853a7dff9033c5d7879abde08/por-3.vtt",
+                            "lang": "Portuguese - Portuguese(Brazil)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/98/a4/98a411e853a7dff9033c5d7879abde08/spa-4.vtt",
+                            "lang": "Spanish - Spanish(Latin_America)"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/81/81bb873de493abf694eff3aaa9018b9e/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www050.vipanicdn.net/streamhls/b4175ac6e7954bf02964c54dade02ecc/ep.10.1677835327.m3u8"
@@ -247,19 +453,36 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTk1Njc5"
+        },
+        "outro": {
+            "start": 1411,
+            "end": 1499
         }
     },
     "11": {
         "intro": {
-            "end": 90,
-            "start": 0
+            "start": 0,
+            "end": 90
         },
         "title": "Episode 11",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/9cc6ea9cf167cbb29f69320407f26cb62827fbd85b6ff3abec40a2321259184890694270ef1da8af346ffcf676104529d8cfd9026e0ff69e608ae8454bf85dcf4ec78d80239aaa8a5fb91fb293c6db90088332eb9aff267ced4a5715e0b2ec8cf97019121e5be6906b37946366df9362ac801b0f108d4cbf55878007a46c2da2/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/01/11/01110ba5d8d443d570ac2f3ce9cf9f05/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/01/11/01110ba5d8d443d570ac2f3ce9cf9f05/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/01/11/01110ba5d8d443d570ac2f3ce9cf9f05/por-3.vtt",
+                            "lang": "Portuguese - Portuguese(Brazil)"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/cb/cb54208f59b4c370aca748f82a644a58/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www046.vipanicdn.net/streamhls/b4175ac6e7954bf02964c54dade02ecc/ep.11.1677837658.m3u8"
@@ -272,19 +495,40 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTk1OTU1"
+        },
+        "outro": {
+            "start": 1411,
+            "end": 1499
         }
     },
     "12": {
         "intro": {
-            "end": 90,
-            "start": 0
+            "start": 0,
+            "end": 90
         },
         "title": "Episode 12",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/2a8c2a82369a6704d27d221d4435d5b24a2911b04dc0a274d3e910c27a96da42e4b909012c86dd8f47a71a8730b2c10b9a3b214bcc5614736aabe6b8ef69f5511dc2d053642e10b39ba599b01ca5de1619cd2f3a73aafd37fa5c7e45cce736d7e8f9ea232a488ee5535d6076c843a4fb3a3759f8153ea65715c9ac3a7a6a696d/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/a3/e5/a3e53ddeb8491ebcbf859cdb79006024/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/a3/e5/a3e53ddeb8491ebcbf859cdb79006024/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/a3/e5/a3e53ddeb8491ebcbf859cdb79006024/por-3.vtt",
+                            "lang": "Portuguese - Portuguese(Brazil)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/a3/e5/a3e53ddeb8491ebcbf859cdb79006024/spa-4.vtt",
+                            "lang": "Spanish - Spanish(Latin_America)"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/38/38aac424a8e7d5c60ee3765542663851/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www041.vipanicdn.net/streamhls/b4175ac6e7954bf02964c54dade02ecc/ep.12.1677835049.m3u8"
@@ -297,6 +541,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTk2MjUw"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

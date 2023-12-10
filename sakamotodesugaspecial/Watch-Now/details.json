@@ -1,6 +1,9 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "OVA",
         "source": {
             "SUBBED": {
@@ -9,12 +12,29 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=sakamoto-desu-ga-special-episode-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/88d403397a50c8684b081a4203faea091395a49275df5da2801f0905a6f4c341b679256c17edf8b8954889636f70fd4fa9377fc0161d088f512ab2306f245ce2c725a419d6a24497b12f527eb3e1186c0598f448556e15c8559fce4328d34b5dafab07550b8efbffc6824593ca7d63d890bbbde6908e95404aac7bfc047a8f63/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/c7/c5/c7c5aaf5e326e417fed5231681baa219/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/fa/fab80e8604ff378b9aaaa61c6939e0c4/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NzY2NTA="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

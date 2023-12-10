@@ -1,20 +1,38 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=lupin-iii-otakara-henkyaku-daisakusen-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/a424ce9d45973303dbb1b516bc87828659a45e98e561d5f898f9fb66bc20be74b544cff5a33cb722a9cdc56f3d4e4e889a06393b72a0118a08f94acbdf3435490fd67604c644138fe63220af0f5462296452e791a315834603874a3f80928dd0deacaf3cb83f1b8a14afc10ddeaadf5544acde21ab4d886ddf7f812385464ae6/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/81/81f99e977f4272eb75514a633b624a6c/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/d936d1d678a980594eb67130b388528f0e53d61f05c64779c79c406babad8bd26c6f3c08599d869a9ce842dc7036f68aac38a2afa648af12b0289489a4989445157bd04567eaeefd64317627f576583658fe08d532b55cd110716004e33add6fd5a00df97292432af10f955a171356fce40856c4f6656ab76c506e48fa8fb2b5/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/58/d6/58d660d25eac138b8429c72b250412d5/58d660d25eac138b8429c72b250412d5.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/d936d1d678a980594eb67130b388528f0e53d61f05c64779c79c406babad8bd26c6f3c08599d869a9ce842dc7036f68aac38a2afa648af12b0289489a4989445157bd04567eaeefd64317627f576583658fe08d532b55cd110716004e33add6fd5a00df97292432af10f955a171356fc96bb7dc5be435853fea2c35458ce8657/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/58/d6/58d660d25eac138b8429c72b250412d5/58d660d25eac138b8429c72b250412d5.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/81/81f99e977f4272eb75514a633b624a6c/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www033.vipanicdn.net/streamhls/8d3827a3bdd4b6790cf0657211523d94/ep.1.1677828402.m3u8"
@@ -27,6 +45,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTYzNTIy"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

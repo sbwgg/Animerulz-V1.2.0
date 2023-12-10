@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,30 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=cowboy-bebop-tengoku-no-tobira-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/0621385984971001b10dc5802c4a95347d95b06ac367b2812995e70c371b1708c21e8e9e0013939c7941e76e466dc82f39634d31cb83e75504e4f979dca9cf8c257c8c1258711904ad415d4f77a6cf0be5cd0b86957154ab9785cb5c17adfbf8ae162fbb0545968c016f658a2fddf8226ce8e3ff4de5a0a209a2c0baba75aec0/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/30/30213dba9c2eb33cbd2ff6eb411e5f89/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/6713f71f88058f350c5ba38c215bff1859d98ca4d20a53a0ca717ce089134230146f50d82daf119f4c7226cd7494665bae8f24a5f1b63888476e983a6441dafeebf52e3f2227ec415fa2d4a7bf009473dc86f8e24ea3670ba056f29860dafdfa9690fbb0172dd2be2480a5144c2b08a63dac3cc8f814a8eede59aa898a66f723/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/d8/95/d895aff079f1e6b7f8b2316c24fb42d0/d895aff079f1e6b7f8b2316c24fb42d0.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/6713f71f88058f350c5ba38c215bff1859d98ca4d20a53a0ca717ce089134230146f50d82daf119f4c7226cd7494665bae8f24a5f1b63888476e983a6441dafeebf52e3f2227ec415fa2d4a7bf009473dc86f8e24ea3670ba056f29860dafdfa9690fbb0172dd2be2480a5144c2b08a68cf110a4f2ca4ae5d2355990b9d9a5cf/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/d8/95/d895aff079f1e6b7f8b2316c24fb42d0/d895aff079f1e6b7f8b2316c24fb42d0.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/30/30213dba9c2eb33cbd2ff6eb411e5f89/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www007.vipanicdn.net/streamhls/c5052b6d1148b2cd720d4b36902bff92/ep.1.1677692484.m3u8"
@@ -31,6 +49,10 @@
         "downloadLink": {
             "DUBBED": "MTM5NTM3",
             "SUBBED": "MTM5NTM2"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

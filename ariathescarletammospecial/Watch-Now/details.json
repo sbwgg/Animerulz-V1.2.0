@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,34 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=hidan-no-aria-ova-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/510779297c97780d0c4545d425582654ce7b67876c80c091fb474739967aed37a8c6357453c3902e0b6e15f357a3ae3e6bdba724452e0ca61c60aab4f4b8ce46d49b5d5ae64e7c132594c313040eb2c65c02bf89b5a35ddf5b7a22f863463a9d4e7b252715a352c6bab7b81f09b640c6a860fa7911497ae7031786118e164e06/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/d0/a1/d0a1bcb8f87e0c6cbe65e94b4acede28/d0a1bcb8f87e0c6cbe65e94b4acede28.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/3f/3f8c7fe9218b69094cdc5cc09b924984/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/492fe177d0201e0f577a3e838bfb95b29c546bab0591709692b3f6ef314b2d95996454e7a83789f0eebae8e678be9b24cba6e46393e9aa88c9d7955801b66350fea9e02b61d95dcc327d771713a119f10aa902ce873ddbc0ea8c36c95d8e54331bbd0dc42b3c1b9d9550122ffbaeef09b5a78a2c922ea3f3e77d1ef83a1be94e/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/38/a7/38a770bd328208047b5e056cee85af28/38a770bd328208047b5e056cee85af28.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/38/a7/38a770bd328208047b5e056cee85af28/38a770bd328208047b5e056cee85af28.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/3f/3f8c7fe9218b69094cdc5cc09b924984/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www018.vipanicdn.net/streamhls/18774a4eac626a85ea8229a43f5ef9fc/ep.1.1677659908.m3u8"
@@ -31,6 +53,10 @@
         "downloadLink": {
             "DUBBED": "MjEwODc5",
             "SUBBED": "MjAyOTc="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

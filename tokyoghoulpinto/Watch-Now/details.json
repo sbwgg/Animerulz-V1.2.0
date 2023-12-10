@@ -1,20 +1,38 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=tokyo-ghoul-pinto--episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/1f0c279c1224c1bd743887cc062180282685bee516e7597216c175133070970240f94be7c5a8a1e4b1758606443bcadb39c4e1b8cf0b0884531ffc166d4530bcf63494d99d93f15b2758303d26efed3ce808231104b3641964fe1014910916b84bc54774658c4a148eb005b7d9fc4bdba6f3145df601c3fbfc4d12efd8b17146/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/e2/e2a877739d6f51f62cc63890615e294a/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/49533f2059da0a982c48b64c9e9ef38e2bd90591b6a8bf049b2aa6254cd61778a3aa5f9fc5efca60798a622c8ddbef860ec1edbf6a2aca3b45af935e5225b87b44af156c796316b9b9a2d0add448cbe86014eb42e750eda7fe90a3bb7523725ddfecd48d83a0f016a1f95d4181ed07e6b843ec51362a0bb402e8c9cf3e424ca2/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/e6/59/e6594384d6ebedb40490d0a879410bc1/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/e6/59/e6594384d6ebedb40490d0a879410bc1/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/e2/e2a877739d6f51f62cc63890615e294a/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www016.vipanicdn.net/streamhls/82305dd5713bf99ccee0ff7967047c39/ep.1.1677664376.m3u8"
@@ -27,6 +45,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NzAyNDU="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

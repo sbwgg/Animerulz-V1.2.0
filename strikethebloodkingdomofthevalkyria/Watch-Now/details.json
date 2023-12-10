@@ -1,15 +1,24 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Kingdom of Valkyria, Part 1",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/ba69fc2702a051677656a0e05a9dfc9871e49f00570e68e627a73af8a6bb592c52162ffb426ddf342c681b4e249c20e0532b8d252c13eb63a5dfc0ccfed8dbab2c8cc92fe65c82132756269baad78b70302f5104dc4bc224d3c9804365a48c34366503efe01afc8b72119a54347f7afc5820355460988de838023982f43aa9bd/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/3a/38/3a38e433bd391c6def301f4209dc1df1/3a38e433bd391c6def301f4209dc1df1.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/3a/38/3a38e433bd391c6def301f4209dc1df1/3a38e433bd391c6def301f4209dc1df1.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/ae/aea4d914991fbf098bd20bdb56e70575/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www019.vipanicdn.net/streamhls/7ff2a448ec51a11984d57d497b15e24c/ep.1.1677666373.m3u8"
@@ -22,19 +31,32 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "Njk5NDg="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     },
     "2": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Kingdom of Valkyria, Part 2",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/117ad9ad25a136153fceb44e763147a39bbdd77c4cb224339c3d53c19c2c6cd22f38d288c0e960e504305afd3d977d2d314dcd358efc3e39fed6435f48f520695377e03571398932e59a932889872bb90246d46b79d14c8f33575073908038f09854c02be96f8541dd08484374dfe50ad63017469b23356632e91e317a05a70a/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/dd/7e/dd7ef771761d63a784ed0264f0876ab5/dd7ef771761d63a784ed0264f0876ab5.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/dd/7e/dd7ef771761d63a784ed0264f0876ab5/dd7ef771761d63a784ed0264f0876ab5.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/00/00bdeb8750d69df88890ecb1a4ea195f/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www003.vipanicdn.net/streamhls/7ff2a448ec51a11984d57d497b15e24c/ep.2.1677608421.m3u8"
@@ -47,6 +69,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NzAyMzI="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

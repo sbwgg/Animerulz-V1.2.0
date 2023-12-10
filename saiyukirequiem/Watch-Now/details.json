@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,66 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=saiyuki-requiem-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/116c0b3909e106d2e9104ccdaed77db2429297fdc5455cf5153f921806b5d084f05f6bd9562eb6540f37185bd1d9f3bb900857e243b2e661f8bbaf4db3c37144868fd3c4772ca870a423c1988d7556dcce6a16f7c5837ee35af5143fa631f96ed9c9d30fa2442da65c7b0c5f290d29ae3a464e7d500601c8b56c6cb5c1cd2961/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/80/a9/80a910fab41a6c8a24b4e570ce55c4d5/dut-6.vtt",
+                            "lang": "Dutch"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/80/a9/80a910fab41a6c8a24b4e570ce55c4d5/eng-5.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/80/a9/80a910fab41a6c8a24b4e570ce55c4d5/fre-3.vtt",
+                            "lang": "French"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/80/a9/80a910fab41a6c8a24b4e570ce55c4d5/ita-4.vtt",
+                            "lang": "Italian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/80/a9/80a910fab41a6c8a24b4e570ce55c4d5/spa-2.vtt",
+                            "lang": "Spanish"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/86/86cd91ebed01d4a016908671da9f2e21/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/70db079492c5f26ef26163411bfdcfd2acd1f7370ec3d0f2a672aa6d7212cab9273573e59d9eed121b1db01567aa7b9116ccc64018d07a3716ce3bf75a05bada33594abd92f66bc476f3966269e8e405995f942d2fb1c020fc7f8730df09dd81743506930d417c1553c8369f8ad2e97c9baba7bfd48a4feb10cc17f4e790f9dd/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/5d/9b/5d9bd4c94bff21c1e018518b9a38b99d/eng-5.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/5d/9b/5d9bd4c94bff21c1e018518b9a38b99d/dut-6.vtt",
+                            "lang": "Dutch"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/5d/9b/5d9bd4c94bff21c1e018518b9a38b99d/eng-5.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/5d/9b/5d9bd4c94bff21c1e018518b9a38b99d/fre-3.vtt",
+                            "lang": "French"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/5d/9b/5d9bd4c94bff21c1e018518b9a38b99d/ita-4.vtt",
+                            "lang": "Italian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/5d/9b/5d9bd4c94bff21c1e018518b9a38b99d/spa-2.vtt",
+                            "lang": "Spanish"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/86/86cd91ebed01d4a016908671da9f2e21/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www042.vipanicdn.net/streamhls/d03a5abab0baf54c35a7ef47478a034d/ep.1.1677839456.m3u8"
@@ -31,6 +85,10 @@
         "downloadLink": {
             "DUBBED": "ODA1MDA=",
             "SUBBED": "MTgyNzMx"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

@@ -1,11 +1,36 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Full",
         "source": {
-            "SUBBED": {}
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/b58fc8b1a88010f4e13f491d401c4a4cbdc222fc4aca830ca16d9928d2384f254f7fa6ddbb29b906d9bfae823802cdd5d8d4d606d6e36b131592cb845120a16bf0674ee94854f562b747a8f3fd8efd26f3f094689be378b292e047774220901803171b1cdbce34df9ada039dd8f7a48bf6ad6b3de19a77ca09162eea35b4c7d0/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/0a/78/0a7820c7315f1493a0687462dc48092d/eng-3.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/0a/78/0a7820c7315f1493a0687462dc48092d/ita-2.vtt",
+                            "lang": "Italian - Italiano Dopp. Fedele"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/c1/c11e415d8b10167ab920fa9cb89ba3e1/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
+                }
+            }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
     }
 }

@@ -1,15 +1,24 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/85993d2f35a68e9b170c62aeb16e8e0ca88f243d883acb2e8daaef11cdfcd4f896c0128d01dfffbeba458b4175cede97096be082a588b22827a344dfa4e103f752707ec98b548e85f1f12801d7a0fc23f1f9fe5e54e6750a42c6755b7b0186220d56bead1e7dd51ae2094dc1e835089519cfd14a25f5d55c82a669bebf853879/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/46/8a/468a32de893f54c39e495f9bb3ade2fa/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/46/8a/468a32de893f54c39e495f9bb3ade2fa/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/ce/ce54be97ee4fc283e45e5f3e1fa415f8/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=koutetsujou-no-kabaneri-movie-1-tsudou-hikari-episode-1"
@@ -17,6 +26,10 @@
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
     }
 }

@@ -1,15 +1,24 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Episode 1",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/16fd91a9a83a6016dc40e7372740ae59c10232ad88bc01b751537c8ede15cef10d289ccd974d21f4632cb3e7089b631e084d5a1f390ebcf3f8ce535ea2f7bc487bf81638933cb9eb5028b7b8a823e7573e801f96c096c70b83c78dc4c3d103936a382baa85f549e5f99bfd7e9f2aa6c05542b7adb1264339223912c709c52c07/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/73/dd/73dd2d308adf7c6f165ce87fe232b9d0/73dd2d308adf7c6f165ce87fe232b9d0.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/73/dd/73dd2d308adf7c6f165ce87fe232b9d0/73dd2d308adf7c6f165ce87fe232b9d0.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/c5/c5fc08db8114eae28ebc366b40c55a3b/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www005.vipanicdn.net/streamhls/4bb14746621a1f6951821b08319264f2/ep.1.1677686776.m3u8"
@@ -22,19 +31,32 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTA2NTY0"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     },
     "2": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Episode 2",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/e17474a702f3d68b62835ca5642673293a746753304ab24cd66e460d8e46ad0d03bb085310774de7412ac3d004ce2a83af7d9d62adb51458b4a43bf82a7de090fbe11d60af378e22b2c88b47cf50c5d26b0353b191bb66df564d17b4ff9631ee6435c637d0c7251e0c5744624d3d43a7ac22c7e1aa6e5e481e7d3827210fbd2f/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/f5/87/f58721b31d958c4d4b8444b9654bc873/f58721b31d958c4d4b8444b9654bc873.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/f5/87/f58721b31d958c4d4b8444b9654bc873/f58721b31d958c4d4b8444b9654bc873.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/28/28d88f03d7ac58a09f8cdeb3e31aa039/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www030.vipanicdn.net/streamhls/4bb14746621a1f6951821b08319264f2/ep.2.1677683153.m3u8"
@@ -47,19 +69,32 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTA2Njc5"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     },
     "3": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Episode 3",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/074fdd9d8903a34868fc6d181c6e6b7d29e49d83b196f141d88ca06f08405da571c205b4d4d87875defbff0bb747c86f4849597f6fe525a16ddbf830fdd8eac3610ef5ea8992e95f888e01bb9a6e84ac405c8f1428bcf7f0a2f09bf54d84b47d610bae9b779b5018e8d9746bfecd72b1567564f6cde620f3f0aff53fc325012d/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/7f/23/7f231b6797463540d7174a9c5a9cebe1/7f231b6797463540d7174a9c5a9cebe1.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/7f/23/7f231b6797463540d7174a9c5a9cebe1/7f231b6797463540d7174a9c5a9cebe1.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/cb/cbb187518b50676d12d20444281905dc/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www021.vipanicdn.net/streamhls/4bb14746621a1f6951821b08319264f2/ep.3.1677683504.m3u8"
@@ -72,6 +107,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTA2NzYw"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

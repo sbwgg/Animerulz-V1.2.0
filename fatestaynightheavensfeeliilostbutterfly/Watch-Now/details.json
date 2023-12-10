@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,30 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=fatestay-night-movie-heavens-feel-ii-lost-butterfly-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/11f1cb02daab9d03bfde83d188af7619f3737041b1f5871bd085a38e5b660b73c7dcc1128ba75d13886175b2a10af5719bd92d6a0ba4e85852bd740fa4f18692b84c4aeddc494de459b33a774580469b23e86e64cf664c55bb0522ac72703f9527d4445c422bc7158e43416bf07f582b3e4049da0fbda99214115e0594533c3b/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/6b/6b331650767921b06277b3dfa94b67fc/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/c65991a96bc2c33cad5e89f670fc21869a5dff46e16d39eb0b67aea541ca7ad3a1a8f573f2d2ffded4ea4f10a3abd8f404442ebc0e258775c112d24e3f32eccd1cc27b8949a20e3d55c509766977595702055ba68c8476b85253bf24b2b87cdeb3cadf0a64e9b4ad63dcf6e2b11c9ba2cc09d06ce891298e599cfee3fbab9f91/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/45/d1/45d1202c8ff172ee9fde957ec5cd337f/eng-3.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/c65991a96bc2c33cad5e89f670fc21869a5dff46e16d39eb0b67aea541ca7ad3a1a8f573f2d2ffded4ea4f10a3abd8f404442ebc0e258775c112d24e3f32eccd1cc27b8949a20e3d55c509766977595702055ba68c8476b85253bf24b2b87cdeb3cadf0a64e9b4ad63dcf6e2b11c9ba2f55c3e19d73aca8270d1ef9897e5526d/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/45/d1/45d1202c8ff172ee9fde957ec5cd337f/eng-3.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/6b/6b331650767921b06277b3dfa94b67fc/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www028.vipanicdn.net/streamhls/34fa4047756d95da2a70d230f4bb2034/ep.1.1677691929.m3u8"
@@ -31,6 +49,10 @@
         "downloadLink": {
             "DUBBED": "MTMzOTc1",
             "SUBBED": "MTE1NTI3"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

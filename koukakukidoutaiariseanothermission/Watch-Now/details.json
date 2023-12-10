@@ -1,15 +1,24 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Another Mission",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/84d2f52fad053a702389697a87001cdd1d71a56bb80dea35debbbff8db3ed4a6d70af3cf8755885985a79b0bf8b1ffb39e07f61d6e7591bffde45b5efa7ecdede22665a6deca18b5796a135d77efe7bc2a1ec8c60fa79b8f777233d39ad300c2d79fe4138cfe9d08f7de3a5a2f5cff0b835aadb25f3aeead23a1db694ae7c8f3/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/61/ba/61ba795dbfc164ba08d14f3d43f1f11a/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/61/ba/61ba795dbfc164ba08d14f3d43f1f11a/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/6e/6e444405e214fdb81776420d54f645b6/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www040.vipanicdn.net/streamhls/94e0ad13aada649d2e6e0a897c928020/ep.1.1677830613.m3u8"
@@ -22,6 +31,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTcyMjg5"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

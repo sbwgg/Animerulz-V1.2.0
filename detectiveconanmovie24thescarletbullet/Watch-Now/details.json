@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,30 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=detective-conan-movie-24-the-scarlet-bullet-dub-episode-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/4c1d6668775ed313ec71f4bd16566691e80ae2808e9b6b67343e71c1e430f66d0ab71bcd6e4922783190d05b9a428a2c687735ff545828fa2a003890cb2a0ce51445861334981aeca6124021566761ae937510988a49ec7b9df9459c15fb8a92cb3cb5aaf86a6457669d3dc900e9a2ff9000a4fce084fda77e255ed7bca72cf5/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/bf/bf5cd621a384a3ff6cfbdac4ba9e4b00/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/411e59f12ff1966a0098f68df145c67771f0d38a2968445d4eb5f850738d399031a5ceb488ac054e61fddda201a8eb481fe838b207099b103474d89a636d09eb04fe06e68fb6c2d47a5ad5e4047861ccce6b78e118370ed622f436b8ab10c9fdd83718de7d1bf02a2f77c4a02c0df7791360287d77c2a9730446bfe851f6c312/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/06/03/0603e91545539090ede8783b812099ea/0603e91545539090ede8783b812099ea.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/06/03/0603e91545539090ede8783b812099ea/0603e91545539090ede8783b812099ea.vtt",
+                            "lang": "Vietnamese"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/bf/bf5cd621a384a3ff6cfbdac4ba9e4b00/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www019.vipanicdn.net/streamhls/0657831a900141126f335359438f4253/ep.1.1677609072.m3u8"
@@ -31,6 +49,10 @@
         "downloadLink": {
             "DUBBED": "MjE2NDIz",
             "SUBBED": "MTc0MTk4"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

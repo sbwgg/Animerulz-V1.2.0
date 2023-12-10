@@ -1,15 +1,44 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/8f66941654f7f2dabcb0ba948f40f68c2d05494c4a595a405ff904416a46ca12e7c2144fc94762fd2b9e1f486b8ca0435d58255ff58a004bc449df290723e8eb1a4b639f445b11b8afb9609193e0f953b7a86b895668a63ec70f4e271d2c3cd404ef939699833b1df7c61cf057afe593e43d5b3a14fb4d89cf56c7477ae36d6b/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/b7/39/b739442c953c56917d5ecbad16f636c4/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/b7/39/b739442c953c56917d5ecbad16f636c4/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/b7/39/b739442c953c56917d5ecbad16f636c4/fre-6.vtt",
+                            "lang": "French"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/b7/39/b739442c953c56917d5ecbad16f636c4/ger-7.vtt",
+                            "lang": "German"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/b7/39/b739442c953c56917d5ecbad16f636c4/por-3.vtt",
+                            "lang": "Portuguese - Portuguese(Brazil)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/b7/39/b739442c953c56917d5ecbad16f636c4/spa-5.vtt",
+                            "lang": "Spanish"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/b7/39/b739442c953c56917d5ecbad16f636c4/spa-4.vtt",
+                            "lang": "Spanish - Spanish(Latin_America)"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/61/61064809a1325b22df63c0a169dc8a03/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www044.vipanicdn.net/streamhls/775e3ac13b90db356e55389f5ce8c747/ep.1.1677843799.m3u8"
@@ -22,6 +51,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTkwMTMz"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

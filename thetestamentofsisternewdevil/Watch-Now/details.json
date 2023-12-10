@@ -1,15 +1,36 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/6a794a4430846b5619b269a42ad346437a8c4265c81c226eaed9b3cd1b64d95c6a0cda051c40395d65c75998165ce55742d0db698bca90f06d4f9627ffb438a3f3ff3b431622208f32322ccfcb8fd1ba36702bb1450828a8640b4194ab9159b0b17413c31e85b62dd2cfc9b4fe08394287b361797f47dcbd12420b0e300569ab/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/3e/05/3e05c0d48cc1cd55248de6957c6b47a3/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/3e/05/3e05c0d48cc1cd55248de6957c6b47a3/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/3e/05/3e05c0d48cc1cd55248de6957c6b47a3/fre-3.vtt",
+                            "lang": "French - French / Fran\u00c3\u00a7ais (France)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/3e/05/3e05c0d48cc1cd55248de6957c6b47a3/ita-5.vtt",
+                            "lang": "Italian - Italian / Italiano"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/3e/05/3e05c0d48cc1cd55248de6957c6b47a3/por-4.vtt",
+                            "lang": "Portuguese - Portuguese (Brazilian) / Portugu\u00c3\u00aas (Brasil)"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/37/37330fa834f18a7dfe365dece3c9eacb/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www007.vipanicdn.net/streamhls/830970d47f6d09f3d5fae2134da89808/ep.1.1677596477.m3u8"
@@ -22,6 +43,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTA0NzY2"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

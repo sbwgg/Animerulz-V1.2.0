@@ -1,11 +1,23 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=fafner-dead-aggressor-heaven-and-earth-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/7c94fc97004777b8d3c82cdf9b3f72421933c90fe17cfbe2c66dc6c538754a27f6ca7bd41ca6e45cdc94ce1a32aa7ef0d8506d8de61048b16d0c8cfe0bc93eccc1743aad4f2d84534553ab3e9eef25dbc094ceb1afaf90c78bcb71e90fc362cc7fbf8fc4e1e0cdb201b25073adc21ba8bdba423cb142b17dcb89fa8d32d8d3c1/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/bb/bb40440a1ef8dfa4d64744c24a8ece07/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
@@ -20,6 +32,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDEwNzE="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

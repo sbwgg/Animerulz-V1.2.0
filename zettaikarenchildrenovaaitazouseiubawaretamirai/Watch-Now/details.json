@@ -1,6 +1,9 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "OVA",
         "source": {
             "SUBBED": {
@@ -9,12 +12,29 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=zettai-karen-children-ova-aitazousei-ubawareta-mirai-episode-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/e5e9a756d9f24d93a7a297af04a5d69d8c0b2c62a01723a53d142424e73f04772415af4e36866e2291cb6410f388bce47ed010e450fee5c0233060d1e1d7eb7d8b9fd655f03f6ce7b2b0f9fde01bd60175da047f10ceb352c0c3e8ac04da9e16de96b438360382b30f7d98dbbfc5f2acc60949952602b2aaa2a24a79bbd6c081/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/01/b8/01b86bd449acd9fbaedb553a7c980b6c/01b86bd449acd9fbaedb553a7c980b6c.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/c0/c02f00c5b751bd77d512167125f00e08/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTIyNDA2"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

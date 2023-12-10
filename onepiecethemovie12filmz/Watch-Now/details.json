@@ -1,6 +1,9 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Full",
         "source": {
             "DUBBED": {
@@ -9,6 +12,15 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=one-piece-film-z-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/ed101b4f0f2492c324dac14fe8219da5cb8c7dec9adb1a93f02183bbb7046680ff04d08c2d4abbeaaa7e8d268d58b8ce003ab457413bee7c28ee4b829b1f18803616862e9a3333c16d1a14e116c893fd97d3955f9ab3a2018a4d073e40c4528583c8293a2d72f9ab6aff4d078e42ea27bc87ef4f9b497b822760210459dbb25f/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/1a/1adc611104e146a8b5d4f1802e634115/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
@@ -17,6 +29,19 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=one-piece-film-z-episode-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/85eb0ff8c3b53bc8d11e1d56d1e69c301d52d6d676568a7b8222d40c4402683aa2b14c10a79c7d4d15b9d2600336eef2cf58c872512839fd78f8496f3ff00cf0ffff85abb00ac5eb80058bcdf8f52cab399fb6aab6722ce1be3b8cfecb4d3153562c12142ffaf22394c54846f348fa4ee9a8f224efe6e5d3a67d45c4e5aa6dee/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/f4/b6/f4b64d6ee90fc9ae91c5bfcc4f8d3029/f4b64d6ee90fc9ae91c5bfcc4f8d3029.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/1a/1adc611104e146a8b5d4f1802e634115/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
@@ -24,6 +49,10 @@
         "downloadLink": {
             "DUBBED": "MTQ4MDk5",
             "SUBBED": "NDA1NjE="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

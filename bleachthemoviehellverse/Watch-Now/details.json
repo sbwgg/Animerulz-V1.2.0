@@ -1,20 +1,38 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=bleach-movie-4-the-hell-verse-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/fddbf901b0c192d522a35b2a0067bd58abb9f075c1fe3879c90b34f6fe5d6d766798d8f15a599c809a6a2dfc431b673f5bae3cbfb5599e181e46768ec3cf0c9eeb53bdcd8a97b7d4d5bcf4a3e8057c6b82987352cc967021c2b17574da14671e88f25000ae2905ca1d7d9b6bc2a2c0c3370b4d4a3cc0b0fcd030f19342b43977/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/dd/dd9d85ac1022e79454a110d5458c7948/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/2a0d0e72f056b76a86b90aa6c2a9ea6d8b17567195392a44e860579e47b89f33dca2a639b531a4ba97cbd8565fc23fe5c9a8cbfe3312d31a11e4965f5d1af707bf4a31c9281e885f531fb43ec3ef5c05c5ef565b8fd73546fccd64ad0cae836ee236f0ba4710f5f0782b479472aa8e6deea5c1aab5c022097ac787101b806748/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/20/47/20472dd5b45a520a4fd700fa897dfb19/20472dd5b45a520a4fd700fa897dfb19.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/2a0d0e72f056b76a86b90aa6c2a9ea6d8b17567195392a44e860579e47b89f33dca2a639b531a4ba97cbd8565fc23fe5c9a8cbfe3312d31a11e4965f5d1af707bf4a31c9281e885f531fb43ec3ef5c05c5ef565b8fd73546fccd64ad0cae836ee236f0ba4710f5f0782b479472aa8e6dbc1b1228520cdf8864cda427a2f093b0/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/20/47/20472dd5b45a520a4fd700fa897dfb19/20472dd5b45a520a4fd700fa897dfb19.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/dd/dd9d85ac1022e79454a110d5458c7948/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www009.vipanicdn.net/streamhls/80d88c548b1d28f9ceba0f12948e2494/ep.1.1677601403.m3u8"
@@ -27,6 +45,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDA0NDg="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

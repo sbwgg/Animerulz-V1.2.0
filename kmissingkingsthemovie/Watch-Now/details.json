@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,34 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=k-missing-kings-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/e650516b040fbc0f9e9658a1ea198ba3822b5e3147825f6746b224cf211b48967fe16999ffb62da75f6aff70b3fb10ff0e7cbdd03c485449054603896bca095ee59899d5f8d1544828cfa4e7228a7eb4b60cb4b9884f5c89b2b4137022790d22a3c9a5e4b2826d5745956df34fbf84ccd644f8a6fa2fdc11c60bb76d1ada8b6c/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/39/b3/39b3c3bb56252a163d7dc0a0c15d2d0a/39b3c3bb56252a163d7dc0a0c15d2d0a.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/3d/3db1397a5e1b3bbcbb6ce745435e9f77/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/7094ff75cc12333c769596084bfd47d10023f52c2b4d40b96f553fb5ba1ffa447582c2f90d136e25aacee78de6aad24a6c58007dd716c4beb49ebd079becc7c90c28fb60f79483c7b6af47c67bea0e140c2f4b3d4479101b9068f6a76635dae22cffde65c6c6545c963b4abdaa8bf0ac90aca3a1ae6b91a644a3476cdcca138e/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/43/be/43be6370e2cf1575120ad01a9974721a/eng-2.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/7094ff75cc12333c769596084bfd47d10023f52c2b4d40b96f553fb5ba1ffa447582c2f90d136e25aacee78de6aad24a6c58007dd716c4beb49ebd079becc7c90c28fb60f79483c7b6af47c67bea0e140c2f4b3d4479101b9068f6a76635dae22cffde65c6c6545c963b4abdaa8bf0ac81ab26e64ef1acea78a61deae7bb13e9/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/43/be/43be6370e2cf1575120ad01a9974721a/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/3d/3db1397a5e1b3bbcbb6ce745435e9f77/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www023.vipanicdn.net/streamhls/3480058fc6de97cbd1ed107a5a3a5715/ep.1.1677697558.m3u8"
@@ -31,6 +53,10 @@
         "downloadLink": {
             "DUBBED": "MTA2OTY5",
             "SUBBED": "NTY0MjI="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

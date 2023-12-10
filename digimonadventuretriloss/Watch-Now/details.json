@@ -1,6 +1,9 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Full",
         "source": {
             "DUBBED": {
@@ -9,6 +12,15 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=digimon-adventure-tri-4-soushitsu-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/36c1aadae3f23043445caa5aa8a04e8192884d36542eb46703f9907c8718c677c50e7088653fa8bfb8ad55ec278d601acd0ad6051f66e5dc1a5588cddbe202e0d8f87a329c84475bd6cf25d8e80bd09dabfc026ca3253a39fad5a6757ced73f83c22499f8c2594cdb0d79d87e6c5fa26c34c4fc4b51eec860fcd0fea164bdbdd/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/10/105359f08215bee63abfe4e3c68e2e68/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
@@ -24,6 +36,10 @@
         "downloadLink": {
             "DUBBED": "MTQ2NzQ5",
             "SUBBED": "OTY2MTU="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

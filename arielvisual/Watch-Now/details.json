@@ -1,36 +1,62 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Episode 1",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/bd42fb92bff9e2cd9591e91ac272e0f532cd9c32050311933c6dbb0c3e524c7193153f4a25ccbe7875aa8418a0bc76787268a852cc77f0bbcfffbc28df86aa9b85973a965f4db64c3f326d2dfb13208da43cddcff2a83b7c39bd4be16b16fea09c4782db2532d45f6a0303abdd809c00b5c6c605367b8ecf6b4a7515e6cdfc7c/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/d1/c6/d1c6f508df309127de35b6aba2e40d59/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/d1/c6/d1c6f508df309127de35b6aba2e40d59/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/fe/fedf36853e33aa9ecb8f3c404c9d8c68/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 1567,
+            "end": 1661
+        }
     },
     "2": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Episode 2",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/5335791d4aeea215053d34fc9f3cb902f3686c95b2e86a8e44713232465df3c4cd66d22066959f23a73ab3a7eb738c09874e3054b890798b21564534ef4963834d3c77c55ecba63d625fe1a4649e7a68b8bb65c36c954645aa23dce9334f3ad5df57f40c37ef670d356c9ef8247df9fab13b875d8fde9a28bca10985ff583077/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/d4/7a/d47a6d1d783ace34c61206f22286f003/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/d4/7a/d47a6d1d783ace34c61206f22286f003/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/9a/9a844c1241729d4c301bda6362123ebb/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 1490,
+            "end": 1588
+        }
     }
 }

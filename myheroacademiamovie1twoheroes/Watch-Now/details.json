@@ -1,6 +1,9 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Full",
         "source": {
             "DUBBED": {
@@ -9,6 +12,15 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=boku-no-hero-academia-the-movie-futari-no-hero-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/9ed59f902ec39241f68c4374a5fbae6971766436e450fc76066b3b613188c1b8efcd032b5144590c44268d736f35ab8bfaabef9e19847405a820e79b062359b223c0c55b7ce6cedf6f83e92f146cb2f757450b0f08fb3972f8752ad01e779029406751d25a1bb50ce2f093f28ceb6d9d47ecdd4b17fb77a945e54f6ff542f350/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/7f/7f01338a32dd3aa4a0bb1dbc3bcd45e2/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
@@ -17,6 +29,19 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=boku-no-hero-academia-the-movie-futari-no-hero-episode-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/370cb3183f24197813d3e2588a59cb86e75072fdd44037e9bf9fa8902ffcb500932c5d169a08ff9d86e12b4121bb178891125145b2a0ee14a25f8f050a192e9511bd5826c9c9909da30a5e24a5f19cb02e9f11f833f865e66f61ed548ad134bc45e5b4a20c9fa6209c7e32cab2d08c7d74ca9b8b70437533b80a77771468809c/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/8b/cf/8bcf516d671e3d70fb472ea0b61eabc1/eng-3.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/7f/7f01338a32dd3aa4a0bb1dbc3bcd45e2/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
@@ -24,6 +49,10 @@
         "downloadLink": {
             "DUBBED": "MTE1MzMz",
             "SUBBED": "MTEzMzQz"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

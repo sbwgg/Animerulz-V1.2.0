@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "OVA",
         "source": {
@@ -12,12 +12,30 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=appleseed-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/e92e6c7b942c8b8f2d9e0232e0f4de5516b9b5b1bd14f26eadb0b8b64dacf14daa4607b357e20dd40377bfdae4e1aec1f3e096c6814dbd9ee52e646917418a45454d1f9deea48e510fcb03a5ab9967f68516fc2f4d5024793266ba093a35075cb9b3fcfb90804c0382e141bc0b54b749/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/b9/b9cdeb0c75e974a18f9c8bfe389a2457/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/9bfc7c5d792d3db3e8666cf13d89f16b9c346c0d1027d9fc93c3e51811a765d89f6c1655c9821d5a6c412fc3310ca3b0c282bbbf912b92321978313150ddd5a20ee89eec4139c0eb25ab79d20a8086a72b9acb697fc991f3f88a9721ce0f540598f07065be0d02272faaa8aacd8013af/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/c4/58/c45807e5fbccd1128e89efbb2d1be41d/eng-4.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/9bfc7c5d792d3db3e8666cf13d89f16b9c346c0d1027d9fc93c3e51811a765d89f6c1655c9821d5a6c412fc3310ca3b0c282bbbf912b92321978313150ddd5a20ee89eec4139c0eb25ab79d20a8086a72b9acb697fc991f3f88a9721ce0f5405cfb802f406296e1972356406e663afbd/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/c4/58/c45807e5fbccd1128e89efbb2d1be41d/eng-4.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/b9/b9cdeb0c75e974a18f9c8bfe389a2457/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www013.vipanicdn.net/streamhls/845407b74bfb476f819fd6272737a5b6/ep.1.1677660396.m3u8"
@@ -31,6 +49,10 @@
         "downloadLink": {
             "DUBBED": "MTA3MjA1",
             "SUBBED": "NDAzOTI="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

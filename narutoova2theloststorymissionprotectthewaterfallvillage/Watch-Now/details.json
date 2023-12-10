@@ -1,11 +1,23 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "OVA",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=naruto-takigakure-no-shitou-ore-ga-eiyuu-dattebayo-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/49a62c9eab2cadf067e12c91ad7a72108e0df34b123f2053b5a95ffb51a902f9696f4caa94471e4afb100df9921cfe03eb5e352ce7e95579ad3bf9a657f3dbabf636cf8b78013c1b527932b5027aec313370689d44a23dcc3889c9e503660d094154be1e20610198256cb0281ba73b352bb3b5a19136a8789ccfdfe7f2e20cfd/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/71/713314f5697e05034afa05bf9bf77b3b/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
@@ -14,12 +26,29 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=naruto-takigakure-no-shitou-ore-ga-eiyuu-dattebayo-episode-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/1276cde8fc12f23cc34eb6ffa010b6fd1c98118e354580369cf64b3a725f55f6e6b4fd95d71312808de32c83f56a4ed41cef14d4fd02d8044ded63e40826e308f7c09387824c58e0f1f6aba8d71afc4b25c0d6749896a98a7ce2248c7b1621ca96f2d7c9100fd4944b867752be4a4a4c7a88bbb5cf596afaddfc38b228aa9aee/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/ee/bd/eebd9b09933d814993630bb571914237/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/71/713314f5697e05034afa05bf9bf77b3b/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": true,
         "downloadLink": {
             "SUBBED": "MTIyNjMz"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

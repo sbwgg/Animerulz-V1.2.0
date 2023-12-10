@@ -1,20 +1,38 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=violence-jack-hells-wind-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/65a1414a9e77b3616034e03b0e9ef41540e64cfebfae6502029e6b567c1a53538410cda1ea7e1430d169b81d764b47b5a9de506ad1689a70368f69cf649ebf6c4d9bbf9d25c59c5824e5155d274d3a13f73a4e561a8f2778c58e0178e93261f0271d0ed1ec4170e2c0833c8b7ad779c4abff01c7e51e2bfb44a3e5fa5bbd34bc/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/21/2122cccae523fc335a601dbfb20d1350/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/fededed6fe9e2f187922bb151d9f99903d3ebeb6d508c4290e4e5856fbf075c8dc96abcbe11b1d7ba52cc165b20b1723cc05a475ceed86769b3cefaa1fbbdde2f703888b2306eba1acad052739614c26a0fe8285ab492dc425f167a86599685b7da518dc5a86ab2c3b460ec444139aaa2f284353c8cbcb33d7471aa94c86aada/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/11/21/11217fa1325d06c601e33266fd4738fe/11217fa1325d06c601e33266fd4738fe.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/11/21/11217fa1325d06c601e33266fd4738fe/11217fa1325d06c601e33266fd4738fe.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/21/2122cccae523fc335a601dbfb20d1350/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www020.vipanicdn.net/streamhls/0e4d979085cc8da4a9f8954cdb919353/ep.1.1677660659.m3u8"
@@ -27,6 +45,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDAzNjk="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

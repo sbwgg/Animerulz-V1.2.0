@@ -1,19 +1,56 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/ec062b6e8fc1997721aeb9a61f1ad1685e81b47e19cd8fcb578316d2f2826e98291f10e9a540a564e43280ecb6e022511f2ac8de897af3ac5208f78e4ff6ff83be735848fd0f6403848d913416210456eee318c05e1543dbe06970c9463c31a9b3324cfbc70b2d86abc2486739817654bdbd6e0afdbcb91cc333c29c86a95fac/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/5f/05/5f05fc4fe90192ef735d7d99f3c80631/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/5f/05/5f05fc4fe90192ef735d7d99f3c80631/chi-7.vtt",
+                            "lang": "Chinese"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/5f/05/5f05fc4fe90192ef735d7d99f3c80631/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/5f/05/5f05fc4fe90192ef735d7d99f3c80631/fre-8.vtt",
+                            "lang": "French"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/5f/05/5f05fc4fe90192ef735d7d99f3c80631/ger-5.vtt",
+                            "lang": "German"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/5f/05/5f05fc4fe90192ef735d7d99f3c80631/ind-3.vtt",
+                            "lang": "Indonesian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/5f/05/5f05fc4fe90192ef735d7d99f3c80631/tha-6.vtt",
+                            "lang": "Thai"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/5f/05/5f05fc4fe90192ef735d7d99f3c80631/vie-4.vtt",
+                            "lang": "Vietnamese"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/7c/7c84144d4b8ea65fa82d86e0d76a1a30/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
     }
 }

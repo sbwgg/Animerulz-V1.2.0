@@ -1,12 +1,33 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Full",
         "source": {
-            "DUBBED": {},
+            "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/f7af513c49e5ea23827c0a239949f3410a33abdc8cc4983ec8a4a44abf62eb8e78116f46dab962cd1bfc3e69676cac4cad4055c1667dbf954946f0b996ff882755908442cdc0b6e975e14b84ef526086c5454240a1345a3797f098658c5501d8fffe3f1fe158102f120fdbc48d5cf27cdebcc45479b1608a6399cf5bff50a443/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/9a/04/9a04d1add750ab1f63bb306972fcc27e/9a04d1add750ab1f63bb306972fcc27e.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/10/10af2326c8a84ba45e64109fd6b0c9de/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
+                }
+            },
             "SUBBED": {}
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
     }
 }

@@ -1,15 +1,24 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/a7e3d4e41a7b38c7d6499d72ab184266bffcfc655492dc1e4d3d3a3e71e40be573e3e24478903355789d4798f19ddaa4131f8bc2991691aa98133c9920953da5aad10a502663001315ddb99d6692c280bb86539853d4db8c7763c6a2d4b9f4ee73c667022884162ca137678f75c653bedf904406839580c14547000f1eb29f23/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/43/35/43351b69f528b4320ad67e8d87137613/43351b69f528b4320ad67e8d87137613.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/43/35/43351b69f528b4320ad67e8d87137613/43351b69f528b4320ad67e8d87137613.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/f5/f5de825553694bee988ee8616dde0309/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www047.vipanicdn.net/streamhls/f6bc86c8769889ede1b48cfab2be7049/ep.1.1677859260.m3u8"
@@ -22,6 +31,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTUxOTM2"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

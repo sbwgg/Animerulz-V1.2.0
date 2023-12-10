@@ -1,6 +1,9 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Full",
         "source": {
             "DUBBED": {
@@ -9,6 +12,15 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=digimon-adventure-tri-2-ketsui-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/7edde2b8ce7aa34234e2dc8e8afe7761372365523cc22fbfdde76cc7c12a3fcfa37bd49b1bfb545d6d1c4a9fbb737090b8b9c0433ca214068f5a43e1fd598d1ea44b797f6c1899ccf3848078fc53a10908a6bc1a7b05f76196b03a79bbabb91a5951348a86380e49c0301fa9a86b705fb5ec06730c0e2c9e3bc661c3c52334d5/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/c6/c62ff3ae89bfcbbf154687e76a2a7c7f/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
@@ -24,6 +36,10 @@
         "downloadLink": {
             "DUBBED": "MTQ2NzQ3",
             "SUBBED": "NzExMjg="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,30 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=yu-yu-hakusho-the-golden-seal-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/6cd191d22bed81439c7ee4f27dca00339387623f98cfc92d04b931e7208df506a125f05ae41a571e7721a7274aa71b2354c1d2d8d117b63e5f8bf42e531840bb4a120c0eaa662b83488ff6730aea6c50db875ef0121f7a17c6696865be896c9d9bf0deac7406c0972f3addddf2e1dd7e92262fb2b73abee736188b4a2aa0e359/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/cc/cc1f45c61ddfbcc1ee1605bd9860531d/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/4a1280bc7f0a8a422d5cdb18bb8d3627f4cdb46d4df5b971d3c26ea73a8c99ba6ac135b18adc2858bd9459044767adae442bb7157002ed361995f59c48ff8cfcb563ed67dae3276d85543d5daa735ba96f60fe6cfe970208ce5c6375dd619a5eec40a32608cdbe562db4efa8e9a04f6f690a39bf02ecf492b8f78b18aed35594/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/b4/e2/b4e2d09f2bada1106534bc37355eb463/eng-3.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/b4/e2/b4e2d09f2bada1106534bc37355eb463/eng-3.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/cc/cc1f45c61ddfbcc1ee1605bd9860531d/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www008.vipanicdn.net/streamhls/d7912d5ae0c2a51e606dc61e58d55167/ep.1.1677665043.m3u8"
@@ -31,6 +49,10 @@
         "downloadLink": {
             "DUBBED": "Nzk4NTE=",
             "SUBBED": "NDA3NDc="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

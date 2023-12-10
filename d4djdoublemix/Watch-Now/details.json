@@ -1,15 +1,24 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "TV Special 1",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/130e8a2cd6c3ee19ed70487f0a938349bfea236cd7c323a05684fdc27744a736f8c601788b043b56a9ac01a40233faadb31d7fb3d1d665cacfcce2d80195842465b2610b3703c4fba5c0d131154537760a9f4b9af224adb47f99aad772685084a18fbfc1ed73b807342d7f7ed23eab57624129365ed116a1f120d6b54c865a2a/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/0d/f2/0df2194b887cb5420c044a725ae288db/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/0d/f2/0df2194b887cb5420c044a725ae288db/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/ab/ab2992b335b86aa7f387b71dff31c105/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www043.vipanicdn.net/streamhls/f6c5c4e604e1b4cac07fda91661c362c/ep.1.1677838255.m3u8"
@@ -22,6 +31,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTkxMjMy"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

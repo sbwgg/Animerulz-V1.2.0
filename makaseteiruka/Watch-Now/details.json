@@ -1,12 +1,47 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Full",
         "source": {
-            "DUBBED": {},
-            "SUBBED": {}
+            "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/5ea4a6c1da1a64d597891e8a87f5650ba5a47a3006d1f32f4991b23293dfdf0e1bfe4572f2b63dda41e3cc96ac51fc3addb42a3e22eabf5f9cd8b1aed026084101613e7e24a338732d69b98acf6b09bcdabcc8f462ae7b884d1341e2a2d1b0de4cd187e594a2f18e00a24065be2d523c07a9c7b5c74d139580f7c198ac8254ba/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/39/f1/39f1ce68f47a224f904254c1842468b4/39f1ce68f47a224f904254c1842468b4.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/27/27c4e6d60ca8746c9273440f385d9fd3/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
+                }
+            },
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/9097b1c4d996f160f57f77b8a4aada15806f1d8a0704bf7ac03eb811e4986ae3d415bfa0bf4cdd9159282e6bfebefe1563f90c8a1c73c521ddf18e8c24bd264b80d4b8fe17f081e653e0c6cca2adf08eaedb1762a1105b5def26ee6888b0fe6958dc658e5cc775202f604e45703e9b91eb3bf6cc1dd859ee6548f3efe59ea417/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/ca/30/ca307d8c15180f9dc562a56e2e6909d8/ca307d8c15180f9dc562a56e2e6909d8.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/27/27c4e6d60ca8746c9273440f385d9fd3/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
+                }
+            }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
     }
 }

@@ -1,20 +1,38 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Episode 1",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=maken-ki-ova--episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/3d311b2bbc5afc2952e5d5c9f85b4891029a2c8984e0421b410d191b7e730581549bd395343165a974ceaa53414f27d3f2f246c00f3bd7bdb298dce88aa1b97fba515b8151ecbfb603f42ce3ff3792cc2a09c9aaca0d098d1e5f7bc17ad886201847c3892f71eaae382056418d5d5d75030406664de2f5398646dde3d2829eec/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/d9/d9176ba483e86e58e1138a982315ee8f/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/7b0b644f53b491e50fe2bab7ab3afab9c0b8128862603528a671421cf2b8437a5a63b6b54f0d436d0d5443e8e769fb595f1c1325905ef6ed9332a2b0b552f47ef53df179b6b76bb6b4e21f3adabf79f41fe8d129ddfda4f2f378dbcf786901ba13fded0d28c8e73e04a6f5e71589e63c45c81cba33ab23ffe1e2ba454294843a/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/07/a3/07a3e0ae5b2697a4366ab1528bd39418/07a3e0ae5b2697a4366ab1528bd39418.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/07/a3/07a3e0ae5b2697a4366ab1528bd39418/07a3e0ae5b2697a4366ab1528bd39418.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/d9/d9176ba483e86e58e1138a982315ee8f/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www018.vipanicdn.net/streamhls/e4ed768400b369321bd053c71c12081b/ep.1.1677623027.m3u8"
@@ -27,24 +45,46 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MjUxODc="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     },
     "2": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Episode 2",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=maken-ki-ova--episode-dub-2"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/0bfd24b5da3f72352ff6108d626ccf9597dd4c33d07e72999f787ce19b1138266a9b70b4c54f19191739cf06a4fe0fd1dc2f3b1490ae547bf61ae1bc10000ad1a34b2b14645a5fefe913d2a92a1e6605dee7eecd4694b7582f6bee6128074fa879b3c32809304c443fc117eebd94ea0260ee35be8b486125713e6bbe5797db53/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/51/51ae5d4c4d325e54a014fe5f01e30f53/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/8e4b719a82cf0ad3ac0c2b7b59027c2b315de64d5ded1ae79df7f241c64aba6ad5bc092f9181a84d2995d7a3202df4a98482527d411321520453ab02743d4a91c3f3135cf3d8ba8bf75fa6ff69b6442f1f93ed873f69b4529a3d2713407221da2313832619b0eb03dfc443559bd0d1575eb58532434e2b902cc0c90e84a77d1e/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/f1/3e/f13ef98dc4bcf12022b94be600323b86/f13ef98dc4bcf12022b94be600323b86.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/f1/3e/f13ef98dc4bcf12022b94be600323b86/f13ef98dc4bcf12022b94be600323b86.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/51/51ae5d4c4d325e54a014fe5f01e30f53/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www027.vipanicdn.net/streamhls/e4ed768400b369321bd053c71c12081b/ep.2.1677665680.m3u8"
@@ -57,6 +97,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MjUxOTY="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

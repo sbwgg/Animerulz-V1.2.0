@@ -1,20 +1,38 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=toki-wo-kakeru-shoujo-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/77b4b1f67b49988f79d003659c8aa720707030ce050c0786447334aee392c8dc8741c4fd16c6c0ba6944afe72baf8265d47687f34035213a5ee9aaafb3e02fc140cb868c496e3bb81066faa6f3d855f8d9667a9acab0827eee37191d47193ec1e28f11a77ac88aa06f2921b388f3f7d20cd920a079185c5cf0e977c444b71ca9/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/f7/f77ce7f646e30ff9be5d8203d1608768/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/5fd916951407683be1d2e8864b634209e03b83a6960f292a7a0396b6e2395ebb8814e57781986efd3474d5b49c76f06af84efefb360592cf07d95acac8ef42dc2c056c3d83e5713382098f9ce6cb14681a7057a2477304f6d02e711c9e4d3b7aa31d587fee8fbfe36bbf1d660dfe6677611b7efabae3f1ee05d8739b56fcebe5/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/50/4c/504c36e3833ace471f60dd1727235d82/eng-5.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/5fd916951407683be1d2e8864b634209e03b83a6960f292a7a0396b6e2395ebb8814e57781986efd3474d5b49c76f06af84efefb360592cf07d95acac8ef42dc2c056c3d83e5713382098f9ce6cb14681a7057a2477304f6d02e711c9e4d3b7aa31d587fee8fbfe36bbf1d660dfe6677af0846cee099c0cb51bc5b42be6218c5/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/50/4c/504c36e3833ace471f60dd1727235d82/eng-5.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/f7/f77ce7f646e30ff9be5d8203d1608768/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www011.vipanicdn.net/streamhls/a0d816f7dcd502b7341157f3c8db5465/ep.1.1677664262.m3u8"
@@ -27,6 +45,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDMwMDA="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

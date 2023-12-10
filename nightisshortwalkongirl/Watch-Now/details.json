@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,34 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=yoru-wa-mijikashi-arukeyo-otome-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/c9d4866da70e2a5a65c513fbcc8b50f8e9c332ba682f874152c1fcffb9708b00be6403c8aca168bb9293d9aa2d3dfefd3b3d60371dcb23d4de3859217192023ec06ee1698c2a4d496ec73309534ef5c545f078a866cf0eb59df9e9b475b907ca5a1b6b2e7a8c428957fe88e0da21eca59278fec206509749ec5966cb4e8a9cae/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/fc/fc658ea2563d2e7192ae4f0f78090432/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/cce02fe703a278365c138b9875fe18325ab351722f09d08fc5c240393aa4adf3a55c429a861db7ea8200e47bc8d203525516e81d543945dbb791031ab5a4a0eec0a7e94a2755c6f20779ec1a0fac22fad2fc55ff5fe9e613cbb6153bb1e6dff5acecafbb0d077195e8477c27764a301cdb6d7348b934928a556303f6a7005485/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/a0/97/a097e2ad33ec7dbe3863863be389b4f7/a097e2ad33ec7dbe3863863be389b4f7.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/a0/97/a097e2ad33ec7dbe3863863be389b4f7/a097e2ad33ec7dbe3863863be389b4f7.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/2d/05/2d05d969a988cb4aad30fc3350fbe55e/fre-4.vtt",
+                            "lang": "French"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/fc/fc658ea2563d2e7192ae4f0f78090432/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www005.vipanicdn.net/streamhls/7db3902f130d26616022537abe272c32/ep.1.1677683826.m3u8"
@@ -31,6 +53,10 @@
         "downloadLink": {
             "DUBBED": "MTU4NDg2",
             "SUBBED": "MTAyMzA0"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

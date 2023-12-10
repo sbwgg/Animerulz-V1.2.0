@@ -1,6 +1,9 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Full",
         "source": {
             "DUBBED": {
@@ -9,6 +12,19 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=one-piece-movie-14-stampede-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/00b92f297836477939c418a2ca8e2598cd8254d815d9e6185154d6ba45816a92a0f4414c33d0749d2590707b921a5de80339ad6d49a69f88b750604c329bc0c5cdcea780f8e2d27e21bf3a1ba0dbae8d3ca8643e815c3b8acf85f6ed44715d1d89ea3a07ae98fd51d13c0bac8ec19a65691b8b601317e32fb12d106d36550500/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/bf/93/bf933141b04debe84e0318274db94400/bf933141b04debe84e0318274db94400.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/51/51a2fe6f5fcb380afac915c24669f9b0/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
@@ -24,6 +40,10 @@
         "downloadLink": {
             "DUBBED": "MTYzNjUx",
             "SUBBED": "MTQwNDY4"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

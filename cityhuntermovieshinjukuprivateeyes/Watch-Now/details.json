@@ -1,6 +1,9 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Full",
         "source": {
             "DUBBED": {
@@ -9,6 +12,15 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=city-hunter-movie-shinjuku-private-eyes-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/4a774fbcf4b788dc542564d91326e63307ce27b8b6ff1fc8a71462030d3068c6f1a6c1f5095f6f3f11d27a86ab9c0f9cfb6d490b8a07ae9ca4d6decc25f3f710d4cd9b9b0b851ed03c752c6d2514afbf8350410c6063b6a7010107b97b635f4866e7c8e29b3ce69e285399a0c0728b7ace5b689ff7e6348a3dce32c6cb007d71/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/3e/3e0487bd0caa81c4d32295d66cbad7d9/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
@@ -24,6 +36,10 @@
         "downloadLink": {
             "DUBBED": "MTQwMzQ3",
             "SUBBED": "MTQwNDUz"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

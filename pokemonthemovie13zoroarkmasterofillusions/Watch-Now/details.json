@@ -1,20 +1,50 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=pokemon-movie-13-genei-no-hasha-zoroark-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/1fcd9cf66f7b12f1388eb24fe8b8efabdd746db740dd65a7d1b3dcf13e2feb80d41738646d0bff3d8d7db459f0a4e5a632a529911a67021effd70dd321ca4e1eb04a75b52efadad2f3c735435a29bc9e397f1ddc257307435fafe548eccdbd28d53a984b3d381fed32854ce31d3321e90b23e6078d9ea54c810fe606926e0eb2/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/d1/d14de616610110d6133f8fbee0aaae55/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/78b2844e3b2ec3843005380bee7f3db2e2d44cde1fb5e65c642b9b62eab1acccb51b86e9a7fcb8293697deb9c967f4cdf4271a99c9be27213e8deb8f564f3d1888d42f8088c123e48a50d0aed0579aa10f4924d8baa1eec759f7d89e5bcc4fbd2cf7c5dd54043af7ad03301763d40ba9704a8f32c860b47057244aa299c2d6c4/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/21/1a/211a008c93944e40d442e7b8e1988d67/eng-11.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/78b2844e3b2ec3843005380bee7f3db2e2d44cde1fb5e65c642b9b62eab1acccb51b86e9a7fcb8293697deb9c967f4cdf4271a99c9be27213e8deb8f564f3d1888d42f8088c123e48a50d0aed0579aa10f4924d8baa1eec759f7d89e5bcc4fbd2cf7c5dd54043af7ad03301763d40ba9dbf3e2724b199243ebfcd93c02cb4bb1/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/21/1a/211a008c93944e40d442e7b8e1988d67/eng-11.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/21/1a/211a008c93944e40d442e7b8e1988d67/por-8.vtt",
+                            "lang": "Portuguese - Portuguese (Brasil)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/21/1a/211a008c93944e40d442e7b8e1988d67/spa-10.vtt",
+                            "lang": "Spanish"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/21/1a/211a008c93944e40d442e7b8e1988d67/spa-9.vtt",
+                            "lang": "Spanish - Castilian"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/d1/d14de616610110d6133f8fbee0aaae55/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www030.vipanicdn.net/streamhls/db5408f60d25d089637fbb9b24643cbc/ep.1.1677660200.m3u8"
@@ -27,6 +57,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDA1Mjk="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

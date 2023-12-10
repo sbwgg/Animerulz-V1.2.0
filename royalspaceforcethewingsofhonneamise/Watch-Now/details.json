@@ -1,20 +1,38 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=the-wings-of-honneamise-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/9ed9a02e4ffb43cc7341cdf35fe7e5fc672c2d4b3604c2d1cc9dc436cd8ecea93511f1c9bcbb90ba0fdfb156c56fa5dcfe5139a80922e2fa2d79ad9cade66a3609b5b3e626f3e01e7c00e33a576c01be707061d2015501145d06d87752d13bc716fc07af8c4492fd0c0aa7d558ea589e17295619d78b75d2cbeea2e475e69cc4/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/a5/a53a6617e8eb924db9bf2fd27427f465/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/ec4420f5f83bb2979db33b7a9e52b18d0a0964fcd4e395f7074800e94ebc66c5da86d05d9ffee525b056e66f34dbbab06a45db3360524badeae28b33b7bdf6a43203ce313b42c9426b661740b0bf8749d9cd1bc3b403b4d5e0161fbb1c00626ef9f688b4331a44710144ab6e5af5b54d6dcd46311486f8899c485fa45341b26a/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/3a/75/3a7566d8662f0bcf62cac63d63b85cb1/3a7566d8662f0bcf62cac63d63b85cb1.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/3a/75/3a7566d8662f0bcf62cac63d63b85cb1/3a7566d8662f0bcf62cac63d63b85cb1.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/a5/a53a6617e8eb924db9bf2fd27427f465/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www030.vipanicdn.net/streamhls/6dd9a80a7280227d7e324a6876ab96e5/ep.1.1677660468.m3u8"
@@ -27,6 +45,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDA3OTk="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

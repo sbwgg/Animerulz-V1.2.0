@@ -1,20 +1,38 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Special: Sunny Day",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=fate-stay-night-unlimited-blade-works-tv-2nd-season---sunny--episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/ca48a9eb07a6e1f0a6bb8d888854f00491ffe3865cbed0831841495ebc7e71cbc2e2a1dc2eb65b9bf4989ed07443794214971fb25a405eeec84a280e1b20f2318506c70ffa493213fd993f79695ac5728deb37a9a4c3a73ca28684329032f07ee69302382f9e462f2ce9dc70693dba50853e461663bfc5325b0270eb27709a3d/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/a2/a2f243a1e23c6e375460a253e7319258/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/fe3fdeef96b4ecdb6eb259d6a76ef8477be2d060026b6944096ccfd33501acd9618b0f169ff90f6b7eb8d12a08191181d99a318aed8682c37bf89d6af9104068a87cb00b758c07495592729f5f4d550f458150eefb63c41f3b2958a1e7999209922c5dd827f4754ac22bbbccc7e9e85e6ecacf82476404e73a895fb94e4c2ad0/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/94/26/9426914160fc05d2c5b1b2a6c6d6c41f/9426914160fc05d2c5b1b2a6c6d6c41f.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/94/26/9426914160fc05d2c5b1b2a6c6d6c41f/9426914160fc05d2c5b1b2a6c6d6c41f.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/a2/a2f243a1e23c6e375460a253e7319258/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www019.vipanicdn.net/streamhls/beed40460c3af252d3f046d5d75f44fa/ep.1.1677665952.m3u8"
@@ -27,6 +45,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NjkyODg="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

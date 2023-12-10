@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "The Laughing Man (OVA)",
         "source": {
@@ -12,12 +12,30 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=ghost-in-the-shell-stand-alone-complex-the-laughing-man-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/347cfeb7654f3e8891f57e2714bf67da8011591bc4b56790110ac0946e045252bcc1b0c5ee6965defec1efab26dc4e896787ca05d9b527a9979c7ed7b3d9910c4ee2ff76890ee24ba447350328e7a51e2872fec8411a6bf67b60b3ac5e67cc241651d1a2320375dbd6f2692253c5be41fc127819247f8ad60851a1e043f30985/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/a1/a1280e03e0d236cd989a1764e6b6da01/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/df6495cc6a83edfc7c30fc1749b77539d0f338e0aa1d60dc5509effb0ff40bcbfd7262aa6ef80c0ebdbf90d754c57dca948c02292d9b69220b8e189464b18bf354713189dec0144414edb6cae4303daebb333c0fcb940643f70296bc0d9a47c9bee30af0e56211a1c8034cb6d0ef2379201559ae37aa98a3c3dc34bf14ad9196/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/12/3c/123c614303db50a48c3c0ed988505493/eng-3.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/df6495cc6a83edfc7c30fc1749b77539d0f338e0aa1d60dc5509effb0ff40bcbfd7262aa6ef80c0ebdbf90d754c57dca948c02292d9b69220b8e189464b18bf354713189dec0144414edb6cae4303daebb333c0fcb940643f70296bc0d9a47c9bee30af0e56211a1c8034cb6d0ef2379f57366e7017542773e44a9e8af712b64/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/12/3c/123c614303db50a48c3c0ed988505493/eng-3.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/a1/a1280e03e0d236cd989a1764e6b6da01/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www035.vipanicdn.net/streamhls/da0ea52663af767c81f9b2348bdcdabb/ep.1.1677828553.m3u8"
@@ -31,6 +49,10 @@
         "downloadLink": {
             "DUBBED": "MTcxMjAz",
             "SUBBED": "MTcxMjA0"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

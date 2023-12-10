@@ -1,20 +1,38 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=lupin-iii-blood-seal-eternal-mermaid-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/5155b9cee611dbc697c12625a5fcd11b5818a58aece5ad98f1ccc54042240311acd1a0439c392f582f5a0b6f4b02cb6b35c36fbb98263c70acc242fbf48398e741f39898251b2a307faa7c963434f1f14a83ffe1c8b51e4921893719fd52eb06734deab367343c5937a539b851e12d3e6cf56216c7c4ba3172325810d1697b2a/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/00/009319576f8951a84debac6e1ea85e53/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/f6c75e0734084a54e6c0545daacd86fc6d81a750c05556b3a5f21c570be1b9af86107195f461cbe1c8182f911bcb3f88691590f2f574e818c8a645f4bde05685432755d1ff26d4a3764024bd638c8f3f4b138e4838eaabb93576852aca82a9f227bdedcfda97c9c7e2983eec69563a2b417c6de83e84ef74552929a8706848d1/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/51/56/5156c87df241179371a88a4a98a7e6d9/5156c87df241179371a88a4a98a7e6d9.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/f6c75e0734084a54e6c0545daacd86fc6d81a750c05556b3a5f21c570be1b9af86107195f461cbe1c8182f911bcb3f88691590f2f574e818c8a645f4bde05685432755d1ff26d4a3764024bd638c8f3f4b138e4838eaabb93576852aca82a9f227bdedcfda97c9c7e2983eec69563a2b7385df86c2762b21d7c07965b0d6b95b/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/51/56/5156c87df241179371a88a4a98a7e6d9/5156c87df241179371a88a4a98a7e6d9.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/00/009319576f8951a84debac6e1ea85e53/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www009.vipanicdn.net/streamhls/e5265b7364f3d867f00ad1a92dd2489a/ep.1.1677664829.m3u8"
@@ -27,6 +45,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDA2Mjg="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

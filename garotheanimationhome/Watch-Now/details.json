@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "OVA",
         "source": {
@@ -12,12 +12,30 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=garo-honoo-no-kokuin-home-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/b898f1b1af6e323c2d9c3d6e7f43f99f9228b334719788fc5bdf23de8569505711d0a7f49917f090c014d9474e5660d6e889da333843a6dfbac4b06b201d472e04f48de4eae6e4591f71f8b03e8344c7aef5e90cdecc4d863464e4e292d665ca79699a813532da7c2dac402398834979cbb810745a9e441f2275aa2ee4127fb0/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/d4/d4394da46fe824c070736b6b2f115413/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/5d075ecd0bcbd608c4357f2f855ad1e6f8e4c3cbc6aff18bfd97382a7d78faabc7dcf1e5a8e28e7165c0e658da15e7760e0044fc2c86c056290f59ba40d99b1c45afd30ccbae5760d2a7dd2ca340c5dea88f19efe14357d24d90a69e34a4689de30b6b3e574d3ccee389e52c3e29cb3bd59a12ccc9074cc31296bb630db86f51/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/9b/7e/9b7e09012770f19ff6b74c2fed3a59f3/9b7e09012770f19ff6b74c2fed3a59f3.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/5d075ecd0bcbd608c4357f2f855ad1e6f8e4c3cbc6aff18bfd97382a7d78faabc7dcf1e5a8e28e7165c0e658da15e7760e0044fc2c86c056290f59ba40d99b1c45afd30ccbae5760d2a7dd2ca340c5dea88f19efe14357d24d90a69e34a4689de30b6b3e574d3ccee389e52c3e29cb3b474ac601166268b96486171ec236a30a/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/9b/7e/9b7e09012770f19ff6b74c2fed3a59f3/9b7e09012770f19ff6b74c2fed3a59f3.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/d4/d4394da46fe824c070736b6b2f115413/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www039.vipanicdn.net/streamhls/a61f05cfe62c2b619575b7a02b7b73cd/ep.1.1677829497.m3u8"
@@ -31,6 +49,10 @@
         "downloadLink": {
             "DUBBED": "MTY2NDA5",
             "SUBBED": "MTY2NDA4"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

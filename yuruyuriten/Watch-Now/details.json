@@ -1,15 +1,24 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "OVA",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/ca36ccd2d03e95ccf048122f702da860d691f1bc452f86e69bab02c8311d16fa17e37bafbf55980c897f2596f9705f7d10d2580e07b0fb52723e001cb1827333b1033a960504773021224e2310afe151a2b5db9e994cf1fdc177696d02a72b82dcf9bd4fdf42299a41150bbb9e5b33c6abd0323bbea06134e8f9df0e4fb9e442/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/59/93/5993357a7ac2e4f69be9cccb75f774b3/5993357a7ac2e4f69be9cccb75f774b3.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/59/93/5993357a7ac2e4f69be9cccb75f774b3/5993357a7ac2e4f69be9cccb75f774b3.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/7e/7eeab21c0a2f82758ef690fef0158a33/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www013.vipanicdn.net/streamhls/2e3916b25ec2e3bc1be4b603b847b7f1/ep.1.1677648888.m3u8"
@@ -22,6 +31,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MzczMg=="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

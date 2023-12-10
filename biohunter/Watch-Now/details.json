@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Episode 1",
         "source": {
@@ -12,12 +12,30 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=bio-hunter-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/025bc88b8b4107ac537670a11220ab604cd0c6ef3f8f73ff6cc16639cd36582a347ecf5c2aab487e376e3e416be1527a8dd6a7b3ac508da5ce3a88dc2bd3fd5672a3acbf8ef76edf03ec8d99548d950ab2599ab63d05a2f016aad3d2288a357f6fe389c751620777669087735221556204d9d8b3c39525d9664b0d52cf54a054/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/a8/a868ed3d153453b6001a32410b3c3d5d/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/399764ea1c59ebfd7feb9ea2c7b3734cb7c41fd12d9063a2455329625a125a447b4837d1b4e99e93aea4493726a2546870ecd3969a30c2474a72f4d99a0e867a28510cdbd8e7c88d51f99077b7acd14937c438a3c13a35be6526571345a55e5c38bb9f2c936a61ab68efb918757668a7329712a93f7598b155e49809e92b3dba/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/87/fb/87fb553cb28a35ad7bc2e909c9cb9901/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/87/fb/87fb553cb28a35ad7bc2e909c9cb9901/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/a8/a868ed3d153453b6001a32410b3c3d5d/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www048.vipanicdn.net/streamhls/721ffa2be79bce679432dc3126685549/ep.1.1677855653.m3u8"
@@ -31,6 +49,10 @@
         "downloadLink": {
             "DUBBED": "MTQ0OTE4",
             "SUBBED": "MTQ0OTE3"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

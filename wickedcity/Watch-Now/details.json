@@ -1,6 +1,9 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Full",
         "source": {
             "DUBBED": {
@@ -9,6 +12,15 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=wicked-city-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/79d661db1ed798901dedcfa8eac2e63231dcbe3f9be1491766b731db68984237cd8b875229797bd816e7193dc2da8fa0776fb9c3272ec121385d679b9984230be27633e15fe65b89946033aed688f453d76bf035f9f5fead22a0fe29de7ef9ff986c54b779648ec1a210154248b434fd3d206592f9c4bc0b09beec51c5ee7301/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/f1/f13ab2d47681a7d8c00ee5db36773efd/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
@@ -17,6 +29,19 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=wicked-city-episode-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/aaa8eff7b983e984085bfd2c70e48cc4f05c40a56f96ca0bc085901d3a11a80c331dc2b930ee2433e19167b9d759dcf226269b8df2f5673f9fd63f92ca00f8586019a3e871880dabe7ff025d313e87a07aaf06e6f10ddd07c7faa504d70fc3ba7f14b0ba941976d1597286083e6e93752ae811e7026e4cd7c4bd3aefe7a8d8dc/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/f4/42/f442829c78a53277c54cd036fcc20358/f442829c78a53277c54cd036fcc20358.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/f1/f13ab2d47681a7d8c00ee5db36773efd/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
@@ -24,6 +49,10 @@
         "downloadLink": {
             "DUBBED": "OTMzNTI=",
             "SUBBED": "NDAzMzk="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

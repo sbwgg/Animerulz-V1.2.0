@@ -1,6 +1,9 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Full",
         "source": {
             "SUBBED": {
@@ -9,12 +12,29 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=one-piece-episode-of-merry-mou-hitori-no-nakama-no-monogatari-episode-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/2af4b0d59f1413f21dfcab818665f807fe2c25ff7313d22003d19539f85d6ac8ca376146b61650ad0b71bd69506260d31bcfd1a21921fb6127829892962bf7c4cec9e9c6e8aec0d423454c7ae9394f142fe27ebc376ec51812bfec21e73a66720b7a0f390754173342b78b5dcd89c425205d2911ddaa37b12a9ca28364aabed6/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/03/8d/038ddc05b244975ee9b570295a56030c/038ddc05b244975ee9b570295a56030c.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/ef/efd9d465d69f54660f2166b285166e4e/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDMzNjQ="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

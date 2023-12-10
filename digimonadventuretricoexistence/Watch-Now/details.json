@@ -1,6 +1,9 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Full",
         "source": {
             "DUBBED": {
@@ -9,6 +12,15 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=digimon-adventure-tri-5-kyousei-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/d546e8228e979f2f0f631e60c0b5fb433e27977cacd67bff802501972b82d2866025dae7584dea29175415c74f71e4f506b4925737b5f7e8e53c7027b2037496642b51b727ab783f68495bda79434d0bd380caae574cab67b2606794139f569f31c8dbd1bdef12739440155851e0bff5abbf79da37ca61e87f2930e4e1ac8f9a/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/22/2276087b090fce0ed053efbc69847ea9/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
@@ -24,6 +36,10 @@
         "downloadLink": {
             "DUBBED": "MTQ2NzUw",
             "SUBBED": "MTAxMTc3"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

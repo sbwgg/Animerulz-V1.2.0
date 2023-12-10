@@ -1,20 +1,38 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "OVA",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=k-on-live-house-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/92e7af340b86c65fb557d477ac824d370ca3d54a83c5f6b31e15675960b837cd9f3b87c90810fb8baadaad2ecd7008886627a3bbac1847208befa621b76189b86b78d1e2117fca337435c6764dd6191ecd13eede8e158eeb69b7be3372611080f894e3c7c6aba1e589b8926483fc35d3e71d5f34890227cff2b151c4b1970231/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/02/02c821e0b8a7cdfd889b672f60ab4c80/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/86fb5099432a5afae0f3891c3b65293fa1750be736f1b7b3752ad3dd7359d35d858db4c7e358126408a035fc06438a8382a400e10320f297a5187199380af8f607ed4bd4776ed1ada4c5e56341f6e8802f9501c2d01fc2e85d574cec7591f2f3fd9d88f7ff88c28d529ecb57473bcec9c2e61bc41fc24f18179e5c3202dd7885/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/86/c0/86c0ff6c515a51f3a4fc0fd42075328c/86c0ff6c515a51f3a4fc0fd42075328c.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/86/c0/86c0ff6c515a51f3a4fc0fd42075328c/86c0ff6c515a51f3a4fc0fd42075328c.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/02/02c821e0b8a7cdfd889b672f60ab4c80/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www049.vipanicdn.net/streamhls/43f5733b89e8d29bd43c4e3b4bfce8d8/ep.1.1677852432.m3u8"
@@ -27,6 +45,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTU3MTU4"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

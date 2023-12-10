@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Ghost in the Shell - Border:4 Ghost Stands Alone",
         "source": {
@@ -12,12 +12,34 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=ghost-in-the-shell-arise-border4-ghost-stands-alone-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/c1c8b3b5dd3466566a15b9943c3e71ba10d56548d9b3537056fcc0a832dea22502566219d6b6a00234e94dd93bf8086a043cbbc6df04e07ef6865548d82625bc803fa90aeba84177a37b25da938de17d0edf3840bae74ee7f437911fead344b9ca8dc8869bd6453cc50453728b0f5942096768c0d1354ba2a14abd9e07c3a93b/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/99/993b7aa19f355a519695a05c710eaaf4/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/b10f97720c9eb050e3eb097d4c92df87eee87e1fe0c3545c0ba98f93849cce18e3923e2d753e5eb9b2fa9fd254adba6e2394cb3e4b1e99c8e4837df128e397b1f86cd184400812989c6d88f51c49502d7ccabc49ca3202c059698a571436aec9a7d911c9cbda2e42cef16ea86db66551e686f12de4f4a2511e135f6fa4b7edfd/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/93/41/934185b26b84b028cc65a9716fbd2774/eng-3.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/b10f97720c9eb050e3eb097d4c92df87eee87e1fe0c3545c0ba98f93849cce18e3923e2d753e5eb9b2fa9fd254adba6e2394cb3e4b1e99c8e4837df128e397b1f86cd184400812989c6d88f51c49502d7ccabc49ca3202c059698a571436aec9a7d911c9cbda2e42cef16ea86db66551dc1ac696f8073e9300431745a2bd71fd/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/93/41/934185b26b84b028cc65a9716fbd2774/eng-3.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/93/41/934185b26b84b028cc65a9716fbd2774/eng-4.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/99/993b7aa19f355a519695a05c710eaaf4/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www018.vipanicdn.net/streamhls/980b2cd3fd826477b8e0fff1515386cd/ep.1.1677665651.m3u8"
@@ -31,6 +53,10 @@
         "downloadLink": {
             "DUBBED": "MTA3MTgw",
             "SUBBED": "NDY0ODc="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

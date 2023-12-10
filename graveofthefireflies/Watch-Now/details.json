@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,38 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=grave-of-the-fireflies-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/ed14a1cb8bdf9a59cfbab2dc7669c6318a3df2d9e75718f4d7ac1e34813259e4f339b9662bd97034abf9798c501f4aace4db09e743cef8febf0b537ac1b11b48c0f40a24e94b91d8a568cd7e57743aa3aea0205a63d613ff8b6a81ef6e0da248c6069df59f764a3b7ea713c0c7ff3038295e68347742fb7c48138effee022597/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/cd/cdb4d1dcfb4c59f1431662afe24b7287/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/f6e1ff82041297019b0cc195b83c4c297123df7e15118afaf3f2fbc0b720eba07e0fd12ddeab6d96eac31811aca088b78d4fb313de571d84932323f6f252bf529bf713612071690f22090df744cd6bcd007184426563b189549024aac1678d18e78dfcd76aefea7f56dc8f49fae1bfa2bda0d482b2f2fb31daa02909b6d28667/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/09/90/099008b9401c71106083cc61fb24fbed/eng-4.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/f6e1ff82041297019b0cc195b83c4c297123df7e15118afaf3f2fbc0b720eba07e0fd12ddeab6d96eac31811aca088b78d4fb313de571d84932323f6f252bf529bf713612071690f22090df744cd6bcd007184426563b189549024aac1678d18e78dfcd76aefea7f56dc8f49fae1bfa258cdc570471ebcacd959a3e6ea2bdb50/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/09/90/099008b9401c71106083cc61fb24fbed/eng-4.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/09/90/099008b9401c71106083cc61fb24fbed/ger-6.vtt",
+                            "lang": "German - German (Full)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/09/90/099008b9401c71106083cc61fb24fbed/ger-5.vtt",
+                            "lang": "German - German (Signs / Songs)"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/cd/cdb4d1dcfb4c59f1431662afe24b7287/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www024.vipanicdn.net/streamhls/613a0c055dedec7483574ea8af2ac5d0/ep.1.1677663598.m3u8"
@@ -31,6 +57,10 @@
         "downloadLink": {
             "DUBBED": "MTA3MTg2",
             "SUBBED": "NDA3MDM="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

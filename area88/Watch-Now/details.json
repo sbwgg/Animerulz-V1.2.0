@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Episode 1-2",
         "source": {
@@ -12,12 +12,30 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=area-88-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/6d86ff4231e549680b27920c087d5696c37ea4b7cedd88d33be44d37b0a3d6e8af2a93091c0fb32f1e2c2f333f7ebd1eab2b06d9eee497dc86a5135e6186e9cbbe672b0010d5d3f21d8c07884fd902b27a698addcb4ba2d9a2a2819f209e3cfc646472de3fc449836df1a3e20379da2f/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/05/051e8225259d686e28e607c79f5872d5/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/c304383775781295c8414422e3b3f944968776ac7caee54082392597b4c0265749029aa9c5b1ce03a2ef73a653921922d6fc4fd8c01ba65eaf5248a9fb4b2be2bdc898f631a2541599b2d3e2c5b8bf549066de95ec688212a0486b4f4775acb12f1660f5e08b13b8fca24ee4750640cb/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/05/38/0538d999219d4278940017a683a56a76/0538d999219d4278940017a683a56a76.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/05/38/0538d999219d4278940017a683a56a76/0538d999219d4278940017a683a56a76.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/05/051e8225259d686e28e607c79f5872d5/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www011.vipanicdn.net/streamhls/8c5eca31c787062215b28000f76ca18d/ep.1.1677649719.m3u8"
@@ -31,12 +49,16 @@
         "downloadLink": {
             "DUBBED": "MTE3NjMx",
             "SUBBED": "NTExMA=="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     },
     "2": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Episode 3",
         "source": {
@@ -46,12 +68,30 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=area-88-episode-dub-2"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/ac7ca8e04c239d9cb38dacdd771cd6ffcaee7244009c45ee4a9dec1dc3f1269e20156f7fada2f56ff2547da1e3eb0f35f2ff1f4b17ab1d8a24d7de2b03f675229be5c807e800fcc391f1c94d0913fb26a78f29e3844a77fe6f3fd0a5fc1c1c5106fe9927fea4634167c2523b2b8f805e/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/84/847a3571fb644cd0e4d5b16501329059/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/55e29547f0eb4f79e8f04a797993eb5048e4f5f1a3c2f6f4ca8c24847268b961cb976800b66bdfb02931b3596743a612223600ccc714172a60b16eab17832d0ff1f341b9d30c42281edafc00939387dd2bb348699f17aebe4f22b1309c2da6fd0979acd18cadc796d8c9fe676e7c2178/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/63/8c/638c1e9ac555335e78cc40c9f5ea250f/638c1e9ac555335e78cc40c9f5ea250f.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/63/8c/638c1e9ac555335e78cc40c9f5ea250f/638c1e9ac555335e78cc40c9f5ea250f.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/84/847a3571fb644cd0e4d5b16501329059/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www015.vipanicdn.net/streamhls/8c5eca31c787062215b28000f76ca18d/ep.2.1677642096.m3u8"
@@ -65,6 +105,10 @@
         "downloadLink": {
             "DUBBED": "MTE3NjMy",
             "SUBBED": "NTExNA=="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

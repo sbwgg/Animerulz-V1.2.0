@@ -1,20 +1,42 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=strike-witches-the-movie-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/dd6129b0b9a4da775ce5a5c2b29f09a370034239c92966659857296323b2272dd5532ece190cac7a856af063458c928dd8713b0b434eebf94d09e65dd74683437f16b27b5967220ab3e11958544e13ed6aadaf6975f29caa78d0f1c9add29a4664c66ffb916597810ad3c1bccce9ee84e2ac4a13589896bb5d8e17ef1fee2c12/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/96/8d/968d2f4b7ef90d065a004b00ad29daad/968d2f4b7ef90d065a004b00ad29daad.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/f1/f118052710a6a642d346e6dd1c0f5a2c/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/687e40afaa201b62802e1f459065341c4f5473ef3e3fac715943bc8bf942862b3a053f65c641ddac3f423272a7be401777a53e8ab7976f7ac5ce288c3fc4d38ed3e4ad2f0f1ab09a7d44eeeb47836f9aff34f60afc1cff5e3498876423e170c285b09c5b7556abfc515f9eef8cd0f3f4512aa32dc176b9fba57a8842678dd542/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/8c/16/8c16dac8ef61ca47062529858e423972/8c16dac8ef61ca47062529858e423972.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/8c/16/8c16dac8ef61ca47062529858e423972/8c16dac8ef61ca47062529858e423972.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/f1/f118052710a6a642d346e6dd1c0f5a2c/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www014.vipanicdn.net/streamhls/c79f02f7523807826256ddd072a2f433/ep.1.1677636196.m3u8"
@@ -27,6 +49,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDA0MjM="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

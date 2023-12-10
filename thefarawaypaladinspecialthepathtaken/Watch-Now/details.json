@@ -1,20 +1,43 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Recap Episode The Path Taken",
         "source": {
-            "DUBBED": {},
+            "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/4fa5cfbd2c045d5938722f0170b4a2c44355ad0907217ef29ea65c492fb9685b96b510ffcf76d6f13c47ec1cdaca8f5d238d4e9e1ded6234f2580c68f62a547f4f028c0b10f696a8c149e307d23d213ccac0a4bf0d775bbb18072c1e3b9e0c1a1b46d7977df01e7434e3cf4d50347ca83ba8a63954d01c731d046a68324b7375/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/b9/b9c73fc143f76cf29d685612a145b815/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
+                }
+            },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/beab535d3cba510b105eb9a5eb0c52b95094015feb06a97d4ba35425957dda31d59aad0c25928e404c9084960ea5566685d482c6e64dbdca0f23d11a8b6c859ddd756873cc03d13f6fd78e1b2262227d3e98a0932b3a8cdb992b86a3f42c1fa79e986963a984dce0ebc956d5afc6a417f7b745c61ed388d5aedf3c338c8dca8a/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/fe/af/feaf5fa802c6eab8bc5f92236435a0f0/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/fe/af/feaf5fa802c6eab8bc5f92236435a0f0/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/b9/b9c73fc143f76cf29d685612a145b815/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
     }
 }

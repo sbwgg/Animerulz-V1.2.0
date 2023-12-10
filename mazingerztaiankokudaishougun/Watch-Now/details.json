@@ -1,20 +1,46 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=mazinger-z-tai-ankoku-daishougun-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/61133ac8778aa444de619e7eba11fc0af36df20e8a3f02f465ac74d3b6926d8eb924a6b3ef92dbfc87916ff763763e25be65ea92c5d2d3e76ec8869e2a5ac417bcfcfd73f739c07cfe13fa21a68a56e587e98b125ec5323ed50aac1f5782dc05af6263f1ad59bb487376c75c2f7de080a10e4c0e2e1d668c66f508fe642d912c/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/98/984d4bea5cbdc90a3841c5430bbc1b4d/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/a1eb925c82ab48bb6a97670274cb1848e71d02a493268dcf22ec069c4ccb3643306616d0a874e253c1de83b383f59fb3378d91a9f842a0551e67b45a0bb8d745b9b1caa01e5f26085fac7e8794896c37786a7126156cf0f59ef751c8c8527817e8ba818da6535a31389e2277c989982267f0808448f683318cdd30b06ffd6734/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/de/37/de37e78010f7e2fae1518f33d77206ab/eng-8.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/a1eb925c82ab48bb6a97670274cb1848e71d02a493268dcf22ec069c4ccb3643306616d0a874e253c1de83b383f59fb3378d91a9f842a0551e67b45a0bb8d745b9b1caa01e5f26085fac7e8794896c37786a7126156cf0f59ef751c8c8527817e8ba818da6535a31389e2277c9899822d7f5c7d4c701911e3b41096fa54fe975/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/de/37/de37e78010f7e2fae1518f33d77206ab/eng-8.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/de/37/de37e78010f7e2fae1518f33d77206ab/ita-6.vtt",
+                            "lang": "Italian - Cartelli"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/de/37/de37e78010f7e2fae1518f33d77206ab/ita-7.vtt",
+                            "lang": "Italian - Italiano (dialoghi)"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/98/984d4bea5cbdc90a3841c5430bbc1b4d/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www032.vipanicdn.net/streamhls/5aaa0565f58503ea13eb5c4a3de380a9/ep.1.1677826790.m3u8"
@@ -27,6 +53,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTY0Nzgx"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

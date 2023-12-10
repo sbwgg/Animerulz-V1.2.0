@@ -1,20 +1,34 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=the-disappearance-of-haruhi-suzumiya-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/0215af3bb97b44849accee6a94ac68f9dbcd109336a0c454725bd52384146da3e71c6bde54ab224f98db70b534cdfd7121310edd67451f34de894c8fb03a1524a52d1a3322bf84f6ba8a391aa51c4819c7567287f06f81bed677d130db3c907af2253a901619c08a46c2133f5c7611c0af773b64eec6f357684bdd6cc97defe3/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/8d/8d4a9ecd5c557507105bd960ce41bd22/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/17602f9108aedfe5b26af80cc46b1eb4ab16ee0aca22977b7e11985a93c5a28d07457c0176b9a85205bdc7d73c2713b1ba98ff3f8819c40eadef6fb707d22e297c864e81c33f743150dc5345701b7ba87a0eec41f18077db37d87e4c35a9ac16078521f9b2fd3510ace68bec0a03a827f6a0274a5d36e2c53eee0ae2e55e267f/master.m3u8",
-                    "captions": "https://imgb.megaresources.co/_a_preview/8d/8d4a9ecd5c557507105bd960ce41bd22/thumbnails/sprite.vtt"
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/8d/8d4a9ecd5c557507105bd960ce41bd22/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www009.vipanicdn.net/streamhls/a3c6828239adffd62d9c65239f42daba/ep.1.1677611178.m3u8"
@@ -27,6 +41,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDA4MDg="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

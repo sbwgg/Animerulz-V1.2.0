@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,30 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=nakitai-watashi-wa-neko-wo-kaburu-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/808109a4617ec932594365307e6c1efe278bee366cf2931226e0a716d6a0a1962abfc2ed7a4f1e7380283ded43dfe932132697536308bb90d28776e11463f914d5675ad22f000308f0375c4156f6d67d16f656250521d7c2a11b1478e13fa29f18b0bda46fd39bdb1cb99feaa6a535499f698b35682ac387dc0f8928699f82b9/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/f9/f95548ada6ca886eadb2b85229d60b37/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/d74686a157f359aacdaf9d296d5c332f7592070be76c192dd7b4da7096cd6b009ed2618cf8f058e36bb399c8b12975ec4c7ca3e8ea0a0b83ecf267be1460c5b4db70639ee0ac6c1b0ef9bd5342b082b6a15f0442012784d277801fcc79a953f5decf4e014e0d933d948c85f1bd8f0c429dcfe9554593da7ca967fdb86ce25185/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/c9/29/c9295852bab093eae568fadce3608bd6/c9295852bab093eae568fadce3608bd6.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/c9/29/c9295852bab093eae568fadce3608bd6/c9295852bab093eae568fadce3608bd6.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/f9/f95548ada6ca886eadb2b85229d60b37/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www014.vipanicdn.net/streamhls/4e56d3468abfb6d5d14a397b81adf351/ep.1.1677614852.m3u8"
@@ -31,6 +49,10 @@
         "downloadLink": {
             "DUBBED": "MTQxNzQx",
             "SUBBED": "MTQxNDAz"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

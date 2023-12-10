@@ -1,15 +1,24 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Rewrite",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/7c8fea992a2db9d97037b9d16f69c0933993b2130d2232394666222550f2f697a5f00d67b4fee2d4da93462713c8e50dc6b40c3bfee80ab9207d4f1cea662902e93951bbfe0823b9435173b77c4c35f5ebe8c27cec639f17d0cfcd320a34d96d9548453becdd2c17d6abf5693b9dc507ff1c2ee60837cb70e5dca62822875f9f/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/5a/d3/5ad3220e538d65761673d44eb3cb0a8d/5ad3220e538d65761673d44eb3cb0a8d.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/5a/d3/5ad3220e538d65761673d44eb3cb0a8d/5ad3220e538d65761673d44eb3cb0a8d.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/b5/b509c2b837b80c8b424e4e874b9b3b2f/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www019.vipanicdn.net/streamhls/345d54a80d2d3ba4fb2717bcdfa0d371/ep.1.1677668277.m3u8"
@@ -22,19 +31,32 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NzQwODg="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     },
     "2": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Bring On a War",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/9b1d91d5cc24e0307991641c0ebbe7d291d1a1b894c20ca6977f461a5e0322fa42d2ad6e937d7f257d7fc9890f3aa0a9b901d71b40672a3876d11f93d45081c30755d3eb6cccc7727b80e61837a647b2cc563ce30e5464948f948788293ab3350bb47d4a97c370ae29ee1028633f7229700bb886fbe263e0f0f3fb108da64560/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/4a/e6/4ae6fdb7c383cf24ad130985cfb6b5a2/4ae6fdb7c383cf24ad130985cfb6b5a2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/4a/e6/4ae6fdb7c383cf24ad130985cfb6b5a2/4ae6fdb7c383cf24ad130985cfb6b5a2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/59/59448ebafcf20f5fc9be0f5a411224c8/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=drifters-ova-episode-2"
@@ -42,6 +64,10 @@
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
     }
 }

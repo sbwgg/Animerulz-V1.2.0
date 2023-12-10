@@ -1,15 +1,24 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "The Lullaby of the Watchtower",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/f6c1ebc4af2edb954da08197b7a50c99ba3b6c9790c442e8750a627e47d63e8e9b224728c99aa5a20ea6a0281edca3d0ff0c0680df85c230b74205a3b11d41dd3e854cb9e2805fd3adc7b7ff31b2759d18f4b31ba7186572e1509d4d68c3193376e04bce76449c54c47c8b18e502d2a87aec2315f5ac31e3d509cc5df7d690d5/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/2c/3a/2c3a8a247ec779ac95564b45cf8f6427/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/2c/3a/2c3a8a247ec779ac95564b45cf8f6427/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/aa/aa57b3ebc4ab91613f505fb125441f03/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www043.vipanicdn.net/streamhls/72d0d113d3a214b55cc41ff63d320d84/ep.1.1689790063.m3u8"
@@ -22,19 +31,32 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTY2NzMy"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     },
     "2": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "The Prescription of Secret Love",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/e083bf49d0d4d185c1481fcbb0ff3c38315c213b5039b2f5f3943eb1218aad5ed73f4b65acec85e93a55039986dc9ec937b282068a134baaafc962786bff66900edc6b06fb85f986276538de1c0ca24c06c08ca76d4992de784d7acef573382d21b4542e258179de9070e9e44fdeabd24c4311bb18683ab33a56bdb18be3cd9b/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/7f/45/7f458f8741b8f41c1f51ae1b173eacd7/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/7f/45/7f458f8741b8f41c1f51ae1b173eacd7/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/2f/2faac967b494a64974fc4e878390ddf5/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www044.vipanicdn.net/streamhls/72d0d113d3a214b55cc41ff63d320d84/ep.2.1689789908.m3u8"
@@ -47,19 +69,32 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTY2NzMz"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     },
     "3": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "The Sword Guard Sound in Deep Mountain",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/3afd9aedd26b28a86a930313dda1d3dbb5b82e4740360711af0a5573be378dee32c2bf01a464f15ee268ac795730fcecd78b13e5a38adeaeb8d6a67f5a9a5deb8ab13a68548097bde8945c6482035938fbf527c2a19a4f56412ae16af92e89efe57d4ee079c339bc0b114a8818afb40e0a1bc64975159897130117a01f09ea27/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/ba/7b/ba7b44f0fe3f3bbfdff754dfbddd9187/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/ba/7b/ba7b44f0fe3f3bbfdff754dfbddd9187/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/f3/f3d1b311005aa6331608e30ec7e968d0/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www045.vipanicdn.net/streamhls/72d0d113d3a214b55cc41ff63d320d84/ep.3.1689790038.m3u8"
@@ -72,6 +107,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTY2NzM0"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

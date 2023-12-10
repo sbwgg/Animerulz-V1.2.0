@@ -1,15 +1,24 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Monica`s Summer Plan",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/94d08b4f28e8590379496dd228ee4a7828a7be29c4347c862f1605f6888c603a336f2902eaabd07872ecfd0d744d7141598d68943a8cad16d039e9465a6582ea62226c39099d61bcac67183a9a457f0fc34d3eb5698c8e7e3de5f0ca92bbf5323e202f2aff2b674dbb079aa52945c2d38e1f20d4cac9e2380c52f8095ff0943e/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/42/25/42259ec89794909393a10f985bc7ab15/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/42/25/42259ec89794909393a10f985bc7ab15/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/ae/aeb098b4f94b60dc90c91d8956a6148b/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www046.vipanicdn.net/streamhls/8d96e4bcef157e86aae4a3867cc13d12/ep.1.1677841451.m3u8"
@@ -22,19 +31,32 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTg5NzM1"
+        },
+        "outro": {
+            "start": 1329,
+            "end": 1420
         }
     },
     "2": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Shining Days",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/f05dafeae61c43f44dc72b3ab8b30fa3efc4f43ee57e850c449eeb43cf991d374d1be27d20fa41a4e2c31cd8e13d9c24f551e23120f1133c7c5c4c6a91bb8411a6b28c4ae0281396cdf7d672b2e3793f3ab33880eb6f8d9f12ff0a6e2e62d05ccee32c574ec729a672366e557515d3eec2dfe21bc5f3c621dd37c5f692558a72/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/f1/11/f111f5969e717d7ad89da9c2249538ee/f111f5969e717d7ad89da9c2249538ee.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/f1/11/f111f5969e717d7ad89da9c2249538ee/f111f5969e717d7ad89da9c2249538ee.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/26/26dcb82bc268f464beaec106fceafcf2/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www046.vipanicdn.net/streamhls/8d96e4bcef157e86aae4a3867cc13d12/ep.2.1677841435.m3u8"
@@ -47,6 +69,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTg5Nzc1"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

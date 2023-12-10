@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,30 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=blood-c-the-last-dark-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/4fb06f359de3aad8ad18e7c2aec01473279b087af1b8bc709322bdd75d36b3474cf3162fc77565800fa55930e2cfe13e493530dba32cba41673b06ca90507b490517ced416e5b012f358e790545913adc7b0d88755bf9d0c9671ab2ced8157f93cfe8fdbcb54dd75a3fff5b262285a545dbe4fdf22cbb7768a707da3831d0bbf/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/dc/dc80ed554cd241337f33c640681124cd/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/c8c9e5c30407ba7c4ac0414fe932eae809420f188f4e8ec2ef03ad4cdf67117c2a9d94ba0046afa51ace4f9152436fe61f96d3703e868782f38b3430b1cb45acc70091f8af92c925fa144de881e712a33d1f130779212dbd375289cffe423309f73cb59976c92da9772cdf319fa3454bae969666f7e642b9555186be0e9cb260/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/52/2a/522aff2fbf982fe7916a499dad9c3a37/eng-3.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/c8c9e5c30407ba7c4ac0414fe932eae809420f188f4e8ec2ef03ad4cdf67117c2a9d94ba0046afa51ace4f9152436fe61f96d3703e868782f38b3430b1cb45acc70091f8af92c925fa144de881e712a33d1f130779212dbd375289cffe423309f73cb59976c92da9772cdf319fa3454b9e0e63b25f926847d10450d5063f26b5/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/52/2a/522aff2fbf982fe7916a499dad9c3a37/eng-3.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/dc/dc80ed554cd241337f33c640681124cd/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www013.vipanicdn.net/streamhls/381e55bd58f8aa73f4a2ba55718f08de/ep.1.1677660409.m3u8"
@@ -31,6 +49,10 @@
         "downloadLink": {
             "DUBBED": "MTQ3ODU1",
             "SUBBED": "NDA0NTI="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

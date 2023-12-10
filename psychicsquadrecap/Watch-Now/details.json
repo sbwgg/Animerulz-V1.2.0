@@ -1,19 +1,32 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "OVA",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/b86fe7fca23b9f6cdd69b9c22153b40958ecc46b83197ab7ae07c4d902def075ae8de112684404a46fddfe11c957857d1a0f96c79389129f21ff6c358ce5116553c761a788b85b5f089e4d5d6b033b09b038fa99d1c18669b977c761e87ab33355c9751e9e0b3c41df440f8e6637f80e701b5dfca5901e67c2a4cd4098d63933/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/88/53/8853d43fea40f7547e402c7885e3d85e/8853d43fea40f7547e402c7885e3d85e.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/88/53/8853d43fea40f7547e402c7885e3d85e/8853d43fea40f7547e402c7885e3d85e.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/0c/0c68f04b428f7156990d4f9f6398646a/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
     }
 }

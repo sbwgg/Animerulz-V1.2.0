@@ -1,11 +1,23 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=yugioh-the-dark-side-of-dimensions-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/553b76aee12d60f79bdb854284f8bee5292ea88b41406bf9a0400df7ecabe3510c07308c635cc654b949b871f439b66c42a27993c6abb1df9701a480a39789e5b5da66fc34d679dae78c996f570d1b3bbf028ce71693407dcc2fb7eff5b6672ad4ba163061002d6e51cb335a0249434ce390dd5f28c4a1b36b333bf76b008ecc/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/f0/f0b3460db4771f5f996d9177271a4a63/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
@@ -20,6 +32,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTAzOTg5"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

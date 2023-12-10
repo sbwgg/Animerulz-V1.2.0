@@ -1,15 +1,24 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/bdf9ac714a84312df1731a3f18a239674448a92170dacc0cb58040f8453d25ffc13162f63436def21acd997d70ba80783abb9e262e822945dff928e1d18d9956fcef1cb7c3b200de6a8c4e4e69b111d576f33b824b5c0b5ce1bdacdec3ca66709180d1b7add3ec17323a3b06328afe6ed370a529b28414766ec1ea1403f3c28e/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/da/04/da04a6fac6caf32d3f165cd43e7ba4a5/jpn-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/da/04/da04a6fac6caf32d3f165cd43e7ba4a5/jpn-2.vtt",
+                            "lang": "Japanese - English Subs"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/bc/bc4c7b25c32867bbad90fde22fbc51a8/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www027.vipanicdn.net/streamhls/b2418c6da62df01af76f714a1c5ee179/ep.1.1677806072.m3u8"
@@ -22,6 +31,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTQwMTI2"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

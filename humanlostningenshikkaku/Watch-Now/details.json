@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,30 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=human-lost-ningen-shikkaku-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/24c6af7644ad3054b7b9554aef57524e77d69b8b8b858487f2f31218b69fe49546ece3057085b715d15520612252820338f16deddb704b408a3f59383402cc9d7778b8f6849c41411670676797e914bbe32ca80c152627800c55846ce43a57be9abd95b5d73e699f2bee387f20644b6c7c2cd8a07fcc4bd11c541b2fec86d152/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/f4/f4a7dd7d1b288300ae2aaef0f807cd46/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/a0d27cab6a5427cf7e9433cd89f183843515690d219b895f412e5469aa266b1ccb441e485bcc82f563f1971c39b9e40eb12a841c511319457dfd3b30ae255d1becd5f420a201638c6c901fd530d3861e551f1431972176b23cb10d5d5ed121d655d020b7b6c70d5d0c817d392e85545c2197f1173c4e8ebefcc6a743fd391903/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/38/18/38189ce24427f8db7bbf1ba18c1ffe30/38189ce24427f8db7bbf1ba18c1ffe30.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/a0d27cab6a5427cf7e9433cd89f183843515690d219b895f412e5469aa266b1ccb441e485bcc82f563f1971c39b9e40eb12a841c511319457dfd3b30ae255d1becd5f420a201638c6c901fd530d3861e551f1431972176b23cb10d5d5ed121d655d020b7b6c70d5d0c817d392e85545cc38a8a32d53ec1f2192474d1197c99c5/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/38/18/38189ce24427f8db7bbf1ba18c1ffe30/38189ce24427f8db7bbf1ba18c1ffe30.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/f4/f4a7dd7d1b288300ae2aaef0f807cd46/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www004.vipanicdn.net/streamhls/eabe0825e610fb8bfbdebb3d9350ae35/ep.1.1677712225.m3u8"
@@ -31,6 +49,10 @@
         "downloadLink": {
             "DUBBED": "MTQ0NzI1",
             "SUBBED": "MTQ0NzIz"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

@@ -1,6 +1,9 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Full",
         "source": {
             "DUBBED": {
@@ -9,6 +12,15 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=accel-world-infiniteburst-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/fe9f193d22401b7740944ed0932d380e9185f1ed754a449f7435f96bb4eb527b2c215ba4e3aee3835540ff189d4a9578924bb564bdc2868185b98eaddb6529b17380dca82e48dc00c2150f372e991497a6fff6c607aa4f08787ec1252736221257e1353382ade3b3d125a343b655632c61a044ee567187069fa55c103f01613b/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/14/1479f439306586b9c9eb3e67e9b2ac7a/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
@@ -24,6 +36,10 @@
         "downloadLink": {
             "DUBBED": "MTgxODEw",
             "SUBBED": "OTk4MTY="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

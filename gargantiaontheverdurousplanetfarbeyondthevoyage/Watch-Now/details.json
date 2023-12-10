@@ -1,15 +1,24 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Far Beyond the Voyage, Part 1",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/3fa68dcdf972989890932ac17514b1b33afd4289aae6d267ae04d544447d38bbf15e9ee9cface517faec8498612e24a162c1d14841bea4c47d470db3a5df8683103d428f6ac3330d055985ac26101683341ad71bd18d74bd0cf6f9725224a7950707227c2d893b91fc60d4a901247010db550dca2ee24535fc70bcac68d7f4ac/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/31/ff/31fff5f92e8ae48361ebd37b31edf304/31fff5f92e8ae48361ebd37b31edf304.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/31/ff/31fff5f92e8ae48361ebd37b31edf304/31fff5f92e8ae48361ebd37b31edf304.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/26/26a81d44378d7d8db5b8a28f44d1d817/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www011.vipanicdn.net/streamhls/956f99407655a02efdc86555e80e1c28/ep.1.1677666088.m3u8"
@@ -22,19 +31,32 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDc3NzA="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     },
     "2": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Far Beyond the Voyage, Part 2",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/1e037d5d7c8eef2c3ff48b92c716b915a4e52e7784c9ed33bc657799cc7dfad2f9199b9b85f4c5f7c4006941e2dde5559516ccb16b64bf50903d6e8047b4bb4a44f2313871e3cad714ed5e921fda0ff09837a620d526c2bf37667b638dd26a6e3ad0bf2e6889e8a90c8cf8bf92afd53b541ac286d5c1880ad4d382eaa9b7a323/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/20/aa/20aa1155ce94d4cb39e7eab179fa0076/20aa1155ce94d4cb39e7eab179fa0076.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/20/aa/20aa1155ce94d4cb39e7eab179fa0076/20aa1155ce94d4cb39e7eab179fa0076.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/78/7801a86d43a86c9b8337e3e1ed9444e5/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www002.vipanicdn.net/streamhls/956f99407655a02efdc86555e80e1c28/ep.2.1677666716.m3u8"
@@ -47,6 +69,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NTQwMDE="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

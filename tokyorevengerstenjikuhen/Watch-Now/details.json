@@ -1,15 +1,24 @@
 {
     "1": {
         "intro": {
-            "end": 90,
-            "start": 0
+            "start": 0,
+            "end": 90
         },
         "title": "The Longest Day",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/17967ee7c4a89153994b76092c5eff001c56993c48ea62e80781f86418a80ae9a9314cd1cfa333cdbfe13d7d9645bdc7bf7893f1a2ece6ab918a4774c9d0284dd5fad48bb56f3c7a09fc00f52a7e3df598c9ffc0d376be4b745746cfa15a7ea66821c32c491de187b9d838a1ddfffd637f64cf3b7b1f431ed127a98c9ad3cfb0/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/e7/50/e750d5ff26c5f7779a6069f153ce38bd/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/e7/50/e750d5ff26c5f7779a6069f153ce38bd/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/a1/a1cad28821fff77560b44dc96061bd84/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www046.vipanicdn.net/streamhls/e928326fe3da9c2fe97164384dabadf0/ep.1.1696401190.m3u8"
@@ -22,19 +31,128 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MjEyNzk1"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     },
     "2": {
         "intro": {
-            "end": 90,
-            "start": 0
+            "start": 0,
+            "end": 90
         },
         "title": "Mortal Enemy",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/c3dcca883391a54b8fdb410d3b9734e0ad69ecfc573e176814717a258a25d896ec0c25082c8f511b3647d92628e7056ba9437bcf9b0d38bdf0aad8ca1a7b541418b5246242aabbb7175dcd3905a992db8f7b93a6db4411e111299518aefa97150243ccecd6268e002c7b93146bc59b3ee72d11f3fab9ae993c83edd3e0b6286a/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/7b/f6/7bf634b5c65d58b42d85af67958c4cc3/7bf634b5c65d58b42d85af67958c4cc3.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/3e/ba/3ebab1def1dd7701796dd5ebfb6b12ab/chi-25.vtt",
+                            "lang": "Chinese"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/3e/ba/3ebab1def1dd7701796dd5ebfb6b12ab/cze-6.vtt",
+                            "lang": "Czech"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/3e/ba/3ebab1def1dd7701796dd5ebfb6b12ab/dan-7.vtt",
+                            "lang": "Danish"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/3e/ba/3ebab1def1dd7701796dd5ebfb6b12ab/dut-17.vtt",
+                            "lang": "Dutch"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/7b/f6/7bf634b5c65d58b42d85af67958c4cc3/7bf634b5c65d58b42d85af67958c4cc3.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/3e/ba/3ebab1def1dd7701796dd5ebfb6b12ab/eng-4.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/3e/ba/3ebab1def1dd7701796dd5ebfb6b12ab/eng-5.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/3e/ba/3ebab1def1dd7701796dd5ebfb6b12ab/fin-12.vtt",
+                            "lang": "Finnish"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/3e/ba/3ebab1def1dd7701796dd5ebfb6b12ab/fre-13.vtt",
+                            "lang": "French"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/3e/ba/3ebab1def1dd7701796dd5ebfb6b12ab/ger-8.vtt",
+                            "lang": "German"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/3e/ba/3ebab1def1dd7701796dd5ebfb6b12ab/gre-9.vtt",
+                            "lang": "Greek"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/3e/ba/3ebab1def1dd7701796dd5ebfb6b12ab/hun-14.vtt",
+                            "lang": "Hungarian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/3e/ba/3ebab1def1dd7701796dd5ebfb6b12ab/ita-15.vtt",
+                            "lang": "Italian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/3e/ba/3ebab1def1dd7701796dd5ebfb6b12ab/jpn-2.vtt",
+                            "lang": "Japanese"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/3e/ba/3ebab1def1dd7701796dd5ebfb6b12ab/jpn-3.vtt",
+                            "lang": "Japanese - SDH"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/3e/ba/3ebab1def1dd7701796dd5ebfb6b12ab/kor-16.vtt",
+                            "lang": "Korean"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/3e/ba/3ebab1def1dd7701796dd5ebfb6b12ab/nor-18.vtt",
+                            "lang": "Norwegian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/3e/ba/3ebab1def1dd7701796dd5ebfb6b12ab/pol-19.vtt",
+                            "lang": "Polish"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/3e/ba/3ebab1def1dd7701796dd5ebfb6b12ab/por-20.vtt",
+                            "lang": "Portuguese - Portuguese (Brazil)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/3e/ba/3ebab1def1dd7701796dd5ebfb6b12ab/por-21.vtt",
+                            "lang": "Portuguese - Portuguese (Portugal)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/3e/ba/3ebab1def1dd7701796dd5ebfb6b12ab/rum-22.vtt",
+                            "lang": "Romanian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/3e/ba/3ebab1def1dd7701796dd5ebfb6b12ab/slo-23.vtt",
+                            "lang": "Slovak"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/3e/ba/3ebab1def1dd7701796dd5ebfb6b12ab/spa-10.vtt",
+                            "lang": "Spanish - Spanish (Latin America)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/3e/ba/3ebab1def1dd7701796dd5ebfb6b12ab/spa-11.vtt",
+                            "lang": "Spanish - Spanish (Spain)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/3e/ba/3ebab1def1dd7701796dd5ebfb6b12ab/swe-24.vtt",
+                            "lang": "Swedish"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/6f/6f1d364c8bf07456278cfc89140a8c8f/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www044.vipanicdn.net/streamhls/e928326fe3da9c2fe97164384dabadf0/ep.2.1696965085.m3u8"
@@ -47,19 +165,32 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MjEzMTEz"
+        },
+        "outro": {
+            "start": 1331,
+            "end": 1422
         }
     },
     "3": {
         "intro": {
-            "end": 231,
-            "start": 142
+            "start": 142,
+            "end": 231
         },
         "title": "Run out of patience",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/3b2fbe2d199a9de6bbc2f5d333cf36124b9dc78a87643c962afa077e6c1170c3190a03c78e20b45d6fbe0b911da140b664d9d2885dbe780cb5a1430a7787c576bf308f54e7d4d9d2f4c1c46f0b763fc1b0384ac5023d57db0ec09ce3109684703c7374e5652774bedc1d279ad1b99ecb4c5b3622405ad4ec44aa6c3084924510/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/b1/2d/b12d22a51af7f10c171e0ab14bc9b4c6/b12d22a51af7f10c171e0ab14bc9b4c6.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/b1/2d/b12d22a51af7f10c171e0ab14bc9b4c6/b12d22a51af7f10c171e0ab14bc9b4c6.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/d7/d77e9c5a0adf22d6c867a34ad1901107/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www050.vipanicdn.net/streamhls/e928326fe3da9c2fe97164384dabadf0/ep.3.1697569481.m3u8"
@@ -72,11 +203,18 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MjEzNTI5"
+        },
+        "outro": {
+            "start": 1336,
+            "end": 1427
         }
     },
     "4": {
-        "intro": null,
-        "title": "episode-4",
+        "intro": {
+            "start": 83,
+            "end": 172
+        },
+        "title": "Come back to life",
         "source": {
             "SUBBED": {
                 "Vid Streaming": {
@@ -84,17 +222,38 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=tokyo-revengers-tenjiku-hen-episode-4"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/7861ed1d8d1579480c13b138bea5d55ba45013a0bdad2901a818683d0ae295465c0a22e95eb565d1f884efb8b5b3a68b4dd54702d856ec039a40e906daec22e4da183f96962f67e19290bde01cdad293b76949cb128a0b248d520216a2115e700ee5f1082e18b656ac278c927b520c7502f3efd7e88f154de13107459d500d0a/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/e2/a3/e2a3b3c97c2cb76350631bbbb531243a/e2a3b3c97c2cb76350631bbbb531243a.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/ea/eaa3ebbe4db046e42c48bb859ec9f3fd/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "idFiller": false,
         "downloadLink": {
             "SUBBED": "MjEzOTY3"
+        },
+        "isFiller": false,
+        "outro": {
+            "start": 1360,
+            "end": 1427
         }
     },
     "5": {
-        "intro": null,
-        "title": "episode-5",
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
+        "title": "A bad hunch",
         "source": {
             "SUBBED": {
                 "Vid Streaming": {
@@ -102,17 +261,38 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=tokyo-revengers-tenjiku-hen-episode-5"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/ec8aa48af7c20364de9ed04b9e2ebc1cf1fbd4db089d2c76b1800dbc11e251f13aae5b0763ea4d99566ce04aade5201bec58a8e40dfb6b49120d3392f2b3b2f14fe138a82439c5513d2969e25460fe3c8e60b070c2267a1402e378cc5cc901a26e4e57855277671b03bfba94f4e3a9765a7be1be1013bcf8a806d84e596eeefb/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/b4/6a/b46a142df5f5c7a1bdec57727c66ac99/b46a142df5f5c7a1bdec57727c66ac99.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/7e/7ebe75855a2889f0d1f5d242044d7027/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "idFiller": false,
         "downloadLink": {
             "SUBBED": "MjE0MzY0"
+        },
+        "isFiller": false,
+        "outro": {
+            "start": 1336,
+            "end": 1427
         }
     },
     "6": {
-        "intro": null,
-        "title": "episode-6",
+        "intro": {
+            "start": 262,
+            "end": 351
+        },
+        "title": "Rise against",
         "source": {
             "SUBBED": {
                 "Vid Streaming": {
@@ -120,17 +300,134 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=tokyo-revengers-tenjiku-hen-episode-6"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/3eff82d98236334d2970f5ffcb1005dab57e2f83a310d067cd552609103c12a1c88aec2ed7fe9a7adbb007f930bf36584aa98b9140fb89184cfe0085fddc91d3625536794051d904f01f2ad44d97f51fa28617a83dbfc5cf22c87f9b53ed9d0cd1c8cab546549a21872460ee05d1ec55cf61ad1d51b4b2c231bdc6c7a2ecfd69/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/a9/24/a92433abbed092827f495df06516cf0e/chi-25.vtt",
+                            "lang": "Chinese"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/a9/24/a92433abbed092827f495df06516cf0e/cze-6.vtt",
+                            "lang": "Czech"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/a9/24/a92433abbed092827f495df06516cf0e/dan-7.vtt",
+                            "lang": "Danish"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/a9/24/a92433abbed092827f495df06516cf0e/dut-17.vtt",
+                            "lang": "Dutch"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/34/60/3460b79951ef3bb1014e5c5e89fcdc79/3460b79951ef3bb1014e5c5e89fcdc79.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/a9/24/a92433abbed092827f495df06516cf0e/eng-4.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/a9/24/a92433abbed092827f495df06516cf0e/eng-5.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/a9/24/a92433abbed092827f495df06516cf0e/fin-12.vtt",
+                            "lang": "Finnish"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/a9/24/a92433abbed092827f495df06516cf0e/fre-13.vtt",
+                            "lang": "French"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/a9/24/a92433abbed092827f495df06516cf0e/ger-8.vtt",
+                            "lang": "German"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/a9/24/a92433abbed092827f495df06516cf0e/gre-9.vtt",
+                            "lang": "Greek"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/a9/24/a92433abbed092827f495df06516cf0e/hun-14.vtt",
+                            "lang": "Hungarian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/a9/24/a92433abbed092827f495df06516cf0e/ita-15.vtt",
+                            "lang": "Italian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/a9/24/a92433abbed092827f495df06516cf0e/jpn-2.vtt",
+                            "lang": "Japanese"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/a9/24/a92433abbed092827f495df06516cf0e/jpn-3.vtt",
+                            "lang": "Japanese - SDH"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/a9/24/a92433abbed092827f495df06516cf0e/kor-16.vtt",
+                            "lang": "Korean"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/a9/24/a92433abbed092827f495df06516cf0e/nor-18.vtt",
+                            "lang": "Norwegian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/a9/24/a92433abbed092827f495df06516cf0e/pol-19.vtt",
+                            "lang": "Polish"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/a9/24/a92433abbed092827f495df06516cf0e/por-20.vtt",
+                            "lang": "Portuguese - Portuguese (Brazil)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/a9/24/a92433abbed092827f495df06516cf0e/por-21.vtt",
+                            "lang": "Portuguese - Portuguese (Portugal)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/a9/24/a92433abbed092827f495df06516cf0e/rum-22.vtt",
+                            "lang": "Romanian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/a9/24/a92433abbed092827f495df06516cf0e/slo-23.vtt",
+                            "lang": "Slovak"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/a9/24/a92433abbed092827f495df06516cf0e/spa-10.vtt",
+                            "lang": "Spanish - Spanish (Latin America)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/a9/24/a92433abbed092827f495df06516cf0e/spa-11.vtt",
+                            "lang": "Spanish - Spanish (Spain)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/a9/24/a92433abbed092827f495df06516cf0e/swe-24.vtt",
+                            "lang": "Swedish"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/0b/0b58e39e6dadc700a76c876f775d2542/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "idFiller": false,
         "downloadLink": {
             "SUBBED": "MjE0Nzkx"
+        },
+        "isFiller": false,
+        "outro": {
+            "start": 1316,
+            "end": 1405
         }
     },
     "7": {
-        "intro": null,
-        "title": "episode-7",
+        "intro": {
+            "start": 320,
+            "end": 409
+        },
+        "title": "Turn the tide",
         "source": {
             "SUBBED": {
                 "Vid Streaming": {
@@ -138,17 +435,38 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=tokyo-revengers-tenjiku-hen-episode-7"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/6f5a402720fe333d3663e2e0ce282bd9ad21a5794d2ecebc85828cadee8630cd17de466364b98e7590fd3bdf673369951f2f880e5b70cb74339c4200705529dce06c4507b9600329d0d6ab6e27a4a1238d01d50febabfc876d74f8a39ea05fd7804dae914f89c5fe11df74c202fda5685c77b6b3449c806170fc79c9f4d962e2/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/f8/c8/f8c80ff48e1e0f91cee2bfc2a68cf35c/f8c80ff48e1e0f91cee2bfc2a68cf35c.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/8b/8b280e3223936ac6ca6213c3c95066b8/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "idFiller": false,
         "downloadLink": {
             "SUBBED": "MjE1MzY5"
+        },
+        "isFiller": false,
+        "outro": {
+            "start": 1335,
+            "end": 1426
         }
     },
     "8": {
-        "intro": null,
-        "title": "episode-8",
+        "intro": {
+            "start": 41,
+            "end": 130
+        },
+        "title": "I know in my head",
         "source": {
             "SUBBED": {
                 "Vid Streaming": {
@@ -156,17 +474,38 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=tokyo-revengers-tenjiku-hen-episode-8"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/8e4a94f20db797af6a68d502ff11fe3d817c51b93c4e07ec6ef6a1b130f78702e8c5dde1cb90227820af05f06669d514609c8a112d73d50e1488f8de450983da711885fbb8ab3a778a0e150adf67f82c59ff08b365df799d5b7146f38ad80e9efb0f012b91b4f196445cb4352b23299bf2aa40485574e853fd4049609292ec9c/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/63/32/6332dfe114a3252aba558beca8919b31/6332dfe114a3252aba558beca8919b31.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/4a/4a7e8304aa288d4130d14f902c352431/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "idFiller": false,
         "downloadLink": {
             "SUBBED": "MjE1NzQ5"
+        },
+        "isFiller": false,
+        "outro": {
+            "start": 1336,
+            "end": 1427
         }
     },
     "9": {
-        "intro": null,
-        "title": "episode-9",
+        "intro": {
+            "start": 0,
+            "end": 95
+        },
+        "title": "The blue ogre",
         "source": {
             "SUBBED": {
                 "Vid Streaming": {
@@ -174,17 +513,38 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=tokyo-revengers-tenjiku-hen-episode-9"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/e46ebb66ab1bafcb7c9fb2d295b2fbcc1d45e3ccb0f34fec1e45ee2fdf1bbd3587f26db983108e51f3d1cbdaa94951bc14c213b4562bfa7a7fbd0b917adba2f51cb323780024f207ee824c4b33f8b382ed3e495b0c6318cad96e64cabf9bbcdd24e3b66d9ce2e5d95033c77f527be842bf763f1f5be44ab59aa4c4f6cc970969/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/29/19/2919d8dbde14cbba3adce4037808f815/2919d8dbde14cbba3adce4037808f815.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/e7/e7d85e95d88e307b6c5e3e2350882944/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "idFiller": false,
         "downloadLink": {
             "SUBBED": "MjE2MjU2"
+        },
+        "isFiller": false,
+        "outro": {
+            "start": 1336,
+            "end": 1427
         }
     },
     "10": {
-        "intro": null,
-        "title": "episode-10",
+        "intro": {
+            "start": 100,
+            "end": 189
+        },
+        "title": "Brave heart",
         "source": {
             "SUBBED": {
                 "Vid Streaming": {
@@ -192,12 +552,30 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=tokyo-revengers-tenjiku-hen-episode-10"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/42d114064f1da58b7b2041dfa5f227c9340c210c974e8e5336e3a7254309fd24a7e33c39fe86b7666aa822fd5024a0450c83761285b08a3076da84d3521507d5abfb4454794e421fce12ad0974684143583d5d122d2760c63ae3b5a39b9a0e626c9ee4bae6e753c68019f287a5af543ed3e239521cc0eecd60bbd06cb192003d/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/8c/2d/8c2d2edf3d52b1b1e112461389267655/8c2d2edf3d52b1b1e112461389267655.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/6f/6f51ea250f97fc03b9d7316e4dcea133/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "idFiller": false,
         "downloadLink": {
             "SUBBED": "MjE2NjE5"
+        },
+        "isFiller": false,
+        "outro": {
+            "start": 1336,
+            "end": 1427
         }
     }
 }

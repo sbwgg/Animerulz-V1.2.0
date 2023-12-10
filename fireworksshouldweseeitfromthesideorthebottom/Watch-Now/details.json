@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,54 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=uchiage-hanabi-shita-kara-miru-ka-yoko-kara-miru-ka-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/8b0b1340807063e453e0f12d9d35c5efdea20c7377326d2d64352308ef8ce452c078472406c9eee16f9e8f101a4446cc9351b2515e192922cf85d881d409fd661c0081ff6ae6ecb13ae0aabd0195b90d2f7ce490bcd2d504e2baf6cf2bacc94317d442a4542971f3b424fd263b292d7c2752e50960f591efea94b872dceb6773/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/22/2222845889d9ec6967145b7f84e25b2f/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/d85c2b57fd764fbcae7e94bf19f47cf3e726db2a57479110239212bf4e1be7aa68939c00be8dee8e69d433a02790efee53fb792194605374084aa24c0d7d0fdd8d412115dd5ea4b10eaee784f7db02d3a860a6eb881c72e5514504f064084210c42bbea583510ec37b9d1134a5ded388429768d02af407bcf6e616cf545bb08e/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/a8/f8/a8f834160cda7a566badb11dc6e27de7/a8f834160cda7a566badb11dc6e27de7.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/d85c2b57fd764fbcae7e94bf19f47cf3e726db2a57479110239212bf4e1be7aa68939c00be8dee8e69d433a02790efee53fb792194605374084aa24c0d7d0fdd8d412115dd5ea4b10eaee784f7db02d3a860a6eb881c72e5514504f064084210c42bbea583510ec37b9d1134a5ded388a22fde12c583b88b469aff1c732bf186/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/a8/f8/a8f834160cda7a566badb11dc6e27de7/a8f834160cda7a566badb11dc6e27de7.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/9c/38/9c38145080197033cd4d2aa3568a2273/fre-9.vtt",
+                            "lang": "French"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/9c/38/9c38145080197033cd4d2aa3568a2273/jpn-10.vtt",
+                            "lang": "Japanese"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/9c/38/9c38145080197033cd4d2aa3568a2273/por-7.vtt",
+                            "lang": "Portuguese"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/9c/38/9c38145080197033cd4d2aa3568a2273/por-8.vtt",
+                            "lang": "Portuguese"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/9c/38/9c38145080197033cd4d2aa3568a2273/spa-5.vtt",
+                            "lang": "Spanish"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/9c/38/9c38145080197033cd4d2aa3568a2273/spa-6.vtt",
+                            "lang": "Spanish"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/22/2222845889d9ec6967145b7f84e25b2f/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www026.vipanicdn.net/streamhls/7897eb00f4156fe5f7cb4271dcfb268e/ep.1.1677687605.m3u8"
@@ -31,6 +73,10 @@
         "downloadLink": {
             "DUBBED": "MTEyOTk4",
             "SUBBED": "MTA1MTQ1"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

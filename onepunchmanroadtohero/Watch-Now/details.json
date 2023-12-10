@@ -1,15 +1,24 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "One Punch Man: Road to Hero",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/48fd3e5b419502f0827cd43f94173e184534eeea8e2ff320b759678a5e693cc1a52c2dbc8fba52647a16545bdc4fe97ca4ed9f11e9f34e6aad5b6cf76191df3b57d3e76a39240d756a1e7934821681d9e0c08e495b2dbe05bfc2f23244270d30e7581f384fffdc9c0fd1f8273dd7fecc5260e8cdd0e4b7c7dcb6e9f6481490d6/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/be/c5/bec5fb158c01255c7ca5bb2503bdd39f/bec5fb158c01255c7ca5bb2503bdd39f.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/be/c5/bec5fb158c01255c7ca5bb2503bdd39f/bec5fb158c01255c7ca5bb2503bdd39f.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/25/2577197b9c940f3a0d232eef3f37886c/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www026.vipanicdn.net/streamhls/55dc290348ac7717620964d99a3a6fb0/ep.1.1677668265.m3u8"
@@ -22,6 +31,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NzAwNDU="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

@@ -1,19 +1,32 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/9b1e810d2c9eacf7c727ce3690dd0f98b81898786df75748a1a5fbda56f044248a266453ab119acf904739a6bb2d4553680024c65b55776f20c897087886e45cd6448c2729ee883bb2e20adeaac6911c1a0034e74576224f0ef4700cdb9215e7303858a2449e392b331bbea2292d02308eafb8f6a8f95b3e562c85eb0f98f8e8/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/a6/41/a641679ba116ae7ca75b611001b7c555/a641679ba116ae7ca75b611001b7c555.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/a6/41/a641679ba116ae7ca75b611001b7c555/a641679ba116ae7ca75b611001b7c555.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/49/49ad8622ecfbe025f8c4b4a305f6ca20/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
     }
 }

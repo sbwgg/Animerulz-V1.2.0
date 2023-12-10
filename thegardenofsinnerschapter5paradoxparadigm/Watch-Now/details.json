@@ -1,19 +1,44 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/1db427dc3b1101122d8184d73692f4728470734dc9a55408139ef837b7b9bdd15e77e5af6f18e5131cf068775f74d3f6e98a82db9d4b5860cd3e3252029ffda1aa51a56391dcb5090c8628f961e36a64ea67be21fb18113f799da9c9d6b51468d204e50021abc53fb62438b9e97c984142f9828c624c9df6281f415e559ce6d9/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/f2/f2/f2f2b686e03bb784936dbdcae9679ce3/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/f2/f2/f2f2b686e03bb784936dbdcae9679ce3/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/f2/f2/f2f2b686e03bb784936dbdcae9679ce3/eng-3.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/f2/f2/f2f2b686e03bb784936dbdcae9679ce3/eng-4.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/f2/f2/f2f2b686e03bb784936dbdcae9679ce3/eng-5.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/60/60a16b106d751225f11f71c2908b5170/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
     }
 }

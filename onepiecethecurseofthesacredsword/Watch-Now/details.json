@@ -1,6 +1,9 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Full",
         "source": {
             "SUBBED": {
@@ -9,12 +12,29 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=one-piece-movie-5-the-curse-of-the-sacred-sword-episode-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/ea0d93da4f51433535c554988bb1ed398113f0f883544c96c392babff0e8b56a59bffb9db149bb0e9ac59368781250f38990c932714376d286123f88be076611f38bd88f0c92e2a0b1b818aefbd51552b6ad1f536622c5f3604d89257b8714aeaffd7bd26115ae1af31cd176fdc59b87ebe541157add2227c2d1df8fb0f68f76/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/f0/70/f070dfad665bd74eff73fdbb369589fe/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/e5/e5d755d8305b08b3dfbc39f80a2a022a/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDA1NDY="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

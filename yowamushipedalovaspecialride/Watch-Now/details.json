@@ -1,6 +1,9 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "OVA",
         "source": {
             "SUBBED": {
@@ -9,12 +12,29 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=yowamushi-pedal-special-ride-episode-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/007697ec6ec07bd5db552b780f53aeab66ea9de48ad74c9bdc9c5573a5064384a47b05d23807ec4308cf63add88e729e1d5dfb3adbbf7ab502d2288b3c8ba33d4ccc4f78814876b6ffd82c63040c8b009ceb32f2c9476f66ad3c17d4f8e1bd9241743f5040c459be411658f356d3ae4a/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/61/00/61006c2dd31b96416fe3c909d2d40ce2/61006c2dd31b96416fe3c909d2d40ce2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/65/65bfe3f10ba6141051addf932a081e48/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDE5Njg="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

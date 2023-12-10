@@ -1,19 +1,28 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "CAM",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/6a076c52ef0571d26edc963184a645f42808529d75e426815a96f5a30d7eeece484a21ae322a49af65e1b41600a30f9bd1805240258eaae64f650e74f670724661e1ea9c34962bc652cef645605caf7f8037669232b4b962f1e92d5c01d0477687e00ad37fc56dc2a29ba8d7aa1b7a18f8a044e5b6fd76d288335933cfe79cb7/master.m3u8",
-                    "captions": "https://imgb.megaresources.co/_a_preview/f0/f00fa4e9ee5fdd1ad768a10a8c6106e4/thumbnails/sprite.vtt"
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/f0/f00fa4e9ee5fdd1ad768a10a8c6106e4/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
     }
 }

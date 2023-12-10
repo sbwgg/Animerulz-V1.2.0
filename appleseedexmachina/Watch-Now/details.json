@@ -1,20 +1,42 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=appleseed-ex-machina-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/b749f72ce096d57a2a1d9827707bcb404e7b21df9a0fe3ed6b3bafb40c54ec9db3bcbec67ce32057d9e6f09c9fb03b06a17dbeb932680e7229aff64f370168546d0cd06eab1561113c75c5e8f72e8a2f3dc7a9eaaf846bdcd6c857bcee010f1313071dcf7c8ee4ce622832de47bca038639ed7409f3048f93f4e4731bb7961c7/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/d1/8e/d18e797f1eb661abfaf6694a622d9878/d18e797f1eb661abfaf6694a622d9878.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/5e/5e4935ff535090abe4272dfea1e61a55/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/1d224519349cd99160e8addd82c64f630d88bf5cf0f2768fc2ed527c7882090b93118322d50e1438bed1d3fda1e747f6a109915c933cc6e544b0d1bcaa723ebe1ce12e661f239ccdd2cc5057995718fee87c6ddd758b613f89afe039d889de5ebc0815cb4cd120e96d1d25ffb4ab361c98412dbdc953c055547df67b29c6a997/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/e1/e5/e1e50576d745271cad2b8aa70d05b8ed/e1e50576d745271cad2b8aa70d05b8ed.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/e1/e5/e1e50576d745271cad2b8aa70d05b8ed/e1e50576d745271cad2b8aa70d05b8ed.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/5e/5e4935ff535090abe4272dfea1e61a55/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www015.vipanicdn.net/streamhls/0b02053ed6b363463ca0716534ad1a3f/ep.1.1677662296.m3u8"
@@ -27,6 +49,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDAzOTQ="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

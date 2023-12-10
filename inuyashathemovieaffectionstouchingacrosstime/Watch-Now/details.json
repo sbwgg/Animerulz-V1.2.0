@@ -1,20 +1,38 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=inuyasha-movie-1-affections-touching-across-time-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/d8e1a3a2c2255c33497fdbf85a9495dcf71856d13501ae4e232d939e661d5538228cb4c0ea679c28ddd535f2bf5eeebd095ac6f4d2fda0a1de4932230363d2b974d2b2f1a210f1c34c0c8cfb6b494ab466ff909219b48625dbc4eff717fc229d286d268d39bdb1e1f246f377c9130623a76a4cc8d7117e036a1abbb28e468e1c/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/e8/e8616135a38a531c06b97fc6c8c8ac96/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/7be91a6527011b0b7f1474497a9e370233aaca2c7ff59f12fffaf6b8890904b065b91cfc51eceaff8516b1d9d4417b291b64b20ffb29bbc07a5065a558bd2bb44a1b034d3792756e8747b4fb99812ebd395698bffb9c64e4f393f299e52550749fbb9fe0a77e0c9ae41cfb52baa6e154e40eed2b3a359f333ca10a6d747a7b35/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/68/3b/683b2b023c9e14ffc3eab4e2ac0dc384/683b2b023c9e14ffc3eab4e2ac0dc384.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/7be91a6527011b0b7f1474497a9e370233aaca2c7ff59f12fffaf6b8890904b065b91cfc51eceaff8516b1d9d4417b291b64b20ffb29bbc07a5065a558bd2bb44a1b034d3792756e8747b4fb99812ebd395698bffb9c64e4f393f299e52550749fbb9fe0a77e0c9ae41cfb52baa6e1548b9a129e1d9f3c16480595e7994b51b2/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/68/3b/683b2b023c9e14ffc3eab4e2ac0dc384/683b2b023c9e14ffc3eab4e2ac0dc384.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/e8/e8616135a38a531c06b97fc6c8c8ac96/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www027.vipanicdn.net/streamhls/fffdf2c33213315499e102ad2a046ba6/ep.1.1677675836.m3u8"
@@ -27,6 +45,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDA2NzY="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,26 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=space-adventure-cobra-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/d4b6945a24417a5956d942f5d1d7a814bd38a9c561090a35e19bc291a57e3cf39562c9039208a7b187de4ac967808fddd1f20b4d7c1fec12ffa3d6dc4c3995fb8ff24d2af8c461141b3a5391e5ee59e1775a5e02e7834f4eb61b8f06a1f7da883ed94dabfe8521b8b21dab877b9dde487fb7d0a2d4a6deeb4f709ed6b1cadb73/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/85/85b7f13d046f3a3aa2aa6c729442b5d7/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/37953299f1463abcb4209bb3de2b6d6ea537968a948474326395082fc7bd16257ea9de76f1b3c074027b3ed08dfaa3a652ede55ddaaa179a3913a8251541d51b0f63d164943b32555f71fa80b891ca89b6128a0c42ca2a528f55feb71dbf8102f9a090de8e00bf143d162c27109f267d0c1edda2004ed06c4f4d3263c5647ecc/master.m3u8",
-                    "captions": "https://imgb.megaresources.co/_a_preview/85/85b7f13d046f3a3aa2aa6c729442b5d7/thumbnails/sprite.vtt"
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/85/85b7f13d046f3a3aa2aa6c729442b5d7/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www050.vipanicdn.net/streamhls/8ed19e99907a23705c5cd3330e63239a/ep.1.1677839593.m3u8"
@@ -31,6 +45,10 @@
         "downloadLink": {
             "DUBBED": "ODk0NTI=",
             "SUBBED": "MTg5NjE5"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

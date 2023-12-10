@@ -1,15 +1,24 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "The God Was Discarded/The God Goes to the Hot Spring",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/8b14229774d53f2daaabfacde0c8ffe43743977bcf6c9cdab628bf670aac5b11f81f774d8802cab37f44f195472044705e7656d9f7688732891f9fb284a1af58d49508b05c815ea843a9a0baf176faf3fbdb23734a672a14641877dee624b963dee4a0f111ca938635208f1fbf0e2f44c7e8818491a92c328d2078969a5cd5f6/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/44/4d/444df30c9a47b18c001d13a2d37337b5/444df30c9a47b18c001d13a2d37337b5.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/44/4d/444df30c9a47b18c001d13a2d37337b5/444df30c9a47b18c001d13a2d37337b5.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/d0/d071c7288959e43c37d6ccc31a825422/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www044.vipanicdn.net/streamhls/a3eb9c5f4229477a3f06febc2277734c/ep.1.1689784094.m3u8"
@@ -22,6 +31,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MjU4NDM="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

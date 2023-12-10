@@ -1,20 +1,42 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=lupin-the-3rd-dragon-of-doom-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/d76aec5c8612603f5ec75ceae7b43b16128c3c01d36d6dba159bf9946d1cc694d2d4ea0c013a13617ec52b244cb38d812e074839e1caad5709efb2d50826499ec266b144d9dbc6ebf4c5165a5d7a73343ee5282200d91389e50216dcf1f3f347e7f3cc85531b5c42e0e6b453a39b66cfbaaac9b7cc3c579e3e92a61047f320ff/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/00/0084222bc96928200727d296a83038c2/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/36f232c3c9f0368bf828b77d9cc7a538476227ff71cbfb2909400d20d6494ddec0e6af9a4dce491b1f4fcda58dc43208d76e62895348ceba8163dea75816a5b13310aa2abdda05afe752271f63e2c139cea863e6d8ae3630d75c0c09885c18dc4e446d4a5b0cded1860f0554e7fe6f3a147318b114018031cc87321869e17da1/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/e6/16/e616c1ab1c2df310878c8ec122d96ade/eng-3.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/36f232c3c9f0368bf828b77d9cc7a538476227ff71cbfb2909400d20d6494ddec0e6af9a4dce491b1f4fcda58dc43208d76e62895348ceba8163dea75816a5b13310aa2abdda05afe752271f63e2c139cea863e6d8ae3630d75c0c09885c18dc4e446d4a5b0cded1860f0554e7fe6f3a184584eba52b06d81c1b6766f0343d4b/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/e6/16/e616c1ab1c2df310878c8ec122d96ade/eng-3.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/e6/16/e616c1ab1c2df310878c8ec122d96ade/ita-6.vtt",
+                            "lang": "Italian - Dialoghi"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/00/0084222bc96928200727d296a83038c2/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www026.vipanicdn.net/streamhls/8fffe2cdb45c3b52a3e7107773baf215/ep.1.1677662893.m3u8"
@@ -27,6 +49,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDA2NDU="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

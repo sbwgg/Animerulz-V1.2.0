@@ -1,20 +1,42 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=koukaku-kidoutai-shin-gekijouban-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/f43efe5eb62abe482cc781916d6d17d02588eb7fd42d113a94f298c0a941678ec9b8050c958f40346c5641e410a2bfc2c5c6e41d1f0827c552ae5f6117b481af7a144c908a30d2f7992b61a08a4dbe5518c6d01fb8b6cbd00dc95f219390fd36b622cdc42a22a5f6d444c9a95efca466773a15306fe94025033d1e5bc3498b72/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/d5/d57b7cbbc45851e1f87ab43824f89b2e/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/685412995c55ab0bf5a6a32c172c56747f926179f546a742ee6d265be35bca9113addc9da96bac8f2e74dd3234bb7d7a270dac660158ae8d9c23652f22ee9eaec759c0327108eba1111773c138a9aa233ada30f9dbcc161df729ff64e2ebe79868988ad0301d3f7cbb7af9070a13373b22b1b2c0ebffde71a96b361d49a3cbce/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/46/8e/468e43b4889257a828c55dde2d5caa02/eng-3.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/685412995c55ab0bf5a6a32c172c56747f926179f546a742ee6d265be35bca9113addc9da96bac8f2e74dd3234bb7d7a270dac660158ae8d9c23652f22ee9eaec759c0327108eba1111773c138a9aa233ada30f9dbcc161df729ff64e2ebe79868988ad0301d3f7cbb7af9070a13373b0c10886eeca08fade6fb3a3c4c6eabec/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/46/8e/468e43b4889257a828c55dde2d5caa02/eng-3.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/46/8e/468e43b4889257a828c55dde2d5caa02/eng-4.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/d5/d57b7cbbc45851e1f87ab43824f89b2e/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www025.vipanicdn.net/streamhls/462bf4d0e8433df75582a7c6cbe06c2d/ep.1.1677704683.m3u8"
@@ -27,6 +49,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "Njk1MzQ="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

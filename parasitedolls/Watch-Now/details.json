@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,30 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=parasite-dolls-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/4a7494624cc6e29c6862722e54d99485d297f0482ccf64276e704aee68ae872980dd765f8dfd935fc8a0a5ccd48803c8f8429f45fdb51980d94d52f09d4b71b98d1a16ee4182b1b3ad85a728596a80a13480f5a6353cc93c0b17bee5bd9699c5406fbb61d021e3377d64afd09e002f63/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/bb/bb51e647da7f5b06f62fd3c263879366/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/5748564d6c1107e14dc3a8e87f598cf4c2cec894353e2e9817a45ca0923a7ae1c1ea9a2865ed62f428553acc49589d919deb1fd2e83cee4cfe11e478d95a9a1c7cc443e67e05557fb33ad175d7115878ebd3531ae575950b81dd1e05b0e22eea16da2317119c9b8f13fdd75269786420/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/9e/ba/9ebafad4dad3625bc320d3ba47582d38/9ebafad4dad3625bc320d3ba47582d38.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/5748564d6c1107e14dc3a8e87f598cf4c2cec894353e2e9817a45ca0923a7ae1c1ea9a2865ed62f428553acc49589d919deb1fd2e83cee4cfe11e478d95a9a1c7cc443e67e05557fb33ad175d7115878ebd3531ae575950b81dd1e05b0e22eea48c59017d98f6823f87e2ab4c7314f25/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/9e/ba/9ebafad4dad3625bc320d3ba47582d38/9ebafad4dad3625bc320d3ba47582d38.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/bb/bb51e647da7f5b06f62fd3c263879366/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www005.vipanicdn.net/streamhls/39be4144c55cba182a30552b7ccb98b4/ep.1.1677661674.m3u8"
@@ -31,6 +49,10 @@
         "downloadLink": {
             "DUBBED": "OTM5Nzk=",
             "SUBBED": "NDA5NTQ="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

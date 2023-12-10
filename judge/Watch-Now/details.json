@@ -1,20 +1,42 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=yami-no-shihoukan-judge-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/6622fb40c3760696039af73149e1370980054dc879ed905e0f2875332f9b7497a8a154729cc967b10c8064351261f38e622e9965f15a3c4c8d4c65996fa4f2d3e0e70a40aae247839c9b9baa2d83943ebee5d1192308980530e5480f21e0e3f107b49bd0d004128581de9caa937e03ca41ad92e7cd5ba6a47ef99be094b9da4a/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/45/0e/450ed1bb9ab682b030841f51ff56fc21/450ed1bb9ab682b030841f51ff56fc21.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/2e/2e73119dbd555e5eaf86b3642b7b269d/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/93ecad1e55b3a7f50adb1e1581186cf054c4463b403d426fd9a77cc0abb3398628dea8fd206779392e6597f532cb033f023e5c40eb329651b19033db56c8437f8c578048bd3be2c823e282750b93ec067ec71fefea360570a5737c2779a1de23387191266936d8a31f4fc8d56ccdd74202b76d30987e342e02de936bc533752d/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/a7/1e/a71e30cf57dfc20c1100db8a4a1b15c6/a71e30cf57dfc20c1100db8a4a1b15c6.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/a7/1e/a71e30cf57dfc20c1100db8a4a1b15c6/a71e30cf57dfc20c1100db8a4a1b15c6.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/2e/2e73119dbd555e5eaf86b3642b7b269d/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www011.vipanicdn.net/streamhls/d961e5627a67dd6a4fa1881dc5536cfd/ep.1.1677716617.m3u8"
@@ -27,6 +49,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTQ2NDEw"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

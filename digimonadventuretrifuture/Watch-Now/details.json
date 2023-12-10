@@ -1,6 +1,9 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Full",
         "source": {
             "DUBBED": {
@@ -9,6 +12,15 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=digimon-adventure-tri-6-bokura-no-mirai-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/ee10e41a53363e3f8650ffebbdcb782f6645fc7b8d0263a2fb030c0b5762a911a687bf5c855a89bedf6d11c6153e39294c85645c0011b951a958e6141c32372e9216302e81efd4a070c44d309adace92e0012c0faa53c14261a164b3b4adc6bfc8c1673492396e339e8a9a72ab2b4673c16f50d6db1e74fe84afa03c58302024/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/df/df3e407208a33e6c4a09eb451844515a/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
@@ -24,6 +36,10 @@
         "downloadLink": {
             "DUBBED": "MTQ2NzUx",
             "SUBBED": "MTA1MzM2"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

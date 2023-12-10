@@ -1,20 +1,43 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Special",
         "source": {
-            "DUBBED": {},
+            "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/f7e03b45209943c20fbbc8633eebcc2d5f4e56f6ec21b2c110ac15b2144a155cca53199dd8f0d56d5dc0f6bdd76bd66cc73c77aa28df4bba7bb92dd0c33cc9f0241bfb63a6e6c4a814ae293b4b689ec7a9d859cb1df4aa461462f5f034196ec9499cffaab447acad277310eb485bd295e1700cfec9dd7b1b4c3c6707720102ac/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/04/0456c59914680ecc8f56d8886c8c79ed/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
+                }
+            },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/c599f98c6ffc85b39485eca42de29f69ec457152469681263095b2cc043d199059c25a906647ef0b57c4c8cb1597e0b6e7f07d0ce1c7e07fc66630bcdb41ab833c5b1c42251dc8f33cf7220e040e4bd485c720892263bee0a4683ab6c5c54a283a1311a598e41f526a495f11b66a7cce1767846a7b66a32f189397d84ee29e68/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/70/4c/704c1a7151cecd89c8395d9eb7ef43f1/704c1a7151cecd89c8395d9eb7ef43f1.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/c599f98c6ffc85b39485eca42de29f69ec457152469681263095b2cc043d199059c25a906647ef0b57c4c8cb1597e0b6e7f07d0ce1c7e07fc66630bcdb41ab833c5b1c42251dc8f33cf7220e040e4bd485c720892263bee0a4683ab6c5c54a283a1311a598e41f526a495f11b66a7cce054a4a28aaa3eea355ea54d325d312fe/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/70/4c/704c1a7151cecd89c8395d9eb7ef43f1/704c1a7151cecd89c8395d9eb7ef43f1.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/04/0456c59914680ecc8f56d8886c8c79ed/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
     }
 }

@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,30 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=shisha-no-teikoku-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/5f55859eadb14fec5c45ad118a63cf346d3a32fb2d458509e78fa80a97f7fce78553e58d0efa57b55df06db13de9e7b2efe76995016c220a81d12b3a5db24b7954b602a3286814dae62d151dcd899dcfd4f1fe333b2ba5064869a98276744993bd88174605a7317712681ca28bcdb8b50124c53d2ef95a86b1556f0d23079dbf/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/90/90710823d720b87e9e6d50bf0de3c945/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/4b866a69efceb21c757027a0b40277abeaff9bfd04647a187d7fecfa1cb1d3be87893be11a569687bc6e42b5aeaeee2e4539d6f79a06acf46ac5004e5d827490762bcfea8c0a4a6294e76e44741125b45e31dba4dc634e92901be378845901c5343d0898f1deb0d686a1c064eb7e3001009b177ec9f0ebfc1d8debfdc1f87cec/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/d7/86/d786e51e146fa54112066612d6f66d64/d786e51e146fa54112066612d6f66d64.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/d7/86/d786e51e146fa54112066612d6f66d64/d786e51e146fa54112066612d6f66d64.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/90/90710823d720b87e9e6d50bf0de3c945/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www021.vipanicdn.net/streamhls/0f2a64cae62bf4b9d4082d7b600f904e/ep.1.1677665764.m3u8"
@@ -31,6 +49,10 @@
         "downloadLink": {
             "DUBBED": "ODkxNjU=",
             "SUBBED": "NzA3MzA="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

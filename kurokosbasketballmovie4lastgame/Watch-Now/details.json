@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,30 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=kuroko-no-basket-movie-4-last-game-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/390a3370a9d0ec72b6a8bc887506b837a1af30e05a88ec3f3afa459ec30f14d0c56e962d01a683ee5a84f1bf7c520c2487a94c5378c29b019cd8856de85bdba171b6c8966c3b6af559d86035b0ff7a4ded284e93bacd8c182326b9c00867fa33202657785cd89e00cab8799d35c074a3dab5db6791ed8c705e75d0cae8532d3a/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/75/2e/752e4e9d14263b1702055d57212d2a12/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/16/16a9e31754a791a5773e1edd125260c6/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/eb4a538199e8792e24cc4873ef849f46abafe6362a384238986700c89918bd5d6a7a5e6c2b7e9e46a5f900cd732aabb70876e9a4a6449ed3e31a28313bb7eebed7359729daae96634ed98c3863960e8928f3f03740125a79e62243d649c4a66ec3e03415b7e476149ef216a072c1c6d67c0bdba98591a54084c9b980f03438e9/master.m3u8",
-                    "captions": "https://imgb.megaresources.co/_a_preview/16/16a9e31754a791a5773e1edd125260c6/thumbnails/sprite.vtt"
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/16/16a9e31754a791a5773e1edd125260c6/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www029.vipanicdn.net/streamhls/fe22d44fcd6a37b81c928ffb4808eee0/ep.1.1677688208.m3u8"
@@ -31,6 +49,10 @@
         "downloadLink": {
             "DUBBED": "MTc0NjM5",
             "SUBBED": "MTExNzQ4"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

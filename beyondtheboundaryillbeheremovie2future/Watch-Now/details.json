@@ -1,20 +1,38 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=kyoukai-no-kanata-movie-i-ll-be-here---mirai-hen-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/5fe8ff25ad2d9e1503a269189c80669a982e1422225d1a10ee6932ed00c0725fc2c24aef2d34489fda169f54f4c7bfb37604e44926e1010dbe5aef2fcd841b8503ef8aa81faf0e927622aa89c40a90e24dd251faf9819ad78ad28f4c223f3280109bef3197e5f4f2626920721764a8dd741812569ca36e8d51c724f60ce61bfd/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/25/25ce0c503f3bfc4fe533879ecdec5b34/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/f5344f846f0115c034c95ad9c70b9a15e36bd6a459aedbb610cb9a059c5bdcfc92c567e268fe5b02ecab9d5e56ee30ce81e2524c94d422c21091b23ea31dc5c6446061c8137604bb16e65bf734c1c7c53dc60637491f0d69dea54e2b89ee88c8b1633fb578577630c31d88c8797b52b1c8d965060bc99207d7fafaf39e528a2e/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/91/c5/91c5caeccb93c38e37e8d2f8c69ce4a0/91c5caeccb93c38e37e8d2f8c69ce4a0.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/f5344f846f0115c034c95ad9c70b9a15e36bd6a459aedbb610cb9a059c5bdcfc92c567e268fe5b02ecab9d5e56ee30ce81e2524c94d422c21091b23ea31dc5c6446061c8137604bb16e65bf734c1c7c53dc60637491f0d69dea54e2b89ee88c8b1633fb578577630c31d88c8797b52b19dd2eeab2c5fc055bc30fea9a55cfc14/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/91/c5/91c5caeccb93c38e37e8d2f8c69ce4a0/91c5caeccb93c38e37e8d2f8c69ce4a0.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/25/25ce0c503f3bfc4fe533879ecdec5b34/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www023.vipanicdn.net/streamhls/9f51e1585f119a94e0194c61a86166d4/ep.1.1677700090.m3u8"
@@ -27,6 +45,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NjkyNjI="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

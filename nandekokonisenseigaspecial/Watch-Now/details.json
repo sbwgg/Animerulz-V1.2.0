@@ -1,20 +1,42 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Special",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=nande-koko-ni-sensei-ga-special-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/1dfa1edd297311512b5359ace79ee4e8a20075a5e88246773ce93cac1b15dbab73dee8f3635b5e691c162d01bfeae9100c48e6be2010a5508f52e6fa88b58e70c7e4951d17fc8009926904f2313aa1217d32681f6786626c7c8e42a3330315703519e4690f1ccb2c8e9a52188bcde13a787eb8606ebc5415b3390ca7d3a9165f/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/bc/a4/bca44fdc9962fd67793b75f2030bdd93/bca44fdc9962fd67793b75f2030bdd93.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/19/19f047e81bf82f12bf97949bc11acb85/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/ed757924d15ac58234c3777cd2d2c0a6d62bf57226fb629b93207e60d7f2f9f3d3dd970df117f4de405a6c6d84d52fad0b51a13789598891b6a3e9c77bcd28984827581b154abe2819d2e6e8f9dbd3df5326ce2a1b53456d03eae69c6d0b00099679e4d2168a49fab30bdf5f951dda2679a22bfc74b8dd5ff04a8054d52ed47f/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/d0/5a/d05a81b60a751814ef916a1e4c3614a6/d05a81b60a751814ef916a1e4c3614a6.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/d0/5a/d05a81b60a751814ef916a1e4c3614a6/d05a81b60a751814ef916a1e4c3614a6.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/19/19f047e81bf82f12bf97949bc11acb85/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www004.vipanicdn.net/streamhls/bafc53a1bb10e283806e49862ca1051d/ep.1.1677601209.m3u8"
@@ -27,6 +49,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTM0ODUz"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

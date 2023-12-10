@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,34 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=grappler-baki-1994-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/d14f04688722bc87878c293b48d2ebfca1f5c07fb242e54db8d5f41199dd69a8e9b99ed0aea4647cc252361c187d87008e09f4febc7f224fb9324b10bf7a76175c8bc0bbcd08f3a79e0a292802f76f72ea7b8ff9f5b5d4a895562da34f8f0bba4a8beb072560c8eb00ae28154e97fcafe2f42e71721e9e59b054bf8fb2cc779b/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/e1/5a/e15ad75e7c54657c5a92e50f29d2a843/e15ad75e7c54657c5a92e50f29d2a843.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/5f/5f2823c91a9716701461afb03ff57b93/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/65fab6716b2bc5b579812198f415943347b9c7301fad3eb64e804aa191ad0cd9ed960e3bb79e3397d237a4f4ee00b2a80df2325d43a60086a69559501b5d2028222f6d3ac522fe39bdefceae3600b19e1217c369fbfcc8836ed1e12a857827153fb492811a953d35918ed661740cf89a4636665e0e6cdefd6f1b50716aa0db34/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/b8/63/b8630b8be79da6210bd15693892bb64d/b8630b8be79da6210bd15693892bb64d.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/b8/63/b8630b8be79da6210bd15693892bb64d/b8630b8be79da6210bd15693892bb64d.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/5f/5f2823c91a9716701461afb03ff57b93/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www002.vipanicdn.net/streamhls/3e9a6fe74837e913cb18067774c32668/ep.1.1677609252.m3u8"
@@ -31,6 +53,10 @@
         "downloadLink": {
             "DUBBED": "MTYwNTAy",
             "SUBBED": "MTYwNTAx"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

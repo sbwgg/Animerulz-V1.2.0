@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,30 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=liz-to-aoi-tori-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/73de9161ed21e23f4614f2e912c2583f53fffe9638541ade44ee1c557c2ffc4e1b0d067bed97254c716ef32ca996f95278eed7e795b5a8f9ddf99327666c894cf4b7ee5fde9e381de30996c02f2679338b724c0660a25ccb5f9c2ecd68a1eb79cde5f1f8c688108338515f33bbfc6e3e14d6ea383eb38c3dba5cdb53086852a8/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/2c/2cb5deb379b51b908f05abecdc499e63/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/5ac6b4ab504bb8b418b900581f3f87753dc6aac03e634c33110f85fe869844b147f7dd34d05798bbb9f4994d0c1a462ee68a78105c767c7731fd3a12d29d7c27df2270b67f422b3092f0770afceceb913c2cadcbe06740e07c983ff28d2a072019b6c3b8746d63b12062a9b376d5470a5cd6c3d7bf5aea5e35d8bef11dc4b12d/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/1c/38/1c38a7a30ad2efd765f7637c5a931cb1/1c38a7a30ad2efd765f7637c5a931cb1.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/5ac6b4ab504bb8b418b900581f3f87753dc6aac03e634c33110f85fe869844b147f7dd34d05798bbb9f4994d0c1a462ee68a78105c767c7731fd3a12d29d7c27df2270b67f422b3092f0770afceceb913c2cadcbe06740e07c983ff28d2a072019b6c3b8746d63b12062a9b376d5470aa245dde2c119be3ac928ad591f1838e9/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/1c/38/1c38a7a30ad2efd765f7637c5a931cb1/1c38a7a30ad2efd765f7637c5a931cb1.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/2c/2cb5deb379b51b908f05abecdc499e63/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www016.vipanicdn.net/streamhls/01ba2d29db54f24d897c568e73423874/ep.1.1677685715.m3u8"
@@ -31,6 +49,10 @@
         "downloadLink": {
             "DUBBED": "MTE1MTg3",
             "SUBBED": "MTExNDY1"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

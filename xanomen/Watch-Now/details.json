@@ -1,12 +1,47 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "OVA",
         "source": {
-            "DUBBED": {},
-            "SUBBED": {}
+            "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/3be3b0f25a77564a70dee6db1401c5db7ed436c5fd9f18f99b8205c2397adbb0f8b558262c573f1803ec9e0296efa657ed1aea8faef860c292d14ba79f8cf402ac3ab0532e9d19c5a6072c3b833102566164238e619eac2a9777c5c881b6f3d44dfb92068156a767751187d1d905221fb0cffcb9ce6ddc0bf739c9bb2078c820/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/09/82/09823e8eaef3641ecbb9544c5f78ff85/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/ab/ab35a3f6b758cfc18641331208771d46/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
+                }
+            },
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/473587e9c30ab94c5c0f7e4dfd0323969642bb90def7117188c49e1220e93c3ede411e2d52cb0c9a43b780039a153830c80c7bdc3c2ea980b6b2153d4b61fcb78ca07f1791fd899aa887f7a1e8675618759bb176dc0c6f263efb1bd82580f7b24dde3c0c0037717d2513cca4469c163beb8533a7c70cf17b257bf03d89e198bc/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/70/ff/70ff59aad5bfc6643c404416d54615f0/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/ab/ab35a3f6b758cfc18641331208771d46/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
+                }
+            }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
     }
 }

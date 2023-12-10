@@ -1,15 +1,36 @@
 {
     "1": {
         "intro": {
-            "end": 60,
-            "start": 0
+            "start": 0,
+            "end": 60
         },
         "title": "Episode 1",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/025bc7670104d8328150a748546b24c22e36709a9be472c47efce9558d1a9341d610640499db03cc00d6461c3216dc497ca6f9c31e8944f7da849527b177ec5b0a6498b6e30cd7bf70547bf42643dddcd493a72aa67d7ff9d6409fb0a91afe452f37cd7d638183bc2bced2ddfe65dca6348d860cc6a36295ece4246b3e33fdc4/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/11/5d/115d22f6c3f411e2b3ae001621ab53a6/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/11/5d/115d22f6c3f411e2b3ae001621ab53a6/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/11/5d/115d22f6c3f411e2b3ae001621ab53a6/ind-5.vtt",
+                            "lang": "Indonesian - Bahasa Indonesia"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/11/5d/115d22f6c3f411e2b3ae001621ab53a6/tha-3.vtt",
+                            "lang": "Thai - \u00e0\u00b8\u00a0\u00e0\u00b8\u00b2\u00e0\u00b8\u00a9\u00e0\u00b8\u00b2\u00e0\u00b9\u201e\u00e0\u00b8\u2014\u00e0\u00b8\u00a2"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/11/5d/115d22f6c3f411e2b3ae001621ab53a6/vie-4.vtt",
+                            "lang": "Vietnamese - Ti\u00e1\u00ba\u00bfng Vi\u00e1\u00bb\u2021t"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/45/45840566990d2ed001672f9b311b56d2/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www043.vipanicdn.net/streamhls/1a372e68e91323e0096e93ba940bcf1d/ep.1.1677834494.m3u8"
@@ -22,19 +43,44 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTk3MTUy"
+        },
+        "outro": {
+            "start": 365,
+            "end": 393
         }
     },
     "2": {
         "intro": {
-            "end": 60,
-            "start": 0
+            "start": 0,
+            "end": 60
         },
         "title": "Episode 2",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/f39b3c1ebca681f6a7a7f77c23aac5c81e6f5c08a8fe8e2784452d1af795d927cedc901514debbf2bf6928f074a490cc02f11948a6036ef8f7af0065fb122b8f66dce4248cc017896ee04a0a7a8f74e72a2a72bbc93e7fe37738a2b2cb519ae85c5f0db3a0892f8a41bba2fe02bb138531a29404d8b45878beeff0f4285e899e/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/99/6f/996f5369d910ca19358b89b1b1af734f/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/99/6f/996f5369d910ca19358b89b1b1af734f/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/99/6f/996f5369d910ca19358b89b1b1af734f/ind-5.vtt",
+                            "lang": "Indonesian - Bahasa Indonesia"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/99/6f/996f5369d910ca19358b89b1b1af734f/tha-3.vtt",
+                            "lang": "Thai - \u00e0\u00b8\u00a0\u00e0\u00b8\u00b2\u00e0\u00b8\u00a9\u00e0\u00b8\u00b2\u00e0\u00b9\u201e\u00e0\u00b8\u2014\u00e0\u00b8\u00a2"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/99/6f/996f5369d910ca19358b89b1b1af734f/vie-4.vtt",
+                            "lang": "Vietnamese - Ti\u00e1\u00ba\u00bfng Vi\u00e1\u00bb\u2021t"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/d0/d00dcdfc14b292d41d8dfc94bd51ffb0/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www033.vipanicdn.net/streamhls/1a372e68e91323e0096e93ba940bcf1d/ep.2.1677814963.m3u8"
@@ -47,19 +93,44 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTk3MTYy"
+        },
+        "outro": {
+            "start": 328,
+            "end": 360
         }
     },
     "3": {
         "intro": {
-            "end": 60,
-            "start": 0
+            "start": 0,
+            "end": 60
         },
         "title": "Episode 3",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/6683e3da07c08bd7f3f32d9ae1ca2606ff6f24193b6fe0e161b0efe37da4470551da07f90397375333faf440d031d0735cb342bd0286743b7f4cc24dfc3e14a931c1711874120d379d5742833234288e6fe51cd1501bffed1be8e7e434f3e85aa20ff1322481c8565b4b5806af3b3b78e691b2c04232425f1ed62667f03cc5db/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/27/63/2763d3c71d679149bf33ca9597374352/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/27/63/2763d3c71d679149bf33ca9597374352/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/27/63/2763d3c71d679149bf33ca9597374352/ind-5.vtt",
+                            "lang": "Indonesian - Bahasa Indonesia"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/27/63/2763d3c71d679149bf33ca9597374352/tha-3.vtt",
+                            "lang": "Thai - \u00e0\u00b8\u00a0\u00e0\u00b8\u00b2\u00e0\u00b8\u00a9\u00e0\u00b8\u00b2\u00e0\u00b9\u201e\u00e0\u00b8\u2014\u00e0\u00b8\u00a2"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/27/63/2763d3c71d679149bf33ca9597374352/vie-4.vtt",
+                            "lang": "Vietnamese - Ti\u00e1\u00ba\u00bfng Vi\u00e1\u00bb\u2021t"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/c6/c68591be09302336b5f2abed1581270b/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www046.vipanicdn.net/streamhls/1a372e68e91323e0096e93ba940bcf1d/ep.3.1677836716.m3u8"
@@ -72,19 +143,44 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTk3NDc1"
+        },
+        "outro": {
+            "start": 246,
+            "end": 270
         }
     },
     "4": {
         "intro": {
-            "end": 60,
-            "start": 0
+            "start": 0,
+            "end": 60
         },
         "title": "Episode 4",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/909f061d298df3e6b02ad97803723b5cee8b709df9751f1e3cefb24efe5e0817863adb5fb5a7d69cdfbc73f8b468d35c96103225220db3748898ba5c08d7df0241e6af25c87db9b34d645b2533d40f7b4c463b95d47fad55df401de71709dbdf129ff2f99863069cf5c9016a10df98bc733f1a9e80327fe0f714f8bf13c97288/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/04/c4/04c41edb4a3ab1e181ec8c020f122e90/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/04/c4/04c41edb4a3ab1e181ec8c020f122e90/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/04/c4/04c41edb4a3ab1e181ec8c020f122e90/ind-5.vtt",
+                            "lang": "Indonesian - Bahasa Indonesia"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/04/c4/04c41edb4a3ab1e181ec8c020f122e90/tha-3.vtt",
+                            "lang": "Thai - \u00e0\u00b8\u00a0\u00e0\u00b8\u00b2\u00e0\u00b8\u00a9\u00e0\u00b8\u00b2\u00e0\u00b9\u201e\u00e0\u00b8\u2014\u00e0\u00b8\u00a2"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/04/c4/04c41edb4a3ab1e181ec8c020f122e90/vie-4.vtt",
+                            "lang": "Vietnamese - Ti\u00e1\u00ba\u00bfng Vi\u00e1\u00bb\u2021t"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/48/4883cfed7a7202411c6d53259c7f697d/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www034.vipanicdn.net/streamhls/1a372e68e91323e0096e93ba940bcf1d/ep.4.1677814283.m3u8"
@@ -97,19 +193,44 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTk3NzQz"
+        },
+        "outro": {
+            "start": 259,
+            "end": 283
         }
     },
     "5": {
         "intro": {
-            "end": 60,
-            "start": 0
+            "start": 0,
+            "end": 60
         },
         "title": "Episode 5",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/27c87de8592f319cd4b2614cebb9817aa10dfdeedccca533e9f0bac8caed5a0c04f593acb4857b4bacf02f2abb6dba0dbd9051ef1a67c38e3d00bb588a411519c408ad15e68a785272f75e47f06880c4d8f445efee589fef5bcdc00d5e5f0ca2d48fe329b0dd20ed9734860e557f4cf2b5a56f2dd7ae0792b6f619ebbdeb67a5/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/75/d8/75d8606a69694a665b0c9c89f74b47fa/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/75/d8/75d8606a69694a665b0c9c89f74b47fa/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/75/d8/75d8606a69694a665b0c9c89f74b47fa/ind-5.vtt",
+                            "lang": "Indonesian - Bahasa Indonesia"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/75/d8/75d8606a69694a665b0c9c89f74b47fa/tha-3.vtt",
+                            "lang": "Thai - \u00e0\u00b8\u00a0\u00e0\u00b8\u00b2\u00e0\u00b8\u00a9\u00e0\u00b8\u00b2\u00e0\u00b9\u201e\u00e0\u00b8\u2014\u00e0\u00b8\u00a2"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/75/d8/75d8606a69694a665b0c9c89f74b47fa/vie-4.vtt",
+                            "lang": "Vietnamese - Ti\u00e1\u00ba\u00bfng Vi\u00e1\u00bb\u2021t"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/bb/bb9066f63fc39f462a9b049a2b93f051/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www038.vipanicdn.net/streamhls/1a372e68e91323e0096e93ba940bcf1d/ep.5.1677813982.m3u8"
@@ -122,19 +243,44 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTk4MDY3"
+        },
+        "outro": {
+            "start": 292,
+            "end": 323
         }
     },
     "6": {
         "intro": {
-            "end": 60,
-            "start": 0
+            "start": 0,
+            "end": 60
         },
         "title": "Episode 6",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/7b14f2f25f719b82d3bb15d27e25cdcdd17d521b725893ba56f52ef5a77c538b14560209102477ad54312609d091e1e4f8dd76adce18f083f797e5fead33db42e639514378949ef9c74888b8265203eae126af04a572d32cacb58bb63e5a9b416e61c2f48ae77f2a1bb2226dc6aa964d1a067e2dd9240f3bdbcf82ff3b45b8ed/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/4e/2e/4e2ec3d8be558188a5dc8a0433cd7664/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/4e/2e/4e2ec3d8be558188a5dc8a0433cd7664/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/4e/2e/4e2ec3d8be558188a5dc8a0433cd7664/ind-5.vtt",
+                            "lang": "Indonesian - Bahasa Indonesia"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/4e/2e/4e2ec3d8be558188a5dc8a0433cd7664/tha-3.vtt",
+                            "lang": "Thai - \u00e0\u00b8\u00a0\u00e0\u00b8\u00b2\u00e0\u00b8\u00a9\u00e0\u00b8\u00b2\u00e0\u00b9\u201e\u00e0\u00b8\u2014\u00e0\u00b8\u00a2"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/4e/2e/4e2ec3d8be558188a5dc8a0433cd7664/vie-4.vtt",
+                            "lang": "Vietnamese - Ti\u00e1\u00ba\u00bfng Vi\u00e1\u00bb\u2021t"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/7b/7b01985e60ef74fa4142a089e3728359/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www043.vipanicdn.net/streamhls/1a372e68e91323e0096e93ba940bcf1d/ep.6.1677833739.m3u8"
@@ -147,19 +293,44 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTk4NDEy"
+        },
+        "outro": {
+            "start": 403,
+            "end": 429
         }
     },
     "7": {
         "intro": {
-            "end": 60,
-            "start": 0
+            "start": 0,
+            "end": 60
         },
         "title": "Episode 7",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/6cf1137a4d16db02073b76cbeed29b14eac942c07aafaa00b2eb6809e08cf02e2a777541fbbd80f29d92c66f81eb69f08b576a343302308e49422966d357a108192e848245b47a057792088130f984734adeb80c88ef66225bbf1691049848ed83a7885be123ed92fdd29774c40e113c681e0b1f0e21471a21f454bc393a8f5a/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/e5/dc/e5dc8a0c9f62148e0276ce0060fd5d6b/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/e5/dc/e5dc8a0c9f62148e0276ce0060fd5d6b/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/e5/dc/e5dc8a0c9f62148e0276ce0060fd5d6b/ind-5.vtt",
+                            "lang": "Indonesian - Bahasa Indonesia"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/e5/dc/e5dc8a0c9f62148e0276ce0060fd5d6b/tha-3.vtt",
+                            "lang": "Thai - \u00e0\u00b8\u00a0\u00e0\u00b8\u00b2\u00e0\u00b8\u00a9\u00e0\u00b8\u00b2\u00e0\u00b9\u201e\u00e0\u00b8\u2014\u00e0\u00b8\u00a2"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/e5/dc/e5dc8a0c9f62148e0276ce0060fd5d6b/vie-4.vtt",
+                            "lang": "Vietnamese - Ti\u00e1\u00ba\u00bfng Vi\u00e1\u00bb\u2021t"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/5c/5c45d618c601e3755de7f011e92cc575/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www044.vipanicdn.net/streamhls/1a372e68e91323e0096e93ba940bcf1d/ep.7.1677837851.m3u8"
@@ -172,19 +343,44 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTk4NzUz"
+        },
+        "outro": {
+            "start": 267,
+            "end": 290
         }
     },
     "8": {
         "intro": {
-            "end": 60,
-            "start": 0
+            "start": 0,
+            "end": 60
         },
         "title": "Episode 8",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/3fc3a5788b9b0509e27ab143b63aa242ff785c0cd279eedcfdae3b423d0716a0fb039a62d185400c77a94a5a75c4190b016c79a9c2340e14be549a78f86b9bfd72985afbaefdf6a0431f55335350c977076e5432bb442d50d13c8217253373d7d1282141a2431b6b3d62dd195c97e9a7904b411013441ff0780899b4a6ef2d45/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/18/37/1837903c4ee39c7e372b1957da188cb2/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/18/37/1837903c4ee39c7e372b1957da188cb2/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/18/37/1837903c4ee39c7e372b1957da188cb2/ind-5.vtt",
+                            "lang": "Indonesian - Bahasa Indonesia"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/18/37/1837903c4ee39c7e372b1957da188cb2/tha-3.vtt",
+                            "lang": "Thai - \u00e0\u00b8\u00a0\u00e0\u00b8\u00b2\u00e0\u00b8\u00a9\u00e0\u00b8\u00b2\u00e0\u00b9\u201e\u00e0\u00b8\u2014\u00e0\u00b8\u00a2"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/18/37/1837903c4ee39c7e372b1957da188cb2/vie-4.vtt",
+                            "lang": "Vietnamese - Ti\u00e1\u00ba\u00bfng Vi\u00e1\u00bb\u2021t"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/08/081c6aac87b1cd81c09036a5838f8cff/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www020.vipanicdn.net/streamhls/1a372e68e91323e0096e93ba940bcf1d/ep.8.1677636492.m3u8"
@@ -197,19 +393,44 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTk5MTg5"
+        },
+        "outro": {
+            "start": 303,
+            "end": 324
         }
     },
     "9": {
         "intro": {
-            "end": 60,
-            "start": 0
+            "start": 0,
+            "end": 60
         },
         "title": "Episode 9",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/7324c7728b30c5ff519f67ad53cbe547a6924534486df552d408183b7ec27a720dce4f45ea1e7743dd282ce0367f2ffc68480e2892e3d2c6ca7dd73b550055a0906d99bedc8a2b8b99655f93d3495938276454422673cf3ddf8af842c2dc3995cfd0bcb1c255fece7bd4125b37e4ec0d8007e6e2f30d07b9b4c9ed822f8649e1/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/76/08/7608454778a41a7864068fb8162f8a95/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/76/08/7608454778a41a7864068fb8162f8a95/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/76/08/7608454778a41a7864068fb8162f8a95/ind-5.vtt",
+                            "lang": "Indonesian - Bahasa Indonesia"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/76/08/7608454778a41a7864068fb8162f8a95/tha-3.vtt",
+                            "lang": "Thai - \u00e0\u00b8\u00a0\u00e0\u00b8\u00b2\u00e0\u00b8\u00a9\u00e0\u00b8\u00b2\u00e0\u00b9\u201e\u00e0\u00b8\u2014\u00e0\u00b8\u00a2"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/76/08/7608454778a41a7864068fb8162f8a95/vie-4.vtt",
+                            "lang": "Vietnamese - Ti\u00e1\u00ba\u00bfng Vi\u00e1\u00bb\u2021t"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/23/23aec60e7154c9da9ef5590ff27c9267/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www044.vipanicdn.net/streamhls/1a372e68e91323e0096e93ba940bcf1d/ep.9.1677837595.m3u8"
@@ -222,19 +443,44 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTk5NjUz"
+        },
+        "outro": {
+            "start": 334,
+            "end": 359
         }
     },
     "10": {
         "intro": {
-            "end": 60,
-            "start": 0
+            "start": 0,
+            "end": 60
         },
         "title": "Episode 10",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/44ce6396c663f6336a921d51850cded6859d83dcd2b0833022688d66619e2e04c687baa272c4364dfc0d4d4a9eb592f5aec1009c2c6f40d06044873af6dc8dfefdd765a34a2445c07e6de7f82a42bc678dfc4ad4368873dee63508ae1d8d161cbf0002e18083fecfe5361c552c764683532f3d2b1a8962c8c57cf6a52860d9e5/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/12/fa/12fa772118117e270c0a343887149383/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/12/fa/12fa772118117e270c0a343887149383/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/12/fa/12fa772118117e270c0a343887149383/ind-5.vtt",
+                            "lang": "Indonesian - Bahasa Indonesia"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/12/fa/12fa772118117e270c0a343887149383/tha-3.vtt",
+                            "lang": "Thai - \u00e0\u00b8\u00a0\u00e0\u00b8\u00b2\u00e0\u00b8\u00a9\u00e0\u00b8\u00b2\u00e0\u00b9\u201e\u00e0\u00b8\u2014\u00e0\u00b8\u00a2"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/12/fa/12fa772118117e270c0a343887149383/vie-4.vtt",
+                            "lang": "Vietnamese - Ti\u00e1\u00ba\u00bfng Vi\u00e1\u00bb\u2021t"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/f1/f14c35481fafd6efc8d41002e029af07/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www038.vipanicdn.net/streamhls/1a372e68e91323e0096e93ba940bcf1d/ep.10.1677813220.m3u8"
@@ -247,19 +493,44 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTk5OTY3"
+        },
+        "outro": {
+            "start": 345,
+            "end": 366
         }
     },
     "11": {
         "intro": {
-            "end": 60,
-            "start": 0
+            "start": 0,
+            "end": 60
         },
         "title": "Episode 11",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/27c767a441da709adcd3dc6f7a8227b59034dfb547bb09fb609d7a96d41d3f607bbf91b1d4cce673b9ca0a204142cc2291b95cc37ddddf4b8a57c35e0747a53132fc696ee90d5e6290c9d0cc7f7f532904250ff2c138680f2283e9b67b58459f2e2c259f4dde6b9f47ae9329eb26d0114e331ced3fc3329107850c89ff17f209/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/16/40/164074cd0d5cc8b154e294f5d2231f75/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/16/40/164074cd0d5cc8b154e294f5d2231f75/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/16/40/164074cd0d5cc8b154e294f5d2231f75/ind-5.vtt",
+                            "lang": "Indonesian - Bahasa Indonesia"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/16/40/164074cd0d5cc8b154e294f5d2231f75/tha-3.vtt",
+                            "lang": "Thai - \u00e0\u00b8\u00a0\u00e0\u00b8\u00b2\u00e0\u00b8\u00a9\u00e0\u00b8\u00b2\u00e0\u00b9\u201e\u00e0\u00b8\u2014\u00e0\u00b8\u00a2"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/16/40/164074cd0d5cc8b154e294f5d2231f75/vie-4.vtt",
+                            "lang": "Vietnamese - Ti\u00e1\u00ba\u00bfng Vi\u00e1\u00bb\u2021t"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/2f/2f28f18ddaadf65dbea54a80effa436d/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www036.vipanicdn.net/streamhls/1a372e68e91323e0096e93ba940bcf1d/ep.11.1678243209.m3u8"
@@ -272,19 +543,44 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MjAwMzY1"
+        },
+        "outro": {
+            "start": 349,
+            "end": 374
         }
     },
     "12": {
         "intro": {
-            "end": 60,
-            "start": 0
+            "start": 0,
+            "end": 60
         },
         "title": "Episode 12",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/687aa06e7257113abe46fb33531b578dfabb1d84e8ef0d2d50f3e0f4614d9363b923f5caa7e9e2c0b043bee444f3f5129b97cfa73f926be75a81b16ee2f0b1857de2261435b0b611d9f1c8736fbdcb16cc649ddec02a47db397c53694d2a435f4287ba1d5035f86aaa69aa0df96be11eae9bf98af4ae88be020f4ec2bec03bef/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/57/a3/57a3d44cc57cffa217cf88a3a82e5297/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/57/a3/57a3d44cc57cffa217cf88a3a82e5297/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/57/a3/57a3d44cc57cffa217cf88a3a82e5297/ind-5.vtt",
+                            "lang": "Indonesian - Bahasa Indonesia"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/57/a3/57a3d44cc57cffa217cf88a3a82e5297/tha-3.vtt",
+                            "lang": "Thai - \u00e0\u00b8\u00a0\u00e0\u00b8\u00b2\u00e0\u00b8\u00a9\u00e0\u00b8\u00b2\u00e0\u00b9\u201e\u00e0\u00b8\u2014\u00e0\u00b8\u00a2"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/57/a3/57a3d44cc57cffa217cf88a3a82e5297/vie-4.vtt",
+                            "lang": "Vietnamese - Ti\u00e1\u00ba\u00bfng Vi\u00e1\u00bb\u2021t"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/3d/3dc3a40c7a0b9ecc6779ee447641288c/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www047.vipanicdn.net/streamhls/1a372e68e91323e0096e93ba940bcf1d/ep.12.1678848529.m3u8"
@@ -297,19 +593,44 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MjAwOTc2"
+        },
+        "outro": {
+            "start": 288,
+            "end": 326
         }
     },
     "13": {
         "intro": {
-            "end": 60,
-            "start": 0
+            "start": 0,
+            "end": 60
         },
         "title": "Episode 13",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/ff5075bbe8c188326ef53a887a5877d3ccba530254c97f0b04f95c1f4c4d64abc4eef3596898af9f0943ef52cdaa12dfe89acac0d118cbf8fc50481b2ea1e7b619f96fd165d00ebd737b75510abaee9bb0562a243f1753c6e40be8a3dbb67324ee6a1ae55fa19e2aa8764e17abdeab201b575caef84e1f0ff1740f392e63177d/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/36/7a/367aefa873cbf3b6120ef33e330919bd/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/36/7a/367aefa873cbf3b6120ef33e330919bd/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/36/7a/367aefa873cbf3b6120ef33e330919bd/ind-5.vtt",
+                            "lang": "Indonesian - Bahasa Indonesia"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/36/7a/367aefa873cbf3b6120ef33e330919bd/tha-3.vtt",
+                            "lang": "Thai - \u00e0\u00b8\u00a0\u00e0\u00b8\u00b2\u00e0\u00b8\u00a9\u00e0\u00b8\u00b2\u00e0\u00b9\u201e\u00e0\u00b8\u2014\u00e0\u00b8\u00a2"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/36/7a/367aefa873cbf3b6120ef33e330919bd/vie-4.vtt",
+                            "lang": "Vietnamese - Ti\u00e1\u00ba\u00bfng Vi\u00e1\u00bb\u2021t"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/5f/5fe9038e95ff261c9a275a7eea51e367/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www031.vipanicdn.net/streamhls/1a372e68e91323e0096e93ba940bcf1d/ep.13.1679451865.m3u8"
@@ -322,6 +643,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MjAxNDIw"
+        },
+        "outro": {
+            "start": 267,
+            "end": 291
         }
     }
 }

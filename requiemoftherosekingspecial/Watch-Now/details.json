@@ -1,20 +1,55 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
-            "DUBBED": {},
+            "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/914b213874075fb28d394582701adc47be7d60b309a2236de18f6501fd9a2484503afb6c717b7d5b1bc58ebcd3311df5aac39c1e4a056d79c0f13336e7b4bf5089dd609e40bd3f1c11427e8c11bd79f35773ae22431bc21ed2121adb70d7dd034609c69485cf0404f8fad0ea2e48aabcce9fe8f6caea0d6acf1077f63d7c7055/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/10/4f/104fd8e4d2e949283b1b50240c0f4a5b/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/00/0056fc4aa9b366ae92cfd225bd769006/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
+                }
+            },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/a1c2b5bb3b10ea90d626f37fdc3867a9f8aab03ea4944de22a07089d46a6fcb5860af4753627c904c94fac699bb474862e3fac2a0b71c0e7ab3c5a997714dd04a1d93dbd7646fd404d44e643f86008fa0d2a180f3461bb2eb62eedc4cc12e20b99e3673c700041124bb8faceb19f9740912a5c15f70faf9fe49745df399df63b/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/70/75/7075433f8ab90838d61bd12c52a337b1/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/70/75/7075433f8ab90838d61bd12c52a337b1/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/70/75/7075433f8ab90838d61bd12c52a337b1/por-3.vtt",
+                            "lang": "Portuguese - Portuguese(Brazil)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/70/75/7075433f8ab90838d61bd12c52a337b1/spa-4.vtt",
+                            "lang": "Spanish - Spanish(Latin_America)"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/00/0056fc4aa9b366ae92cfd225bd769006/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
     }
 }

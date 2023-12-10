@@ -1,20 +1,38 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=fairy-tail-houou-no-miko-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/77849dc3ad56f7c9a8860b0f5c648d46b24d662840be9d08a3826ad9402bc8cc6e7955bbca4ba362c409d840fdd29085947a6e2fe57ac7040991a24da848d294290bba50564f1b21b320e2c0cc3cc1f384522d5d395232946a3aba38702573d0d6a53c3a36cb555dd9b101b03223d11778e8d9a5f78afb5e91d2e5b6a7c42435/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/5f/5f8ac17ad0fd3b4748c7e4c1ba50b127/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/1369e608ac015379e0e9e5ed5e7fc8a614ebe2fbabbcd310a078ba675655102c0c2a93b97fabf4f64cab0040793226cc9ff80b85fc58651bfb2eced734d08869a4835d48da4be8f2ae01812012260b0fed8931fad988db455e0c24553925c091af156cf705a62b4652d01a48299534e392b2a3623008c7a699d322c6f2e44d87/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/bd/dd/bddddc9de0a77db8a3653c621848ef07/bddddc9de0a77db8a3653c621848ef07.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/1369e608ac015379e0e9e5ed5e7fc8a614ebe2fbabbcd310a078ba675655102c0c2a93b97fabf4f64cab0040793226cc9ff80b85fc58651bfb2eced734d08869a4835d48da4be8f2ae01812012260b0fed8931fad988db455e0c24553925c091af156cf705a62b4652d01a48299534e36b34d194c10c3c22cb32a2225333806b/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/bd/dd/bddddc9de0a77db8a3653c621848ef07/bddddc9de0a77db8a3653c621848ef07.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/5f/5f8ac17ad0fd3b4748c7e4c1ba50b127/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www004.vipanicdn.net/streamhls/56631dc3581fa0b3d28f724d2c3063d9/ep.1.1677659640.m3u8"
@@ -27,6 +45,10 @@
         "isFiller": true,
         "downloadLink": {
             "SUBBED": "NDA3NDM="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

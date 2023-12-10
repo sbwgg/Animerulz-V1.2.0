@@ -1,20 +1,38 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "OVA",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=argento-soma-special-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/9363c2f79a5700066f2e7a6207c6f8f6867fea787a95d130a92ffbed69d152536c3aef6f321f6d95882542c8fd1b8c2c7a2a79e8f7a245c1194445e6deba8e6d632ef5cbc975f2882088a4a75d7af198db367b3ad3992ceb92e0be8c6b61d5cd2b7eca8ed823cca91e9ccec8160fac08/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/16/168cb310d9824d0326d23711b9513d4d/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/972277359edd3a253dafd4d23f279afbe6bc1a735105496af74271d036129e455d7f7c002a5734fe44a13dab407ef0539a88b32815881dd9093bb79919903949ccdf7a41bee473b4b2dd955168dfa4dcae14fe5fcc9ee28522f6f1fcfcdeea9681c4b4237fb4dc26cc2d7c673f69611c/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/a6/82/a68278129e8618819efd2b9fe3fc4de9/a68278129e8618819efd2b9fe3fc4de9.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/972277359edd3a253dafd4d23f279afbe6bc1a735105496af74271d036129e455d7f7c002a5734fe44a13dab407ef0539a88b32815881dd9093bb79919903949ccdf7a41bee473b4b2dd955168dfa4dcae14fe5fcc9ee28522f6f1fcfcdeea961072cbb96b14882490efe349eafbd1aa/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/a6/82/a68278129e8618819efd2b9fe3fc4de9/a68278129e8618819efd2b9fe3fc4de9.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/16/168cb310d9824d0326d23711b9513d4d/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www042.vipanicdn.net/streamhls/1b7d5f4b665698532364283770f5f661/ep.1.1677848513.m3u8"
@@ -27,6 +45,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTUzMTUx"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

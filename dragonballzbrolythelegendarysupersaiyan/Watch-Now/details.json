@@ -1,20 +1,42 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=dragon-ball-z-movie-8-broly-the-legendary-super-saiyan-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/b0e7f0eabc84fff36c8d820cbd792ece38e848c7384cc582104250cc84e1717b5381b9edc496ec806de923a1f6b505d6f895a5971b14b6b34d194795e96d333053379272d4289092ac863ffe3f30cbe33e742f93e8f960342a84528898dc93383be43e5477c1a7740167c568b9249ee7561db58bb5206c27dc0b700519bd711d/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/f0/f0a53987f70a7636c2ed2b41f3f5c0bc/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/1f221644ed1e444c66ae0ba325e8ef093453e3477ab433e8e24215b5d9f76923e430aa89e8114d633052f8b237fcd333494edb0bcab57c690fb5310393492a513e7b93e44108af49bd755aaced88ef0220f485a920c6fbf8c39b3a23c8ae3db467be4ffaa31e71f66f570f1ed79362a46cd3f54699e865b34cdb894f8652b797/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/fb/5c/fb5c64046f8ead376e5d5a036fef6764/eng-4.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/fb/5c/fb5c64046f8ead376e5d5a036fef6764/eng-4.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/8f/33/8f3358a61de7a2bcc6dc2154e78f8b28/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/f0/f0a53987f70a7636c2ed2b41f3f5c0bc/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www019.vipanicdn.net/streamhls/44865e6acf6955d335ca215109531a4d/ep.1.1677660923.m3u8"
@@ -27,6 +49,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDA3Mjg="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

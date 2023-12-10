@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,30 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=shika-no-ou-yuna-to-yakusoku-no-tabi-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/e15a3ee1059da4e59f73049f52e3b04a93fb43286e6f56ed86c4488c3c123832f85f82ec8822e9834b98d920e10621bd4ee26a7652a29f184d8f29feb0df104c91cd4682b1761e80d32174b0d4704bae23184abc17effcb8a35c15101494464dffe7c1e33426b85835a7c94bbb7db059d7ae67bf6763432ccc8f8ac9f6983fd6/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/f9/f9b0328d4fc3b80d32b934cd9d54d8f7/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/d483576434b04b17b4db754a877f6910411b74c99cf225e1c67420d3fd180f5ebd50e11c2ab8a5017c919959f9813e4049becaa4fc2380ac955661febeebf76b76db51db0eeb27253072ca8c4b6351a48cfc0a28a21143964cf1bafcc72730fb34a457c017fb02f0b5421f4801c89989144a7d8b10d9ac632325a57ca1ac90cc/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/72/ae/72ae687147e06dea29e560005778bd01/72ae687147e06dea29e560005778bd01.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/72/ae/72ae687147e06dea29e560005778bd01/72ae687147e06dea29e560005778bd01.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/f9/f9b0328d4fc3b80d32b934cd9d54d8f7/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www035.vipanicdn.net/streamhls/52589957c6c0185bd367050bc43fc41e/ep.1.1677817389.m3u8"
@@ -31,6 +49,10 @@
         "downloadLink": {
             "DUBBED": "MTkzMzQy",
             "SUBBED": "MTkzMjI0"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

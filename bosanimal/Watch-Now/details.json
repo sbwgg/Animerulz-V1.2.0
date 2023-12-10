@@ -1,19 +1,32 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Episode 1-10",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/12fc47444fdf5c38c39400ae52a7d22d9c4b74b71eef76bea51948aef545e9af06cd772ff12dec43271669efa57ed7a164cd0406c0635289a28c8cfb6625081f00de8b588ff6c6e52d411cf9ac1580d04b1a8c8dbce999312665b999846e1f5a016f51133621e6b244ad3b07f569cc3393d05666cfb2fed08c6580b1dc9816d9/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/d7/95/d795fe0c6120da21f69831b8b3722e09/d795fe0c6120da21f69831b8b3722e09.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/d7/95/d795fe0c6120da21f69831b8b3722e09/d795fe0c6120da21f69831b8b3722e09.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/27/276c7367049c36008c2bbec0c2d3dbd1/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
     }
 }

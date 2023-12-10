@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,34 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=fullmetal-alchemist-the-sacred-star-of-milos-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/a05ef620ee0ed645e6176b04398c48817d80dd7cbde672f5a232b5fcb2701f7f8c95f02557264cb8e3434965d5280007382cfa1d4e85a933182175f88c89ebf47a4d7ddb7dc33609780f3d39b51a872dcb60d87a61a9273f27b52a79e2d38b5d8e961902ffddd3f9c3f192362356ba7516447470ccc72577d166d88e8ae87b7a/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/10/1011871f80ce4d197e8e1a3307d28b42/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/088427a1d335b9696977e7a6fa9b9e339ea661f86bb173ac4bd4d2517a1f8bb26c51778e375e063bbf08f4e17afd44b8bd06c394b118ca2748747d657c29ced35bbc7186f021d0ad35d3b3a27a0984ad17a21ecb6a7ce0561fbc186360e7b01b92941c6c262b6c9d34a8d0d5d28a96352f7dc099ef56e9c5b452c26359ff07d8/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/54/a4/54a479901dfe76a03b83055f1dd7b62e/eng-3.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/088427a1d335b9696977e7a6fa9b9e339ea661f86bb173ac4bd4d2517a1f8bb26c51778e375e063bbf08f4e17afd44b8bd06c394b118ca2748747d657c29ced35bbc7186f021d0ad35d3b3a27a0984ad17a21ecb6a7ce0561fbc186360e7b01b92941c6c262b6c9d34a8d0d5d28a963590bf079d9f06a1a96aa53b05995e1b15/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/54/a4/54a479901dfe76a03b83055f1dd7b62e/eng-3.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/54/a4/54a479901dfe76a03b83055f1dd7b62e/eng-4.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/10/1011871f80ce4d197e8e1a3307d28b42/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www030.vipanicdn.net/streamhls/195178395af3c92b41820926da375a71/ep.1.1677660415.m3u8"
@@ -31,6 +53,10 @@
         "downloadLink": {
             "DUBBED": "MTA3MDEx",
             "SUBBED": "NDA3Mzk="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

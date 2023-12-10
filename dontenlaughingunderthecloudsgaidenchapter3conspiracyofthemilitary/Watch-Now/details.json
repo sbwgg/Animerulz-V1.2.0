@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,34 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=donten-ni-warau-gaiden-ouka-tenbou-no-kakehashi-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/062292fac0656cada244bb31882141cb9c4bed977e8040dee047f7b6ecf18cf937d428761b470e38158f9eebebd0266023ac949f56c7a8c8ccb8a7fb990e1e3b27b3c16c64ae1eeaabb6e55c027692e66aeb26b0ec7b8eb603531292f6e0fbf160415af106b6c350cd88c1cf1239b684f241515a53485220266dabddafca45a9/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/e2/96/e296a24d6f0e562ca7898b437c7c59cd/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/5f/5f8114fccc69544e064c8e3f958139ff/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/aae2829bb1b624b2f186b8aedf63b2f76a3732bf7ef351aab476c314e891faba7afbf43afc1e7ac9fa0ca6d84ecdb69aa1fbe691bd9bfad5e9aad184b3497279f0df27a558574c426f271703435dc9a09a5be5bcbab83dc66220b4a8ece09a66b70f62c939edce070782a26cf715ff29ea5f25ba5ad04730556f34b38c08cbca/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/c3/cc/c3ccfcdd16e177ce32f27b7d04faaa41/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/c3/cc/c3ccfcdd16e177ce32f27b7d04faaa41/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/5f/5f8114fccc69544e064c8e3f958139ff/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www031.vipanicdn.net/streamhls/43692145aa7c5bbc2815470fcac87bb9/ep.1.1677825980.m3u8"
@@ -31,6 +53,10 @@
         "downloadLink": {
             "DUBBED": "MTc3Mjk1",
             "SUBBED": "MTc3Mjgw"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

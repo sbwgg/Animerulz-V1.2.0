@@ -1,16 +1,45 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=dragon-ball-super-super-hero-camrip-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/32214ad04624fbbd411bda98ed8b10a6254dbc84f2191129c338af376bf7d41d44981e559c08667d96cfdbc1bfd75f55065616c2a311f5aa0282a02ac9f97201938d38b68769e37e22aa4a4f5d457841e0da4141a632cf8ca88dca29c7436f58b2430f95a5aa745f0e72ddcdb38b441564ffb96a2fe60cd4d847ac3ef6f5af54/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/c1/c5/c1c5b365880c1f5f903a3df5fed23639/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/cf/cfa46809f4d23de5a51570d641a2f7a0/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=dragon-ball-super-super-hero-camrip-episode-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/cbfac22d78857053af482651a4225710e04ba2ff79e2b606aa47bd432bfe6b7ad6d57fd635c25ec86aecd207d2b0206b48fabffd1b44949431b0662f462cce1559cd365de5a2e7bc5c8845ad13c493cf5739a5673a6750a6bbcd0a21afd1f6a2e714dbfcc6f8d3ce1e985bb388f6926577ea1d85ffb28aeeaea4b951164fc480/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/fc/d0/fcd0fe80dd0c04f5cbba7ac928b21623/fcd0fe80dd0c04f5cbba7ac928b21623.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/cf/cfa46809f4d23de5a51570d641a2f7a0/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "OTHER LANGUAGES": {
@@ -18,6 +47,10 @@
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
     }
 }

@@ -1,15 +1,32 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Lonely Vampire",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/6425a076bfe0c301c73a6cdede24433e5cb53a30f431358a65d0923d2ec7861ccdde30aaf1a845729ff94b0297f175c8aab16ca55494757a60b9d9a867d8f7f883c9a2c90e041c5b4dbd80b7b6488a12c70b5fb9201624de9acd4900d678dfa5c5fe9e4bbeba50e1f544f067bedd8ec192b896ea087b20c7888d44ec011f15b1/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/bc/b8/bcb85e66482a5c13cb6a5eb394a78838/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/bc/b8/bcb85e66482a5c13cb6a5eb394a78838/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/bc/b8/bcb85e66482a5c13cb6a5eb394a78838/por-4.vtt",
+                            "lang": "Portuguese - Portugues_Brasil"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/bc/b8/bcb85e66482a5c13cb6a5eb394a78838/spa-3.vtt",
+                            "lang": "Spanish - Espanol"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/cf/cfd55e33e440a20f4edc30d9f7e443bd/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www048.vipanicdn.net/streamhls/50e8334e2afdf9e45c74a6fc990a9c87/ep.1.1677859767.m3u8"
@@ -22,19 +39,40 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTI5OTk3"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     },
     "2": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Beneath the Cherry Tree Forest In Full Bloom",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/abe618fe2ee864b2ef3d8d2c4253981d26662367df828e78c1861ffa288a50a62dc7154f588b5b7d5d73219c0a4870558f2b4d93065c0f4eb26ff658e45e1d8ac3a229b387f91f5b844021b213a0088b200c2e66f30f333b67a16922fb2292de8c7280fee1baa35871e56ed515c20cbc9e9ba30e4c00b32065c4956a6143d4a6/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/2d/6d/2d6d46a444883e1e57cbf03246d40987/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/2d/6d/2d6d46a444883e1e57cbf03246d40987/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/2d/6d/2d6d46a444883e1e57cbf03246d40987/por-4.vtt",
+                            "lang": "Portuguese - Portugues_Brasil"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/2d/6d/2d6d46a444883e1e57cbf03246d40987/spa-3.vtt",
+                            "lang": "Spanish - Espanol"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/58/58e98fdd008d3bff989aeee2d891e131/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www049.vipanicdn.net/streamhls/50e8334e2afdf9e45c74a6fc990a9c87/ep.2.1677862315.m3u8"
@@ -47,6 +85,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTI5OTk4"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

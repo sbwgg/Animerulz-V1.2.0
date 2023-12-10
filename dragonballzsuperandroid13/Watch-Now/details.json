@@ -1,20 +1,42 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=dragon-ball-z-movie-7-super-android-13-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/e2640226a0140e3233e92289496216303c32178d60fa55c61b3cb2ae27f33f5c48005f56518bf08b52c06d7d883bf8630b359eed99126f85bd9812851f4132b1e0ca2c5d6c9ec035ca72b8a855d015119d6c2458a0e837fff4af90b6fdd0f1baabc2c83bd78582d3d2228f7be4928b637793e057eb65a9650264bd0231e4a590/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/0e/0ea94e7065788928cfd5b2338fd952c4/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/68bb8451b5915ab1b1b7d250646b30bd9ef205c1018b1e46532846bf7f1eecfc5450339b699fc9a35191c910f3e4753bce2341b6625be73c735557149825bfc526703ca8f9a229657ee1eb562abe5693aba77510356ce5895df119c0b3070bfb5e9639fedbb95dc60fb8edf684b73e11d1c4afea69b92558a8ad4433f889b8d4/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/d3/7d/d37d3f92f1808188e47174cfea1c7734/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/d3/7d/d37d3f92f1808188e47174cfea1c7734/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/4b/4a/4b4aed55b849b4e63eaf5d2ca0d3ed9f/eng-4.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/0e/0ea94e7065788928cfd5b2338fd952c4/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www016.vipanicdn.net/streamhls/c65b2c0700fa1b16dc05d803fe1cc787/ep.1.1677659703.m3u8"
@@ -27,6 +49,10 @@
         "isFiller": true,
         "downloadLink": {
             "SUBBED": "NDA3MjU="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

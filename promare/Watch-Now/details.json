@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,30 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=promare-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/a53b4e785a232a82237487c2147efe8a6f484a931341a621171b77a4a7df10448e4ef2868b63a340f492fd08bfd399f3fb6cba7224be3cd119bc652625bb2833f209aa9948a97ec669fc60c0d488433cc374e8423e48fcf451b1d2e71a8fe86c3d1231c2858073be253130eab58453874d25882167f8ff060e8915de8d520041/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/e2/e2f89118f0c4786fff318b9ec5724164/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/f2693198fef61bba07dc37c7c9b1f6da6eed01b94273ea2ab3ea3ea8a5407864486e197d04386e50fc03800f9d76e73c6bd31e61c152eb7b70b57ed9d65d482ec8680072ab909403d1d8ac03edd430c5131d94060bdba5625312abbe89a170cb87fd6530d899c66adc999a3d458660e06c0bbe4889c8f66569b243734bf2c871/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/f9/21/f921c67830967fcd2a2965a0487904db/f921c67830967fcd2a2965a0487904db.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/f2693198fef61bba07dc37c7c9b1f6da6eed01b94273ea2ab3ea3ea8a5407864486e197d04386e50fc03800f9d76e73c6bd31e61c152eb7b70b57ed9d65d482ec8680072ab909403d1d8ac03edd430c5131d94060bdba5625312abbe89a170cb87fd6530d899c66adc999a3d458660e0650a9adb5a0224ac818c41eaf64d037a/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/f9/21/f921c67830967fcd2a2965a0487904db/f921c67830967fcd2a2965a0487904db.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/e2/e2f89118f0c4786fff318b9ec5724164/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www017.vipanicdn.net/streamhls/0d93bba65dffa9d6bba8540c62b38dbd/ep.1.1677699283.m3u8"
@@ -31,6 +49,10 @@
         "downloadLink": {
             "DUBBED": "MTM4OTk2",
             "SUBBED": "MTM2MjE2"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

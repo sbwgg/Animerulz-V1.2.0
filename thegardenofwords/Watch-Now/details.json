@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,34 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=kotonoha-no-niwa-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/99cdb0bd791d00b4fe108137180105d97bde81ff72486ca51dbefa5f945a6e17084e44333aba3323eac481528bebc866fb2e72efffeb2d65eba5adfea1e817b663beda9766d21fffdc1e776854a6e5e84333743157f6cf0c275964e854ba127e808615689feacd0667c83057006cb9f379e62ca766b5bec27843091d45a8ae2f/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/cb/cb17c1408b28314c07f2fd3ebe97b696/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/3b901121fbc21af8bb2b504aa2f5286401d66a24529d3f1d8906a3d3c23ce2e6352c5a97e4178bfb0661ca1ee81d91342c32b3215067e766b5f74944557a87a5a2f8fd0ecbc1790beecbd2373da856087700128c77931e166922ffad550b67ec9dbb7214ec019affff2551ba52fbfcff68084007504c3a765336d15bb9be9c59/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/e2/c7/e2c7ecceea34b13761b54cda567b9e63/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/e2/c7/e2c7ecceea34b13761b54cda567b9e63/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/e2/c7/e2c7ecceea34b13761b54cda567b9e63/ita-3.vtt",
+                            "lang": "Italian"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/cb/cb17c1408b28314c07f2fd3ebe97b696/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www010.vipanicdn.net/streamhls/bd32e2371cda9342def90bc2c31b3a23/ep.1.1677597628.m3u8"
@@ -31,6 +53,10 @@
         "downloadLink": {
             "DUBBED": "MTM1ODg2",
             "SUBBED": "NDA2NTk="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

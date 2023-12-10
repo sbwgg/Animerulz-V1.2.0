@@ -1,20 +1,46 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Kono Subarashii Choker ni Shukufuku wo! (OVA)",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=kono-subarashii-sekai-ni-shukufuku-wo-ova-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/683990460ddced0401f96d15173171e96c77e0830d7fc473d17991cbc5ef1ba195cb25b748322a7392f7a19922c55bb8becea21ca7d5db01eea4f5dfd27d39c658f80f63e97275b6274840b685f0314aecae71475800a98611512dbe77e1c79c1dd4e833c4bdae11123c273858a0c0d2a5ab16e12a11198324b1a3dee3b88755/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/d2/d223dc4ca492e49522738e1d92cf612d/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/1d15d0b0348464ec98d4c38a0b076ded596bcebebe5c4f3f1d37407926883c7d868c6608319acfe58f9b6704b439e8fa661a2884402b6ffebc5d6a4f094af78978457d5d6fb3144dba0444db17a46ed827aef00ea3b0514c427ef29df1274b1028edfda8d24c3647b03d74f9d581e1205f2a2cdf41121bc8463abde23d9b293c/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/f0/e8/f0e884abd833097eec275c65c1679a5f/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/f0/e8/f0e884abd833097eec275c65c1679a5f/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/f0/e8/f0e884abd833097eec275c65c1679a5f/por-4.vtt",
+                            "lang": "Portuguese - Portugues(Brasil)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/f0/e8/f0e884abd833097eec275c65c1679a5f/spa-3.vtt",
+                            "lang": "Spanish - Espanol"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/d2/d223dc4ca492e49522738e1d92cf612d/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www019.vipanicdn.net/streamhls/08206e353ae1bfc2eca678bddb83780e/ep.1.1677667473.m3u8"
@@ -27,6 +53,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NzI0MDg="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

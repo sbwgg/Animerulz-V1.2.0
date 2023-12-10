@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,30 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=bayonetta-bloody-fate-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/2c6b9bacbfc6f80c068c0e81c217076af09d9c65d67a1b5c1acdd446de7d90b08412a1064d35d337ad9459d6f414563fc87cce064fb4d1268d492c820b05942a761cb35deb05e9fbba103f9b7b8cac49939db040a57d39958ac7109d48e87be4fe4b19d5a78c7de31850a926566d21431e5d270c12d176b327a5c8f7b13327fe/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/51/51a343dd047a46a35138af3f8ede8c71/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/0e88890176b05241c7903b7c182b11c532275e28f878e40db8efae091d574d6eedc8b9a6733ce1cf13f1168a974101d2ea217e65395566814c24cf369767cf74f856e43163b1bc10aa71b24828720b98e54f90fa070c8929d6108f160a72ef7ed4adfadbb9b4c7c4c9241139155630ec2aa9dbf4106b3a8eb5109d029f4631dc/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/f5/72/f57262f427ebdc52d9bbd57d7ab8616f/eng-0.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/f5/72/f57262f427ebdc52d9bbd57d7ab8616f/eng-0.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/51/51a343dd047a46a35138af3f8ede8c71/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www018.vipanicdn.net/streamhls/652202a56ebc9173e9f0dcc7dd1b6fec/ep.1.1677632535.m3u8"
@@ -31,6 +49,10 @@
         "downloadLink": {
             "DUBBED": "MTIyMTQ5",
             "SUBBED": "MTIyMTQ3"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

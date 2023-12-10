@@ -1,20 +1,42 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=metropolis-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/24e90350acdf0e98ff0859f03ee124fd6fd5bf4360ee156164d01b61ce41171e23e8e1034f2491fd0bc957d1af941f655b0c167037c11a946ea0bea7cd32c66e5da985435636885f6e3804fabe2d7cacfc13bd17a8f4301066f6581fab085f20b015ed977ac579582c83f25ce81381c3ad6280af4126fb0b68e475027395fd7a/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/31/2d/312d92d095f82fe22ead463a64876245/312d92d095f82fe22ead463a64876245.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/20/20b7dd4bd1952966fc5cf2b2e8217df7/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/2edd01f0038de67e0b62c8f1b6c672b4e90400289d4fe5b45d37f1a7090ab4aeafacbc03f3ce6f0609071553c6ee26138b70738a73939c35d6511f5f7170ea6c95b0209ac5bc18c88302bdfae404155ffc83a759ac7d067584d76c8f57051246bdf4e3926cabb17fc0611757c16411ab7bd03cf7e98548b4c9c798d996474f78/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/1b/c6/1bc68a83b38ac27b406036450e200883/1bc68a83b38ac27b406036450e200883.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/1b/c6/1bc68a83b38ac27b406036450e200883/1bc68a83b38ac27b406036450e200883.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/20/20b7dd4bd1952966fc5cf2b2e8217df7/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www020.vipanicdn.net/streamhls/39f4b4d7b2639ac9e8e77c33e462e0ee/ep.1.1677660972.m3u8"
@@ -27,6 +49,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDA5OTk="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

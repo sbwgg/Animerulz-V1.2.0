@@ -1,20 +1,38 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=yes-precure-5-movie-kagami-no-kuni-no-miracle-daibouken-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/17dcde4dbfc99aff103c4bfbb03bddef73f103da22db666909eecb622a4829a1c14e63eb831769a822a9428464707f1cc3d0caf632a8ed5999ced416b516032582ea22d2f18fd2abb6dfb08af3edfc951ca7005d2ba0fd495a37b7c1746d910582783c5ebea23a784b1a7043a74d14d82201bad22a4a5fe94884b8ef9ca97ddd/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/b7/b77fdaab9c1542783e19825e5bad498c/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/84b4730eab505a69fbf48da9abcd642b0bb1d2cdf2396be35795ae78b417e54690830fe24ad40492f98f37526f91ff92d1e2b70f3e9da0dd3763a994e7616309677ff52a6eadecdabebbfdebb399972c388759803da24d1f5dc4a75609427a40cefa759a8445325451c30e73a071bb891b2cbf871faae42b1aeec320416dcd6e/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/04/ed/04ed1d39c2543bab787588dd9232bb37/eng-3.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/84b4730eab505a69fbf48da9abcd642b0bb1d2cdf2396be35795ae78b417e54690830fe24ad40492f98f37526f91ff92d1e2b70f3e9da0dd3763a994e7616309677ff52a6eadecdabebbfdebb399972c388759803da24d1f5dc4a75609427a40cefa759a8445325451c30e73a071bb896f42e90542dbcd4313d5a140635beaaa/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/04/ed/04ed1d39c2543bab787588dd9232bb37/eng-3.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/b7/b77fdaab9c1542783e19825e5bad498c/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www049.vipanicdn.net/streamhls/cba49459511c7ccedd584ac05d295704/ep.1.1677848197.m3u8"
@@ -27,6 +45,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTY2NzE4"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

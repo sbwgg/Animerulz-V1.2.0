@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,26 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=psycho-pass-movie-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/2153fc544933eb576655da5c688cc34e5f0c0ce9f879a9b35ce53f4a45e671f97cf3175e89b90291495919e8beed8a913d39b35a173ecb5903d3b64b1668ac5db6fd3beaf3eeed038981e0289c99f4425dd34e65da5c63ae014c08356c8f847cb739435a35b4cec660ce31ecca99365978e1493260c17a9ffe430bae5cc1a6be/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/f8/f82ec5269cfc7def4357d00906081865/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/c88b52116d06f0e8eaefcc4c1c1d2b96768aa30ed5352173911e3649071497a6a1f4f6fe4e5f0518ac7483f3a9d484637e62716e00e47ec4a5356e8f0334a4ef4ad2fed15f47cb73b5bb1ff29943cce0f4cd914758629d992ca7c77d1a4d5f9d3cee71fe2015f75216d9a4a6065a914c0d8ce412e4c2f113185a0120f8b7d462/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/8b/ee/8bee99240d3027a50bddae0d962fc8fb/eng-4.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/57a2e8c934ac0340617674297314b715f05febcb55d2b613220aeef262de531c47f76379879257d8170a66f24fa26e33e20f9302a7f5444c9b9f6dbb2673381fcff52e644a4a23d999093d0b689316d184fde894948ad591f0ca5f027a6d00cd7ea94c9a54893df516d31fb77b4b0187f1281b3bcdd6a55cbbd12bc796f7fcd0/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/f8/f82ec5269cfc7def4357d00906081865/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www010.vipanicdn.net/streamhls/3b26763b96a9c2d40fde46bfbc916dd8/ep.1.1677662454.m3u8"
@@ -31,6 +45,10 @@
         "downloadLink": {
             "DUBBED": "MTAwMjY3",
             "SUBBED": "NjUzNDk="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

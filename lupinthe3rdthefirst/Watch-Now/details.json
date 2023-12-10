@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,38 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=lupin-iii-the-first-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/9e9317eed65e5db2cfb596135edc084cac21b750b29257242e25894171957db2d3e0ac3e92241ad6852ba5e186a861fb373d4edca32565a146b749b146e9a69536c63d56101a41349cb79d74943ad256641de481daf127db5be85354ca679354b1ceabb5620d996286b3cbdb4ebc195a71ea3ba15c10e4a2006ecaa2990a84e7/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/8a/8aa90e1094b731804df3a4802305dd9b/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/f3456522fbd66e9baf398271075468eaf7a02f220e2ca3d2f3645ac734f4c1dfa06936b7d504513f558efbef1f04bd53470b94c40c09e533f2b7557f9dcd9fdec4abce6f70f254b0560a816416128ce3e21dc7b51af464c810b365e1774f69103f76d5368506b85270a77240df4f54b34d4b2e408253d693073f142c9babfa00/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/b9/96/b9968d0ffc8b5c89680a0459e28e6aef/eng-4.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/f3456522fbd66e9baf398271075468eaf7a02f220e2ca3d2f3645ac734f4c1dfa06936b7d504513f558efbef1f04bd53470b94c40c09e533f2b7557f9dcd9fdec4abce6f70f254b0560a816416128ce3e21dc7b51af464c810b365e1774f69103f76d5368506b85270a77240df4f54b397baea69f290ec8b85c9805b0b7f2a56/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/b9/96/b9968d0ffc8b5c89680a0459e28e6aef/eng-4.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/b9/96/b9968d0ffc8b5c89680a0459e28e6aef/ita-6.vtt",
+                            "lang": "Italian - Italiano"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/b9/96/b9968d0ffc8b5c89680a0459e28e6aef/ita-5.vtt",
+                            "lang": "Italian - Italiano forced"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/8a/8aa90e1094b731804df3a4802305dd9b/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www014.vipanicdn.net/streamhls/5185383b0684101427072cb8125fe1d8/ep.1.1677623807.m3u8"
@@ -31,6 +57,10 @@
         "downloadLink": {
             "DUBBED": "MTQ5MTQw",
             "SUBBED": "MTQwNTkz"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

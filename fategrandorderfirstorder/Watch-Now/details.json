@@ -1,15 +1,44 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Special: First Order",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/faa75ae501027f099d1d5fa992f523447f26beca3031abfce0f295e1a8d04e789163555c4fbd00ed038980957adee984e1fb287a64446f2c73c0d98b61e8d5f5eb6d747fbd6ed81374e223dd778a0a44c4fb5f88e96ae9cfdc2a6a75ab0ca483e053fe18ee0eb774027edc7c39d58bf20c4106aa9633cd6422eb0fa61e1d07f3/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/8e/10/8e10c8dd5944ed4a754ccccef56822e1/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/8e/10/8e10c8dd5944ed4a754ccccef56822e1/ara-5.vtt",
+                            "lang": "Arabic"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/8e/10/8e10c8dd5944ed4a754ccccef56822e1/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/8e/10/8e10c8dd5944ed4a754ccccef56822e1/fre-6.vtt",
+                            "lang": "French"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/8e/10/8e10c8dd5944ed4a754ccccef56822e1/ita-7.vtt",
+                            "lang": "Italian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/8e/10/8e10c8dd5944ed4a754ccccef56822e1/por-4.vtt",
+                            "lang": "Portuguese - Portugues(Brasil)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/8e/10/8e10c8dd5944ed4a754ccccef56822e1/spa-3.vtt",
+                            "lang": "Spanish - Espanol"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/8e/8e48dd0d0611e160d33571726080ad3b/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www015.vipanicdn.net/streamhls/e5ad9a727167963076db22f47d32a790/ep.1.1677619108.m3u8"
@@ -22,6 +51,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "OTIwODQ="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

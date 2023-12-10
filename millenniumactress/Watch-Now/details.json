@@ -1,20 +1,42 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=millennium-actress-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/3c348849c210a594321752580c44a0f13e2f7f11e145f6abeb6dfd28b18db23074d1976ca01449ec7a76049374dde348c61169d23465c3811ffc31c2be34664517d6c34fcde564fbaa353b62e5514e8112843b85d2609dc20a0e8f7fd49090b255cd42b5d1ed99c959361bb3c9a5ef1025dc6c00e2a5302e8ab9dab9a67b9330/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/88/88f6acb5b1ebaea52e093fee20ba1ec9/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/44fbba63dffb24274237b172e13976e9a64504722781d0db813e0cfe01b4a0812ac623379eaef2e33aa45c9b31395f8fe86ba3bc2b78859ff11111b180271c19acb108375aee5bb75f91a2010fc01e8f3da5eb53eb6b488b5c6703b38f4cd5e61a6577fde73b040cab0603ed4230e0e919de0d58e4ec389815f2365ad2fc9c03/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/9d/c9/9dc9c1c2ed4d62e82cfbf95458bd7f72/eng-3.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/44fbba63dffb24274237b172e13976e9a64504722781d0db813e0cfe01b4a0812ac623379eaef2e33aa45c9b31395f8fe86ba3bc2b78859ff11111b180271c19acb108375aee5bb75f91a2010fc01e8f3da5eb53eb6b488b5c6703b38f4cd5e61a6577fde73b040cab0603ed4230e0e92b320f5f1016045c1114ccdee87926cb/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/9d/c9/9dc9c1c2ed4d62e82cfbf95458bd7f72/eng-3.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/9d/c9/9dc9c1c2ed4d62e82cfbf95458bd7f72/eng-4.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/88/88f6acb5b1ebaea52e093fee20ba1ec9/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www019.vipanicdn.net/streamhls/5cb53b56aeccadf9417b178612f42012/ep.1.1677661056.m3u8"
@@ -27,6 +49,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDA5OTg="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

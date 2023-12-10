@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,30 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=lupin-the-iiird-chikemuri-no-ishikawa-goemon-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/18f4af741a046772dbd05a14939c9169ddb9dc8b3f3e09328f93609a99174c25fbbc2416623a567cd33ca3c1892ba836cc573687f6a14b131b39477de5a9075a4170ecd787152012edba21e1a1fb75d2b7c1161e35fc90003b06da03eebc9c55ca38bc68b4138807c24709ccf914a5101e8f899adad3c95aceb1306759de32c6/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/7c/7c0a6d4d0fedb96f7edf2494fbde09b6/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/2242d190af45cda3598cd0067ac64dd9ccecd3a29b39c485f7dc15c30302f2df11244ea0cb75724537d397ae2e78d3310cd458c46f41b5b883258e3b829e4f5853ea8fc0ba144ea8e97ae600a1fd019aa07f596a814f6a972641a44d5eaa7c941d240a9dbf8b37932eb3ae5933a73defcd3c6c43085c634698e4932a8d377995/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/8b/3c/8b3ceffb339b822a1b35d14073f78070/8b3ceffb339b822a1b35d14073f78070.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/2242d190af45cda3598cd0067ac64dd9ccecd3a29b39c485f7dc15c30302f2df11244ea0cb75724537d397ae2e78d3310cd458c46f41b5b883258e3b829e4f5853ea8fc0ba144ea8e97ae600a1fd019aa07f596a814f6a972641a44d5eaa7c941d240a9dbf8b37932eb3ae5933a73deff13984b9fcf8d3d71608fe6de6a8667c/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/8b/3c/8b3ceffb339b822a1b35d14073f78070/8b3ceffb339b822a1b35d14073f78070.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/7c/7c0a6d4d0fedb96f7edf2494fbde09b6/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www018.vipanicdn.net/streamhls/a6921792a9914cd0fca4605bb8f968d4/ep.1.1677623087.m3u8"
@@ -31,6 +49,10 @@
         "downloadLink": {
             "DUBBED": "MTYzODc4",
             "SUBBED": "MTYzODc3"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

@@ -1,15 +1,24 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Samurai General Election",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/301b242d2779204eac64f2ed332548dcb2e7b744f395536fd7f1047f8cdf2b55e3c4954e8839fa80d24e888723fb18cf68706113bed2ce23cdef8a9ad35956f696587fa0bbc114df811217ebb0ebc349ef1f580b5997ebe1d788e4a8846e925519a96d26ff7bbfbfaca4dc709813fb4e6f246c82a24e9ad3a744dd9698c7440b/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/2b/9b/2b9ba4c5a80d4714e83e9fe19766510f/2b9ba4c5a80d4714e83e9fe19766510f.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/2b/9b/2b9ba4c5a80d4714e83e9fe19766510f/2b9ba4c5a80d4714e83e9fe19766510f.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/4e/4e1d6d75f380f767cd7d6dc8d019c598/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www052.vipanicdn.net/streamhls/23c9a50b8bc0b1bc7571d6550916949b/ep.1.1683914232.m3u8"
@@ -22,19 +31,32 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NTAwMjE="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     },
     "2": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Samurai Wedding",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/776bf1a2bfc4b456007c545b4c133e05c042b633ff64b37f5050fecb4d502c22a061000f46c1d628b4f92b092541ae18ad8d61959e184b37db5e99bd8eba5493647cfbcbacbe3770c1e355398deddcf6a4041986051ee570e01d5db3d6a14cc83c85070bbe0df789694a4e711ac3274fba2b7875646569fd95bad49f4629db01/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/45/72/45723d3cdf6257a67394d45cb9816b51/45723d3cdf6257a67394d45cb9816b51.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/45/72/45723d3cdf6257a67394d45cb9816b51/45723d3cdf6257a67394d45cb9816b51.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/6e/6ef0f220087c424861e09ab4c07cc2c6/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www055.vipanicdn.net/streamhls/23c9a50b8bc0b1bc7571d6550916949b/ep.2.1683915068.m3u8"
@@ -47,6 +69,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NjU3Nzk="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

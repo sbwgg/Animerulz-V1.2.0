@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,30 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=ookami-kodomo-no-ame-to-yuki-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/66dd2d7bff320ac7ba3d436d32ec12a44908768133fcd8730bac3efb52f8c11100b93163ce6dd362118ee4bd5a1c9976aebab982f1ba4fc7f4e28d378274067bc844abc341a801729c881c7a65997b033e06a0aa804c20aa17834022de3747d05598be9e815d922251ac9b202a698c14ab8c04b4b9726a1d8d1c0fedc1ec695c/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/f1/f155b9afb61ca4636e40e184ba3d6a3f/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/4b8ca38e7e76555f90c5c6637a5743e8c1db3357d2cb3923551e126dd575342ca2074a8ee464b99e7c83952fc69e5ab1be2f682f3ffa40ae97056cdb2c1c0993a09b9b155aa472c8ef24af9d9e2176303181576698633e1993bc18fc173927a14a0e0c1051bb70c0d285500850c8b4a334c5b9cf3459834bd7ed108c3a03e9a6/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/d6/7d/d67d71f283ed26da6eadb2ed11d1cfd8/d67d71f283ed26da6eadb2ed11d1cfd8.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/4b8ca38e7e76555f90c5c6637a5743e8c1db3357d2cb3923551e126dd575342ca2074a8ee464b99e7c83952fc69e5ab1be2f682f3ffa40ae97056cdb2c1c0993a09b9b155aa472c8ef24af9d9e2176303181576698633e1993bc18fc173927a14a0e0c1051bb70c0d285500850c8b4a329d74aee1d0fadc04916a7a8be870071/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/d6/7d/d67d71f283ed26da6eadb2ed11d1cfd8/d67d71f283ed26da6eadb2ed11d1cfd8.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/f1/f155b9afb61ca4636e40e184ba3d6a3f/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www050.vipanicdn.net/streamhls/305ba0393b274b9ee558fef783723dfd/ep.1.1686940772.m3u8"
@@ -31,6 +49,10 @@
         "downloadLink": {
             "DUBBED": "MTQ3ODY4",
             "SUBBED": "NDA1Mzk="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

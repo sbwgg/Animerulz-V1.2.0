@@ -1,6 +1,9 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Episode 1",
         "source": {
             "DUBBED": {
@@ -9,6 +12,15 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=ikkitousen-shuugaku-toushi-keppuuroku-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/b933c0766bda19e1245243d90ba02ca7efddf2b1cd6a37292a8d77fd022f3222c1b07d3da07e08eef8605185afd62655d322dc19e520309b54a1d52d066f87da912ed81aa38556c42dc01f6ca63e7ab3d505397f7c1742d66fbbc7797748db60dcac540bb237a32d573981b3d8c47b8dfc16a6faccaac11a098aaaa566f78c33/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/c8/c8d77b13a2b1967640f31da257bfe377/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
@@ -24,6 +36,10 @@
         "downloadLink": {
             "DUBBED": "MTA2OTUw",
             "SUBBED": "MTU2Mjg0"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

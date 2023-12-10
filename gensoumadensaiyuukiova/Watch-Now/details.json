@@ -1,15 +1,20 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Episode 1",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/3f7a9a7b04eae5e95aa66fca9ff2d6c8835e7d6a086caafe3a6ab857278e6a88b309fb2405280ed8d885b59fa15559ee10d6770c5b93dec63f989e94f72bf89abf8778186b8b3b009520d37ca5d0f6384277432b52494c170757d05f31fac73879963b2733c9bd475b7765a2674925599d8299ca1f2d07799769b70064c7c95f/master.m3u8",
-                    "captions": "https://imgb.megaresources.co/_a_preview/ae/ae3c103520d0dcce3850fa66aa562220/thumbnails/sprite.vtt"
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/ae/ae3c103520d0dcce3850fa66aa562220/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www017.vipanicdn.net/streamhls/f01790bf0b9cb48879122d46743e8343/ep.1.1677704592.m3u8"
@@ -22,19 +27,32 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTQ1ODc2"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     },
     "2": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Episode 2",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/6db1c8567fe136312023e517b1d14b3dfa2bdbd333fb89d6abfdc1b5b8bd35368f83e4dd6177de69253e19305440ced7c42263157ee20930678262a80ae3b4b9663c62005e7bf7ebcbae6f8ef00665434a76157ed23643cae454cf924331d4101fd57ac96ed3c1fa5883c81a8566ca63cbf2fb924043cddbdf2dc0a72380f71b/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/3c/09/3c093847d77219a7a7a0c06a664eebb8/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/3c/09/3c093847d77219a7a7a0c06a664eebb8/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/69/69ca07590acb96a40e6c8b079acebb42/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=saiyuuki-episode-2"
@@ -42,6 +60,10 @@
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
     }
 }

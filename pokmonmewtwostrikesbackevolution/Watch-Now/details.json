@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,34 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=pokemon-movie-22-mewtwo-no-gyakushuu-evolution-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/cdca573ce8f16dc17c0f9eefc219478e3fa85233fbb0b8e5bc86aadee006eb59ae2263a74c887dafe78103890db755f735ef8caf6e6f61de9b31c8192c7fea4202cc38b490213cd0f4d4f62e76c59bcd6302ae462b4d1641962db77bd5e3b922eec92422e008e3bca7bb26c963314fc3c84633dee2ff52ae357d7afa4da4ff31/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/25/7d/257d2a1ff67daec0879299dd406ea542/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/01/0123532fa9f54b615c60b2992ce0172a/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/03467ba5168e5a9fbe5c33b460d4d349995f62f85dced68ee81e3bbb5a7b10b11a6ff740d4dfbcd54aeb882cba41d381c9c086857b625af5719d00085db44e64b71e0a270f127ba32c7d8f4bba261c227c8993bfcd27c7204592161e79f0961965ac7c860549dc25d1f68023357dc22dcbe6dad8518c44c1118fd7e870686a61/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/73/dd/73dd69e6d452c7eb9fc5484abc4fcbdd/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/73/dd/73dd69e6d452c7eb9fc5484abc4fcbdd/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/01/0123532fa9f54b615c60b2992ce0172a/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www010.vipanicdn.net/streamhls/a13cfc5af79380e393d0000dce10d4d1/ep.1.1677687580.m3u8"
@@ -31,6 +53,10 @@
         "downloadLink": {
             "DUBBED": "MTM3MDg4",
             "SUBBED": "MTM1MzM5"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

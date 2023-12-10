@@ -1,206 +1,726 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Due to a mix-up at the hotel, two coworkers end up sharing a room on a business trip",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/107b3c94aa04087af240244793103265c0dbbfa81d08ad90c75afbc80f0269105199c7f3db339f68b4772854cdba50999486b23f632936921260ac82a4386781d03aaedee0195f3722f67fc5492633b3e47ed438cc27516c55a58eab6bb4a09b96a934445668bf5cf503699e0ce1d30b5df12158589bb1641c6e03ab351c6060/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/13/25/132590346da0c2e60329e0cc2c5c6ef6/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/f7/45/f7457f408a0706beefb64488569d112b/ara-6.vtt",
+                            "lang": "Arabic"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/13/25/132590346da0c2e60329e0cc2c5c6ef6/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/f7/45/f7457f408a0706beefb64488569d112b/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/f7/45/f7457f408a0706beefb64488569d112b/fre-7.vtt",
+                            "lang": "French"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/f7/45/f7457f408a0706beefb64488569d112b/ger-8.vtt",
+                            "lang": "German"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/f7/45/f7457f408a0706beefb64488569d112b/ita-9.vtt",
+                            "lang": "Italian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/f7/45/f7457f408a0706beefb64488569d112b/por-3.vtt",
+                            "lang": "Portuguese - Portuguese(Brazil)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/f7/45/f7457f408a0706beefb64488569d112b/spa-5.vtt",
+                            "lang": "Spanish"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/f7/45/f7457f408a0706beefb64488569d112b/spa-4.vtt",
+                            "lang": "Spanish - Spanish(Latin_America)"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/7c/7c294b7b3a936acbe7d52612bced5f92/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 239,
+            "end": 328
+        }
     },
     "2": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "My coworker and I were in the elevator together and then we were trapped inside together",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/54829d38e1168702c87fb72909f437a8ee708801d8bbd244c6ba796fd787ff8ea9781b3f990de0858a5031c6a6c2d537cd85f17b3a9cf86106b025cf2da2f713ae6c27cb220cd1816c65a6d4542608da83355c39fd1716c3414e0bc2d205b3cd8bbac93d2e6acea845ddfb8eb332c27912f1607a7512f54ff7f4d3b1408d03e8/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/c4/f8/c4f80d90902e6fc1d88f3a1d7fb4aa7e/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/c4/f8/c4f80d90902e6fc1d88f3a1d7fb4aa7e/ara-6.vtt",
+                            "lang": "Arabic"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/c4/f8/c4f80d90902e6fc1d88f3a1d7fb4aa7e/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/c4/f8/c4f80d90902e6fc1d88f3a1d7fb4aa7e/fre-7.vtt",
+                            "lang": "French"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/c4/f8/c4f80d90902e6fc1d88f3a1d7fb4aa7e/ger-8.vtt",
+                            "lang": "German"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/c4/f8/c4f80d90902e6fc1d88f3a1d7fb4aa7e/ita-9.vtt",
+                            "lang": "Italian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/c4/f8/c4f80d90902e6fc1d88f3a1d7fb4aa7e/por-3.vtt",
+                            "lang": "Portuguese - Portuguese(Brazil)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/c4/f8/c4f80d90902e6fc1d88f3a1d7fb4aa7e/rus-10.vtt",
+                            "lang": "Russian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/c4/f8/c4f80d90902e6fc1d88f3a1d7fb4aa7e/spa-5.vtt",
+                            "lang": "Spanish"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/c4/f8/c4f80d90902e6fc1d88f3a1d7fb4aa7e/spa-4.vtt",
+                            "lang": "Spanish - Spanish(Latin_America)"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/ef/efe038a1e90e1c122f1b9eb10e480090/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 190,
+            "end": 279
+        }
     },
     "3": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "The Junior Who Gives Chocolate On Valentine's Day At Work",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/214d9e54515a3d49b97f2f6098f454fd6c4f17aabae5b93757d2be59b2d955140479e05a4fb057df9a36895cd3937b6dc63ef8c338bed3f86c80e477c113b8e5a393f785a8bfdeeaafdcfe1354d4227ec60ccb36912589d236779c5ec99e03afdd24bb4f00c0a8280f4bc87fb160febc6d37f82253883153417bef04a221a33e/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/8e/15/8e15dc210503faa179577e865e8b9f4b/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/8e/15/8e15dc210503faa179577e865e8b9f4b/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/8e/15/8e15dc210503faa179577e865e8b9f4b/fre-4.vtt",
+                            "lang": "French"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/8e/15/8e15dc210503faa179577e865e8b9f4b/ger-5.vtt",
+                            "lang": "German"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/8e/15/8e15dc210503faa179577e865e8b9f4b/ita-6.vtt",
+                            "lang": "Italian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/8e/15/8e15dc210503faa179577e865e8b9f4b/por-3.vtt",
+                            "lang": "Portuguese - Portuguese(Brazil)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/8e/15/8e15dc210503faa179577e865e8b9f4b/rus-7.vtt",
+                            "lang": "Russian"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/24/245891c897a0de38918c750992a5cbb7/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 201,
+            "end": 290
+        }
     },
     "4": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "My Coworker Who Came Back To Pick Up What He Left Behind",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/0a6d37e27065b4049e222ef40a0e40e33b07431c4e847e8b49f53f811814256a74fef32f3274af7149290b9a0b601133bfc245283f596ad6376f6f801a257b8622b5925a51435d6cf76728e7fd0ffadd5e41c63bc0b6e7b5dfe86069e0e29c72d1e2494af845e1eaade76c1a7623b360c06504c8c6ed99d1d41c1d2cfa47fd0f/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/27/7c/277c38a0081266606e01751678c9a85f/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/27/7c/277c38a0081266606e01751678c9a85f/ara-6.vtt",
+                            "lang": "Arabic"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/27/7c/277c38a0081266606e01751678c9a85f/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/27/7c/277c38a0081266606e01751678c9a85f/fre-7.vtt",
+                            "lang": "French"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/27/7c/277c38a0081266606e01751678c9a85f/ger-8.vtt",
+                            "lang": "German"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/27/7c/277c38a0081266606e01751678c9a85f/ita-9.vtt",
+                            "lang": "Italian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/27/7c/277c38a0081266606e01751678c9a85f/por-3.vtt",
+                            "lang": "Portuguese - Portuguese(Brazil)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/27/7c/277c38a0081266606e01751678c9a85f/rus-10.vtt",
+                            "lang": "Russian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/27/7c/277c38a0081266606e01751678c9a85f/spa-5.vtt",
+                            "lang": "Spanish"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/27/7c/277c38a0081266606e01751678c9a85f/spa-4.vtt",
+                            "lang": "Spanish - Spanish(Latin_America)"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/34/3417ff4b25e1172f801b8863fb85ddec/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 157,
+            "end": 246
+        }
     },
     "5": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "A Coworker Who Was Looking Forward To A White Day Gift...",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/a328c747ff637e3c10e193007e63c0830f1ff71e449dc83f0f3666b0821df0606820f6ffca765aa1fcac661fffffd693f80414beee885c93f30ce920b4ad7469d21e420f8f6632c6e843fdfe2fc4984d3d7bd7866f8a2dcc87cdc683fa2508f465fe2be74eb9fc72ff48f1a3ad5659b3d33a1d5d2ee152f417b277cd2bb3b624/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/36/8e/368e0183611e1d120287c1f95a3eac1b/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/36/8e/368e0183611e1d120287c1f95a3eac1b/ara-6.vtt",
+                            "lang": "Arabic"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/36/8e/368e0183611e1d120287c1f95a3eac1b/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/36/8e/368e0183611e1d120287c1f95a3eac1b/fre-7.vtt",
+                            "lang": "French"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/36/8e/368e0183611e1d120287c1f95a3eac1b/ger-8.vtt",
+                            "lang": "German"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/36/8e/368e0183611e1d120287c1f95a3eac1b/ita-9.vtt",
+                            "lang": "Italian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/36/8e/368e0183611e1d120287c1f95a3eac1b/por-3.vtt",
+                            "lang": "Portuguese - Portuguese(Brazil)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/36/8e/368e0183611e1d120287c1f95a3eac1b/rus-10.vtt",
+                            "lang": "Russian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/36/8e/368e0183611e1d120287c1f95a3eac1b/spa-5.vtt",
+                            "lang": "Spanish"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/36/8e/368e0183611e1d120287c1f95a3eac1b/spa-4.vtt",
+                            "lang": "Spanish - Spanish(Latin_America)"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/90/90391536a247e3388809002faa596efe/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 187,
+            "end": 276
+        }
     },
     "6": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "My Coworker Who Received An Embarrassing Selfie",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/d146868024fdc99864173b879fafc4226c0447a6213bcf153ba6308df22e9d4dc48c0b08e77619e7d2d10ce915f5aafc5682624f1e7e9f7fa95996ca11250048ecdf421076c7ef91c6163e167502066af12e7897e334ec2ccde1a22d9c805cd7b490490b6606e59deb1cc2c2049626f9c625e53167952812655e9e9a7ddf381b/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/3f/ef/3feffc2861920b6a2ec980a0735f3b2a/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/3f/ef/3feffc2861920b6a2ec980a0735f3b2a/ara-6.vtt",
+                            "lang": "Arabic"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/3f/ef/3feffc2861920b6a2ec980a0735f3b2a/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/3f/ef/3feffc2861920b6a2ec980a0735f3b2a/fre-7.vtt",
+                            "lang": "French"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/3f/ef/3feffc2861920b6a2ec980a0735f3b2a/ger-8.vtt",
+                            "lang": "German"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/3f/ef/3feffc2861920b6a2ec980a0735f3b2a/ita-9.vtt",
+                            "lang": "Italian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/3f/ef/3feffc2861920b6a2ec980a0735f3b2a/por-3.vtt",
+                            "lang": "Portuguese - Portuguese(Brazil)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/3f/ef/3feffc2861920b6a2ec980a0735f3b2a/rus-10.vtt",
+                            "lang": "Russian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/3f/ef/3feffc2861920b6a2ec980a0735f3b2a/spa-5.vtt",
+                            "lang": "Spanish"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/3f/ef/3feffc2861920b6a2ec980a0735f3b2a/spa-4.vtt",
+                            "lang": "Spanish - Spanish(Latin_America)"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/4c/4c89c08bbdf602008c0bce15b3be65ef/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 183,
+            "end": 272
+        }
     },
     "7": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "A Coworker Who Goes All-Out With Seductive Lingerie",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/943347c4bf0aa39e03bcc4918d5dd493667c9064ec605dff2917cd8308a2a68337a8c67823dcea62ee7c2201716c0b685936cfa71d170310d236eda8194b7fa8c3255083101f9a7822fd0951d44f678665da8939af788725cf79a28bd63e1f65acb89ad6103fdc11e28416ad0284d7c4c8eec60103acd6ba9e44c0a8979738cd/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/db/c0/dbc03f996b7cdc17fd7b090ec4dcc857/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/db/c0/dbc03f996b7cdc17fd7b090ec4dcc857/ara-6.vtt",
+                            "lang": "Arabic"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/db/c0/dbc03f996b7cdc17fd7b090ec4dcc857/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/db/c0/dbc03f996b7cdc17fd7b090ec4dcc857/fre-7.vtt",
+                            "lang": "French"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/db/c0/dbc03f996b7cdc17fd7b090ec4dcc857/ger-8.vtt",
+                            "lang": "German"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/db/c0/dbc03f996b7cdc17fd7b090ec4dcc857/ita-9.vtt",
+                            "lang": "Italian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/db/c0/dbc03f996b7cdc17fd7b090ec4dcc857/por-3.vtt",
+                            "lang": "Portuguese - Portuguese(Brazil)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/db/c0/dbc03f996b7cdc17fd7b090ec4dcc857/rus-10.vtt",
+                            "lang": "Russian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/db/c0/dbc03f996b7cdc17fd7b090ec4dcc857/spa-5.vtt",
+                            "lang": "Spanish"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/db/c0/dbc03f996b7cdc17fd7b090ec4dcc857/spa-4.vtt",
+                            "lang": "Spanish - Spanish(Latin_America)"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/dd/dd52994ab88b983b7e00a20703fa314c/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 168,
+            "end": 258
+        }
     },
     "8": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "They Clash!! The Junior Coworker VS The Business Client Senpai",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/5b963ddb13cdb2f0e7728e63dbd3caaaac2b43a82c25acf8bae745b4ed4db3a3ea9501e102d7414fc82190105e50ddf7ccc709367860f2c596b9727bc094fecff33534b19e3c799c282963c225ca58579f30558b723429d388cc322b3eb38f8acb46cb1c4a1a1bc79ce84f8d95a7309892ea692c788336fa0101d7c91b2d5cef/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/34/3b/343b5baa099cb931bfc0554dae787d75/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/34/3b/343b5baa099cb931bfc0554dae787d75/ara-6.vtt",
+                            "lang": "Arabic"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/34/3b/343b5baa099cb931bfc0554dae787d75/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/34/3b/343b5baa099cb931bfc0554dae787d75/fre-7.vtt",
+                            "lang": "French"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/34/3b/343b5baa099cb931bfc0554dae787d75/ger-8.vtt",
+                            "lang": "German"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/34/3b/343b5baa099cb931bfc0554dae787d75/ita-9.vtt",
+                            "lang": "Italian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/34/3b/343b5baa099cb931bfc0554dae787d75/por-3.vtt",
+                            "lang": "Portuguese - Portuguese(Brazil)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/34/3b/343b5baa099cb931bfc0554dae787d75/rus-10.vtt",
+                            "lang": "Russian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/34/3b/343b5baa099cb931bfc0554dae787d75/spa-5.vtt",
+                            "lang": "Spanish"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/34/3b/343b5baa099cb931bfc0554dae787d75/spa-4.vtt",
+                            "lang": "Spanish - Spanish(Latin_America)"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/20/205f850e74aa57b1896d00f0544a8a56/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 176,
+            "end": 266
+        }
     },
     "9": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "A Coworker Who's Obliviously Asleep",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/3709e8147f07b25726cc4b24128c848e94c5d8f4c58085bdffe6fa10c9fada855792d3bd5e66f321950a93561feaeb6dab0b3f50e4db29e6be94fc79d12cdc7c1255cc4aa2e787f0cb0af8169026d8c85388cfe7a8bed51b57ad879e8f6be0b3f517ae28e57fc884a74a14ec81bfcc18d3fe00433c11d0bb112219a58e018ac0/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/36/c7/36c7820c117aa1d408f70f991ed12c93/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/36/c7/36c7820c117aa1d408f70f991ed12c93/ara-6.vtt",
+                            "lang": "Arabic"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/36/c7/36c7820c117aa1d408f70f991ed12c93/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/36/c7/36c7820c117aa1d408f70f991ed12c93/fre-7.vtt",
+                            "lang": "French"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/36/c7/36c7820c117aa1d408f70f991ed12c93/ger-8.vtt",
+                            "lang": "German"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/36/c7/36c7820c117aa1d408f70f991ed12c93/ita-9.vtt",
+                            "lang": "Italian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/36/c7/36c7820c117aa1d408f70f991ed12c93/por-3.vtt",
+                            "lang": "Portuguese - Portuguese(Brazil)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/36/c7/36c7820c117aa1d408f70f991ed12c93/spa-5.vtt",
+                            "lang": "Spanish"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/36/c7/36c7820c117aa1d408f70f991ed12c93/spa-4.vtt",
+                            "lang": "Spanish - Spanish(Latin_America)"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/c0/c0c1ed3515279f9112cc603c28529c59/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 160,
+            "end": 249
+        }
     },
     "10": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "A Coworker Who's Excited About A Poolside Date",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/c5da3ad45482a53e7199bc621068b9ae198aeddd3463178636269779d0e26ac29c8d0917183daf708239e1bbcdb7de898fe3a6ff389f8600f56541fa3a7b0d62eaebcde35ffd27cc0dfa373a01ff0c1612961e78a447e49b01be80a9d6e28477c69cb8588e67fd5e3ed0f92894e93c95dd8bac0855db4ccfa635ac3e6fbfabbf/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/80/6b/806b9177abeaeb7c092c02541ed10533/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/80/6b/806b9177abeaeb7c092c02541ed10533/ara-6.vtt",
+                            "lang": "Arabic"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/80/6b/806b9177abeaeb7c092c02541ed10533/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/80/6b/806b9177abeaeb7c092c02541ed10533/fre-7.vtt",
+                            "lang": "French"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/80/6b/806b9177abeaeb7c092c02541ed10533/ita-8.vtt",
+                            "lang": "Italian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/80/6b/806b9177abeaeb7c092c02541ed10533/por-3.vtt",
+                            "lang": "Portuguese - Portuguese(Brazil)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/80/6b/806b9177abeaeb7c092c02541ed10533/rus-9.vtt",
+                            "lang": "Russian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/80/6b/806b9177abeaeb7c092c02541ed10533/spa-5.vtt",
+                            "lang": "Spanish"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/80/6b/806b9177abeaeb7c092c02541ed10533/spa-4.vtt",
+                            "lang": "Spanish - Spanish(Latin_America)"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/21/211ec15e8eac0adcd1843504b952dc91/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
     },
     "11": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "It Finally Bears Fruit!! Good For You, Douki-Chan",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/bf88d38c4bc9dc0b55fe76a191638f5b7431e5d1171038579274fadb5fcff14f25e5022f85cf3aebb7b38fe44f998c2a47c7f1e7ab8c30bbd55357b6659f1fb7ccda3ae7009e75b32b45aa64adec844f698fe1820dc1d282d9f89d2fc0fb9dbf1c495f1cf602136d0d36e855e667aff908904dc4d3522a830dfe60cbe69d63a4/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/24/20/2420da6369cb57bfc3ad1ba2b8ab77bc/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/24/20/2420da6369cb57bfc3ad1ba2b8ab77bc/ara-6.vtt",
+                            "lang": "Arabic"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/24/20/2420da6369cb57bfc3ad1ba2b8ab77bc/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/24/20/2420da6369cb57bfc3ad1ba2b8ab77bc/fre-7.vtt",
+                            "lang": "French"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/24/20/2420da6369cb57bfc3ad1ba2b8ab77bc/ger-8.vtt",
+                            "lang": "German"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/24/20/2420da6369cb57bfc3ad1ba2b8ab77bc/ita-9.vtt",
+                            "lang": "Italian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/24/20/2420da6369cb57bfc3ad1ba2b8ab77bc/por-3.vtt",
+                            "lang": "Portuguese - Portuguese(Brazil)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/24/20/2420da6369cb57bfc3ad1ba2b8ab77bc/rus-10.vtt",
+                            "lang": "Russian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/24/20/2420da6369cb57bfc3ad1ba2b8ab77bc/spa-5.vtt",
+                            "lang": "Spanish"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/24/20/2420da6369cb57bfc3ad1ba2b8ab77bc/spa-4.vtt",
+                            "lang": "Spanish - Spanish(Latin_America)"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/13/13a4930fc1f2ac6ef34849a977ec51c5/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 154,
+            "end": 243
+        }
     },
     "12": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "That's What I'm Talking About, Douki-Kun",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/2a141e27a7455485f6207a9573b1816cbcc2b100652cecbea6cf5ca6115a4aab2a4326c91e32d165c942f2f8b365cb7d20d370f6918c70f93ae38523dce212363b664c4113357252d988e2f2bcda742755843823fb4cd3ee3deff2fc54807ed415a46422a55bf6bbaf3079253b5a3978f68f22200b0960fb0c8b72d0808ad7ea/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/fa/ef/faefa6bfb424f423372dd00b97abb138/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/fa/ef/faefa6bfb424f423372dd00b97abb138/ara-6.vtt",
+                            "lang": "Arabic"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/fa/ef/faefa6bfb424f423372dd00b97abb138/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/fa/ef/faefa6bfb424f423372dd00b97abb138/fre-7.vtt",
+                            "lang": "French"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/fa/ef/faefa6bfb424f423372dd00b97abb138/ger-8.vtt",
+                            "lang": "German"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/fa/ef/faefa6bfb424f423372dd00b97abb138/ita-9.vtt",
+                            "lang": "Italian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/fa/ef/faefa6bfb424f423372dd00b97abb138/por-3.vtt",
+                            "lang": "Portuguese - Portuguese(Brazil)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/fa/ef/faefa6bfb424f423372dd00b97abb138/rus-10.vtt",
+                            "lang": "Russian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/fa/ef/faefa6bfb424f423372dd00b97abb138/spa-5.vtt",
+                            "lang": "Spanish"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/fa/ef/faefa6bfb424f423372dd00b97abb138/spa-4.vtt",
+                            "lang": "Spanish - Spanish(Latin_America)"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/68/6823440ad144169ae1ba6de813a4e67d/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
     }
 }

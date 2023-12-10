@@ -1,6 +1,9 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Full",
         "source": {
             "DUBBED": {
@@ -9,6 +12,19 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=one-piece-film-red-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/30ba3144affe206c3c5a53645e72dab39772b1e445b9e034fd4109924085eeb5090cc9d1bcffaab17bf3bacc94fb61f317c2f6ecd9adc335bfebb9eb719f14c7848a2ca1f30149c0dc26805ef17a09192af4ef723c589336ef67e6a7fc7d7ff6b7e044b4b3cb817e708cec3efc5c88140498ce91b2e7d823d631746f604ec5ef/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/54/77/547754c5d292cce83410c484355bc84b/547754c5d292cce83410c484355bc84b.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/b5/b5a5f00ccf088156731ed53a1e385c9e/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
@@ -17,6 +33,19 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=one-piece-film-red-episode-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/9f3fa2c470530e8cd0b063e2c709ad48eab936a52000f105f2dc4f78c2ff3679a51f6cf9d0c715c5a986803f872ce9ee9fcc1cb87c7b0a8d69516effbf79da7829df25a1fca46ae7dd3d6961a9ff9668b7771965d16e6155b65b0d5a61f2e7bd355761ff0a03bcf408dafa619317e899dc125aab19e54ad3be49f6698da08b63/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/a4/43/a443627e6f64d3a7298883920dd536f1/a443627e6f64d3a7298883920dd536f1.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/b5/b5a5f00ccf088156731ed53a1e385c9e/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
@@ -24,6 +53,10 @@
         "downloadLink": {
             "DUBBED": "MjAyNzg1",
             "SUBBED": "MjAwMzYz"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

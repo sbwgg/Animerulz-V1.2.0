@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,30 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=lupin-iii-dead-or-alive-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/73c3f8877e385f8bd7922817ad812bb10966071560acae5070bee6f93259202d972f3ab591caa49e1f02a344e0f2d76016a6290894b432a8c8136ed2f491ad32b3260cd8f592ba6cef3978a710fbb6f9ebb02afbeae3e2f13ff947561ddc8623ff2d976d912b6336b231c1f042dee0005bf41202c679e5f0397ea960b41a28f1/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/6a/6a4c625dbed012ce7959bee85f979e9b/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/169ecbd3ead7c66ac300a2d9f109e80ff8d400f3aa4a3253e01740fc54c24cfc694fe6a19c76242bf3159a152332a658fb812a7f32cd155186714c5387a92c6add7130747fa4e675bcc4df43c65d8d79eaadd5de5dc92161475238a1c575964b01e4ab61d53501428b78add02aef1d5e1c8ef16e248d9c18a9bfd365a438fb4e/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/74/45/74450034df60573b6a1fb7966146aef7/74450034df60573b6a1fb7966146aef7.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/169ecbd3ead7c66ac300a2d9f109e80ff8d400f3aa4a3253e01740fc54c24cfc694fe6a19c76242bf3159a152332a658fb812a7f32cd155186714c5387a92c6add7130747fa4e675bcc4df43c65d8d79eaadd5de5dc92161475238a1c575964b01e4ab61d53501428b78add02aef1d5e5adb7b7462d187ea736abc76db2bd27e/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/74/45/74450034df60573b6a1fb7966146aef7/74450034df60573b6a1fb7966146aef7.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/6a/6a4c625dbed012ce7959bee85f979e9b/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www048.vipanicdn.net/streamhls/cfacb8fd92d9f8990f89283bb25d61f2/ep.1.1677852284.m3u8"
@@ -31,6 +49,10 @@
         "downloadLink": {
             "DUBBED": "MTQyOTA1",
             "SUBBED": "MTU1MzE3"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

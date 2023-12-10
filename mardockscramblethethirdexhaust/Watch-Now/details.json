@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,30 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=mardock-scramble-the-third-exhaust-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/e08004f62ef1ab36e4fdfba01bde02e89ce70e48a8d222ffe5189933fce7272f1743ac1869475880f9b53e37744f5bf5012562fd35c224ba5f419bbec28741b96c3b231ed726635a870520e1ec55c4063b3a2a04ac993570825a1a60af1dbfedb8dbd809e30bc46d8488bf0c852001081110e6508ac6b9b6036079a91f49ffbe/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/96/962da5dd5d3a9dab7e81293502f61eae/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/785bb7b4976b5804e969df80f642f405a75401389257c0f5936784513664bc9dc525c74137ec3eeea9958523fe08189f6232b712247386d79a723bfad714ba753903b21a9e195c85726c3aa1e595059c3c18486fca65de94fe4b2a0e9e9c5d51b6f905700150b9a6c68216111ca01e5dc65470728600e9c8a0b88592d8277e1c/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/c3/0f/c30f2de4cf8deb58034bae32d73d7aca/eng-3.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/785bb7b4976b5804e969df80f642f405a75401389257c0f5936784513664bc9dc525c74137ec3eeea9958523fe08189f6232b712247386d79a723bfad714ba753903b21a9e195c85726c3aa1e595059c3c18486fca65de94fe4b2a0e9e9c5d51b6f905700150b9a6c68216111ca01e5d93d9deece76af6416a3a6ce4a849b594/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/c3/0f/c30f2de4cf8deb58034bae32d73d7aca/eng-3.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/96/962da5dd5d3a9dab7e81293502f61eae/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www014.vipanicdn.net/streamhls/b00d9682609f32504fad2d637f0e436f/ep.1.1677662985.m3u8"
@@ -31,6 +49,10 @@
         "downloadLink": {
             "DUBBED": "MTA5MzQx",
             "SUBBED": "NDA2MDM="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

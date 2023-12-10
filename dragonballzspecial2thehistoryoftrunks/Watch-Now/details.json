@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,26 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=dragon-ball-z-special-2-zetsubou-e-no-hankou-nokosareta-chousenshi-gohan-to-trunks-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/53aee08c61dae3d7430709ac25c311953f8a358143aa8d39fbaf0eea5880ed3ab870588535e0db01f071edd2bfc335492d1de406fb9cfc7b0ee05ed626e60edbc1a6b265021aee6a7346e4c588d1f8958f106cfa00032d9ddedeb8dd8884442377fe14013b241c0201c420d2ff8d95fed9ec2ae8aaf713b7fefc02b0c961db90/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/3d/3da822803d4610619c6ae12658f21115/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/4eb030f3595900b275b09f09a39c83597c42c208fb2af8f6c4b3530671deeaf06f8c89862849c1c542a350d850b995093e21539308ac24a27eb78ed452b381219067a0ca9f9b16bad5cd85ca7da9e24daf709a2edc0cd2f7a87e4b2be12ec6ab2eedc078c524ff86edcf8455eb08516bb13e100d7a007aec788e51713addb62d/master.m3u8",
-                    "captions": "https://imgb.megaresources.co/_a_preview/3d/3da822803d4610619c6ae12658f21115/thumbnails/sprite.vtt"
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/3d/3da822803d4610619c6ae12658f21115/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www044.vipanicdn.net/streamhls/034f47a0325825def07ee0cb058440a6/ep.1.1677854923.m3u8"
@@ -31,6 +45,10 @@
         "downloadLink": {
             "DUBBED": "MTYyOTU0",
             "SUBBED": "MTYyOTUz"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

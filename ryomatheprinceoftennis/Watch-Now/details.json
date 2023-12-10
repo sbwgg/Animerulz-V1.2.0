@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,34 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=ryouma-the-prince-of-tennis-shinsei-movie-tennis-no-ouji-sama-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/b7137b4496a07bcd87e7a52189f3ee1c8f80c4e5a93a1aad1e932f6dec1cb326c779573f1fc94a7a3be2fa743830d9cdf5f4e4f8e9003e0a5c5b6a166f89819338c922d680ca19440f53abe498d869d1497172ada4161370a5e6fa36c066b5ab026cc8e543b92347691179b99a98941f42dff83a1e4cdca38a1880f94ee24371/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/45/20/4520997b22a9d5692e0c2cbc277339d8/4520997b22a9d5692e0c2cbc277339d8.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/89/8957023d43f5022f3807e9fa2b3bc4e5/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/1f2e8aa416250949d011a3c454f28d1d9cd8f96b79335c85ab3602ad8ccdfb751cd4e32096ddea90fd719912788411e60ef245da52aeaa01e876b0978b103924bc3f15e14b7bcebb843fbff2534d6021ef4fc6f382610acbf5290db8c8239ac11bced51585f7ef037dbaffe96f1ee81fdb5af3436b28ebff1108f3a037b67fa4/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/57/3e/573e6133fef844c240a86540beae562e/573e6133fef844c240a86540beae562e.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/57/3e/573e6133fef844c240a86540beae562e/573e6133fef844c240a86540beae562e.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/89/8957023d43f5022f3807e9fa2b3bc4e5/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www039.vipanicdn.net/streamhls/a7eeaa615266b0e4a436311998147c0b/ep.1.1677815916.m3u8"
@@ -31,6 +53,10 @@
         "downloadLink": {
             "DUBBED": "MTk2NzY5",
             "SUBBED": "MTk2NzY4"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

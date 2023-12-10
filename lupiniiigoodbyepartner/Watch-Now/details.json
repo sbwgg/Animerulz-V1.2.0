@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,34 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=lupin-iii-goodbye-partner-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/60cf8a6fe540605ee37454426ea23f6de3af390e1c3fd51da7a11b271476d04a951f46ea165e977f2fc01692b4a90c93994f306a2ea0cd99d6c11042b73be9994bd0b3559c4347f337c1613be9d138a67f40d5b5e323d004740065a17440b21585986947ead170747bbaad639ddbeeafbe3501d49d322bf1b3dcf12a9a3678e2/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/aa/aa7d0d2f8ceeddb6401a3a125d2529f9/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/36c97ee563799ea75a8d8bd05122a8d43dadfeee500662a5fab60c6c8203f6d36b78da12d541c862e1588cfa73c5988d309a31772435850a4fd4a75f7a8546d98fdffb6c74dbb236e04e276b28c0da8dc08a4e4dcbc575ecd94b94c1da8ca153913b5cf84bc03553e922b63f598d00b2c29383f49ce528dbd8ca3fc98a89fd5e/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/38/01/3801d582eb9ad5b5ef894be22e6bb17e/eng-4.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/36c97ee563799ea75a8d8bd05122a8d43dadfeee500662a5fab60c6c8203f6d36b78da12d541c862e1588cfa73c5988d309a31772435850a4fd4a75f7a8546d98fdffb6c74dbb236e04e276b28c0da8dc08a4e4dcbc575ecd94b94c1da8ca153913b5cf84bc03553e922b63f598d00b2169ae2ba91e5b10cb4de50cafdac8bcb/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/38/01/3801d582eb9ad5b5ef894be22e6bb17e/eng-4.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/38/01/3801d582eb9ad5b5ef894be22e6bb17e/ita-1.vtt",
+                            "lang": "Italian"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/aa/aa7d0d2f8ceeddb6401a3a125d2529f9/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www022.vipanicdn.net/streamhls/11705064bd4516d040179dab5da13f5d/ep.1.1677634887.m3u8"
@@ -31,6 +53,10 @@
         "downloadLink": {
             "DUBBED": "MTc1NTA2",
             "SUBBED": "MTE5OTMx"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

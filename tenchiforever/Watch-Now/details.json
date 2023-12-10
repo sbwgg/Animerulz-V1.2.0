@@ -1,11 +1,27 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=tenchi-muyo-movie-3-tenchi-forever-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/d3a9ecb8155e9a73ad0a3a0a9112e2de47fdd37f7bd0bb07553b5deb44ed0957ab8c605b8c9caf4c2c139bac7ddb423c3969dd2d858b0c8ababe1d0766d314a5a734046dfa7bfe87b4d5d74cca736483fe92655531e318c9a659e40f0834df3b2ea8f59b33a88a2eb11a8f6d50085d5789e66b21e72ef635a10c939d1d037f49/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/d8/16/d8165f34ef87a76eaf30ccc2eef1f62c/eng-3.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/5d/5d8315fa30260d88a9b6f92f695622ef/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
@@ -20,6 +36,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDA4MjA="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

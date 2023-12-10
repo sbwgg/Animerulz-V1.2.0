@@ -1,6 +1,9 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Full",
         "source": {
             "SUBBED": {
@@ -9,12 +12,29 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=one-piece-movie-3-chopper-kingdom-of-strange-animal-island-episode-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/12f80b29e5817dbe93152004d7ed02a6515ea29785277ef2776a616299aee78eb67a3692f49d290b03822eb732fdb8a67b941be3f7b73ff2065297e01f14d7b431f4a1b5902518b0922f96d9e95f0b110640684c106f9fc953cb2774b40ad57f153c1cf8cc0ab41ba3808347866dd613ef039585711a2f1c890a77844c60b70f/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/27/0f/270f3cb78a6aa0bc8428ed533b45f32d/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/cc/cc58dbf8722175a3b4618307bbdce29d/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDA1NDM="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

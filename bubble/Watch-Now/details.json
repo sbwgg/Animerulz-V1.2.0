@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,34 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=bubble-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/5368599e6efa5de452445bf88072d2771d3129c5fdf11251960cd84266051886fd394f9d2c948f46e051b200c3b74568de908f90f6a4b36dd844691d2e45ce5cd2c8a8ff40cab8a89d733a5dbb712e7a71774592ae9788e78dd69f8255beef85f30db187667eeb93e60b34c5d2b901182a9c4fe6bf9707cee42eb12b64ba883c/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/d9/5d/d95d7d17366ef6c6cc2664cae651543f/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/c3/c3c08c36a73d08447b7172111ccc9cb0/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/6a50dfd93bd77cd8bf1ac9b8e5b472d9ea0ea81aa02deba191ace5134a03b3f616e63a9df9f4d623ca65690b6d0efd9e75b9909423cb5ee317f63a5e4ee39c156696cacf9f6027b1ee9bd6a781b2533fedb260e91b6a11da60b62f843c34a4e337a9c224717d1a9ae514656b83d92e754f62dbd008ef2d5e17255a78473147b4/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/26/e6/26e6560c1aedcdae1a55601a97379ba1/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/26/e6/26e6560c1aedcdae1a55601a97379ba1/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/c3/c3c08c36a73d08447b7172111ccc9cb0/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www003.vipanicdn.net/streamhls/68cab8d1388cf44dfc74ef4898125bc7/ep.1.1677595110.m3u8"
@@ -31,6 +53,10 @@
         "downloadLink": {
             "DUBBED": "MTg1MjM3",
             "SUBBED": "MTg1MTMy"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

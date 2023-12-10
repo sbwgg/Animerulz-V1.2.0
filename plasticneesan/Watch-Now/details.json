@@ -1,15 +1,20 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/95875bac8830d0e5a79ab6ed41b0a252d1d2c1d9fa30ddbd026ca3904376bb2ee301549444cbf310c7a09a612c837eff98e7710f1332e5fdd5873c764711c92b4b526aac64ae827dcdb1e37ec8aaddbb1a42416fcafa4d9cf499d6e5124fc62b1b38ed1ddbdd02188dbcd06bd9d735033ed576269681d5aeae4af7b2b8f75c52/master.m3u8",
-                    "captions": "https://imgb.megaresources.co/_a_preview/e6/e6c6caea93aaa568a4787f591693bf89/thumbnails/sprite.vtt"
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/e6/e6c6caea93aaa568a4787f591693bf89/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www013.vipanicdn.net/streamhls/c7f3e90ca93632b8e94dcf8faf639294/ep.1.1677703268.m3u8"
@@ -22,6 +27,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTUyMzgy"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

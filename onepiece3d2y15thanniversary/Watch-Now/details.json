@@ -1,6 +1,9 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Full",
         "source": {
             "SUBBED": {
@@ -9,12 +12,29 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=one-piece-3d2y-episode-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/e1d9ebe8a42f716014fa328ec683b085b09151a7db60261a684be51a11ae3f58ea60caa1533d7d562aae7266e83ad4bb06a6d3f9dad5ff316270f3685afe3d288e2cb4bd53f84293a2e7bc7fe64779c860d1272e2ce22fa970dafbb6644c8e43efeb46ed46df3fe161790ca1c7dd2da4ab3d829826d9a788304d6e86077407a6/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/01/0a/010ace4f755e93d53b15ac341e79cb2d/010ace4f755e93d53b15ac341e79cb2d.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/cc/cc9f38147dfe86bb04985cf36a6c4987/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDYxNTQ="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

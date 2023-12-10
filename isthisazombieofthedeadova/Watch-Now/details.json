@@ -1,20 +1,43 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "OVA: Episode 11",
         "source": {
-            "DUBBED": {},
+            "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/aa98500e8ddc79ab67ba0417252ea67f932e4c69f8b62185c17804f7d89e99596a6061f7b2696235fd79ebe46a54003344ac08b040f2aeb5629ff28d5a81ba93f5d673b6f68171a39124e2844e5d9b8b0977c0904d9aea86e8287d1bfa5ea978ee61d32076aec870611fbfb8917faca44459d4008bf4a5905af10fa32a19d845/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/61/61df4b1548f7815566b303f33d666612/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
+                }
+            },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/fd4f33d3846460edd8ca356d6f6ffbecc2217dc67f0d4170a838b8a109fec75078f2516cced3f6f192bbbc5022403f6e2d39dbb62d3458fa9c8313ad4cd49b233af55d62d6bb6c454caab70cbb25a5ddf294ec637fc6e5d4edac80815be8bd39234ad3d55eb450c624282f38030168f8abd34deb2a96bd4f8f0fa25d725e98fc/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/ff/f4/fff4db0644ca9266d65145056808f121/fff4db0644ca9266d65145056808f121.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/ff/f4/fff4db0644ca9266d65145056808f121/fff4db0644ca9266d65145056808f121.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/61/61df4b1548f7815566b303f33d666612/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
     }
 }

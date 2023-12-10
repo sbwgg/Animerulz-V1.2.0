@@ -1,11 +1,23 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "1-a",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=armitage-iii-polymatrix-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/3bbe1f0a5331e6a223416cc14c6945f43912cbaba72961794db220ec9ed36a0e8e678b2f7cf9aab4836c40edae466cf4b76f25d829b63ddae5b0743b9e0b3c22f1e26abe3bd2b28a2f9a455e7efc115ec944dcc527b69095d9c7a1da3f4bc41e1e2d141fc16a1ddd6324e700c7dd138fda4ee186fb0b91206675b4ff76d0b852/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/ee/eef793108566233c07a57790354e53d2/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
@@ -20,15 +32,31 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDA0MDc="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     },
     "2": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "1-b",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=armitage-iii-polymatrix-episode-dub-2"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/fc7656ed17107d762839c55e01a0840e36f78d47a9c8f91a843f3705801ecbe4e4b5ea4fcf1f70d62c92d576e651426a8474b294498eca8af221e2bbb632e7b3c6bb4e59e62d524e0e6c81aca49d546128ee6352ae6b5a139bdddad1466fd026146cc2ca62a6e982754808ebe55806cd456407b70aa4035a58ce72a654dc2e1e/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/88/88094f62dc34d4a74855a929558c0a96/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
@@ -38,6 +66,10 @@
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
     }
 }

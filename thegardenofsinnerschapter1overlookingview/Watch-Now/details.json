@@ -1,15 +1,36 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/025c705cd5fc1a3e3be86ca87cae26c7dcb457a6681a4a897fd26d269300997e6ddb99f88fe311b4fe5fa870de7ccf0370d4301cc78a0f8a41abc71637b7863e6ae7f8f439f270088765f692367123d7672b91554a5d2b8324265263bbd89ee72344e0d1f60c0d501b7e07c61e0888eac43f6a3d1699d1072cc67cf3f3fcdb0b/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/88/db/88dba51381cc6f80d282660d12772f21/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/88/db/88dba51381cc6f80d282660d12772f21/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/88/db/88dba51381cc6f80d282660d12772f21/eng-3.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/88/db/88dba51381cc6f80d282660d12772f21/eng-4.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/88/db/88dba51381cc6f80d282660d12772f21/eng-5.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/8e/8e39c32d069671162f1a019be0ba264c/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www025.vipanicdn.net/streamhls/bcd819ded22a3dc566ffea12d0b849bb/ep.1.1677692281.m3u8"
@@ -22,6 +43,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDEwMzQ="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

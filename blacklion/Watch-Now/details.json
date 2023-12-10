@@ -1,20 +1,42 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=black-lion-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/754ce5b87ac5fa4be29a1494de90c778ac0ce97a58005a33091476bf7977116f6a3e978f7e2e13a5bc3a47bff0b90b1d5884be3258d91915711bfed1ebc805ba39d79b3b2a64dd34b5327eba38a47475932d72b5105b08b6174f65d10cc9863db9826c8477d8bca08a4817871820e5cbc1037f374dddd86f4df2d32623ed6038/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/84/13/841372efbb588c1ff9ad97ceab1522b2/841372efbb588c1ff9ad97ceab1522b2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/dc/dc09dc2edcbf808164fc7e14328a67ba/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/e70794d05456f0dbf7f95856eaa9b854471b4a260097f8375242a5f98f33aa6b9ae1b104ae52edd98a8c6acd470b2c7f07169304016d5c55005c9ed9427968b52f84b7fa81d42b3129be87a89a69d5c1c06b039b6be5d4c98a898165fb291ed3e24113284732d24ff3dc6279961c6bb1041b0bfc3ca7361bc98df0b978af3825/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/4f/4b/4f4bf7270e93786dec3cd3d93924d795/4f4bf7270e93786dec3cd3d93924d795.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/4f/4b/4f4bf7270e93786dec3cd3d93924d795/4f4bf7270e93786dec3cd3d93924d795.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/dc/dc09dc2edcbf808164fc7e14328a67ba/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www001.vipanicdn.net/streamhls/bbe9042701a3f1ab664110c3088b38ff/ep.1.1677660896.m3u8"
@@ -27,6 +49,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDA0NDA="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

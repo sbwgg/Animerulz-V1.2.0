@@ -1,15 +1,24 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Day 1 - Me, Maids, and a New Start",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/6a551c8ca78a836df45f0d05490b9ccec0c6f88c56713e02567523e92020b12e6ea2c9e240bec61e7792125e68f35891f5d5bd865ac6c91015728d839d0ff30356485601d6a1b56d148d57fde17f50ce41e7842a4c8efb6109a552c23f1384d5ebd64d7a205eac18e1b30ffbbdbe5f702979e5f7ab2507aa279b756c8e8ca98c/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/66/e1/66e11f2096372deb9486853dc46ed311/66e11f2096372deb9486853dc46ed311.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/66/e1/66e11f2096372deb9486853dc46ed311/66e11f2096372deb9486853dc46ed311.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/76/768366bc18d97aa0b68a748f6daaaf71/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www017.vipanicdn.net/streamhls/9e2328ccba6851f491b56b3464d355a2/ep.1.1677649954.m3u8"
@@ -22,19 +31,32 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NjQ2Ng=="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     },
     "2": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Day 2 - Idiots, Fireworks and the Summoner Tournament",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/2c48d3e380b38e9dc7c463734f4c768bbb63498120a866500801415c223cbdf2cb15b1d29c6cb255cfb50da4bef2f2c2dd9be74dc5c9fba9db8646549e680276bdbcc9866627f6fc903be6354b3869f208ba85f7d7147112e8a58ffae62d68291e87c8fb90e2997593cfb8eb431bee8a485d848104f3e65f5cb8792f315a79ff/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/c9/c1/c9c1aaddd886a8768fe9c7e53cabff29/c9c1aaddd886a8768fe9c7e53cabff29.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/c9/c1/c9c1aaddd886a8768fe9c7e53cabff29/c9c1aaddd886a8768fe9c7e53cabff29.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/62/625d2fd198653eb5fddfde3c21c8246c/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www018.vipanicdn.net/streamhls/9e2328ccba6851f491b56b3464d355a2/ep.2.1677635712.m3u8"
@@ -47,6 +69,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NjQ2Nw=="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

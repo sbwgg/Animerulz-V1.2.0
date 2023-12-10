@@ -1,20 +1,42 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Special 1",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=majutsushi-orphen-hagure-tabi-tennin-no-isan-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/595652b004231132107340bfbfe85047706f92075c97b1b005acf43f7aa52bcde6ae1fd89dc3e449ca41146b478f0887bd2d5b176ebc46f8785468d96910a4c1961c8f4995ea6487282a02a14397b4c2da9311412d231a153e63b1c66d952f505e91322036df888c6dbf6d026970469cbee14a6f33a5dbe66541f4c62f5a24cb/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/56/1e/561ed7b875a587baa53c4c46864edca4/561ed7b875a587baa53c4c46864edca4.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/3f/3f52791cd10be54e20c55fea54657087/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/5f0bc4eab888ddbe81548cd8758987617ae98ae9f1fa33a0a8a5fa751ed359d74e6699c6d096f1a9093536e86b58a3395cfcf89ebe03093bcb919aaa73eb8edddd1b3e4a2e810e18546e9ad7f6e5774444a3744227106921fb3e91fd1a0f5f6f9ee366ee3750b444935936075adb30795673a26e397c3f722dff0f78636cb216/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/09/58/0958c7bb936e5b3b84a4ce063928fc39/0958c7bb936e5b3b84a4ce063928fc39.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/09/58/0958c7bb936e5b3b84a4ce063928fc39/0958c7bb936e5b3b84a4ce063928fc39.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/3f/3f52791cd10be54e20c55fea54657087/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www039.vipanicdn.net/streamhls/74fb6cdafbf7d906bc81f3f32c835d78/ep.1.1677837995.m3u8"
@@ -27,6 +49,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTM4NDg4"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

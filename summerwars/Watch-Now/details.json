@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,30 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=summer-wars-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/9bc132f68a14c2ce6d939f1419aa547e4dd7cefbcf382b86079ea9b09820550eb7d939d107d82a3c16ba6207078594895111493c954aad23f7220047a4daa5c13ac372f8a8ac285818c909294d0cf9259a9bf848b3b9de8f90ec2fde8ec64a37f0b330daaa2cb755c4a5369707a5718b48763ca62bbb9b3e06dea0fb7f467929/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/f1/f185aa5286886d60397e6946dcc85e91/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/f95f95d440ba4b98a0a166b934a93556105bd844c8ba97252a1b1cce174a955fb2192c672ebb68f6cda2a51046c5926fdad69e047cf7b8598620c815a3ac2a17c461754c907fa080e91c34d051ff5a7af2441f37895299968de366a4404ec51ea76dbe3c1f42bf0a829c2e920d229d807c2068dce251c307fae4c56a07a81ca8/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/c3/2f/c32fcb64287e081b07966fa5e66cd436/eng-7.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/f95f95d440ba4b98a0a166b934a93556105bd844c8ba97252a1b1cce174a955fb2192c672ebb68f6cda2a51046c5926fdad69e047cf7b8598620c815a3ac2a17c461754c907fa080e91c34d051ff5a7af2441f37895299968de366a4404ec51ea76dbe3c1f42bf0a829c2e920d229d80ca6089ec18d39d4364ef2fc7b1cd6608/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/c3/2f/c32fcb64287e081b07966fa5e66cd436/eng-7.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/f1/f185aa5286886d60397e6946dcc85e91/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www011.vipanicdn.net/streamhls/db0939c90c7f74c978d72f246010df5c/ep.1.1677662832.m3u8"
@@ -31,6 +49,10 @@
         "downloadLink": {
             "DUBBED": "OTA2MjE=",
             "SUBBED": "NDA0MjA="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

@@ -1,6 +1,9 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Full",
         "source": {
             "DUBBED": {
@@ -9,6 +12,15 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=one-piece-adventure-of-nebulandia-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/591a24746b6bd87a153eaba4f3880dbbdf680ba997035bbcd1b1688e444dad8447103cd035fa4252bd345b46bdf0b7aed53054bfa023a423a76c58ffed6bde8578b2cd9fbe746108bd418b33139510c47991ad7f2047f039cb42c6638adc29c1312183946eeb010ecaab42a49fe7794577bbc8e8cb79c9975413a1686b7b09e1/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/bd/bdbfbcd4ce4ea9e4713d1a709efe6ef3/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
@@ -17,6 +29,31 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=one-piece-adventure-of-nebulandia-episode-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/6042f297d79983057d8211970437d79245a9c7d0c71b6fd56015ccac32fbb883a1f2c988c4611ceef58855027d041c7978f8e45e58ca1a01d54128d055e722ec909831d9633fd66f08fff82c41c00ce61735c7223eb75dca359577298d3af796436839214e29fb928357abf06d407acdafe01a561857d075f5d5b59a7503dfc0/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/e1/e3/e1e36e83b0f46ec9428060898cd06d10/e1e36e83b0f46ec9428060898cd06d10.vtt",
+                            "lang": "Arabic"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/42/4f/424f50da7d306b7115f4082d2ddb22c7/424f50da7d306b7115f4082d2ddb22c7.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/c8/90/c8901663ab5e80bd4ed002ad7a762c9c/c8901663ab5e80bd4ed002ad7a762c9c.vtt",
+                            "lang": "Portuguese - Portugues"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/c0/5a/c05a0c28a6a30ef95f55c6ec66f2ce21/c05a0c28a6a30ef95f55c6ec66f2ce21.vtt",
+                            "lang": "Spanish - Espanol"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/bd/bdbfbcd4ce4ea9e4713d1a709efe6ef3/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
@@ -24,6 +61,10 @@
         "downloadLink": {
             "DUBBED": "MjEwNjUz",
             "SUBBED": "NzAyMjQ="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

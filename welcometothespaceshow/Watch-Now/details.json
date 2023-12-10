@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,34 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=uchuu-show-e-youkoso-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/b03f57f4e24c4f4104e2fc6d2244ffc8f0dc1f72ee1a1e1317752458945cb3fda2a3e4dcb2b270438d58c0e09b8e7c2be6bdcb9abcc61bc51e9117411456b7c6c4043fd40c9ba3c46b6a863940001d1f0cac0433fb631c41049cc8bf33fa0440d266589259edb526ff20d96a9b0ae02bb9f402ef301f99e79cf2657eaafe8011/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/3a/8b/3a8b62a45e7e3edc1e5a8f818eb30c78/3a8b62a45e7e3edc1e5a8f818eb30c78.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/15/159992f3e5a315b72609af05d2ba490b/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/d60626581c382e8e3c6379a0916143fe71ecee1c1597742cc92d35c087ba44c7dc37b31472340d1bad52dc681a6e198829dc8ffa67efae83afa554d2debbd19bbe66f630d562f10400baf5dd7bf64ca298a090c53ceaf655ac7c7e11ba8d5d64952723ce5ed7219c829c1dbb774a88010fa6487d540868df53dceb8e6919fd86/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/bc/56/bc569acb218a9d7c6bea75908e8e553f/bc569acb218a9d7c6bea75908e8e553f.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/bc/56/bc569acb218a9d7c6bea75908e8e553f/bc569acb218a9d7c6bea75908e8e553f.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/15/159992f3e5a315b72609af05d2ba490b/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www016.vipanicdn.net/streamhls/a260500802c2078fc480e739916ab3a3/ep.1.1677702910.m3u8"
@@ -31,6 +53,10 @@
         "downloadLink": {
             "DUBBED": "MTQ3ODI3",
             "SUBBED": "MTQ3ODI1"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

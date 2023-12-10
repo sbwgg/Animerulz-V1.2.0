@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,38 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=street-fighter-ii-the-movie-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/ccfc17c59339407f6a9c8f87ae9f6a9d5d0efb1bdab8b28b2f68e5432aafa1b373efaf822b14044abce55c628276593f3293ce5ec89e1aa89724db5bbe5004157b78d73dea13fde0b6498ed92af7aa7eb77a7737cccbdc74bf5dacddd818f351eabe2edec54d68d149486881de720d3442bf178659a5484ad234bd171e09301e/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/14/145c43e32693d9f07f4e08847fad14f9/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/db9284f5cdcbf777d8250efb1330e96956621f7b197504bb3e991b95a02ea5e73dc2ebe06003458a00741afe58aa02a31114d3c4696ff111f9a6947be164eae0b55c5f3cdfb004c8ea1b4b75d096b750ce804e10093d96e28db28dfdcb4ca224af8f04eb89b65f9747f94c548e126b897f516bf391cccab8faf976d497444c91/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/bc/a3/bca3f77417a27a8bb2c4052cf054359a/eng-4.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/db9284f5cdcbf777d8250efb1330e96956621f7b197504bb3e991b95a02ea5e73dc2ebe06003458a00741afe58aa02a31114d3c4696ff111f9a6947be164eae0b55c5f3cdfb004c8ea1b4b75d096b750ce804e10093d96e28db28dfdcb4ca224af8f04eb89b65f9747f94c548e126b89b8d19eb2b3aac909487101574c661c50/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/e6/5d/e65d98f3177ba106704e7d4e2a3aea08/e65d98f3177ba106704e7d4e2a3aea08.vtt",
+                            "lang": "Arabic"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/bc/a3/bca3f77417a27a8bb2c4052cf054359a/eng-4.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/bc/a3/bca3f77417a27a8bb2c4052cf054359a/fre-6.vtt",
+                            "lang": "French"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/14/145c43e32693d9f07f4e08847fad14f9/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www024.vipanicdn.net/streamhls/a195fd9a22c9d58a24dd947b22b4784e/ep.1.1677663667.m3u8"
@@ -31,6 +57,10 @@
         "downloadLink": {
             "DUBBED": "OTA2MjI=",
             "SUBBED": "NDA4NTM="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

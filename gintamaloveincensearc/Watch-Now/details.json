@@ -1,15 +1,24 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "A Heart Without Love Does Not Smoke",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/50fa502a143f234d185490f4995b70e46bea666ce10148363d9d45bf0e6dfd3f29a272347effd22aea5d9b375c056952046b36a972a3d0517690570de99cfdb3d0bca9fbca6fd6690bbc8ef2241af9f54f1d8f91cbde01bedb50bbe92802b11524279e0f30b00f230263ce8b0aca26cf/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/d0/a7/d0a79621a06e3b394ab8ead0105bbcec/d0a79621a06e3b394ab8ead0105bbcec.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/d0/a7/d0a79621a06e3b394ab8ead0105bbcec/d0a79621a06e3b394ab8ead0105bbcec.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/f8/f8ad58fe2e0b2762791a768585e7c58c/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www010.vipanicdn.net/streamhls/1ac726ad35502ef736c9263e8d82fe77/ep.1.1677664620.m3u8"
@@ -22,19 +31,32 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NzQ0MDk="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     },
     "2": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Eternal Flower",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/1f4e0a1a2fdb344ddae73cdca6a7844821bc62557525acac280df208901e6a9e14f32436b6a3866544ba2cc8086ca0df20ec04739119f0e60872f81a53b98e91cbcd70ed448441f482b9b8166d0d9c8fe170c8190c2c22328b78cb39d11e11c3966926322d42f927931c9bdc3eefc8f0/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/95/13/951304d5019a34d51022d4f670a28e24/951304d5019a34d51022d4f670a28e24.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/95/13/951304d5019a34d51022d4f670a28e24/951304d5019a34d51022d4f670a28e24.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/c7/c75ad8401920959b80bc201eaedc3e66/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www020.vipanicdn.net/streamhls/1ac726ad35502ef736c9263e8d82fe77/ep.2.1677674003.m3u8"
@@ -47,6 +69,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "ODk3Nzk="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

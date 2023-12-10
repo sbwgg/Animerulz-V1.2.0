@@ -1,12 +1,43 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Special",
         "source": {
-            "DUBBED": {},
-            "SUBBED": {}
+            "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/5b119088bba549cb04af38dfb234e08b9e8a4a460f01333754b274dac709670ba155c12d0481e2109617b4432896dba34bf0f2731540978a31f26f60d3d78bd6a072a434600afa56c1e781a2b98bccfbcefbfa5e173e0d641981b1f430d4c91633ac1e7631ec5557633f5f925660e35b04545de3e1663817be6ea671d5497fb1/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/94/941a60568224a80ba2dca83d47103e55/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
+                }
+            },
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/e0096051ee976bc47140138b0fcd8066500731fcd93f2e001d716b7c00bb96316c6eff513853183cb130325e03c2910ecb58275c3017cf29a7ee9abc0a0b847ffd3b2bf5b2db93c487ee9982faaa4e26b96bee597c4a6cb36b639b8f6e0e5ce9c6c372f671ac0df26266c74d3b8286fb8099e0d2fc3971a5e2648339025c074a/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/96/32/9632d54eff6afc091ec77774a8fb92cc/9632d54eff6afc091ec77774a8fb92cc.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/94/941a60568224a80ba2dca83d47103e55/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
+                }
+            }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
     }
 }

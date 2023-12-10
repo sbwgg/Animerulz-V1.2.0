@@ -1,20 +1,42 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=blade-of-the-phantom-master-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/aa5cacedccd717a57e7fef166d285cf6e2a45e74f198bb74604f53a7ce103822bd42175127ef99bc34340e2cb8f3a2d0fae524e7606dc3854cf0ce64c23985e0d0cbfb20abfb577303e90b63800e84b3108470574842a1b7725e02aa6314b6acdd3b0dc0af02b70b4b535a4362a592269ff04037c3170e39a7a5661a4b4b66e8/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/e3/6f/e36f942546ca007c1f5cfb4512a0b554/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/c9/c93aecf43a630ab968456c7ce5ddea5f/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/c4301de732c9b912d238c07e0f75e963816abd68d0495e0fdc929f120f38db5b9c5d48af7a649c02f30c00e6ce38245a19d1372366810ea525395b9fbec8a853a67afa0172d625993517107f2bd7eb967d8a50afb93edc2bfa65b67ba9b9556da2cf28aeb603ef72f82343699ea48be4d5dee1aab373f7995642bffafd2b59d2/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/1a/11/1a11dbc4aec0a72dc983eb85981cc818/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/1a/11/1a11dbc4aec0a72dc983eb85981cc818/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/c9/c93aecf43a630ab968456c7ce5ddea5f/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www003.vipanicdn.net/streamhls/7e450180f92fa72b5eee5fe9ab280e27/ep.1.1677664460.m3u8"
@@ -27,6 +49,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDA0NDI="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

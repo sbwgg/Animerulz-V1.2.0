@@ -1,15 +1,24 @@
 {
     "1": {
         "intro": {
-            "end": 178,
-            "start": 89
+            "start": 89,
+            "end": 178
         },
         "title": "The Hard Wars of Consume",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/9c637acd0defc13d86343b326a3278c7f7b35ff1a17c21d777c064f875d48fa53028052262c70d48ab2a32de32f431809d3e36c509da89e7ae0e0862a71ccddb6a30833e8ed93f0f7f61d4a5034ed35b808456941e07f1afc11477e3de4254c836e100196bb00c71b52ce2b0363e2919c60e8808b5c146efc0f886825aae2fbd/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/de/cb/decb139eb1366d9b022faa1a540c43eb/decb139eb1366d9b022faa1a540c43eb.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/de/cb/decb139eb1366d9b022faa1a540c43eb/decb139eb1366d9b022faa1a540c43eb.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/c4/c40602d55c26db00a857ae0ca196968b/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www007.vipanicdn.net/streamhls/e7318fe4f6476b7ece46f4b13e64c405/ep.1.1677649023.m3u8"
@@ -22,19 +31,32 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDE3Ng=="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     },
     "2": {
         "intro": {
-            "end": 133,
-            "start": 41
+            "start": 41,
+            "end": 133
         },
         "title": "Killer",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/cd58865f9043f23fe015ce8ed91acbaa17776302b815b07c2f9a94c5e8782492ff38ca441e0679b9c656995f23e264bea482a13db9b4603335b619fddb79c30869735d8d1ca0a43cadefcfa9cfcb9c727eefe9f9517d07f9096f5d1c6c9245cad2566b05394b2fd4fb864d947e775a36c66fb9046919c490172a7dce9e326366/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/11/7b/117b2cedb389279d798167d95f62b178/117b2cedb389279d798167d95f62b178.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/11/7b/117b2cedb389279d798167d95f62b178/117b2cedb389279d798167d95f62b178.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/69/69b9245e7ffa2eca5ee983e0da7cc076/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www011.vipanicdn.net/streamhls/e7318fe4f6476b7ece46f4b13e64c405/ep.2.1677649375.m3u8"
@@ -47,19 +69,32 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDE4MA=="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     },
     "3": {
         "intro": {
-            "end": 85,
-            "start": 61
+            "start": 61,
+            "end": 85
         },
         "title": "Lost Star and Kid",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/407e21551349863ce52ad6ac0cc0937699868bcce8c576729cd47df2fc633c98287a5052ab13c6d3ceefd6c464e17429854c850dca3431ff95de87025bc39b206439e802e014508ab63c8ba03a2f030cd9e7ef3bbf2555fce631fbb2678caad13856a5f4fb50570ee4ebbd5f199b1b5006bbeb9ac9cda0010c55e83a5ff58d99/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/41/45/41455124da718cefcaf0331a55e73392/41455124da718cefcaf0331a55e73392.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/41/45/41455124da718cefcaf0331a55e73392/41455124da718cefcaf0331a55e73392.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/02/029325e924226bc4db446d86c03dc273/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www015.vipanicdn.net/streamhls/e7318fe4f6476b7ece46f4b13e64c405/ep.3.1677641994.m3u8"
@@ -72,6 +107,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDE4NA=="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

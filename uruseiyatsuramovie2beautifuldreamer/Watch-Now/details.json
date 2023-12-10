@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,30 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=urusei-yatsura-movie-2-beautiful-dreamer-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/ce10774895cd8605e2ad38875aac8ce19e5725705d5d7e340822753e3d1b017259da9d6bc650e75dfed1870de0f3f569dbef221f0af4f325fb94a243a7eff58c3ef5ae530ed766f1f9c4f46377a48ef8d24dc8ce6e036c3555fc9098beeb1da285874741715a5b018412fe7eea5dfb95cda13b515c7004e73cced0c2c5575540/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/58/58490fb50b11fdfa37da14de0a7ada52/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/3a6ac8b09199d6255e51eb8217884ca3bdaeb0080d3b83f5f243d9bbc4b90fe71e6d4336d2f600258b484f82f64d9eaa55f88c437bc24c2f77ffe7478f26f13957e29c17e3a53996a6b9346d6c4fd46510fb1f1384b1a9761ead9adeee00d912bf06ae30b1da9b7dc982fb26d9043fcf7947a4902808313d01a842ae2116f18b/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/a4/3b/a43b5a365ca3f6701fd8b8cc60471ae2/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/a4/3b/a43b5a365ca3f6701fd8b8cc60471ae2/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/58/58490fb50b11fdfa37da14de0a7ada52/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www003.vipanicdn.net/streamhls/699c378056c214fb14c75c87b3a6ddd0/ep.1.1677664437.m3u8"
@@ -31,6 +49,10 @@
         "downloadLink": {
             "DUBBED": "MTU0MjYw",
             "SUBBED": "NDAzODI="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

@@ -1,20 +1,50 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=pokemon-movie-17-hakai-no-mayu-to-diancie-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/cedb971ec8dfab350c1ed63939ee5b05835d5b61595e66761b3f7155cf515c10fb0315c1a45ab9b86e374f6946bd912d5939ae8307acdc13f01541f3c366b17bc899b8e057dca2bd240915152d6bba4aa5a639b1ae6650ec2cd818a0af4af4c7e9c41ea2d4d16e38ead34ff067c1edc610fe6759019fae3ce6279083d25a7381/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/c8/c82ff188d6e09c77d50f0a47574812d6/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/1690f3c79b956a530d13ba8858567c224aca36f2c346af45919d34d14ff9af40a2ebfc5b0f7b064a8d1f2afb7f513acb23edb8543bb6df9a460ae2eace13b6008653be2fbf03ed7ca19096b16a9db8b30c5361e1525d99f5acafe7e6e91c09599d5e8745c4ed1ae3363507a4d5d7220911d15b7ded6136865cb828952f711687/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/0d/98/0d98e8e7c48727044cf4edfc579d7789/eng-12.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/1690f3c79b956a530d13ba8858567c224aca36f2c346af45919d34d14ff9af40a2ebfc5b0f7b064a8d1f2afb7f513acb23edb8543bb6df9a460ae2eace13b6008653be2fbf03ed7ca19096b16a9db8b30c5361e1525d99f5acafe7e6e91c09599d5e8745c4ed1ae3363507a4d5d7220928ba00ba641d9abf20b41056255640d1/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/0d/98/0d98e8e7c48727044cf4edfc579d7789/eng-12.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/0d/98/0d98e8e7c48727044cf4edfc579d7789/por-9.vtt",
+                            "lang": "Portuguese - Portuguese (Brazil)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/0d/98/0d98e8e7c48727044cf4edfc579d7789/spa-10.vtt",
+                            "lang": "Spanish"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/0d/98/0d98e8e7c48727044cf4edfc579d7789/spa-11.vtt",
+                            "lang": "Spanish - Castilian"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/c8/c82ff188d6e09c77d50f0a47574812d6/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www010.vipanicdn.net/streamhls/c42c27b6e7bbb3e5ee43e46a385d6c3d/ep.1.1677661433.m3u8"
@@ -27,6 +57,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDg1Nzk="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

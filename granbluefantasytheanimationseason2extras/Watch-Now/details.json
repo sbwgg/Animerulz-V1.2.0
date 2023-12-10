@@ -1,11 +1,23 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Another Journey",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=granblue-fantasy-the-animation-season-2-djeeta-hen-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/27efc1b4563e65d2d7a75dc057e2dd1050702266cb154073cb0b2ebf938e6443e4f4edf7479fe5fe5514b8eb8e11727a64d1547fb552f902849562f9dfe8bca0fca7d66f561158b0a418a14a7be07aef6d0259d3bbe88aad28d8d37594f88de40c47fb7901ebdfba74e55c6d9ac2faa8ea8741af1c81f49d0441c5b08fe491a9/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/34/34c20f7e23be6450b3f185a54e845956/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
@@ -20,15 +32,31 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTM3OTc4"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     },
     "2": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "The Masked Cypher Descends! / A Tale of St. Albion Girls' Academy",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=granblue-fantasy-the-animation-season-2-djeeta-hen-episode-dub-2"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/2ddf4ab7a05b66751e3879b09eebc0927e98cfdc423473cc1aa9207183cd7d55f53637b7ee46a17c5e36b87b6b55a8dcf3a91e347a8900b0099119377addb0d6612c0fd5a90d3f2ff195d7402db2ab74d948a15db4d22c73f3fa89ec09ade4364257bd2759e99ca2dd9a64248ebc5f857513002401bc27ff968e226f9325d338/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/ae/ae9cd4abde86058a7919466340918c1b/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
@@ -38,6 +66,10 @@
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
     }
 }

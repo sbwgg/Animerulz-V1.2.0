@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,34 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=tokyo-godfathers-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/11fb91035aa17e358b30f52c610fd6b0c4ff7be642f1bba28d676d4b3867f42d66a282e71ad2e4715aa2f14d639d2cdea1397c1d60daa899129510d69f533e43c1ccda2a37495c2471aee6d03a173b6c370a590eb82f3715a1eb847390875f54c08f537b5f396178c04f35a8b0fc2ac365e0a64de6849593611abc487f37239d/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/88/883991469e53bf3b96be026c03ec6f27/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/c07f8dfb8dbdfa036887500f8b82fb16fa44e40cddd7c45730f44c93df1fa64244b51b37847fde103e186ec39e82d1915d960eccfc8ab12fe5acc0b9df02c0fd016f6ec1af7bac6d7eeb6abf4b3cd6b920647da9604c79e1b5b495fef66c6c6da5e776d6b4b9649874864796a4ed6eb08c17157081781c6cfe33345543253f67/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/9e/89/9e89202d7bd40cfe48bb51bbc7800209/eng-3.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/c07f8dfb8dbdfa036887500f8b82fb16fa44e40cddd7c45730f44c93df1fa64244b51b37847fde103e186ec39e82d1915d960eccfc8ab12fe5acc0b9df02c0fd016f6ec1af7bac6d7eeb6abf4b3cd6b920647da9604c79e1b5b495fef66c6c6da5e776d6b4b9649874864796a4ed6eb068aa890473ca06121f9d6dbdca472e02/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/9e/89/9e89202d7bd40cfe48bb51bbc7800209/eng-3.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/9e/89/9e89202d7bd40cfe48bb51bbc7800209/eng-4.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/88/883991469e53bf3b96be026c03ec6f27/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www019.vipanicdn.net/streamhls/cb4f787846f4e158a6cc50b6da479bb4/ep.1.1677660707.m3u8"
@@ -31,6 +53,10 @@
         "downloadLink": {
             "DUBBED": "MTQxMzg0",
             "SUBBED": "NDAzOTg="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

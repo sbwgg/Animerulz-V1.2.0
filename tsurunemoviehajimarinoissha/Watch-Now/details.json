@@ -1,19 +1,36 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "HD-1080p",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/2a8daf2b88bc621227be758896a678e242280aa41bc8cdd38f987014113400034cdfc27d8256a65d4f34dc83db04f81049f80b35ff24d30136f8a90ba305ab1656fedbdab9adfec26fa5bf598c118382a9cee93f7b385396f72caa511cf19ba17d56eed0fa97fbe23513586401bb4a337a0ce662b2f023b7b2b2bbe65c80b78f/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/76/37/76378aa88c2e373dfbe8b527fd8a7ab7/76378aa88c2e373dfbe8b527fd8a7ab7.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/76/37/76378aa88c2e373dfbe8b527fd8a7ab7/76378aa88c2e373dfbe8b527fd8a7ab7.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/a2/e9/a2e9ae40a3706fe3e892555ecd8eef57/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/75/759f511ee9d966e83a901056012bd9eb/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
     }
 }

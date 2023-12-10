@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,38 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=lupin-iii-honoo-no-kioku-tokyo-crisis-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/b240a088beaf649ef32547891ed2c5f3538df4c165851cda27c4713b4e26e6c20dfbb65a8570998adba3da4454837414b0dbe1bac42eacbfb51f016fe577a8cbcff7a8a7cdd60f5ca2fdb39790bb0f3198c337ea1fa65873c168f2c9a52c964b74ad370d7a5489719819ac97ee4761f431529a35f28987a4c7bb83402e76bcf6/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/1d/1da63cc42d9a63faad73908744815a69/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/403c8660ca49959a8b545b8d257da3de1eb539f516bc2d5c339d84384958c3d45edf8959164ea4a8970c61781a28bf0f95360bb13f1a55a70ee0a8908593da19dcd9bae510856aefeafedaa76e3503438a55f427a38bc06d85cf9d7a31b93c6f4d684691d3119023b5abb6d0215e55815760a90943d4624e8e39b9bb213299cf/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/20/c5/20c565c66814a3d940e6c655106bdce8/eng-3.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/403c8660ca49959a8b545b8d257da3de1eb539f516bc2d5c339d84384958c3d45edf8959164ea4a8970c61781a28bf0f95360bb13f1a55a70ee0a8908593da19dcd9bae510856aefeafedaa76e3503438a55f427a38bc06d85cf9d7a31b93c6f4d684691d3119023b5abb6d0215e55812a41ebb90c6989b0a96e1e173ea4bfaa/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/20/c5/20c565c66814a3d940e6c655106bdce8/eng-3.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/20/c5/20c565c66814a3d940e6c655106bdce8/ita-6.vtt",
+                            "lang": "Italian - Cartelli"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/20/c5/20c565c66814a3d940e6c655106bdce8/ita-7.vtt",
+                            "lang": "Italian - Dialoghi"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/1d/1da63cc42d9a63faad73908744815a69/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www024.vipanicdn.net/streamhls/13f3a935dc63f1012879727424bd254d/ep.1.1677705360.m3u8"
@@ -31,6 +57,10 @@
         "downloadLink": {
             "DUBBED": "MTQyODA5",
             "SUBBED": "MTQyOTEz"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

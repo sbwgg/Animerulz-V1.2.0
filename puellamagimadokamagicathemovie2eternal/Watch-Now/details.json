@@ -1,20 +1,38 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=mahou-shoujo-madoka-magica-movie-2-eternal-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/5775bfb3cbf0aec9890ab97dfa2ef47b8f665814bc62ee5f221aa882cbafd49b5bcde52a59794c7df8236813565672c32d18bc3047cc9a03b096f16aca0258bf38645bc40ffc0816e127a6393f9545cef0ae79bbfdaca70187e790ca2e88827b2ad09c7f16f15ff58f1463a6fc92e412fb08ead7968245cc610f833bb9285828/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/b7/b723eb44b3d83ce058f15599028c03d9/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/66fa3fb627e39b75f5ff87cbb1365988da59d8410d6593bcbfb4cc9dc6dc2a5ef43bbd16f0a73de11c057f2cfc18306fedbb74924d466973b8b23b271117905b8a8300fb990df8fa37f5cfd4d2d4e1e25080b28c631c1a123a7b2fd39133ddd516767e2a03133bcfa6cb22fd896b308b8f4606b97085a4f3cb8ce7562d7c8028/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/94/75/9475a9f70db719b54d51a8713c7c379f/9475a9f70db719b54d51a8713c7c379f.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/94/75/9475a9f70db719b54d51a8713c7c379f/9475a9f70db719b54d51a8713c7c379f.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/b7/b723eb44b3d83ce058f15599028c03d9/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www019.vipanicdn.net/streamhls/dacd2842585ce28ace4a56de3197865c/ep.1.1677660832.m3u8"
@@ -27,6 +45,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDA2MDg="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

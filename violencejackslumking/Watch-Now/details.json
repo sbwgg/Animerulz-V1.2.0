@@ -1,20 +1,38 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=violence-jack-harlem-bomber-hen-dub-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/9cac60dabbd1f45b382b8734349b1a41af718f855595e91d68025f1bd3880cab5ca9b239cca1bd7363b75c5332ca245fb58bd6657339aa83f429863fe55d49c134650475507daa3a687508b3cb8c8e6f1d456e83775f20aa20c8ed3154df27560cce6a14c7b167744e3e89b253e261a2c5a4c2338316d5b2fae3f75aa0e68d62/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/99/99886cc7cc135ddf2501a169b863fa45/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/d2be95491f4e5e24fe95d60569c20f089eb84359e4d24a7ef12c32973c8eabb15d926f24a7ede1fe6cb0aa3cde2917b8a134dfd05a949412e2e7c490fb6f285c8e518ec11383213a82dbb2dd68cbddc7785511aebfc0d6a65d7c5c09d24c591621684253ca55b42d1a973e2d630a2547e279c49dd5c4d89ad63897cb3471a6aa/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/e3/e5/e3e5d8dc60ea4fba9cd16a3566693b72/e3e5d8dc60ea4fba9cd16a3566693b72.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/e3/e5/e3e5d8dc60ea4fba9cd16a3566693b72/e3e5d8dc60ea4fba9cd16a3566693b72.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/99/99886cc7cc135ddf2501a169b863fa45/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www049.vipanicdn.net/streamhls/0b23b510e59235013a4fb9b0ab82165f/ep.1.1677847826.m3u8"
@@ -27,6 +45,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTY3NTk4"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

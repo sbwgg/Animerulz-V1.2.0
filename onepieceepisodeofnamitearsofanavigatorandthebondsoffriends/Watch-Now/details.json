@@ -1,6 +1,9 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Full",
         "source": {
             "SUBBED": {
@@ -9,12 +12,29 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=one-piece-nami-ova-episode-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/5cf6ed63ca8daea8f97dec719ffbda416aeba56519d2136abee97c9dbdfdbdd68ef212f84fd4d611b5fd0d2f930260f009862982f5abd17c9086e168a55b216a35d3d0e2f8d3f64f421ba8c967e02b2432c3c050688672909b72965049a499a135570f461c3ed9e36b308534aa8f11d7cc7965477a7b4f2cf8c6cd0f2e56f0dc/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/f1/c9/f1c951d3f086b6a31f5621560fcd9fe0/f1c951d3f086b6a31f5621560fcd9fe0.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/0d/0dda39f83639f58ab28765e2411881e7/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDMwMDM="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

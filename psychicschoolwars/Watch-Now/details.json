@@ -1,20 +1,50 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=nerawareta-gakuen-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/6e44388de458bdd45e580d7490456a18b564970694fbffae5e04832838b90b7c85593ddbedc81916a6c021203c8a52488dacbe7e5069c62d402ff78e1ffbba2974c7f9cc64387520d82a1704121c4932a7d37a28ce6ec8f8061543386cae6cbb5271ac5f87ea45bc36c1de84bd1e8de68012a821c830f07118691d5d058665ca/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/a7/a702919693fc16611ccffe9e67ce0c49/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/ecce5b3a3f21a181d661930094fc200959b3b8bf4489697d2a501bfbc6d9ac389b2de25b9d41778bc84bb8ee8a02623db93814f502cfd3f13b5395024088803f27b1dd2db27de6a13406a4ec1db10151a9ca936143eea9f4b6413d3ecc2ea961c150a787ad5328637d6063bac7d17bff7ba074c946069cd2c9c0eab519641d7d/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/46/1a/461a09e4f7a651a11b6f84aadca898c9/eng-1.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/ecce5b3a3f21a181d661930094fc200959b3b8bf4489697d2a501bfbc6d9ac389b2de25b9d41778bc84bb8ee8a02623db93814f502cfd3f13b5395024088803f27b1dd2db27de6a13406a4ec1db10151a9ca936143eea9f4b6413d3ecc2ea961c150a787ad5328637d6063bac7d17bffb8e70e1439756a7aa0e765fa3dbadc3d/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/46/1a/461a09e4f7a651a11b6f84aadca898c9/ara-2.vtt",
+                            "lang": "Arabic"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/46/1a/461a09e4f7a651a11b6f84aadca898c9/eng-1.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/46/1a/461a09e4f7a651a11b6f84aadca898c9/fre-4.vtt",
+                            "lang": "French"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/46/1a/461a09e4f7a651a11b6f84aadca898c9/ind-3.vtt",
+                            "lang": "Indonesian"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/a7/a702919693fc16611ccffe9e67ce0c49/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www017.vipanicdn.net/streamhls/09909a714e47fba77ae4220e2bac6178/ep.1.1677661127.m3u8"
@@ -27,6 +57,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDA1NzY="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

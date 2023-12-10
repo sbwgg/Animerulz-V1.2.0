@@ -1,11 +1,32 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Episode 13",
         "source": {
-            "SUBBED": {}
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/69fe10c47ad80eef9c5ca8facdcb92f03392bdfd05588f26535f856cdc1349f8268c5f3fd2b2becdd740f37e491a23cc05fe5d6c11bd626502da219e9a83a4bb36f64fa9b28beba24f000e85a09992bd195770d21c578ca8bfddd0b1744a5825797d42fd71697aeea9da2374b75957f686743c457279f7d12a110f71f1737602/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/69/4e/694e6314706770ab92323acd1cceef2f/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/8d/8d73ff12186bc7c7517676bcf31ad44a/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
+                }
+            }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
     }
 }

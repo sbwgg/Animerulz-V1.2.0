@@ -1,6 +1,9 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Full",
         "source": {
             "DUBBED": {
@@ -9,6 +12,15 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=penguin-highway-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/bb206494b8f9f0c2b61e752a1ba1c0dc5c077da1ba6a5825e8159b0ac33c4677ae186f242062a2f4c1fbe227f54be6b07d87122027047736b248636e4c31ef88e680582f087620c51cd68d8976dd10d814c74c5dcacb630265deacdb4a01883ee1dc6d07c20450d59fd4ba3ffdceaac2574518ac135f69db93bf1e9bdce7fd31/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/87/874af311764339300306f3b2d7ab1982/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
@@ -24,6 +36,10 @@
         "downloadLink": {
             "DUBBED": "MTMxNjk2",
             "SUBBED": "MTEzOTQw"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

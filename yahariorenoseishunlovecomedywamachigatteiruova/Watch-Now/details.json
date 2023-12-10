@@ -1,15 +1,24 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://ea.netmagcdn.com:2228/hls-playback/5ce626717d5b093fc43dcf6765085919306898f98c2fb2aaf31e18537f94d0d4d4051d3fc67ec8a6d389f08720dbefa33c00b20d337bb22730f835ebf00312449555a3efd62832eba02082316aa394d731f4f6953f9e6401600f137d7cd49c4f5fcfe5228413c2b54b670d0fdf2272aeed3fdb7d798536ddd9c5f30d87a0c9a2aa0c315c57a132988f65eeae31875049/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/71/ee/71eeb24e099217058c609dbff11fc612/71eeb24e099217058c609dbff11fc612.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/5ce626717d5b093fc43dcf6765085919306898f98c2fb2aaf31e18537f94d0d4d4051d3fc67ec8a6d389f08720dbefa3a2ac5d8aaeaa473d56ad5446110c6d086557f4120fc017acd805ac48dbbd8467e728a5f84170afc1b744ae3e1db1e118e9ac8530270144d71b99fe5349aa4788d0c0a68b34a8200f40b6cbcbee89a843/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/71/ee/71eeb24e099217058c609dbff11fc612/71eeb24e099217058c609dbff11fc612.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/09/09925221e5d24c25e4e6e59bc2e94fa7/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www002.vipanicdn.net/streamhls/d0107406c5ddc4a1c4675d6e2e003eef/ep.1.1677605524.m3u8"
@@ -22,6 +31,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDk1MDE="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

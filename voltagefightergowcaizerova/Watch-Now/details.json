@@ -1,20 +1,47 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
-            "DUBBED": {},
+            "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/6b8e002218f99e3a3d60b28741dfd6d261fa97aed9f0b4f51807ffcf37dd921e75542c609bd20d3566b30e76a57ecdfd8ff008fb3fd9ed5291fc82bb4f48848a74a40f21d7515dd5976237d1d6cc3dbde0cbbc820e9742eafe4e02b8dc1d8050db31c223e1e18fb103e55b5020b1db8b44874a7fc56506fcab6625668dad6eb3/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/57/575e482d34c073e7d9820399d9da1b2e/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
+                }
+            },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/eedbe35cfcf55624a978e4a65fcd2f3a5f767b4f1824fd983bb334611f78ed93c143ba92159855d506e172e9145e60c3a6529032291f680ede7937b87501361f940f3e85a4310630d4ca7e161010777fd663257ebcc1a5c2f228d594fcbad8574aaced11999ec0b580bfb3638b201f1991afdadf45550be9c9d7f1b6107c9df7/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/bb/b6/bbb656907c9b35d0f9782955e45d6223/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/bb/b6/bbb656907c9b35d0f9782955e45d6223/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/bb/b6/bbb656907c9b35d0f9782955e45d6223/eng-3.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/57/575e482d34c073e7d9820399d9da1b2e/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
     }
 }

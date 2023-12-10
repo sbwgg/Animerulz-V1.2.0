@@ -1,15 +1,24 @@
 {
     "1": {
         "intro": {
-            "end": 144,
-            "start": 54
+            "start": 54,
+            "end": 144
         },
         "title": "God's Possession, God's Curse",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/0a5f1fd32e57de7705efa8c3a71cf6a436ae838baf84c8e41d8a33f7e86110b67528e2c2ca18928ccf52aaf87e8787362b3691b0ebb322c6ffde4939084a9e8d25513f7e21adedb0bd9ed2e0f1fe39a9ea0ab47e7ff957c1b120ecd3ce40fe74b02c0ea90a166826ae450b8796fc68f60f324bb3021d026e93b6d293a49a9bf7/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/38/de/38de3178c94c797f760169756f7768aa/38de3178c94c797f760169756f7768aa.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/38/de/38de3178c94c797f760169756f7768aa/38de3178c94c797f760169756f7768aa.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/ba/ba4afcaf1d8ba6e6221cd97fbd791657/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www028.vipanicdn.net/streamhls/50d296e04d2a38593f42f7e6f31995f1/ep.1.1677663157.m3u8"
@@ -22,19 +31,32 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDE5OTc="
+        },
+        "outro": {
+            "start": 1345,
+            "end": 1438
         }
     },
     "2": {
         "intro": {
-            "end": 188,
-            "start": 98
+            "start": 98,
+            "end": 188
         },
         "title": "A Promise in Spring",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/8da86a232bcb9b16f27d38e62a07c908a42228ac88fe1bd67b399196bd7b970887b16c37bc235c55786cc0e0c6bf0e3960b14cbf492db273dd07d594ffb5368ab3899d29b6c024d3e8c4707fc1ed326d74694721ddcb355b75d17a9695daf6209b9dc4444d1413187517354193231cf1db172246f5b060cd06eabf5bdd2a48e2/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/58/cc/58cca89bcf645a15fee32efe82ab24d0/58cca89bcf645a15fee32efe82ab24d0.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/58/cc/58cca89bcf645a15fee32efe82ab24d0/58cca89bcf645a15fee32efe82ab24d0.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/8c/8c2a0f4b455d82f95527c631b5325c2d/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www012.vipanicdn.net/streamhls/50d296e04d2a38593f42f7e6f31995f1/ep.2.1677621210.m3u8"
@@ -47,6 +69,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDUxNjE="
+        },
+        "outro": {
+            "start": 1345,
+            "end": 1438
         }
     }
 }

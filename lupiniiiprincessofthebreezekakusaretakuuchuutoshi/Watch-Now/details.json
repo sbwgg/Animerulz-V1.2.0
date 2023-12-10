@@ -1,20 +1,46 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=lupin-iii-princess-of-the-breeze-kakusareta-kuuchuu-toshi-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/89c9069db0e9f37884d9235eb024145799a3c7c11f1c05fe4b3c1ebca84c8a88bcf21288b6250d1f3f0e2d36abeaf7e210a3c9a4e574140250b2eabbbd20574ee7ae2f5933f536dd7415307ec98523228ffa811f95ca7819fe69ac65b82cff5e7057c137d150b452e57439ceb789931b2d6ed658c362f6fc97798dd333ff9dfb/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/7e/7ebdee9e154a0a4e9e43f2f087184819/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/5662c021365e0e1e3712118d74a407707607b9ff51d23aeded1a3f38a29b72ef54a3ccceffef9022a1804fcc62560cfc28c925abc9c989ae3511c133081352ae994fd519af3d042dce68cf0e501b5f6f6efba9a5cb22c5e532e9dd2662a76554ce43cdfc4b851fdbb9924b93db6e34a142fc834409299ec4a512c016bf9316fe/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/e1/45/e14514fdaa05414ae49221bda1a66a50/eng-2.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/5662c021365e0e1e3712118d74a407707607b9ff51d23aeded1a3f38a29b72ef54a3ccceffef9022a1804fcc62560cfc28c925abc9c989ae3511c133081352ae994fd519af3d042dce68cf0e501b5f6f6efba9a5cb22c5e532e9dd2662a76554ce43cdfc4b851fdbb9924b93db6e34a14b4428870ba3005720c3bb3ff8c95756/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/e1/45/e14514fdaa05414ae49221bda1a66a50/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/e1/45/e14514fdaa05414ae49221bda1a66a50/ita-4.vtt",
+                            "lang": "Italian - Cartelli"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/e1/45/e14514fdaa05414ae49221bda1a66a50/ita-5.vtt",
+                            "lang": "Italian - Dialoghi"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/7e/7ebdee9e154a0a4e9e43f2f087184819/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www011.vipanicdn.net/streamhls/4d400ff7d5ea0b652377ad0614ab143c/ep.1.1677663071.m3u8"
@@ -27,6 +53,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDA5MDA="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

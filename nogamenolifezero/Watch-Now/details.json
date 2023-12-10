@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,34 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=no-game-no-life-zero-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/9c8012053302d8513bb098c759b89b0fedb0896c76f1f79a9d12d0a286bea0c3480ffd8121488666f64a95c095866f2c5d46307f934daee7882d19b09a42acbf6381e2329f89eac82a0ffddfeb21145066eb50ca3a6eca79bbeb0a1a9eb99b95161d5c86b409cdc36ce90f5a425ad8cdcf34a2861f16082ff586bbeeb8e7f053/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/ea/ea909ba8b679f36f95752afdb06f8c93/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/bf8a576c47d7cf964fdc69149a47fc6cef1ddcc01f1e1a6978b01e939f5eba35dc7f3535c36a90be8a7aca874768ac3684c070455f05fbdf9579cbbf3dafaa4b49509f4efb88d6c9396e349e3381b9755c2045c7c918e5c093227dd116a67371bb79824d549179acbae6afc5499f4cfcbbdbde6cf4967efbfb77bc46049a1d59/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/73/21/732151ad05fdef05648a9e739dc7d006/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/73/21/732151ad05fdef05648a9e739dc7d006/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/73/21/732151ad05fdef05648a9e739dc7d006/spa-3.vtt",
+                            "lang": "Spanish"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/ea/ea909ba8b679f36f95752afdb06f8c93/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www002.vipanicdn.net/streamhls/91e1e3716d47565fccd5fe1078446dc9/ep.1.1677599672.m3u8"
@@ -31,6 +53,10 @@
         "downloadLink": {
             "DUBBED": "MTA0MTIw",
             "SUBBED": "MTA0MDEx"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

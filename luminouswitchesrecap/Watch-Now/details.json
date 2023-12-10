@@ -1,19 +1,44 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/185c5f95d7b2886073137ca8eeb17364e1e5c40d4b858cea66323beff3d5666f42a2691f2491e8d3d00219f0aff5d3b88d354a0931c2f9333cd9a55040dda68951f161d64460392dd24a91f5206e7b41f4b74e6266a9bc666c1d3e3895b6ef0349981be2fce07a0558e9e6a0fea5d707cad5147c1788aa246dcd9a750b29329c/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/e2/24/e2243335df12125b3983b05909562765/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/e2/24/e2243335df12125b3983b05909562765/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/e2/24/e2243335df12125b3983b05909562765/ind-5.vtt",
+                            "lang": "Indonesian - Bahasa Indonesia"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/e2/24/e2243335df12125b3983b05909562765/tha-3.vtt",
+                            "lang": "Thai - \u00e0\u00b8\u00a0\u00e0\u00b8\u00b2\u00e0\u00b8\u00a9\u00e0\u00b8\u00b2\u00e0\u00b9\u201e\u00e0\u00b8\u2014\u00e0\u00b8\u00a2"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/e2/24/e2243335df12125b3983b05909562765/vie-4.vtt",
+                            "lang": "Vietnamese - Ti\u00e1\u00ba\u00bfng Vi\u00e1\u00bb\u2021t"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/9a/9a8f0cf06da1ce73407fb78abac763ec/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
     }
 }

@@ -1,15 +1,24 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "The Demon Lord Returns",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/ca1568b2bd286c2a00cc09333b1d3ca2abb9be37d6131190ba93a8f854f8405d4373e2318fc45ac4025d8bed7ca1a04527548716feba4be078aea38a39f967c17fbdffe6494f6d91bbab5ed80c9b8c04f6276bd745617363931e549173b60fe805349c5f3c2c9036af4b521d2727fc41305543b002b6a6b9656181940b16d0a0/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/f2/fa/f2fadab43a28ef2c24bbbc57ef85fdf3/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/f2/fa/f2fadab43a28ef2c24bbbc57ef85fdf3/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/46/466aa0fddcb7019675494a51a0bc581e/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www045.vipanicdn.net/streamhls/6ea8321a227087caf71a04bc9ea852b9/ep.1.1696605864.m3u8"
@@ -22,19 +31,32 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MjEyNjQ0"
+        },
+        "outro": {
+            "start": 1336,
+            "end": 1425
         }
     },
     "2": {
         "intro": {
-            "end": 287,
-            "start": 198
+            "start": 198,
+            "end": 287
         },
         "title": "A Fate Borne",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/f6116f5877f165aaa01e3283b90b6ba541d8f90292947aa82a6452ccd84671c29c3e94daec65d2008801e9bc1e9a6f805eec460fa1638a92a81edd63fbbe805465f3bd74994b49b51bda34ac1963f4f1e59a61b431286531c27bbac7997e11ac4505114473b1907f4745e6205b23653d76dbdc561b3930a9c903e0b045310456/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/47/6b/476bba6932ff95d2fe3d827ecabd60e8/476bba6932ff95d2fe3d827ecabd60e8.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/47/6b/476bba6932ff95d2fe3d827ecabd60e8/476bba6932ff95d2fe3d827ecabd60e8.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/d2/d2dd6b4d2fccd3905fabff7b8b2da39e/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www049.vipanicdn.net/streamhls/6ea8321a227087caf71a04bc9ea852b9/ep.2.1696908448.m3u8"
@@ -47,19 +69,32 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MjEyOTQ4"
+        },
+        "outro": {
+            "start": 1315,
+            "end": 1404
         }
     },
     "3": {
         "intro": {
-            "end": 195,
-            "start": 106
+            "start": 106,
+            "end": 195
         },
         "title": "An Awakening Soul",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/70a843da28efa7f7db92b2a46804a0dc8b902f527c7331deb906fa992d8788c0f93a161d86f6216daf0116f70fe1763f33eb72f6791a30da5485f05cf97bf21ab1c78f6a7ba0dec4eff6a09b35cafe643e1443568c410e7ff182bb5530e556ba92835853b434e13f90cac16f0b5d24dcd4b2a65db0ada5ea6c616bfeb61d6506/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/05/be/05be28c3b703eff51a211efebe4ac14c/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/05/be/05be28c3b703eff51a211efebe4ac14c/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/64/64d266e1dc1490fb54d86ee615217fae/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www044.vipanicdn.net/streamhls/6ea8321a227087caf71a04bc9ea852b9/ep.3.1697478501.m3u8"
@@ -72,11 +107,18 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MjEzNTAz"
+        },
+        "outro": {
+            "start": 1316,
+            "end": 1405
         }
     },
     "4": {
-        "intro": null,
-        "title": "episode-4",
+        "intro": {
+            "start": 265,
+            "end": 354
+        },
+        "title": "The Stirrings of a Bitter Grudge",
         "source": {
             "SUBBED": {
                 "Vid Streaming": {
@@ -84,17 +126,38 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=seiken-gakuin-no-makentsukai-episode-4"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/713db0cd4bb831c431c7c48be12a123ee8535f2a1c43ed636d2f61606325df52f172bcd7bd27645309043451468c9abb068dd1fa9d5ca30c830a79530efd29550186f8aae61da02231412c752fadeb86bb0091fff9926689996a659c1511a70d1fac7cd59422560f57d7db3df2a171071518b9cc1d9ac46e6b1a657def04e133/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/1b/a9/1ba95ccf29bf202c7066e5114e1caddc/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/a0/a037a2745251571814e2e7921fe36406/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "idFiller": false,
         "downloadLink": {
             "SUBBED": "MjEzOTIz"
+        },
+        "isFiller": false,
+        "outro": {
+            "start": 1301,
+            "end": 1390
         }
     },
     "5": {
-        "intro": null,
-        "title": "episode-5",
+        "intro": {
+            "start": 163,
+            "end": 252
+        },
+        "title": "A Great Uproar",
         "source": {
             "SUBBED": {
                 "Vid Streaming": {
@@ -102,17 +165,38 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=seiken-gakuin-no-makentsukai-episode-5"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/176162b10e7dffcca85249b04e2cde1c197d7ee0ac6d4f6e96c803529a6a515fe6d94e183891d0195a73712ad67e7d423e0ac33fb12d4972cd61fa66001be9b4e47bd8918bab69a5fcdcadbb2c56bda7eef6066b1e4cc828d113be686a4a819f8d7e996051c20fa55ab18dabd039817edcb07e21d4987b94be8b8578e222fe2f/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/17/94/1794d2217aec18db5e01044b90d31aac/1794d2217aec18db5e01044b90d31aac.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/4c/4c9f785f080cf60beefe86e52a2d5c9b/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "idFiller": false,
         "downloadLink": {
             "SUBBED": "MjE0MTY3"
+        },
+        "isFiller": false,
+        "outro": {
+            "start": 1295,
+            "end": 1384
         }
     },
     "6": {
-        "intro": null,
-        "title": "episode-6",
+        "intro": {
+            "start": 125,
+            "end": 214
+        },
+        "title": "Demon King's determination",
         "source": {
             "SUBBED": {
                 "Vid Streaming": {
@@ -120,17 +204,38 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=seiken-gakuin-no-makentsukai-episode-6"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/f06dfe36a211264f2c7893e51398f5c6f1d1a637d589c58b78f47c39df3fda24da68895aa8fe3d48076a9c7d70f925018ca785ede6f37773b5c0dc59859f4ce234792d393d22d4763fa14f94d55d08dff5d1782533ee45554cfa72b0d9dc3ea20da0ba4cc53dc0641d154efd012c6e38806c0a1ad41a7dcd82e16776595618d3/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/07/65/0765829503d4aa7830784fe7c25546e0/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/d0/d023abe0ae6e11c7b9e7bb6f44a98dc2/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "idFiller": false,
         "downloadLink": {
             "SUBBED": "MjE0MzEx"
+        },
+        "isFiller": false,
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     },
     "7": {
-        "intro": null,
-        "title": "episode-7",
+        "intro": {
+            "start": 229,
+            "end": 317
+        },
+        "title": "The Princess' Secret Feelings",
         "source": {
             "SUBBED": {
                 "Vid Streaming": {
@@ -138,17 +243,38 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=seiken-gakuin-no-makentsukai-episode-7"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/7ce3cc2fa40036c751ca31e96946debe9d0552bcdbaae4cefea98b030a793b18860e5319e7f5f7e617d6c19abde8e0ba8337f05e8c6ccefe46ec93e70463ca1cee9f046521b537f466151b22e3fb21741118919f9ae4548afebb780b87512dbee51c895d116e3e387b8ecdb60eb6a46f65d4d4c9fe4c6ae10c9ddb3c943fd489/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/80/74/8074b5b90bd96c2a4c35a901414bf733/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/a0/a0649b7f3d7c54cefbb767867101ab31/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "idFiller": false,
         "downloadLink": {
             "SUBBED": "MjE0OTU4"
+        },
+        "isFiller": false,
+        "outro": {
+            "start": 1316,
+            "end": 1405
         }
     },
     "8": {
-        "intro": null,
-        "title": "episode-8",
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
+        "title": "A Bond Everlasting",
         "source": {
             "SUBBED": {
                 "Vid Streaming": {
@@ -156,17 +282,38 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=seiken-gakuin-no-makentsukai-episode-8"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/ac4597fa09a8c0a89e0221c7ea62ef74d35f7469f997fee82758ce436e84da11515a6d01d8ab25db9ce8f8837f8ffbfcbd3c7aa83fff40dab571588a08333d0bb5c97ec9aada9ee139b75b1901abc5addf395f1fa9bb688b4f136d19bb4b5ff27640e4f66bbb23f3c8e33c14d903e8e6a4ec15e51f9fb8876017032dcf6defaa/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/d7/e7/d7e70f8f3d01e937600eb7b369816726/d7e70f8f3d01e937600eb7b369816726.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/7b/7b66e3fe25f0bf839df754252d11bb38/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "idFiller": false,
         "downloadLink": {
             "SUBBED": "MjE1MjYx"
+        },
+        "isFiller": false,
+        "outro": {
+            "start": 1291,
+            "end": 1380
         }
     },
     "9": {
-        "intro": null,
-        "title": "episode-9",
+        "intro": {
+            "start": 151,
+            "end": 240
+        },
+        "title": "The City Ruins Appear",
         "source": {
             "SUBBED": {
                 "Vid Streaming": {
@@ -174,17 +321,38 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=seiken-gakuin-no-makentsukai-episode-9"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/3496b3f3ebd1ea16f23d17733852eafd7ec041c688ef99ba6999564e1c3d44083e28164c387aeb9c59ac4e6c8ad3024c2dc13d82e0e021562015d9ca71c8290bb2309408b84cb9dd9c11534ecc1ff7d734246f87c9a23787f2a099412f6fa852eab1edf502a6a84c3b3fed8726ecfff0025731b1c0874980934c988ea533c991/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/1e/3b/1e3bd43546bc5051726842f3dc00cb5d/1e3bd43546bc5051726842f3dc00cb5d.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/df/df1bc29d5c91466bd5b9f444f7a99d13/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "idFiller": false,
         "downloadLink": {
             "SUBBED": "MjE1OTk0"
+        },
+        "isFiller": false,
+        "outro": {
+            "start": 1295,
+            "end": 1384
         }
     },
     "10": {
-        "intro": null,
-        "title": "episode-10",
+        "intro": {
+            "start": 143,
+            "end": 232
+        },
+        "title": "The Elf Hero",
         "source": {
             "SUBBED": {
                 "Vid Streaming": {
@@ -192,12 +360,30 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=seiken-gakuin-no-makentsukai-episode-10"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/83ffbb81897a199e50f0b0c2a7e6e3ae084cc81e2aea21bdf58faf30474963754f5ea300b597c48278e7624dbc05018752cedc3351923d3432f4218e5661a751388c7d9445467e4c3d034da47e70472ec7563cfe610a91e024ad2a44fed905e10a352f57061a08298f130732846db4547d95f159e85ea8352fa52728201e2747/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/f1/62/f162356b11f4e434d57496df89e2ba97/f162356b11f4e434d57496df89e2ba97.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/9f/9f2ed181db50bda32d56ebe6ea3ca378/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "idFiller": false,
         "downloadLink": {
             "SUBBED": "MjE2NTkw"
+        },
+        "isFiller": false,
+        "outro": {
+            "start": 1290,
+            "end": 1379
         }
     }
 }

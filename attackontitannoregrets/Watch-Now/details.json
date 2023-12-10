@@ -1,15 +1,28 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "A Choice with No Regrets (Part 1)",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/28ea87f44f57fd5d8d8473cb1c8c9bba949df337ac975428feb015ac40fa8e0c1ff20f51e574ff144923fcda793a41367979102cf1d0536224fe68c38685015cc098398875285c08b1c45977ddf16a2cf2d8cb54b4f44f7a11bdabb899c1ee53fbc6862dd9f3c2fba9163df67fb6fdb492fb32310acdbedf59d2b8faf7474a0a/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/37/41/37413636ff4f4ab5fd5d3c45427e792c/37413636ff4f4ab5fd5d3c45427e792c.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/37/41/37413636ff4f4ab5fd5d3c45427e792c/37413636ff4f4ab5fd5d3c45427e792c.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/b3/bf/b3bf7d056d6b02b50d5dfb064a5adbda/b3bf7d056d6b02b50d5dfb064a5adbda.vtt",
+                            "lang": "Spanish - Espanol(Espana)"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/aa/aaa71a48933d691f723435af7437f064/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www049.vipanicdn.net/streamhls/4c95dbebc69b50727a50de02c8d629c5/ep.1.1677839744.m3u8"
@@ -22,19 +35,36 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTg3MjE4"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     },
     "2": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "A Choice with No Regrets (Part 2)",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/673c51953b35d37edc128a6b83a2ae0ce46ec3952ee1ef8e9ce5f5cdddf3ba4603f8a2e43db2abaf0fa23b02e7dfe5b9210a90f7143b68bfb182c9af6056eb929bec5e5305c4a3ee8899b1d5cf783aeffb3fff24be82563608cdbd07988e192a10933f4c07b2b90bfacd59961938aadc13cfee48d0a65e506e2f5cf7a42e74f7/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/a6/19/a619c6da818cc4303687377cc1ea41a0/a619c6da818cc4303687377cc1ea41a0.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/a6/19/a619c6da818cc4303687377cc1ea41a0/a619c6da818cc4303687377cc1ea41a0.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/cb/9c/cb9c87a8e739870139136e02311aed88/cb9c87a8e739870139136e02311aed88.vtt",
+                            "lang": "Spanish - Espanol(Espana)"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/65/655c158dff11fe7aebb3240a09901ea4/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www044.vipanicdn.net/streamhls/4c95dbebc69b50727a50de02c8d629c5/ep.2.1677845917.m3u8"
@@ -47,6 +77,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTg3NDEz"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

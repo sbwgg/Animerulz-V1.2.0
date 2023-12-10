@@ -1,15 +1,20 @@
 {
     "1": {
         "intro": {
-            "end": 153,
-            "start": 61
+            "start": 61,
+            "end": 153
         },
         "title": "Episode 1",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/1edca7f5456623b5dddf9a95af08bd8089d45dd53a0000496a7e0d8dc6317269e308e20a8bbcc53e6368928088e637a7314b9bbce9f2a62f7e4b87406cc1d5933aeb6cede0a4f722ee1eac91367bd4978071a745a2ba0754f4e9015e1f5876c8c8434e8fefd890c0e7a5cb9709d9538c/master.m3u8",
-                    "captions": "https://imgb.megaresources.co/_a_preview/8c/8cec83e12cf883c7a1bba006dd7a21d9/thumbnails/sprite.vtt"
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/8c/8cec83e12cf883c7a1bba006dd7a21d9/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www055.vipanicdn.net/streamhls/dcf325a7aee63724fd7fe9aed3defdea/ep.1.1682846977.m3u8"
@@ -22,19 +27,28 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDE5MjQ="
+        },
+        "outro": {
+            "start": 1590,
+            "end": 1687
         }
     },
     "2": {
         "intro": {
-            "end": 514,
-            "start": 422
+            "start": 422,
+            "end": 514
         },
         "title": "Episode 2",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/fb2cb30e81b87305326e6ac10c69228ce34b9890332e67ed78cb9b4e22f2041a8610d8197ea00883265b90ee1bc26e70897e66b442c10656098a92f8e31f5be8892a590f0e38cea92f326989e625060d690a554f22ea1bfbec90e1f115c9622258a94c9c13d434376054a7300c3b9013/master.m3u8",
-                    "captions": "https://imgb.megaresources.co/_a_preview/87/87ce5d6d9e5cb92d3ea10475db70b40d/thumbnails/sprite.vtt"
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/87/87ce5d6d9e5cb92d3ea10475db70b40d/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www051.vipanicdn.net/streamhls/dcf325a7aee63724fd7fe9aed3defdea/ep.2.1682847017.m3u8"
@@ -47,19 +61,28 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDE5MjU="
+        },
+        "outro": {
+            "start": 1630,
+            "end": 1730
         }
     },
     "3": {
         "intro": {
-            "end": 265,
-            "start": 172
+            "start": 172,
+            "end": 265
         },
         "title": "Episode 3",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/3c8d5248771c4bf007a63d9d578493f71cf74e649da617813eaf793cb36fceed67678b7834f2a0fca08fc77f545487f92e275665ef69a05bf6247b778c49ba5f36e306039cca5e68b9949fa4e33ac7e40d1d457e7ba251de5f36f5d19ef5d32f90de507a25e0c742faabe0d50afab456/master.m3u8",
-                    "captions": "https://imgb.megaresources.co/_a_preview/52/52ad0cc0e03992fa099184014da2ea71/thumbnails/sprite.vtt"
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/52/52ad0cc0e03992fa099184014da2ea71/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www053.vipanicdn.net/streamhls/dcf325a7aee63724fd7fe9aed3defdea/ep.3.1682847675.m3u8"
@@ -72,6 +95,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDg2NDc="
+        },
+        "outro": {
+            "start": 1331,
+            "end": 1429
         }
     }
 }

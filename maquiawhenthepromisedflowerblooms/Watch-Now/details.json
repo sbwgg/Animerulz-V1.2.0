@@ -1,6 +1,9 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Full",
         "source": {
             "DUBBED": {
@@ -9,6 +12,15 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=sayonara-no-asa-ni-yakusoku-no-hana-wo-kazarou-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/7a565910cae5c892ca58d438997e9000e35de5e28e9a12a78ca6912d9f035304391fe3972dda2351a08e993d16d85b18850a124dfcf0f2585583e04ccbaf3b3c84652c7c2d1a9ef5e715682332bd1eff90c589ae3adda49b558dd8c8cfd7a091e90292993b4b5b8dda5f0eb48eeef675341da211716d988a403eacc71d828754/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/5d/5de5fe1cd89f92b7f0ef550576c422ab/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
@@ -24,6 +36,10 @@
         "downloadLink": {
             "DUBBED": "MTU2Njgz",
             "SUBBED": "MTEyNTEy"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

@@ -1,6 +1,9 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Full",
         "source": {
             "DUBBED": {
@@ -9,6 +12,15 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=haikara-san-ga-tooru-movie-1-benio-hana-no-17-sai-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/8fb905e0d6d7c473cd03bdb231fdbcd5b2d90d1fb7dd5a5a9b6933cffc8af1d91ad48034a09618c794173de74b70618b76ce5a19706d491028500bfe496c879e0099835130041b64d9f9818315da6ab9950a8505700e264dccaa37112c05959bcf4e9d8364e36cadc5843ade00b0326134349f6a8e7e9756e9af6bbcebaf18dc/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/b0/b0d92040ec6dfff5da8d984aa5df6992/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
@@ -24,6 +36,10 @@
         "downloadLink": {
             "DUBBED": "MTM2Mzgw",
             "SUBBED": "MTEyMDE3"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

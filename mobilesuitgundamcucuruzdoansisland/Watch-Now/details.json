@@ -1,20 +1,62 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=mobile-suit-gundam-cucuruz-doans-island-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/c4993acc342c1392fa88d406e6c855f72c77a4d0b41662e520ffba99aff45dacc207abb98da56496949a1f7420719ec0300656d81eac585f1b7b31e5db0ca0277e97284c138777dd47c6f23d476e04ea43c32cb019f172346e7643a32df6bc36e4f549f927399cd1725ca5ea3bf021fa3a357eee7074d1c25c6e66bdd040a6ba/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/27/270b239f7020b47cb720860d80fc2f63/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/177bab8203000508fe1127da914b398fabd5c9f05a0eb401625a42ea58a4ea30c7cf46755b61d932fd876508ffe951b470a9b105c503594265df0243fb878494745e7f9c5df1554a30db5c54f8ecfd7ee80523c95f98d813c4938692a8c5a0ca32a01b741b17d56c6aac7fc5e4ce3495c68725b8f7c7e809fb42a4d07d27f936/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/6c/61/6c612a25a56bd162458059fba1431f3d/eng-2.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/6c/61/6c612a25a56bd162458059fba1431f3d/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/6c/61/6c612a25a56bd162458059fba1431f3d/fre-6.vtt",
+                            "lang": "French"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/6c/61/6c612a25a56bd162458059fba1431f3d/ger-7.vtt",
+                            "lang": "German"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/6c/61/6c612a25a56bd162458059fba1431f3d/por-3.vtt",
+                            "lang": "Portuguese - Portuguese(Brazil)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/6c/61/6c612a25a56bd162458059fba1431f3d/rus-8.vtt",
+                            "lang": "Russian"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/6c/61/6c612a25a56bd162458059fba1431f3d/spa-5.vtt",
+                            "lang": "Spanish"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/6c/61/6c612a25a56bd162458059fba1431f3d/spa-4.vtt",
+                            "lang": "Spanish - Spanish(Latin_America)"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/27/270b239f7020b47cb720860d80fc2f63/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www012.vipanicdn.net/streamhls/7776dac4c7a90a93da9ee68e73c9f9b4/ep.1.1677618091.m3u8"
@@ -27,6 +69,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTg3NTcx"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

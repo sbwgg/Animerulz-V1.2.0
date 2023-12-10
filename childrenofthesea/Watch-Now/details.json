@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,38 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=kaijuu-no-kodomo-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/3314f7a5859bd0fef0cc137dd715cdfa12b725d1b586677d2e8f020b77bf92f08b3d6f1418b679d952f05836121bd9f384df229e3f6533fef4f7df414f5152b1a77b50f4867d9c3cad41f1765aaa378fe5540d456111982bf1239f85409921befa13d95008a68d545e3ef1e1d41c1b22949f8d554e78216c36c278498f01f787/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/77/77f37e76317b9f2dea84297823752a07/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/e470103bb4262ac596364890fd10d8ef4536d77227f273feec1d9ebab9fd477934fec5bb3bdd46384d80a8eb1b3a07828d94e0a296e63e24444f52fa56db5f0034c19d1f197d392149304132fdb4af1e83916e5e7b3cd0e4401d9949e77d64ab439c9355d79137c2895a4bc43d7cde269070db4f30fa06a8f85e3d0161131eeb/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/9a/56/9a56f3cc4b497b941c007e5a657ef129/eng-3.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/e470103bb4262ac596364890fd10d8ef4536d77227f273feec1d9ebab9fd477934fec5bb3bdd46384d80a8eb1b3a07828d94e0a296e63e24444f52fa56db5f0034c19d1f197d392149304132fdb4af1e83916e5e7b3cd0e4401d9949e77d64ab439c9355d79137c2895a4bc43d7cde26625b4cd6697941b129327793ec77fa0e/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/9a/56/9a56f3cc4b497b941c007e5a657ef129/eng-3.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/9a/56/9a56f3cc4b497b941c007e5a657ef129/eng-4.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/9a/56/9a56f3cc4b497b941c007e5a657ef129/fre-5.vtt",
+                            "lang": "French"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/77/77f37e76317b9f2dea84297823752a07/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www013.vipanicdn.net/streamhls/9d2f58f9e0a47160fd95cf8fb790bc98/ep.1.1677695114.m3u8"
@@ -31,6 +57,10 @@
         "downloadLink": {
             "DUBBED": "MTQ0NjY0",
             "SUBBED": "MTM2NzIy"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

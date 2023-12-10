@@ -1,15 +1,32 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Yotsugi Doll",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/f5c0cd44fcef3b80ee9bc87c76a3418ca7ecf6315d9590776b98e18efc875fbf53ec14a1dd5e00551146d845fc80ecced39ce4caba3ee8c87b0aa34948ec838eccd12c83cfe323a977f7b1bd2c4960f82ddf690524543def9bbc0b5b36b5733ad88def2bcddd1b4cda65e019db28874ec9bfd9b94ed6e2a3fecaaafe7b47bb6f/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/52/26/5226aa6d0b073fc93d5d257749efdabb/eng-0.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/52/26/5226aa6d0b073fc93d5d257749efdabb/eng-0.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/52/26/5226aa6d0b073fc93d5d257749efdabb/por-2.vtt",
+                            "lang": "Portuguese"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/52/26/5226aa6d0b073fc93d5d257749efdabb/spa-1.vtt",
+                            "lang": "Spanish"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/51/510659fc76aa2f8c0d9a12510439d476/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www013.vipanicdn.net/streamhls/21c334c877b39c6abebbbafa769a4743/ep.1.1677663490.m3u8"
@@ -22,6 +39,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDkyMTI="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

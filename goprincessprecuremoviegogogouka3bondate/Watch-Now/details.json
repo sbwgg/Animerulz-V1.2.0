@@ -1,20 +1,38 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=go-princess-precure-movie-go-go-gouka-3-bondate-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/00a87087688e2b45208cec09c66401c137b351e751295494855fdd862e1c17f26d65ee17f28676161a22f10a3f0f3790a05389ed37487cd5a5b470b968b3b9bf0560b56e668f6f68d3b4d7f99355ebbd850fc025bc43a192c2e946a15117dcce067cecbda1f590559b3f42ed902cec53b09dedeb57f0358a1d3547ffa4202311/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/75/7530c819aa808fbe96e7258acfda789d/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/b225f1a1b9283964e93ff9c218076a0f46540a839d04e8218389ce0876d89356e730b2b0d1781b4a91020dbfcec864f3e871794d0c00dbcdb28d0bf7466b46c9cba6fbb31c053ffbf376ad11bf84b74baa6728ba82c86aa1149af2325619952e60e03e6ada093f2364c6476e59e4f1e5673151a02f17784c8b53b4899c5f99fc/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/05/e0/05e032109b296f99d7567e6d04a1534d/05e032109b296f99d7567e6d04a1534d.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/b225f1a1b9283964e93ff9c218076a0f46540a839d04e8218389ce0876d89356e730b2b0d1781b4a91020dbfcec864f3e871794d0c00dbcdb28d0bf7466b46c9cba6fbb31c053ffbf376ad11bf84b74baa6728ba82c86aa1149af2325619952e60e03e6ada093f2364c6476e59e4f1e515dcc92c26b7f6e9f9a8701a68992bd1/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/05/e0/05e032109b296f99d7567e6d04a1534d/05e032109b296f99d7567e6d04a1534d.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/75/7530c819aa808fbe96e7258acfda789d/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www006.vipanicdn.net/streamhls/2177a2ee40d3642d1ebcd0ce32a41389/ep.1.1677664921.m3u8"
@@ -27,6 +45,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NzE1MjU="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

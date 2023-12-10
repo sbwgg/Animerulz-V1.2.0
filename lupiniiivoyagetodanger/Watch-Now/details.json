@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,34 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=lupin-iii-lupin-ansatsu-shirei-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/15b8315edb5c2c1555713a426b2b6540b49e75754eda63e86239b05c07d0a7fbe887070fa5ae7f7b78dd78c1f5ebf7dc12e5639779bfa9659bcb4dc0f0b89668fbd4ad17012dc34d824ec60b00aed5557157124239d44581c0f53f4354838dd65e6f4628fa7aee9e9b8b7c1c2088d7d73244005d591bd79e70509f60fcaf7661/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/85/850f59595cdc405aca76313c5d70beb9/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/82eca878c9d623203327000a44ec8c057a60b50023a5ce3810b5d2242a4d6c92ef786a3da32e316e94a67a95b0e63c1dc0ebab7a886cc859dcc72fce8667d53a8ea102cd5e1c7116893583bda84fe5d84af5357aca58b1b89f7a6a0bc65999075a9b93da723b04526f6bcd74e188edaac96a0364f2c7ff38b4e8bfe577681b09/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/50/8b/508b64de548bb7adf995d71fd8034d65/eng-3.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/82eca878c9d623203327000a44ec8c057a60b50023a5ce3810b5d2242a4d6c92ef786a3da32e316e94a67a95b0e63c1dc0ebab7a886cc859dcc72fce8667d53a8ea102cd5e1c7116893583bda84fe5d84af5357aca58b1b89f7a6a0bc65999075a9b93da723b04526f6bcd74e188edaaec9ff1317c5905092c24b7360c5258af/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/50/8b/508b64de548bb7adf995d71fd8034d65/eng-3.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/50/8b/508b64de548bb7adf995d71fd8034d65/ita-6.vtt",
+                            "lang": "Italian - Dialoghi"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/85/850f59595cdc405aca76313c5d70beb9/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www042.vipanicdn.net/streamhls/9d0f45734d505a3d4eb43d70d67d0bd2/ep.1.1677851816.m3u8"
@@ -31,6 +53,10 @@
         "downloadLink": {
             "DUBBED": "MTQyODA3",
             "SUBBED": "MTQyOTEx"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

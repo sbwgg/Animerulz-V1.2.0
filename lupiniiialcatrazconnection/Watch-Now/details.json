@@ -1,20 +1,38 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=lupin-iii-alcatraz-connection-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/d67193f1e2443ddf7c531ea2d97e1ae1dbf2f8ef9bb34b1d7fb553f565f0f7316a815534d30096d375b784d20f01270718c97fb101b0b6f5ae4f6da97e21cb392937bb3c630f71ff76c8d1d0992fec6ae7d4534ad4618055e9e28856c9360d6016ed84ad1955ad392cb9f423400c2de691f9d580a8ac6887cf6cd09bb8c69aa4/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/14/143c97a65b5ac4a2fce63c0a284889af/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/4c231051c3387ef58051abc7901b021c50ec1bbd9c50b9b1d41bec476fc7591962499714b36d6d9a0fa803f3e90e8437f210ad3b85a654961796e0495a08f467436497a253c0781f8fb8145923cc3fc4e96d4f452188ae85705c581a14ce90a05eec713e318b1d54b8dd4e7bab6638e5ecd72cd0da25ae002df575523e557765/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/76/ef/76ef2a7bca32ffbe4daf6774642b71b0/eng-1.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/e76ffb4714965e42d59b44393510b7f0ca1c0e1bb90529d57945103fc3efb4d2c9b90456117c9dcd1b4663433f5dc726cbcd6b0bed41df9ee3b5501a421a1777b4df1d32292217f5dd5941d12c69788db45861c6486a0a5dcda6a8673dbeef6cf5e5ed71576dd2e5dec33159305d3302301a5319669645402d4ba52a1f4f38c8/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/09/85/0985ab4e621506174c9677b6271e9a0a/eng-0.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/14/143c97a65b5ac4a2fce63c0a284889af/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www022.vipanicdn.net/streamhls/72f32a059c9b25256e0ccab2179ca5dc/ep.1.1677632966.m3u8"
@@ -27,6 +45,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTYzMDcx"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

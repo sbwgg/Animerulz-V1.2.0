@@ -1,20 +1,38 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=berserk-golden-age-arc-i-the-egg-of-the-king-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/8bb0104e4e78b1157aed2d6cb91eaa18d88a279b8b74a2ed6dac5e736561fca38a7e81ae02648c707acea1e0ec6dede8a4e693208a50e6589a4c854b68ce12fbf69693ae11a991802b36535b8c13662c5ffe0923d3cf80d06ff242cf4e7c21395c6869fd0131d654a8c8ec22c02009935d820fd8ba00b8a8e93a644cabfe57a8/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/96/96b04885d195bcb39e7e4a03e8a56105/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/08c6897844dc9c5eeac1d54f8c4669c299661a5db1a727b0a2f592e9c452c5711acf8c8850db3dad528652e1d966fc3a306d449f0ba22af27c627a451aa5986b408961c0f7efbd1b39261b826194fab2dc61cae43d7ffc2519508b7c912e9210d758fffe2ae1e22f9fee0f5ce4dec9cc297e486a5c838c2de9fd3b43fe590fb6/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/4c/ca/4cca52d1d488b549d3ca91e75c9c4f19/4cca52d1d488b549d3ca91e75c9c4f19.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/4c/ca/4cca52d1d488b549d3ca91e75c9c4f19/4cca52d1d488b549d3ca91e75c9c4f19.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/96/96b04885d195bcb39e7e4a03e8a56105/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=berserk-golden-age-arc-i-the-egg-of-the-king-episode-1"
@@ -22,6 +40,10 @@
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
     }
 }

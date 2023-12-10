@@ -1,6 +1,9 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Full",
         "source": {
             "DUBBED": {
@@ -9,6 +12,15 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=bishoujo-senshi-sailor-moon-supers-sailor-9-senshi-shuuketsu-black-dream-hole-no-kiseki-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/d0a8e23178bee0b88ee6ee44f0792ceb65fa03a77774814652d5942d17daffed1021ddd81d12a326f1293c59403c26aadf815a794aa513812b4cb9a93441789930cb69a15f6ba80c6ccf8572ee377c7e9a046b1dfc27196497e91d9766745720c545b8f721b0141bea9eddb52affb5f8a01bdd8d0fc6aaebcd1f3a1b9129079d/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/9d/9de8beb34f1c00d091c287187e540ebb/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
@@ -24,6 +36,10 @@
         "downloadLink": {
             "DUBBED": "MTYzNDg0",
             "SUBBED": "MTYzNDgz"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

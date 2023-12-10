@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,30 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=fategrand-order-shinsei-entaku-ryouiki-camelot-1-wandering-agateram-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/342ce79cab3d86dbe7120c847aa45e0e11c254cf4cce10fd9637eda24c7398129667502991d36a6d24565614d7f308ba38df6e9fe37309378398adf0def78b0e9eb25bed8875820ff02f9da048a9cc12720cc6237acc36b3eb464d1590574c66190f17570f33fbf921e45279f61110992364402ce436e0a8c2d443c516332aa7/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/67/67d8f055878c175d50461048b15c5432/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/0bed1b9b636fb45ec12ddaedf76175d92fab497c2ad977a72e92bc1657f78e50220fc0b5fa7aec6314e80c0023e3dac8700db1a5d3dbf52843ef1ef0a1a34146018f5de506c58d0900f8e39d17e6a7db07f197171f98fdc91f2e18e65613ddf946d87ed0c31b60befddebaef9d989af77d20b5db1b8657d8cc8f0cb308e635e6/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/aa/64/aa64b811d164fa707107323ffba5b36a/aa64b811d164fa707107323ffba5b36a.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/aa/64/aa64b811d164fa707107323ffba5b36a/aa64b811d164fa707107323ffba5b36a.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/67/67d8f055878c175d50461048b15c5432/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www003.vipanicdn.net/streamhls/f9411fa8e360ecd24a2c14abc20a1c6f/ep.1.1677592823.m3u8"
@@ -31,6 +49,10 @@
         "downloadLink": {
             "DUBBED": "MTc2NzA3",
             "SUBBED": "MTYwMTEy"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

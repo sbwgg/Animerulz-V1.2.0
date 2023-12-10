@@ -1,6 +1,9 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "OVA",
         "source": {
             "SUBBED": {
@@ -9,12 +12,29 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=naruto-shippuuden-sunny-side-battle-episode-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/63745b82e9584d1163d20fd8ab487c6fcba50e1622ab3216d3de9890dffd20ffc5adf1da13f3dd7a2abd0751ab8f5ca97d9fb7b46c2e8710b94d76643f373f17fdf07c1ae4f3e8fdd654b932272414a6fc9039b531ec88100863ab9dd130af6f265fbbead13f95bac57a569f80ea1fb901d7b039a115681a405e8d4875f5ecbb/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/47/68/47686d647a8f92a14730f4d4ddc6ae8d/eng-2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/b4/b4cef4a7dbad145b2820e5b17d1d9f33/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": true,
         "downloadLink": {
             "SUBBED": "NDgwMjA="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

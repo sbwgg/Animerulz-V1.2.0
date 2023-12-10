@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,30 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=vampire-hunter-d-bloodlust-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/de7dc3308c436f754d1220fbe2e2f188f0798935f467c47a2ede8ae377f742b7f95de9dd61ccdedb20c5a30ef248beaf81481408f3169dff9ca076786c12f40e6369d4a6a4c0c6e4644614942480a1b3d3f540afab6db2da26beaae9d236d8cef9b514e77f7dfc8c1807475d7b1f01e33eedf181284613b72deb3ad9507a16e8/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/94/94172e677b376bc249e57c032e9a0f4e/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/0f8c1e051f616c00c91282842d20174932f4e3d556765c45769fcf3cd3daf91adaacfe53050345929881bbcf10a809755af866f29c76523d0ffd1be23d916d045e974ecab354b7b459f76f49b8cbe1755fe1929c30cfeb9cf857c2089d81121b917707979b97d827d87fdd90c28a532abc2ed602a2444e3f1e970a72bfded7cf/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/d9/2d/d92d6d4836166de28c9dd485bdd7adf6/d92d6d4836166de28c9dd485bdd7adf6.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/d9/2d/d92d6d4836166de28c9dd485bdd7adf6/d92d6d4836166de28c9dd485bdd7adf6.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/94/94172e677b376bc249e57c032e9a0f4e/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www029.vipanicdn.net/streamhls/5415987a82bfc9d7c3e0751fef73be98/ep.1.1677662304.m3u8"
@@ -31,6 +49,10 @@
         "downloadLink": {
             "DUBBED": "OTI5Nzc=",
             "SUBBED": "NDAzNzg="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

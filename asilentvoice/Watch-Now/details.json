@@ -1,20 +1,34 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=koe-no-katachi-movie-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/9338033d12a6b6ca9fa4a92642cce6487a6fbb1a57e130f6e1dd8bf1f19c0c1138cdba56d8d73a56d7eb0b1986f9050ff25235124ca100a3ffbc53ce5ecb63a4ad74199af07548e8b424d48eb0f6ee27d0967499c74b2b93e1607528ed44f33ac41eb6bcc4315740954627fae93d50eeb8e8eac32eda3d325bb9b6bf0fabde69/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/74/74022063bbe9b6431468c68f73edc8e2/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/0f04d550b18ae8bdb1aef1360a11064752969d4301fea7944b59ddd703ea2487e29bbfaddbbb723cd4ffc7964b7fb907d54bc1b561fb054e20fab164cde1a5f104242f1b901a1a4d903a3250faab2d6492351d19a4c98d02766745027843c399746d0b4b3afc71ab4cce8d691c6ac7663cc89511aac2bf09d6f7600582a14d56/master.m3u8",
-                    "captions": "https://imgb.megaresources.co/_a_preview/74/74022063bbe9b6431468c68f73edc8e2/thumbnails/sprite.vtt"
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/74/74022063bbe9b6431468c68f73edc8e2/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www014.vipanicdn.net/streamhls/98d1c6da0a2f8dad20669eef05810e6f/ep.1.1677608341.m3u8"
@@ -27,6 +41,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "OTgyMzM="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

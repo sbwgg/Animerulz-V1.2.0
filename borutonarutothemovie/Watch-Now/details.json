@@ -1,6 +1,9 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Full",
         "source": {
             "DUBBED": {
@@ -9,6 +12,15 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=boruto-naruto-the-movie-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/254584accf26c568907299de460d09ae87d3d9ebb7609823468824feda46a715fdbcb131dc55b1b83a74b425d5f44cb9b255db939779639b35d2e8f22cc08834877d14ec06b5dd25a9fe4d88059c41b0d1f631917e717040e1d0f9dd3d5edf2a7a9068201bd75a02073963ca3276baa5d53e191c8777a81cacd4c5432eba5f23/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/ad/ad42b5a3d45d339b475d5eab2e200c27/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
@@ -24,6 +36,10 @@
         "downloadLink": {
             "DUBBED": "MTUzNzA2",
             "SUBBED": "NzAyNjA="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

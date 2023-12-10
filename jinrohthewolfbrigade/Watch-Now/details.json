@@ -1,11 +1,23 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Full",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=jin-roh-the-wolf-brigade-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/bfd824c93667384cc0731ee45eea78ab2bf91d4958cf621a60872f83b60549a6d5e2f3aa869a3ed41f441fd0b9a05a7488bb1a19ed3245061ca84d54204743ababd98aeb5ffb70ecf79053f89352bbc83d13ca3bc7d54bdc1bf715a003bb02ffe14c1e30c662bab10f02fdcaa05267a72cabbc40b19c7d61510d5c823c94cb83/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/2e/2ed3ee0f4ef3c0ee25f407272f10e7b1/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
@@ -20,6 +32,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDA2NzA="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

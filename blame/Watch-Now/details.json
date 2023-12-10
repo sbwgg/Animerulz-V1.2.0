@@ -1,15 +1,28 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/be57f588c804e5346dd3fc801399b00ea5a2ac047c3e056840af36b903b465719f7931c26e1c3f3be7818c054fbef7893303267e5ea71fe85f5fb8e69232b84d810a3b39723a7cb6b7130101a925fac05b042f1546e66c9f6a68be05157c2cf83e7f01f1d3373217d1c04d0c92e7c6db3ce381d88214bbdbe277392365ee9eac/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/e0/ad/e0ade16a9d718b8aa70327980e0bd1c5/eng-3.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/e0/ad/e0ade16a9d718b8aa70327980e0bd1c5/eng-3.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/e0/ad/e0ade16a9d718b8aa70327980e0bd1c5/por-2.vtt",
+                            "lang": "Portuguese - Legenda SRT"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/bb/bb5014ced39a12e98ef2b57dcfdb21b5/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www047.vipanicdn.net/streamhls/91de96c2757d80095b0c407db7262646/ep.1.1696400533.m3u8"
@@ -22,6 +35,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTg1ODI2"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

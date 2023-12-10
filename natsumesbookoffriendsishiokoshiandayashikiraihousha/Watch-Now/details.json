@@ -1,15 +1,24 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Ishi Okoshi",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/cd662cc97a6afb7c1d76e61a1e620dcaacfe95f3d51fb04953d2015ef550115eefb8cf96744a2fe514be4ed90fc60c75b3f2bdd28ce1dc77c5f81ca8da5f6b61612b74d8f0eb88790f491e944c0bc66743be4ec4439c43228999e4ed04cb452580b9ae89b8116035c745d46a036bf0837cdc91e25455b5f925f826f08266ec2c/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/26/b5/26b560166de691740c447cc605dca29d/26b560166de691740c447cc605dca29d.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/26/b5/26b560166de691740c447cc605dca29d/26b560166de691740c447cc605dca29d.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/4c/4cf2f2ccd878c4d3f4360979cd089c75/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www018.vipanicdn.net/streamhls/3cc9f8d2005dfa32c53d0714e9ff6a65/ep.1.1677614018.m3u8"
@@ -22,19 +31,32 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTY2MDA3"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     },
     "2": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Ayashiki Raihousha",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/81689713953e88a188f3db3cd3cbe8306d1dee3d8d051e883294175ef483d7f97d25f2ba94b437cf76f3e2a6cf13076c33b8994956b47ab6fdf914fc0fc52e0d271b393f3da9224fa09da966b6a159383f963dfe5df0af2389f979db061b36833e07012ea08fa8c9ba1f62f22d622da1b96b99b7ff52a832f322a56f324e81bb/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/3f/cd/3fcd2c9794c7dc8f16cae7644074b335/3fcd2c9794c7dc8f16cae7644074b335.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/3f/cd/3fcd2c9794c7dc8f16cae7644074b335/3fcd2c9794c7dc8f16cae7644074b335.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/a5/a58e4c865a103d310009a11dba04e8e3/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=natsume-yuujinchou-ishi-okoshi-to-ayashiki-raihousha-episode-2"
@@ -42,6 +64,10 @@
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
     }
 }

@@ -1,20 +1,38 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "OVA",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=kobayashi-san-chi-no-maid-dragon-ova-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/ce87b775ee5e7ee41e0f9a1d49ac1ecfde133e5a537b97e81bc30d9531533fe0b682bd496889b8b8a33bcbec1363914572f3113108946faf8b170ac183a4386df536199bd46d19eb5d07a8a03e82754e5500b39d55fd83a078343f14ef9d55f5b2bace874f0b09f457c1690467799ba6bda05d55cbbd53e0ca8125c264cc0b82/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/81/814f73fd5e33bb6532ab22f757c85c39/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/e0e6ccca5bcb2c1980d80edfc97a9aaa7ec65f8292e23f1b745a958dc86e10f5154a03d4ede448dbee38b5fd57ad4c79b03b6e6a71e3ce9d2bdad03274187f566e898da2fd8807ac19c9dda4315a3c4ca8fee9ca3c26dd57077abe2f79b7f620e5c0f7c1dbf6354c61ee6be10e0078058cbd6563f386795b6638a00ac6d8385c/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/98/93/98932bca4dd9e6cc1d4506e6bc50eae2/98932bca4dd9e6cc1d4506e6bc50eae2.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/e0e6ccca5bcb2c1980d80edfc97a9aaa7ec65f8292e23f1b745a958dc86e10f5154a03d4ede448dbee38b5fd57ad4c79b03b6e6a71e3ce9d2bdad03274187f566e898da2fd8807ac19c9dda4315a3c4ca8fee9ca3c26dd57077abe2f79b7f620e5c0f7c1dbf6354c61ee6be10e007805b8e0d4a53b240e3e95fc3ca4b4aabd12/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/98/93/98932bca4dd9e6cc1d4506e6bc50eae2/98932bca4dd9e6cc1d4506e6bc50eae2.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/81/814f73fd5e33bb6532ab22f757c85c39/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www009.vipanicdn.net/streamhls/de0bf6167e4597ac5bf918b23d3cebdf/ep.1.1677601475.m3u8"
@@ -27,6 +45,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MTAxMTM4"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

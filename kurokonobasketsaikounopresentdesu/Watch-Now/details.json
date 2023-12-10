@@ -1,20 +1,38 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Episode 1",
         "source": {
             "DUBBED": {
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=kuroko-no-basket-saikou-no-present-desu-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/cab8a10e27c16bcf1898cdf71f1c6b3919ee360fc584712c0df672bc1a113522207bf29b0254181bdcaab29353ce543f952dd7d07f313f9a538b6979fd5a3af974b23c18a5e6a99a0b26b4a5b7d75864423f05ff1b40d14a8cc5e4c36d6b040071363c96d3ea0ebf8a264757eb8135c1d4fc7eae934c8b11062c0efd292a507f/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/de/de6725f2bfa17ae56bf02db5a68b83e3/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/e764c68ae9f21332f1f649e3bc6f6df3f73fdd9fc44c7a12f322a520c641b63c2f3fdfaf880f8465b4885f568606dccf914c1399a41b60b9a8f03c87c3d73cb108415f2d884797e0d276655ab567e8243887a1aa6cdfac9b40ecad46c2655cb01415971f62aa2dcf3bcab90f0fda5ef1e3fb86f38be9556808e303b073bd2e3b/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/98/51/985163ff2f6f750e59b857bb5e96e837/985163ff2f6f750e59b857bb5e96e837.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/98/51/985163ff2f6f750e59b857bb5e96e837/985163ff2f6f750e59b857bb5e96e837.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/de/de6725f2bfa17ae56bf02db5a68b83e3/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www030.vipanicdn.net/streamhls/0e5c15fd6039a03d6bb14075a0bcdbb2/ep.1.1677665666.m3u8"
@@ -27,6 +45,10 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NzAyNTk="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

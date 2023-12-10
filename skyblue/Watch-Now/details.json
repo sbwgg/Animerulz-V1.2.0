@@ -1,6 +1,9 @@
 {
     "1": {
-        "intro": null,
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
         "title": "Full",
         "source": {
             "SUBBED": {
@@ -9,12 +12,29 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=wonderful-days-episode-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/b562410bcfa8238a108bd83c4b5fa3d08178358e3dffbcb2f64413f5d611e15bcda671c3cf33539efd41709d0a8d469423e543cda01d575b6054ebb819168aaed58c017aa1d55217405646f43ff5e3b834ea55f3b8707ac17b32245fa93ea533c4a5ba042157b08f005ad2f62ff5056426e33df54cf992ee59737bf9c9f250cd/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/a6/89/a689566ded250db2997802cafc611560/a689566ded250db2997802cafc611560.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/2d/2dc082534482851de11b8771487f9f01/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "NDA3NTM="
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

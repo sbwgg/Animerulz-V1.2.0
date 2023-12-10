@@ -1,8 +1,8 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
@@ -12,12 +12,42 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=made-in-abyss-movie-2-hourou-suru-tasogare-episode-dub-1"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/b03a131c76c5ef938d34ced2150cb0a69b11ced653c763bf2062cd27485996911c18a26bc5c580d7f3767dbdfb9aab2b519cb1c0fcda6dccff1f232ad3c41fd304e13ad404c4ff0e56c1818bbc4effe8a2ec4f3c87ebfe5b96fabfe2a2d4c9e911c857fed2994fe4056b2798b3a58b3e5fa6d5a4d98878c42a162911a1b82b5f/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/28/28e1bd36e06133bab818f746be391019/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/d14372e2e7a45c06f93d72faefdcbb1e5f5a4db4fc8210a8314c54fa11cd44a42b327eea7b792ae01bebbb613394480bcbae2f16a28ad1cecb52f9ea4888e3961062f69f849d2b791b23e029f49501bc25bdd6b9f1a1756adfee5a7276c69adeee880062aa6ca5e0ab233677f7b5c8e6dae364fc6ada258eda9c69a238654083/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/ee/73/ee7355961ebfb25eaf3576f25239739c/eng-1.vtt"
+                    "link": "https://eno.tendoloads.com/_v6/d14372e2e7a45c06f93d72faefdcbb1e5f5a4db4fc8210a8314c54fa11cd44a42b327eea7b792ae01bebbb613394480bcbae2f16a28ad1cecb52f9ea4888e3961062f69f849d2b791b23e029f49501bc25bdd6b9f1a1756adfee5a7276c69adeee880062aa6ca5e0ab233677f7b5c8e665539a49656317961489ad89e760bc3b/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/ee/73/ee7355961ebfb25eaf3576f25239739c/eng-1.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/ee/73/ee7355961ebfb25eaf3576f25239739c/eng-3.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/ee/73/ee7355961ebfb25eaf3576f25239739c/spa-2.vtt",
+                            "lang": "Spanish - Spanish Signs (HiDive, SSA)"
+                        },
+                        {
+                            "url": "https://ccb.megaresources.co/ee/73/ee7355961ebfb25eaf3576f25239739c/spa-4.vtt",
+                            "lang": "Spanish - Spanish Subs (HiDive, SSA)"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/28/28e1bd36e06133bab818f746be391019/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 },
                 "Vid Streaming": {
                     "link": "https://www021.vipanicdn.net/streamhls/9e90cd2efd99682474f0a612d28e1fdb/ep.1.1677697516.m3u8"
@@ -31,6 +61,10 @@
         "downloadLink": {
             "DUBBED": "MTM3MzM0",
             "SUBBED": "MTM2Mzcw"
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }

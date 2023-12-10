@@ -1,20 +1,43 @@
 {
     "1": {
         "intro": {
-            "end": null,
-            "start": null
+            "start": 0,
+            "end": 0
         },
         "title": "Full",
         "source": {
-            "DUBBED": {},
+            "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/aa5f08e4de527bef7ee07c7b36a71e84a2d53a47ce91c213ee58d016c774e6791423f2cbd7f9c414c111786a1aa232cdf7704aa3dda40b824b72f16738f7dd589afe18a4b1dfa3d9985c0f51cc867244a8676ab686329110e45e6a7466de18c36e0594a2d6b7c819f385728402138867a7be97d76a4f3525379aff45d09a2c8c/master.m3u8",
+                    "captions": [
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/6e/6e60617cfd05a89b052712a2e9311902/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
+                }
+            },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/595d14319b3b3f84f42785a560e4e6f0615f11da65edd4530a02fcdae03c7eadfb59130346cefad9bb1c9069b81ad4276fde83e72278eb6a715c9caff6727babfa778305c999c680b09d26857b8ca44d68e80af7c0658ae421fce9403cea4a69c649f2a2a93f82acf9d573e2b8f12c97cc259df066b284746a0b399be5e836fa/master.m3u8",
-                    "captions": "https://ccb.megaresources.co/63/35/6335cac3f3efb4b554c7306245682751/6335cac3f3efb4b554c7306245682751.vtt"
+                    "captions": [
+                        {
+                            "url": "https://ccb.megaresources.co/63/35/6335cac3f3efb4b554c7306245682751/6335cac3f3efb4b554c7306245682751.vtt",
+                            "lang": "English"
+                        },
+                        {
+                            "url": "https://imgb.megaresources.co/_a_preview/6e/6e60617cfd05a89b052712a2e9311902/thumbnails/sprite.vtt",
+                            "lang": "Thumbnails"
+                        }
+                    ]
                 }
             }
         },
         "isFiller": false,
-        "downloadLink": {}
+        "downloadLink": {},
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
     }
 }
