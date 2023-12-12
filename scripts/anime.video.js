@@ -40,7 +40,6 @@ if(!urlData.episodeNumber){
 // }
 let max = 0;
 
-
 getAnime();
 
 
