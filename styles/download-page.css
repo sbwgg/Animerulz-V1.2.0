@@ -4,6 +4,13 @@ html,body{
 :root{
   --plyr-color-main : #faa300 !important;
 }
+.plyr__progress input, .plyr__progress__buffer{
+  width: 100% !important;
+  margin-inline: 0 !important;
+}
+.plyr__captions{
+  z-index: 2 !important;
+}
 html{
   background-color: rgba(0, 0, 0, 0.85);
 }
@@ -314,13 +321,14 @@ html{
   background-color: rgba(255, 255, 255, 1);
 }
 .main-container-video-sec-2 .header .episodes-selection-div::-webkit-scrollbar{
+  background-color: transparent;
   width: 10px;
 }
 .main-container-video-sec-2 .header .episodes-selection-div::-webkit-scrollbar-thumb{
   background: rgba(0, 0, 0, 0.4);
 }
 .main-container-video-sec-2 .header .episodes-selection-div::-webkit-scrollbar-track{
-  background: rgba(0, 0, 0, 0.2);
+  background: rgba(0, 0, 0, 0);
 }
 .main-container-video-sec-2 .header .episodes-selection-div:hover{
   display: block;
@@ -378,7 +386,7 @@ html{
 }
 @media only screen and (max-width : 450px){
 .main-container-video-sec-2 .body .body-cont .content{
-    grid-template-columns: repeat(auto-fit, minmax(30px, 15%));
+    grid-template-columns: repeat(auto-fit);
     justify-content: space-evenly;
   }
   h2{
@@ -407,10 +415,11 @@ html{
   color: rgba(255, 255, 255, 0.8);
   max-height: 25px;
 }
-@media only screen and (max-width:450px){
-.main-container-video-sec-2 .body .episode{
-  padding: 8px 0px;
-}
+@media only screen and (max-width:500px){
+  .main-container-video-sec-2 .body .episode{
+    font-size: 12px;
+    padding: 8px 0px;
+  }
 }
 .main-container-video-sec-2 .body .episode:hover{
   background-color: rgba(255, 255, 255, 0.6);
@@ -1225,19 +1234,42 @@ iframe.video-player{
   .plyr__controls{
     width: 100%;
     padding-inline: 3% !important;
+    font-size: 11px !important;
   }
   .plyr__controls__item.plyr__progress__container{
     position: absolute;
-    left: 2%;
-    width: 95%;
+    /* left: 2%; */
+    right: 0;
+    width: 100%;
     top: 10px;  
     margin: 0 !important;
     padding-inline: 3% !important;
+  }
+  .plyr__menu__container .plyr__control{
+    font-size: 9px !important;
+  }
+  .plyr__control svg{
+    width: 14px !important;
+  }
+  .plyr__control.new-control-a{
+    font-size: 20px !important;
+  }
+  .plyr__time{
+    font-size: 12px !important;
   }
 }
 @media only screen and (max-width:620px){
   .plyr__control{
     padding: 5px !important;
+  }
+  .plyr__control.plyr__control--overlaid{
+    padding: 8px !important;
+  }
+  .plyr__menu__container .plyr__control--forward{
+    padding-right: 25px !important;
+  }
+  .plyr__menu__container .plyr__control--back{
+    padding-left: 25px !important;
   }
 }
 @media only screen and (max-width:479px){
@@ -1246,7 +1278,7 @@ iframe.video-player{
   }
 }
 .new-control-a{
-  font-size: 20px;
+  font-size: 20px !important;
 }
 
 
@@ -1336,5 +1368,5 @@ div.video-player video{
   }
 }
 .anime-recom .anime-in-trending{
-  background-color: none;
+  background-color: transparent;
 }
