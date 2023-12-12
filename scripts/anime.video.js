@@ -2,7 +2,6 @@
 // import Plyr from 'https://cdn.plyr.io/3.6.2/plyr.js';
 
 
-let startTime = new Date().getTime();
 const animeType = getAnimeType();
 const animeName = document.getElementById("a-active-page-tag").textContent.toLowerCase().replace(/[^a-zA-Z0-9]/g, "").trim();
 let data;
@@ -12,6 +11,8 @@ let existingServer;
 const url =  new URL(window.location.href);
 const searchParams = window.location.search;
 const urlParams = new URLSearchParams(searchParams);
+
+const videoPlayer =  document.querySelector(".video-player");
 //get url params
 let urlData = {
     episodeNumber : urlParams.get('ep'),
@@ -26,10 +27,17 @@ if(!urlData.episodeNumber){
     if(!lastClickedAnimeAudio)
         lastClickedAnimeAudio = 'jap'
     urlData.episodeNumber = animeLastClickedEpisodeNew;
-    urlData.audio = lastClickedAnimeAudio
+    urlData.audio = lastClickedAnimeAudio;
     existingAudio = lastClickedAnimeAudio;
     changeUrl(animeLastClickedEpisodeNew);
 }
+// if(!urlData.audio){
+//     let lastClickedAnimeAudio =  localStorage.getItem(`presentAudioAnimerulzAnime-${animeName}`);
+//     if(!lastClickedAnimeAudio)
+//         lastClickedAnimeAudio = 'jap';
+//     urlData.audio = lastClickedAnimeAudio;
+//     existingAudio = lastClickedAnimeAudio;
+// }
 let max = 0;
 
 
@@ -487,7 +495,6 @@ function setActiveServers(presentAudio, presentEpisode, server = 'Vid Streaming'
         if(data[presentEpisode].source['OTHER LANGUAGES']){
             if(data[presentEpisode].source['OTHER LANGUAGES'][otherLanguages[presentAudio]]){
                 let activeServerLink = data[presentEpisode].source['OTHER LANGUAGES'][otherLanguages[presentAudio]];
-                let videoPlayer = document.querySelector(".video-player");
                 videoPlayer.innerHTML = ` <iframe src="${activeServerLink}"
                                                 autoplay=1
                                                 id="video-player"
@@ -540,20 +547,31 @@ function setActiveServers(presentAudio, presentEpisode, server = 'Vid Streaming'
                         let activeServerLink = data[presentEpisode].source[subDub[presentAudio]][server].link;
                         let intro = data[presentEpisode].intro;
                         let outro = data[presentEpisode].outro;
-                        let videoPlayer = document.querySelector(".video-player");
-                        videoPlayer.innerHTML = '<video style="height:100%;width:100%" controls crossorigin playsinline></video>';
+                        videoPlayer.innerHTML = '<video style="height:100%;width:100%" controls crossorigin="anonymous" playsinline></video>';
                         setHlsPlayer(activeServerLink, intro, outro);
                     }else if(server == 'Vid Cloud'){
                         let activeServerLink = data[presentEpisode].source[subDub[presentAudio]][server].link;
-                        let captionsTrack = data[presentEpisode].source[subDub[presentAudio]][server].captions;
+                        let captionsTracks = data[presentEpisode].source[subDub[presentAudio]][server].captions;
+                        let tracksHtml = '';
+                        let isDefault = 1;
+                        let defaultOrNot = 'default';
+                        for(let i = 0; i < captionsTracks.length; i ++){
+                            if(isDefault != 1)
+                                defaultOrNot = ''
+                            let trackLang = captionsTracks[i].lang;
+                            if(trackLang == 'English')
+                                tracksHtml += `<track kind="captions" label="${trackLang}" srclang="en" src="${captionsTracks[i].url}" ${defaultOrNot}/>`;
+                            else 
+                                tracksHtml += `<track kind="captions" label="${trackLang}" src="${captionsTracks[i].url}" ${defaultOrNot}/>`;
+                            captionsTracks[i].kind = 'captions'
+                            isDefault = 0
+                        }
                         let intro = data[presentEpisode].intro;
                         let outro = data[presentEpisode].outro;
-                        let videoPlayer = document.querySelector(".video-player");
-                        videoPlayer.innerHTML = `<video style="height:100%;width:100%" controls crossorigin playsinline><track kind="captions" label="English captions" src="${captionsTrack}" srclang="en" default/></video>`;
-                        setHlsPlayer(activeServerLink, intro, outro);
+                        videoPlayer.innerHTML = `<video style="height:100%;width:100%" controls crossorigin="anonymous" playsinline>${tracksHtml}</video>`;
+                        setHlsPlayer(activeServerLink, intro, outro, captionsTracks);
                     }else if(server == 'Awesome Stream'){
                         let activeServerLink = data[presentEpisode].source[subDub[presentAudio]][server].link;
-                        let videoPlayer = document.querySelector(".video-player");
                         videoPlayer.innerHTML = ` <iframe src="${activeServerLink}"
                                                     autoplay=1
                                                     id="video-player"
@@ -565,7 +583,6 @@ function setActiveServers(presentAudio, presentEpisode, server = 'Vid Streaming'
                 }
                 else if(presentAudio == 'hin' || presentAudio == 'tel' || presentAudio == 'tam' || presentAudio == 'mal' || presentAudio == 'ben' || presentAudio == 'mul' || presentAudio == 'mul480' || presentAudio == 'mul720' || presentAudio == 'mul1080'){
                     let activeServerLink = data[presentEpisode].source['OTHER LANGUAGES'][otherLanguages[presentAudio]];
-                    let videoPlayer = document.querySelector(".video-player");
                     videoPlayer.innerHTML = ` <iframe src="${activeServerLink}"
                                                     autoplay=1
                                                     id="video-player"
@@ -704,7 +721,7 @@ function changeAutoSkipIntro(control){
     }
 }
 
-function setHlsPlayer(source, intro, outro){
+function setHlsPlayer(source, intro, outro, captionsTracks=false){
     let isIntro = false;
     let isOutro = false;
     let introStart, introEnd, outroStart, outroEnd;
@@ -722,7 +739,10 @@ function setHlsPlayer(source, intro, outro){
         // const source = 'https://www044.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1080.1697942773.m3u8';
         const video = document.querySelector('video');
 
-        const defaultOptions = {};  
+        const defaultOptions = {
+            tooltips: { controls: true, seek: true },
+            previewThumbnails: { enabled: true, src: 'path/to/thumbnails.vtt' },
+        };  
         defaultOptions.controls =  [
             'play-large', // The large play button in the center
             'play', // Play/pause playback
@@ -742,6 +762,26 @@ function setHlsPlayer(source, intro, outro){
         const hls = new Hls();
         hls.loadSource(source);
   
+        // Plyr captions configuration
+        // const captionsConfig = [
+        //     {
+        //         src: 'https://ccb.megaresources.co/8c/8e/8c8e59a6f63ba722fe78f1932d2e7360/8c8e59a6f63ba722fe78f1932d2e7360.vtt',
+        //         label: 'English',
+        //         kind: 'captions',
+        //         srclang: 'en',
+        //     },
+        //     // Add more captions as needed
+        // ];
+
+        // Attach Plyr captions configuration
+        if(captionsTracks){
+            defaultOptions.captions = {
+                active: true,
+                update: true,
+                language: 'en', // Default language
+                tracks: captionsTracks,
+            };
+        }
         // wFrom the m3u8 playlist, hls parses the manifest and returns
         // all available video qualities. This is important, in this approach,
         // we will have one source on the Plyr player.
@@ -825,27 +865,29 @@ function setHlsPlayer(source, intro, outro){
           video.addEventListener("canplay", () => {  
             let progressBar = document.querySelector(".plyr__progress");
             let duration = video.duration;
-            if(isIntro){
-                let newE = document.createElement("div");
-                newE.setAttribute("class", 'intro-indicator');
-                progressBar.prepend(newE);
-                newE.style.width = (introEnd - introStart) / duration * 100 + "%";
-                newE.style.left = introStart / duration * 100 + "%";
-            }
-            if(isOutro){
-                let newEle = document.createElement("div");
-                newEle.setAttribute("class", 'intro-indicator');
-                progressBar.prepend(newEle);
-                newEle.style.width = (outroEnd - outroStart) / duration * 100 + "%";
-                newEle.style.left = outroStart / duration * 100 + "%";
-            }
-                let isPrevVideoFullScreenChecker = localStorage.getItem("isPrevVideoFullScreen");
-                if(isPrevVideoFullScreenChecker == 'true'){
-                        let event = new MouseEvent("dblclick");
-                        document.querySelector('.plyr').dispatchEvent(event);
-                    localStorage.setItem("isPrevVideoFullScreen", false);
+            let introIndicators = document.querySelector(".intro-indicator");
+            if(!introIndicators || introIndicators.length >= 2){
+                if(isIntro){
+                    let newE = document.createElement("div");
+                    newE.setAttribute("class", 'intro-indicator');
+                    progressBar.prepend(newE);
+                    newE.style.width = (introEnd - introStart) / duration * 100 + "%";
+                    newE.style.left = introStart / duration * 100 + "%";
                 }
-
+                if(isOutro){
+                    let newEle = document.createElement("div");
+                    newEle.setAttribute("class", 'intro-indicator');
+                    progressBar.prepend(newEle);
+                    newEle.style.width = (outroEnd - outroStart) / duration * 100 + "%";
+                    newEle.style.left = outroStart / duration * 100 + "%";
+                }
+            }
+            let isPrevVideoFullScreenChecker = localStorage.getItem("isPrevVideoFullScreen");
+            if(isPrevVideoFullScreenChecker == 'true'){
+                    let event = new MouseEvent("dblclick");
+                    document.querySelector('.plyr').dispatchEvent(event);
+                localStorage.setItem("isPrevVideoFullScreen", false);
+            }
             if(localStorage.getItem('autoPlay') == 'true'){
                 document.querySelector("video").click();
                 player.play();
@@ -865,13 +907,13 @@ function setHlsPlayer(source, intro, outro){
                 b.setAttribute("class", 'plyr__control new-control-a');
                 b.setAttribute("onclick", 'backwardTenSec()');
                 // b.setAttribute("style", "font-size:13px !important;")
-                b.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" class="jw-svg-icon jw-svg-icon-rewind" viewBox="0 0 240 240" focusable="false"><path d="M113.2,131.078a21.589,21.589,0,0,0-17.7-10.6,21.589,21.589,0,0,0-17.7,10.6,44.769,44.769,0,0,0,0,46.3,21.589,21.589,0,0,0,17.7,10.6,21.589,21.589,0,0,0,17.7-10.6,44.769,44.769,0,0,0,0-46.3Zm-17.7,47.2c-7.8,0-14.4-11-14.4-24.1s6.6-24.1,14.4-24.1,14.4,11,14.4,24.1S103.4,178.278,95.5,178.278Zm-43.4,9.7v-51l-4.8,4.8-6.8-6.8,13-13a4.8,4.8,0,0,1,8.2,3.4v62.7l-9.6-.1Zm162-130.2v125.3a4.867,4.867,0,0,1-4.8,4.8H146.6v-19.3h48.2v-96.4H79.1v19.3c0,5.3-3.6,7.2-8,4.3l-41.8-27.9a6.013,6.013,0,0,1-2.7-8,5.887,5.887,0,0,1,2.7-2.7l41.8-27.9c4.4-2.9,8-1,8,4.3v19.3H209.2A4.974,4.974,0,0,1,214.1,57.778Z"></path></svg>`;
+                b.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" class="jw-svg-icon jw-svg-icon-rewind" viewBox="0 0 240 240" focusable="false"><path d="M113.2,131.078a21.589,21.589,0,0,0-17.7-10.6,21.589,21.589,0,0,0-17.7,10.6,44.769,44.769,0,0,0,0,46.3,21.589,21.589,0,0,0,17.7,10.6,21.589,21.589,0,0,0,17.7-10.6,44.769,44.769,0,0,0,0-46.3Zm-17.7,47.2c-7.8,0-14.4-11-14.4-24.1s6.6-24.1,14.4-24.1,14.4,11,14.4,24.1S103.4,178.278,95.5,178.278Zm-43.4,9.7v-51l-4.8,4.8-6.8-6.8,13-13a4.8,4.8,0,0,1,8.2,3.4v62.7l-9.6-.1Zm162-130.2v125.3a4.867,4.867,0,0,1-4.8,4.8H146.6v-19.3h48.2v-96.4H79.1v19.3c0,5.3-3.6,7.2-8,4.3l-41.8-27.9a6.013,6.013,0,0,1-2.7-8,5.887,5.887,0,0,1,2.7-2.7l41.8-27.9c4.4-2.9,8-1,8,4.3v19.3H209.2A4.974,4.974,0,0,1,214.1,57.778Z"></path></svg><span class="plyr__tooltip">Backward 10sec</span>`;
                 plyrControls.insertBefore(b, volumeButton);
                 let a = document.createElement("button");
                 a.setAttribute("class", 'plyr__control new-control-a');
                 // a.setAttribute("style", "padding :2px !important;")
                 a.setAttribute("onclick", 'forwardTenSec()');
-                a.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" class="jw-svg-icon jw-svg-icon-rewind2" viewBox="0 0 240 240" focusable="false"><path d="m 25.993957,57.778 v 125.3 c 0.03604,2.63589 2.164107,4.76396 4.8,4.8 h 62.7 v -19.3 h -48.2 v -96.4 H 160.99396 v 19.3 c 0,5.3 3.6,7.2 8,4.3 l 41.8,-27.9 c 2.93574,-1.480087 4.13843,-5.04363 2.7,-8 -0.57502,-1.174985 -1.52502,-2.124979 -2.7,-2.7 l -41.8,-27.9 c -4.4,-2.9 -8,-1 -8,4.3 v 19.3 H 30.893957 c -2.689569,0.03972 -4.860275,2.210431 -4.9,4.9 z m 163.422413,73.04577 c -3.72072,-6.30626 -10.38421,-10.29683 -17.7,-10.6 -7.31579,0.30317 -13.97928,4.29374 -17.7,10.6 -8.60009,14.23525 -8.60009,32.06475 0,46.3 3.72072,6.30626 10.38421,10.29683 17.7,10.6 7.31579,-0.30317 13.97928,-4.29374 17.7,-10.6 8.60009,-14.23525 8.60009,-32.06475 0,-46.3 z m -17.7,47.2 c -7.8,0 -14.4,-11 -14.4,-24.1 0,-13.1 6.6,-24.1 14.4,-24.1 7.8,0 14.4,11 14.4,24.1 0,13.1 -6.5,24.1 -14.4,24.1 z m -47.77056,9.72863 v -51 l -4.8,4.8 -6.8,-6.8 13,-12.99999 c 3.02543,-3.03598 8.21053,-0.88605 8.2,3.4 v 62.69999 z"></path></svg>`
+                a.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" class="jw-svg-icon jw-svg-icon-rewind2" viewBox="0 0 240 240" focusable="false"><path d="m 25.993957,57.778 v 125.3 c 0.03604,2.63589 2.164107,4.76396 4.8,4.8 h 62.7 v -19.3 h -48.2 v -96.4 H 160.99396 v 19.3 c 0,5.3 3.6,7.2 8,4.3 l 41.8,-27.9 c 2.93574,-1.480087 4.13843,-5.04363 2.7,-8 -0.57502,-1.174985 -1.52502,-2.124979 -2.7,-2.7 l -41.8,-27.9 c -4.4,-2.9 -8,-1 -8,4.3 v 19.3 H 30.893957 c -2.689569,0.03972 -4.860275,2.210431 -4.9,4.9 z m 163.422413,73.04577 c -3.72072,-6.30626 -10.38421,-10.29683 -17.7,-10.6 -7.31579,0.30317 -13.97928,4.29374 -17.7,10.6 -8.60009,14.23525 -8.60009,32.06475 0,46.3 3.72072,6.30626 10.38421,10.29683 17.7,10.6 7.31579,-0.30317 13.97928,-4.29374 17.7,-10.6 8.60009,-14.23525 8.60009,-32.06475 0,-46.3 z m -17.7,47.2 c -7.8,0 -14.4,-11 -14.4,-24.1 0,-13.1 6.6,-24.1 14.4,-24.1 7.8,0 14.4,11 14.4,24.1 0,13.1 -6.5,24.1 -14.4,24.1 z m -47.77056,9.72863 v -51 l -4.8,4.8 -6.8,-6.8 13,-12.99999 c 3.02543,-3.03598 8.21053,-0.88605 8.2,3.4 v 62.69999 z"></path></svg><span class="plyr__tooltip">Forward 10sec</span>`
                 plyrControls.insertBefore(a, volumeButton);
             }
 
@@ -909,7 +951,7 @@ function setPreviousEpisodeButtonLongAnime(lowerLimit, upperLimit, presentEpisod
 function setNextEpisodeButtonShortAnime(presentEpisode){
     document.querySelector('.control.next-episode').setAttribute(
         'onclick',
-        `setNewShortAnimeEpisode(${Number(presentEpisode) + 1})` 
+        `setNewShortAnimeEpisode(${Number(presentEpisode) + 1})`
     );
 }
 function setPreviousEpisodeButtonShortAnime(presentEpisode){
@@ -946,20 +988,27 @@ function nextEpisode(){
             localStorage.setItem("isPrevVideoFullScreen", true);
         }
         try{
-            document.querySelector(".control.next-episode").click();
-        }catch{}}
-
+            videoPlayer.innerHTML = ``;
+            if(max != urlData.episodeNumber)
+                setTimeout(() => {
+                    document.querySelector(".control.next-episode").click();
+                }, 2000);
+            
+        }catch{}
+}
 
 function setDownloadBtn(){
-    let downloadLink;
-    if(urlData.audio == 'jap')
-        downloadLink =  `https://goone.pro/download?id=${data[urlData.episodeNumber]['downloadLink']['SUBBED']}&typesub=Animerulz Anime SUB&title=${document.querySelector("h2").textContent} Episode ${urlData.episodeNumber}`;
-    else downloadLink =  `https://goone.pro/download?id=${data[urlData.episodeNumber]['downloadLink']['DUBBED']}&typesub=Animerulz Anime DUB&title=${document.querySelector("h2").textContent} Episode ${urlData.episodeNumber}`;
-    if(downloadLink)
-        document.querySelector(".control.download").setAttribute(
-            'onclick',
-            `window.open("${downloadLink}")`    
-        );
+    try{
+        let downloadLink;
+        if(urlData.audio == 'jap')
+            downloadLink =  `https://goone.pro/download?id=${data[urlData.episodeNumber]['downloadLink']['SUBBED']}&typesub=Animerulz Anime SUB&title=${document.querySelector("h2").textContent} Episode ${urlData.episodeNumber}`;
+        else downloadLink =  `https://goone.pro/download?id=${data[urlData.episodeNumber]['downloadLink']['DUBBED']}&typesub=Animerulz Anime DUB&title=${document.querySelector("h2").textContent} Episode ${urlData.episodeNumber}`;
+        if(downloadLink)
+            document.querySelector(".control.download").setAttribute(
+                'onclick',
+                `window.open("${downloadLink}")`    
+            );
+    }catch{}
 }
 
 
