@@ -1043,6 +1043,8 @@ function backwardTenSec(){
 }
 
 function getCaptionsTracks(tracks){
+    if(!tracks)
+        return ""
     let tracksHtml = '';
     let languageCodes = {
         "English": "en",
