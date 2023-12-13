@@ -40,6 +40,7 @@ if(!urlData.episodeNumber){
 // }
 let max = 0;
 
+
 getAnime();
 
 
@@ -550,7 +551,7 @@ function setActiveServers(presentAudio, presentEpisode, server = 'Vid Streaming'
                         setHlsPlayer(activeServerLink, intro, outro);
                     }else if(server == 'Vid Cloud'){
                         let activeServerLink = data[presentEpisode].source[subDub[presentAudio]][server].link;
-                        let captionsTracks = data[presentEpisode].source[subDub[presentAudio]][server].captions;
+                        let captionsTracks = data[presentEpisode].captions;
                         let tracksHtml = '';
                         let isDefault = 1;
                         let defaultOrNot = 'default';
