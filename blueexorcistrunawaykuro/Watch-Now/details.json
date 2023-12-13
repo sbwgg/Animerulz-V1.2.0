@@ -1,38 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/58c50bbfb2ce6573fb13fc860807d16e138ab91eff35854ca0a2a932a455c8d7cefe89413a34da92588dcfe336af82a3f7f56d250938a7cd6bc5bb95d25a726765a70741482c12a47e3393c7e42e8db687022780fee46e2627322b7a5f2614dbb2908222fcf127760869bcc6ef5407590fca78807d228d9912d72b7e072fa58f/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=ao-no-exorcist-kuro-no-iede-ova-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/58c50bbfb2ce6573fb13fc860807d16e138ab91eff35854ca0a2a932a455c8d7cefe89413a34da92588dcfe336af82a3f7f56d250938a7cd6bc5bb95d25a726765a70741482c12a47e3393c7e42e8db687022780fee46e2627322b7a5f2614dbb2908222fcf127760869bcc6ef5407590fca78807d228d9912d72b7e072fa58f/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/3d/3d94def0713b67c00feafbf57cc1d7f0/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/7d244b5c42986e3e67a87f27f4d61f6933e2f017788ab76737c6e03ce51f2dded00291fa91822f0274dcad5e0519a278a467cfcf481667301cab6204fd2078bfb8860cc553ad5b070be4d6644b010bbd460af71b9520a85316675e1bdaf9e4f046c086e5c8aae87213c5982aef6f9dcd869dedf6304a8e4699bfb19f598c1365/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/b1/f3/b1f344e0b07a25a31de0abaad3ec498d/b1f344e0b07a25a31de0abaad3ec498d.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/3d/3d94def0713b67c00feafbf57cc1d7f0/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/7d244b5c42986e3e67a87f27f4d61f6933e2f017788ab76737c6e03ce51f2dded00291fa91822f0274dcad5e0519a278a467cfcf481667301cab6204fd2078bfb8860cc553ad5b070be4d6644b010bbd460af71b9520a85316675e1bdaf9e4f046c086e5c8aae87213c5982aef6f9dcd869dedf6304a8e4699bfb19f598c1365/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www015.vipanicdn.net/streamhls/c7d7d5f38f597a47fb3b90d7b9cce534/ep.1.1677636955.m3u8"
@@ -46,9 +34,15 @@
         "downloadLink": {
             "SUBBED": "MTkwNA=="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/b1/f3/b1f344e0b07a25a31de0abaad3ec498d/b1f344e0b07a25a31de0abaad3ec498d.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/3d/3d94def0713b67c00feafbf57cc1d7f0/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

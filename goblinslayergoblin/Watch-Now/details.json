@@ -1,49 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/fd27d9624f4b016e7a4e9a090f96fdbfc5211aec6930bc1cae710d279d0314b425388e67564f38fb2a2d9bd911374381afa90c6d6ccd58d1dec0c5e65841db525b6179adf51e9d72d3114d9a0bd7549fcdcd83d0f972a96c5dc5f9d82cfda590ce38607ab349709a48a6d6359bfc3754f925478ddad9456dbef0e165469d236d/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www003.vipanicdn.net/streamhls/4e56ce4602a11d881f6890909d29a153/ep.1.1677602328.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=goblin-slayer-goblins-crown-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/fd27d9624f4b016e7a4e9a090f96fdbfc5211aec6930bc1cae710d279d0314b425388e67564f38fb2a2d9bd911374381afa90c6d6ccd58d1dec0c5e65841db525b6179adf51e9d72d3114d9a0bd7549fcdcd83d0f972a96c5dc5f9d82cfda590ce38607ab349709a48a6d6359bfc3754f925478ddad9456dbef0e165469d236d/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/c4/c4c629b275300f11a6ed2685dd59031e/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/3d74a8da4fe6b24955deb1a2cf82bf4fb3a57a24e9487e28b5d27b4a8bec5f89bf1db841de583baa11ef04813ef59b48062fd97c1a1dc95c6dc78b74872e08ef44dffc6ed2a082ce9e9726cc55e38430d8602e88cdb5ddb0a7aa7edbc7225c2150ffef28305e2eb058ebb3f040de2a5e5cf12a3a4270364e6ed966d5fcf921d9/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/53/f4/53f40dab3bd7586931fb9646adbbf3d3/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/53/f4/53f40dab3bd7586931fb9646adbbf3d3/por-4.vtt",
-                            "lang": "Portuguese - Portugues(Brasil)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/53/f4/53f40dab3bd7586931fb9646adbbf3d3/spa-3.vtt",
-                            "lang": "Spanish - Espanol"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/c4/c4c629b275300f11a6ed2685dd59031e/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/3d74a8da4fe6b24955deb1a2cf82bf4fb3a57a24e9487e28b5d27b4a8bec5f89bf1db841de583baa11ef04813ef59b48062fd97c1a1dc95c6dc78b74872e08ef44dffc6ed2a082ce9e9726cc55e38430d8602e88cdb5ddb0a7aa7edbc7225c2150ffef28305e2eb058ebb3f040de2a5e5cf12a3a4270364e6ed966d5fcf921d9/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www006.vipanicdn.net/streamhls/4c49f2a98e5258d2b4dce6456e901eb2/ep.1.1677598548.m3u8"
@@ -58,9 +38,23 @@
             "DUBBED": "MTQ3MDAy",
             "SUBBED": "MTQyODA1"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/53/f4/53f40dab3bd7586931fb9646adbbf3d3/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/53/f4/53f40dab3bd7586931fb9646adbbf3d3/por-4.vtt",
+                "lang": "Portuguese - Portugues(Brasil)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/53/f4/53f40dab3bd7586931fb9646adbbf3d3/spa-3.vtt",
+                "lang": "Spanish - Espanol"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/c4/c4c629b275300f11a6ed2685dd59031e/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

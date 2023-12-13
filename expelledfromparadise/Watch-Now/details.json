@@ -1,37 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/446392507279a5230d43b0a0a02fd55b67173b9148b2d13afe4706a0d7d1f121de6626f0e79cf914de0f3c99acee792f77d560ee77999d553591ad486f3b7a5449f0c976de70e1393970ba5d706889ebd17db971ee2f787e36b9b3ed70ca45b985e1929db3a8f6d35e2c672fc3d2a682d1f344a0f9cf79bc4a4bfa4ed8bef28d/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www044.vipanicdn.net/streamhls/bac8d6f0f67b0a198c15ee25614c0af9/ep.1.1695840584.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=rakuen-tsuihou-expelled-from-paradise-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/446392507279a5230d43b0a0a02fd55b67173b9148b2d13afe4706a0d7d1f121de6626f0e79cf914de0f3c99acee792f77d560ee77999d553591ad486f3b7a5449f0c976de70e1393970ba5d706889ebd17db971ee2f787e36b9b3ed70ca45b985e1929db3a8f6d35e2c672fc3d2a682d1f344a0f9cf79bc4a4bfa4ed8bef28d/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/87/8756fc2b8e1587ee8f370a524c163199/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/d2d905901fec78b681d2c66e2b5409282ae2c5089ae31364d835d14577db2cdcac7c10afcfa6c287630a3cbd9b7982966c78df2f4e03f80204070f54202535f5bb7f574b1da78050c269d027b278df8bb2edf1fbe914213a84e9872dfd52fc4a3de1368c143b14e5989a506499adbd9ef6b099a1ea65a422b233d08358d5bbf3/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/87/8756fc2b8e1587ee8f370a524c163199/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/d2d905901fec78b681d2c66e2b5409282ae2c5089ae31364d835d14577db2cdcac7c10afcfa6c287630a3cbd9b7982966c78df2f4e03f80204070f54202535f5bb7f574b1da78050c269d027b278df8bb2edf1fbe914213a84e9872dfd52fc4a3de1368c143b14e5989a506499adbd9ef6b099a1ea65a422b233d08358d5bbf3/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www045.vipanicdn.net/streamhls/7fd091d3bba9a4be53a4c87796e437fd/ep.1.1695841100.m3u8"
@@ -46,9 +38,11 @@
             "DUBBED": "MTAwMjcz",
             "SUBBED": "NDg2ODQ="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/87/8756fc2b8e1587ee8f370a524c163199/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

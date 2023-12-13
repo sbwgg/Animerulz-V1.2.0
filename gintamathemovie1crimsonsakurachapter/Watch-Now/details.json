@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/8e85bd31171d242d67ab71170d9e364c0ed00b8add61d59af8c29fe058a647858a680a4b55f27eaf0de12b3f5a1d5f4b143bf6f856fba9d8a30be9ac8d50ad0579fc86611364b09a3d45569a25bab9a1fc2482b076f20cd35760e1a478f0d0181c212e8820fea1f19242c102be6d829ac81a9582347b66dac22cc0b628cd669a/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www024.vipanicdn.net/streamhls/833bf4b37e160c1f840cfb178fd7ddc5/ep.1.1677688460.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=gintama-shinyaku-benizakura-hen-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/8e85bd31171d242d67ab71170d9e364c0ed00b8add61d59af8c29fe058a647858a680a4b55f27eaf0de12b3f5a1d5f4b143bf6f856fba9d8a30be9ac8d50ad0579fc86611364b09a3d45569a25bab9a1fc2482b076f20cd35760e1a478f0d0181c212e8820fea1f19242c102be6d829ac81a9582347b66dac22cc0b628cd669a/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/93/93f19c8795b4e9f86c9d0ecae0d17193/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/54bbe999e55ba57a0ce5396fb6f78a96116d32ed7e141e38d7a59c3864eb6730019741ab03a03296ad3d4238b7aa2dc957a5e70decf4a45f32008ff8cc8017cb7959af5942641da39b8bef2d09f5699ba5e19ddede40115322a21bf7e1c444b08f46c4a7f4dcb12cac5a7b9d4f1c91cf2e3cdbee31f402b8c0b95f45e911b5a4/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/c9/3a/c93ae3938e4c4e0743c3d78b6f4d69d4/c93ae3938e4c4e0743c3d78b6f4d69d4.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/93/93f19c8795b4e9f86c9d0ecae0d17193/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/54bbe999e55ba57a0ce5396fb6f78a96116d32ed7e141e38d7a59c3864eb6730019741ab03a03296ad3d4238b7aa2dc957a5e70decf4a45f32008ff8cc8017cb7959af5942641da39b8bef2d09f5699ba5e19ddede40115322a21bf7e1c444b08f46c4a7f4dcb12cac5a7b9d4f1c91cf2e3cdbee31f402b8c0b95f45e911b5a4/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www029.vipanicdn.net/streamhls/713b9e8df8f97b0e2d0ff8536fedc964/ep.1.1677662750.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "MTA3MTgz",
             "SUBBED": "NDA3MDg="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/c9/3a/c93ae3938e4c4e0743c3d78b6f4d69d4/c93ae3938e4c4e0743c3d78b6f4d69d4.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/93/93f19c8795b4e9f86c9d0ecae0d17193/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

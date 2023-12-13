@@ -1,38 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Kabocha no Lantern",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/2b83c07e66145bd5b5c879eeb705627a52f80d9f5d24a9c7437c333cf0a60fb60eb5dfb23b72e1347171a6c08bb5a980d967b70031e423ec55ebd25d669f0477bd604aa1714d9ad025fb4ffd311992c21854248f2518166362b90910aee149860fbe315fc749cd325d24451d13fa92e98211988f889feeafeefe022bd9b901fa/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=granblue-fantasy-the-animation-special-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/2b83c07e66145bd5b5c879eeb705627a52f80d9f5d24a9c7437c333cf0a60fb60eb5dfb23b72e1347171a6c08bb5a980d967b70031e423ec55ebd25d669f0477bd604aa1714d9ad025fb4ffd311992c21854248f2518166362b90910aee149860fbe315fc749cd325d24451d13fa92e98211988f889feeafeefe022bd9b901fa/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/2a/2ab0e13fdd464bae23b735bccfa8c177/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/9c5dc7f07f1b7c72f70e77a11caf5a9c2b478d55602c862a543e28dc3091fbeb8e906bb6c519859ea7983ab8bc288868884165866f15f985b9fd1b9832ffd7adf231b4dc65b5c92e0812e011b5bdf67eac04237c837fb26da50b4acba0e4ac036e951fca0ffd1b63b748da48d411742aed3efd7a0baf0344a6d90a1bc0845d20/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/cd/65/cd6577af41662e3ae9f6fbda441df693/cd6577af41662e3ae9f6fbda441df693.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/2a/2ab0e13fdd464bae23b735bccfa8c177/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/9c5dc7f07f1b7c72f70e77a11caf5a9c2b478d55602c862a543e28dc3091fbeb8e906bb6c519859ea7983ab8bc288868884165866f15f985b9fd1b9832ffd7adf231b4dc65b5c92e0812e011b5bdf67eac04237c837fb26da50b4acba0e4ac036e951fca0ffd1b63b748da48d411742aed3efd7a0baf0344a6d90a1bc0845d20/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www026.vipanicdn.net/streamhls/2ae97c683104b116181a0a77ee1bf83b/ep.1.1677686312.m3u8"
@@ -46,9 +34,15 @@
         "downloadLink": {
             "SUBBED": "MTAzNTI1"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/cd/65/cd6577af41662e3ae9f6fbda441df693/cd6577af41662e3ae9f6fbda441df693.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/2a/2ab0e13fdd464bae23b735bccfa8c177/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

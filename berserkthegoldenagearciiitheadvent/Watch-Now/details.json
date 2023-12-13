@@ -1,38 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/3e9eacc8e992c85289009a433583dbe2ab12ff51cfcf261b1ca34aefe710c5ffc7452b868c9bd9fac8a752ecef5479ee60442046e6c5a00466e657a897b7e0141fa3f6376d20525cd9c4e0e441912e64d77fb47e964f0d5903bf0e73013f3de6ff9aeb7d9d23246c8facccbf15ed310e25b4e322f5ab7169701451a90c8828f1/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=berserk-ougon-jidaihen-iii-kourin-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/3e9eacc8e992c85289009a433583dbe2ab12ff51cfcf261b1ca34aefe710c5ffc7452b868c9bd9fac8a752ecef5479ee60442046e6c5a00466e657a897b7e0141fa3f6376d20525cd9c4e0e441912e64d77fb47e964f0d5903bf0e73013f3de6ff9aeb7d9d23246c8facccbf15ed310e25b4e322f5ab7169701451a90c8828f1/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/97/97723f16987194e5383f46a04b56e0dc/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/2a910dbaaff59bd6eda5e8f271cc320b4e2f938446ae5603462e081da08616d9ed8d61fa84f524b579b41696b36591ae2bbbe280a0afa85b1606b65c884644cc65e065e9a8e2fe417b6a72bfbed7f691f519cb626a31ed66d2420fc62f0d0d073873883f34d6776c36ac5110909be3adbf83b444f8d98ad32d562c296263d6bd/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/f8/0b/f80bfafea62f5950458c2f7cb67917ed/f80bfafea62f5950458c2f7cb67917ed.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/97/97723f16987194e5383f46a04b56e0dc/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/2a910dbaaff59bd6eda5e8f271cc320b4e2f938446ae5603462e081da08616d9ed8d61fa84f524b579b41696b36591ae2bbbe280a0afa85b1606b65c884644cc65e065e9a8e2fe417b6a72bfbed7f691f519cb626a31ed66d2420fc62f0d0d073873883f34d6776c36ac5110909be3adbf83b444f8d98ad32d562c296263d6bd/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www029.vipanicdn.net/streamhls/a03470cfebd7c15450fff8cff3a06ee6/ep.1.1677662455.m3u8"
@@ -46,9 +34,15 @@
         "downloadLink": {
             "SUBBED": "NDA0Mzg="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/f8/0b/f80bfafea62f5950458c2f7cb67917ed/f80bfafea62f5950458c2f7cb67917ed.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/97/97723f16987194e5383f46a04b56e0dc/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

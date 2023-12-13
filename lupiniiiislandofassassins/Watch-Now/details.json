@@ -1,42 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/02e88afab5ee51aef1b5c4211ca894bbce658302b772640064f192bcc3247cef8078b63391e0573944301b71efcf8e2f9c895da610f114da361d59f81f0f7d20d797514a0b0bc0cc182bcbcc7b5924f34bb2e40fb787331613abe13c660cb52fab171dd63a0c8a07b003e672826cd852c230d9b9dda8d39a7c4114e3f0c30d35/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=lupin-iii-walther-p38-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/02e88afab5ee51aef1b5c4211ca894bbce658302b772640064f192bcc3247cef8078b63391e0573944301b71efcf8e2f9c895da610f114da361d59f81f0f7d20d797514a0b0bc0cc182bcbcc7b5924f34bb2e40fb787331613abe13c660cb52fab171dd63a0c8a07b003e672826cd852c230d9b9dda8d39a7c4114e3f0c30d35/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/fd/fde553206939038996cc6f1f3e464b89/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/b57f06480671b18cf6075d456764553864d41c360e06cd0983c616709d1eeed96f13bdde70bc2a3ad9c13414e25919a50c81bdfc15d616e490aeee4311931679cc15aa19067c84c09bc7bd82f5c2806fdaf1930769c577af15b8093cdce4153a89bf79192715a8e14787a04681aae393465bfa514376e029eeef3228aa1baa23/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/57/09/57095076045cd1e1a178c3e9414566ee/eng-3.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/57/09/57095076045cd1e1a178c3e9414566ee/ita-6.vtt",
-                            "lang": "Italian - Dialoghi"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/fd/fde553206939038996cc6f1f3e464b89/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/b57f06480671b18cf6075d456764553864d41c360e06cd0983c616709d1eeed96f13bdde70bc2a3ad9c13414e25919a50c81bdfc15d616e490aeee4311931679cc15aa19067c84c09bc7bd82f5c2806fdaf1930769c577af15b8093cdce4153a89bf79192715a8e14787a04681aae393465bfa514376e029eeef3228aa1baa23/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www013.vipanicdn.net/streamhls/7aa16d64be94b9bb1b285b79fd34ddaf/ep.1.1677696619.m3u8"
@@ -50,9 +34,19 @@
         "downloadLink": {
             "SUBBED": "MTQwMTEy"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/57/09/57095076045cd1e1a178c3e9414566ee/eng-3.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/57/09/57095076045cd1e1a178c3e9414566ee/ita-6.vtt",
+                "lang": "Italian - Dialoghi"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/fd/fde553206939038996cc6f1f3e464b89/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

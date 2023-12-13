@@ -1,58 +1,24 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/707c11af5921e39f0160ed266ae70c9731d4078f05e938b39d04dc401e7e19c675f87aa0204f7c636c68dea6a9a84644f1fc61e4172e3f770e6e883fc739ea4c8e6c2ef31b3f3f2a41bc5ed9d93a82d024c4518b70f543ed31cef07549803fbd147db40db8e45caf9e3cd140ad8f6f4d24adc15e014905d5a222e16c5448e1d0/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www002.vipanicdn.net/streamhls/3b9244dd66df9c965ee5d79e0e305c32/ep.1.1677598391.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=youjo-senki-movie-episode-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/707c11af5921e39f0160ed266ae70c9731d4078f05e938b39d04dc401e7e19c675f87aa0204f7c636c68dea6a9a84644f1fc61e4172e3f770e6e883fc739ea4c8e6c2ef31b3f3f2a41bc5ed9d93a82d024c4518b70f543ed31cef07549803fbd147db40db8e45caf9e3cd140ad8f6f4d24adc15e014905d5a222e16c5448e1d0/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/fe/16/fe16e10db0fc16d6d43b33e43b1b2b00/ara-9.vtt",
-                            "lang": "Arabic"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/fe/16/fe16e10db0fc16d6d43b33e43b1b2b00/eng-3.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/fe/16/fe16e10db0fc16d6d43b33e43b1b2b00/fre-2.vtt",
-                            "lang": "French"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/fe/16/fe16e10db0fc16d6d43b33e43b1b2b00/ita-4.vtt",
-                            "lang": "Italian"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/fe/16/fe16e10db0fc16d6d43b33e43b1b2b00/por-6.vtt",
-                            "lang": "Portuguese - Brazilian Portuguese"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/fe/16/fe16e10db0fc16d6d43b33e43b1b2b00/rus-5.vtt",
-                            "lang": "Russian"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/fe/16/fe16e10db0fc16d6d43b33e43b1b2b00/spa-8.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/fe/16/fe16e10db0fc16d6d43b33e43b1b2b00/spa-7.vtt",
-                            "lang": "Spanish - Spanish[LAT]"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/0b/0bfbc799ca04419191f1fb8b3681b4e3/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -60,9 +26,43 @@
         "downloadLink": {
             "SUBBED": "MTI4MTkx"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/fe/16/fe16e10db0fc16d6d43b33e43b1b2b00/ara-9.vtt",
+                "lang": "Arabic"
+            },
+            {
+                "url": "https://ccb.megaresources.co/fe/16/fe16e10db0fc16d6d43b33e43b1b2b00/eng-3.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/fe/16/fe16e10db0fc16d6d43b33e43b1b2b00/fre-2.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/fe/16/fe16e10db0fc16d6d43b33e43b1b2b00/ita-4.vtt",
+                "lang": "Italian"
+            },
+            {
+                "url": "https://ccb.megaresources.co/fe/16/fe16e10db0fc16d6d43b33e43b1b2b00/por-6.vtt",
+                "lang": "Portuguese - Brazilian Portuguese"
+            },
+            {
+                "url": "https://ccb.megaresources.co/fe/16/fe16e10db0fc16d6d43b33e43b1b2b00/rus-5.vtt",
+                "lang": "Russian"
+            },
+            {
+                "url": "https://ccb.megaresources.co/fe/16/fe16e10db0fc16d6d43b33e43b1b2b00/spa-8.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/fe/16/fe16e10db0fc16d6d43b33e43b1b2b00/spa-7.vtt",
+                "lang": "Spanish - Spanish[LAT]"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/0b/0bfbc799ca04419191f1fb8b3681b4e3/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

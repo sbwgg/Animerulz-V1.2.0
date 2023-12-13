@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/751ebbf01b2ea02f4447ced0f13f4cc66fbc1ea7cbb5b1e3303f3c34ab6c984e8ec86a013b760d777f8fd793ff8299b6e66d42c498ef11b3bb47abb058c55e34594c6ba50c6f679849688924aabb603709bbb9ec37078aa8a36c84a3336ff7c74e792950df3e983ec2fb18e50ab1348a3848164aca38eacd7c171031bf4e2486/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www044.vipanicdn.net/streamhls/d1e0ff29a5b2afa25d70db21b5d433a8/ep.1.1677852257.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=sekirei-hajimete-no-otsukai-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/751ebbf01b2ea02f4447ced0f13f4cc66fbc1ea7cbb5b1e3303f3c34ab6c984e8ec86a013b760d777f8fd793ff8299b6e66d42c498ef11b3bb47abb058c55e34594c6ba50c6f679849688924aabb603709bbb9ec37078aa8a36c84a3336ff7c74e792950df3e983ec2fb18e50ab1348a3848164aca38eacd7c171031bf4e2486/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/32/321f02bc59c3a93b661101e54303082f/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/d55000ca59f2c3613d4f60f28b7180361125963bcd7c22f74eec58c31e7150fd6af1865946b1087878d798b8b04ba7da0d1819c9e4171008c6ba80b2905cd85211a3d24c3dda8de23fd982ce2f5e1205356acf92b3b9b0c9574686470dc52180605de22f9a342f1a372d60b274ab36af1e8ead7174c37e2f9931eeb122a0c6d7/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/79/54/79543cd0a6d22084051aebba52aba3e2/79543cd0a6d22084051aebba52aba3e2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/32/321f02bc59c3a93b661101e54303082f/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/d55000ca59f2c3613d4f60f28b7180361125963bcd7c22f74eec58c31e7150fd6af1865946b1087878d798b8b04ba7da0d1819c9e4171008c6ba80b2905cd85211a3d24c3dda8de23fd982ce2f5e1205356acf92b3b9b0c9574686470dc52180605de22f9a342f1a372d60b274ab36af1e8ead7174c37e2f9931eeb122a0c6d7/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www003.vipanicdn.net/streamhls/7e266ae6fd3bc24c415561c4b5839e6c/ep.1.1677598622.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "MTcwODUz",
             "SUBBED": "MTcwODUy"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/79/54/79543cd0a6d22084051aebba52aba3e2/79543cd0a6d22084051aebba52aba3e2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/32/321f02bc59c3a93b661101e54303082f/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/afef17b2277aa0b6f9c4d59e8adb2239da0169342ca9d596f96633dc52e037ecf67f221431ac6c396f659708b64e26b93e9e7aa38e479b637a5d13f0a40fb341445b0a9b681adea7db714ceaf537814442583dcb78209d19051ae9369772beca4d5a3b17c81178cc3f47c1bea076dac1b323f981b6f7fe55445af93eff94049a/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www036.vipanicdn.net/streamhls/864ed2986c3c50de4bf67cf0814d1da2/ep.1.1677826839.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=is-infinite-stratos-2-hitonatsu-no-omoide-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/afef17b2277aa0b6f9c4d59e8adb2239da0169342ca9d596f96633dc52e037ecf67f221431ac6c396f659708b64e26b93e9e7aa38e479b637a5d13f0a40fb341445b0a9b681adea7db714ceaf537814442583dcb78209d19051ae9369772beca4d5a3b17c81178cc3f47c1bea076dac1b323f981b6f7fe55445af93eff94049a/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/31/31e2b674ad9c5d3a19dd072a93bcf61b/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/367d82caf89ffb062f8f35841b28fe16140907998e9509978a6a05f2df71e5393efddf2602490a5d4a5dba3d097d4f5e1a175e76f2000f0b328c2f6ba28d647c3fd1475e2a6e0758881504c5af4baaaf9daf43e01b96cea100028e0b1f6e9c8e5ee3ea65467af0114f2851975c3e13d4b96a81333b1108304cfd33bfb69a3476/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/0e/a0/0ea0f44eaaaac6e2f5a9959052bc1ce2/0ea0f44eaaaac6e2f5a9959052bc1ce2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/31/31e2b674ad9c5d3a19dd072a93bcf61b/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/367d82caf89ffb062f8f35841b28fe16140907998e9509978a6a05f2df71e5393efddf2602490a5d4a5dba3d097d4f5e1a175e76f2000f0b328c2f6ba28d647c3fd1475e2a6e0758881504c5af4baaaf9daf43e01b96cea100028e0b1f6e9c8e5ee3ea65467af0114f2851975c3e13d4b96a81333b1108304cfd33bfb69a3476/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www003.vipanicdn.net/streamhls/a2b347924102b13995e0b47e4b461499/ep.1.1677613440.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "MTc2Mjg1",
             "SUBBED": "NDA2ODI="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/0e/a0/0ea0f44eaaaac6e2f5a9959052bc1ce2/0ea0f44eaaaac6e2f5a9959052bc1ce2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/31/31e2b674ad9c5d3a19dd072a93bcf61b/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

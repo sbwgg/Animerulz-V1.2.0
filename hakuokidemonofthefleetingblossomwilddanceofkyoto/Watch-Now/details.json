@@ -1,45 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/cc458ff70c31f3fc401a0f0e363d1025a329e4b6ea97c772da97127de5c56d88d70597c31f868bbcdb785458f336787cc5837fd691b70edfdec6ebd6c814c341b9f9928aff680a217b55ab93e7467508f992eb4acdd926833be72dc6e35829fb062c52d5af42f38ccdce9d17fd4b3c65e0fe579fe91c66dd6459a99444149b22/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www002.vipanicdn.net/streamhls/f810a780059fbf2bfda695fa34ca03d0/ep.1.1677682114.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=hakuouki-movie-1-kyoto-ranbu-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/cc458ff70c31f3fc401a0f0e363d1025a329e4b6ea97c772da97127de5c56d88d70597c31f868bbcdb785458f336787cc5837fd691b70edfdec6ebd6c814c341b9f9928aff680a217b55ab93e7467508f992eb4acdd926833be72dc6e35829fb062c52d5af42f38ccdce9d17fd4b3c65e0fe579fe91c66dd6459a99444149b22/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/0d/0da3e95e128520dfaad6a304d62b0f28/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/8be330ddff4627c9fb79b43e62eda169ba5a9e6463ca8acf06558b8e381d911a0ae38667ce1d78656afab8eb1918e930c55ca998661cc4f162e2a3a31f2ceb8ee282a1f7ff5532d613246cca6d3a6993467db9409f26069cf795f4950c8bc0d37edf4124f80b1ac355a99e6decdbbbf61a3db16e0bd8b118b344212df8ed5675/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/74/0b/740b412db3ea1fad1807d00e3eac227d/ara-5.vtt",
-                            "lang": "Arabic"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/74/0b/740b412db3ea1fad1807d00e3eac227d/eng-6.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/0d/0da3e95e128520dfaad6a304d62b0f28/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/8be330ddff4627c9fb79b43e62eda169ba5a9e6463ca8acf06558b8e381d911a0ae38667ce1d78656afab8eb1918e930c55ca998661cc4f162e2a3a31f2ceb8ee282a1f7ff5532d613246cca6d3a6993467db9409f26069cf795f4950c8bc0d37edf4124f80b1ac355a99e6decdbbbf61a3db16e0bd8b118b344212df8ed5675/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www024.vipanicdn.net/streamhls/4ffa7ca67a88869ef3dc3e9b1358acb7/ep.1.1677667073.m3u8"
@@ -54,9 +38,19 @@
             "DUBBED": "MTA3MTkx",
             "SUBBED": "NDk3MzM="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/74/0b/740b412db3ea1fad1807d00e3eac227d/ara-5.vtt",
+                "lang": "Arabic"
+            },
+            {
+                "url": "https://ccb.megaresources.co/74/0b/740b412db3ea1fad1807d00e3eac227d/eng-6.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/0d/0da3e95e128520dfaad6a304d62b0f28/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

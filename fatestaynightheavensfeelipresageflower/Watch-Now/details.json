@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/5795a82d1143bcf44d046754f80122e9e546290580606b947cdf7dcdaaf905e5e2efcac49d6bd2e1663dc7e66a73ddff6ccd03f34f1222acf01c361f2f288789aac97d9be2d495725ddd49c67569702bb35bdc22b6c56ebcd00dbac4a683b8e628fcd7fd9eb0a8e6bec948152da84240296ef13b283875d43ee4b41418200dee/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www029.vipanicdn.net/streamhls/b90a239d9d261709fd5f10edb1ff53b9/ep.1.1677697662.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=fatestay-night-movie-heavens-feel-i-presage-flower-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/5795a82d1143bcf44d046754f80122e9e546290580606b947cdf7dcdaaf905e5e2efcac49d6bd2e1663dc7e66a73ddff6ccd03f34f1222acf01c361f2f288789aac97d9be2d495725ddd49c67569702bb35bdc22b6c56ebcd00dbac4a683b8e628fcd7fd9eb0a8e6bec948152da84240296ef13b283875d43ee4b41418200dee/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/4d/4d8726f4bf2286c9667240081dc161b9/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/c680162e60dc55b836b1714df286f8ed5ca15f0c35f9d14bed5a40085e78e96ad884606530a45e6860a252deeccc735d6611c3a7d0e2771c68a19f1a879230aaf521661f0cf83429d67b8eab7bd999322e8d071870a9d5d5ddd3409dfa14759ecf561ea12545ea64f48041a869658812eefa4f17a8a750c89b759a3f764d7a0c/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/5d/bf/5dbfa7c744975f1805f11b5bbd275449/5dbfa7c744975f1805f11b5bbd275449.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/4d/4d8726f4bf2286c9667240081dc161b9/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/c680162e60dc55b836b1714df286f8ed5ca15f0c35f9d14bed5a40085e78e96ad884606530a45e6860a252deeccc735d6611c3a7d0e2771c68a19f1a879230aaf521661f0cf83429d67b8eab7bd999322e8d071870a9d5d5ddd3409dfa14759ecf561ea12545ea64f48041a869658812eefa4f17a8a750c89b759a3f764d7a0c/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www028.vipanicdn.net/streamhls/69aeb1626c1587661074b6418629a01e/ep.1.1677685946.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "MTMzMTY4",
             "SUBBED": "MTA1NDc3"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/5d/bf/5dbfa7c744975f1805f11b5bbd275449/5dbfa7c744975f1805f11b5bbd275449.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/4d/4d8726f4bf2286c9667240081dc161b9/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

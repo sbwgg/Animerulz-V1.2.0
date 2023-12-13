@@ -19,41 +19,29 @@
     },
     "2": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/353075f1dfaf585e238e416bf197301dbca8a4644ec97beb15d2ee1e14876440581e5a4e1bb4ab3687a95b5193f4f988015b471d18da45f277134700db774021415a6f383088f8c75a83d25ab22341753d627e1680becd14c13b08b93f1462d19a897aaf1a0781830112e0075c426fa809395cd984f300d27c0ec246f4b821f3/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www048.vipanicdn.net/streamhls/d22e8344711a430a845284e7a3fb92ef/ep.1.1680278969.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=psycho-pass-sinners-of-the-system-case-2-first-guardian-episode-dub-2"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/353075f1dfaf585e238e416bf197301dbca8a4644ec97beb15d2ee1e14876440581e5a4e1bb4ab3687a95b5193f4f988015b471d18da45f277134700db774021415a6f383088f8c75a83d25ab22341753d627e1680becd14c13b08b93f1462d19a897aaf1a0781830112e0075c426fa809395cd984f300d27c0ec246f4b821f3/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/74/74d7caa1f62ea27c163d3274544d4180/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/4027d6a3b719b664d7136583200e00eb562feb9d95b010af4fb41118b8efce73b55387963ed310cb7df2bb9884edebcccecce9d26f74578930ba1dcd13106e79a5526184ea71aca33ec80cf4fd5264d85de27b75bfee41a75550c9313c4406711a61dafef79e08f1ef354f60f20bcfe06b6638c8a008157569faeff768f96eca/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/09/a8/09a88d4523495557f74d2a1b40dd969f/09a88d4523495557f74d2a1b40dd969f.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/74/74d7caa1f62ea27c163d3274544d4180/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/4027d6a3b719b664d7136583200e00eb562feb9d95b010af4fb41118b8efce73b55387963ed310cb7df2bb9884edebcccecce9d26f74578930ba1dcd13106e79a5526184ea71aca33ec80cf4fd5264d85de27b75bfee41a75550c9313c4406711a61dafef79e08f1ef354f60f20bcfe06b6638c8a008157569faeff768f96eca/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www023.vipanicdn.net/streamhls/397989cc4978cdf61a6e25aae6307147/ep.1.1677806213.m3u8"
@@ -68,9 +56,15 @@
             "DUBBED": "MjAxOTU3",
             "SUBBED": "MTM5Njcy"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/09/a8/09a88d4523495557f74d2a1b40dd969f/09a88d4523495557f74d2a1b40dd969f.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/74/74d7caa1f62ea27c163d3274544d4180/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

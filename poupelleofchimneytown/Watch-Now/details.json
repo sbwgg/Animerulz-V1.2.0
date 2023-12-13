@@ -1,26 +1,24 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/2f59f9b626d9264d1b7fe865110e194051a8cae3310a85a0e4bc94ccf056e160c63d7ba8b6a6deb677a5a15614905fb1fbb5a7d5f2da3a9884bf63c361cda08879e33f3acb78ca8a8717138acc8580b7a452e801cb96da3657c8eb393d8348071ebc0ad5ced74d406f55d43a8a32ef72167bccc0b3b5deec8a1c19a09ffaa5d3/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www047.vipanicdn.net/streamhls/031d524820b349a77a2eba3dbc72a86e/ep.1.1696396091.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=entotsu-machi-no-poupelle-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/2f59f9b626d9264d1b7fe865110e194051a8cae3310a85a0e4bc94ccf056e160c63d7ba8b6a6deb677a5a15614905fb1fbb5a7d5f2da3a9884bf63c361cda08879e33f3acb78ca8a8717138acc8580b7a452e801cb96da3657c8eb393d8348071ebc0ad5ced74d406f55d43a8a32ef72167bccc0b3b5deec8a1c19a09ffaa5d3/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/78/7836b773473b6d6d58d8be408d7aa699/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
@@ -37,9 +35,11 @@
             "DUBBED": "MTkzMjI2",
             "SUBBED": "MTkzMjI3"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/78/7836b773473b6d6d58d8be408d7aa699/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

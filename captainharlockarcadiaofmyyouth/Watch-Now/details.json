@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/ff6efb7d22df0576d356ea564223099a59dcf201409116c2e04ac12d427017a861dd3a701a360b4143ff05d58b6e64297c7cef4c680d0e5a381d380ec1a31995e813e826a962b2b9403f392cd204bc4e86998ce4f7d43e9b97ba989042badd20f68047ad3a66430e31aaaea78cd0b3fd9d95e2d8d24479d5abba64b07dc7c6cf/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www021.vipanicdn.net/streamhls/365a0da997d72ef6a4537650e91f1809/ep.1.1677689409.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=waga-seishun-no-arcadia-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/ff6efb7d22df0576d356ea564223099a59dcf201409116c2e04ac12d427017a861dd3a701a360b4143ff05d58b6e64297c7cef4c680d0e5a381d380ec1a31995e813e826a962b2b9403f392cd204bc4e86998ce4f7d43e9b97ba989042badd20f68047ad3a66430e31aaaea78cd0b3fd9d95e2d8d24479d5abba64b07dc7c6cf/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/78/78cb5b4d476abbcfc758c272137feba1/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/3eea55807eab11a9441b3e9a27ce72294fc8de729e72a3da412f762de8be2b89f57a871a6adfc237796b597d85f53de185a957f12b2515aa0624becf6c30c8cd499aa9c13582579a672b7e19065fd763ab5a4daafe60eb908dbbe2836334da46e23797d63726bd9aad338f755674508af8cc948f932ac3d3522e936dbb6f6d72/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/34/8d/348d233e0cb08b7a083ce92094fc277a/348d233e0cb08b7a083ce92094fc277a.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/78/78cb5b4d476abbcfc758c272137feba1/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/3eea55807eab11a9441b3e9a27ce72294fc8de729e72a3da412f762de8be2b89f57a871a6adfc237796b597d85f53de185a957f12b2515aa0624becf6c30c8cd499aa9c13582579a672b7e19065fd763ab5a4daafe60eb908dbbe2836334da46e23797d63726bd9aad338f755674508af8cc948f932ac3d3522e936dbb6f6d72/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www017.vipanicdn.net/streamhls/b11e6d2ad97f1f9fa27aa48a9d06f8c8/ep.1.1677689966.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "MTE3NjIw",
             "SUBBED": "MTEzNDE2"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/34/8d/348d233e0cb08b7a083ce92094fc277a/348d233e0cb08b7a083ce92094fc277a.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/78/78cb5b4d476abbcfc758c272137feba1/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

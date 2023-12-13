@@ -1,47 +1,35 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/49ae5231e85abb49d5ea28dd06a8f12367f22af2a30d3e97703e85c7bd4684b062937e05d743ae6e97c688198dc5101d31a5ccd44ad3dc56a983ba7b77c549c9d46e9e27337537e6aef20ebf76bfd59530cbe5c2f640200de9979a67c75ba9f154fd8c539568f0d06fd65d1c99618ea1227c4f0f548d7b87ff28f90e6ce3c90c/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www047.vipanicdn.net/streamhls/89dfca5740076e2cdeccf963145c97e1/ep.1.1677853848.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=one-piece-film-gold-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/49ae5231e85abb49d5ea28dd06a8f12367f22af2a30d3e97703e85c7bd4684b062937e05d743ae6e97c688198dc5101d31a5ccd44ad3dc56a983ba7b77c549c9d46e9e27337537e6aef20ebf76bfd59530cbe5c2f640200de9979a67c75ba9f154fd8c539568f0d06fd65d1c99618ea1227c4f0f548d7b87ff28f90e6ce3c90c/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/39/39e23159418ff90d024f3f3c4348bf17/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/a3cee16921eaec0ad8bf8335886ed77b097addcfc5097c7964ec330880ea20b3bac0e0ef9fdfa8f12208b77602daf4eced5893928385d24a9eea0b460444ff43406eca8be5da6c0094be199b9cdd513ae833fe2c3327314d701f6029eec97bd04bfaaeefe52830ec2d4be0a658fe8df1df50c6bdeaae63535eae20285bcac321/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www006.vipanicdn.net/streamhls/867502dff713a8cd426fa20b5a39b345/ep.1.1677593338.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=one-piece-film-gold-episode-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/a3cee16921eaec0ad8bf8335886ed77b097addcfc5097c7964ec330880ea20b3bac0e0ef9fdfa8f12208b77602daf4eced5893928385d24a9eea0b460444ff43406eca8be5da6c0094be199b9cdd513ae833fe2c3327314d701f6029eec97bd04bfaaeefe52830ec2d4be0a658fe8df1df50c6bdeaae63535eae20285bcac321/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/a8/6e/a86e6e9e8b402d3078341eeb91d1aa9d/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/39/39e23159418ff90d024f3f3c4348bf17/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -50,9 +38,15 @@
             "DUBBED": "MTYzNjM2",
             "SUBBED": "OTIzMTU="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/a8/6e/a86e6e9e8b402d3078341eeb91d1aa9d/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/39/39e23159418ff90d024f3f3c4348bf17/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

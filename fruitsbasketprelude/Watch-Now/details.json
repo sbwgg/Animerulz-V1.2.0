@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/b166087a12b02bedc6a3096b644e98ab51adfb36310be22c3792adf96715ad41a265295abd678449fc43b44011c176844d614405a2df646a83f6df92b7ed8ad3eca11a0211f433a2e91f0d8f0b28ef63292e656f0f43757061dafe7b7c725d70074977e855bd033351b381ea9cd8114f4fcb3866bab1b412dac1f0cb27138551/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www014.vipanicdn.net/streamhls/52d35e9d6098ac6d05f3a731ad9b10f1/ep.1.1677632519.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=fruits-basket-prelude-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/b166087a12b02bedc6a3096b644e98ab51adfb36310be22c3792adf96715ad41a265295abd678449fc43b44011c176844d614405a2df646a83f6df92b7ed8ad3eca11a0211f433a2e91f0d8f0b28ef63292e656f0f43757061dafe7b7c725d70074977e855bd033351b381ea9cd8114f4fcb3866bab1b412dac1f0cb27138551/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/2b/2be03891c5094aa072583bf9e80be8df/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/0eb6462961d8ac52f4bb49b9caaf9344df4bc0d3d57ec271c4809630a91b3bda821d396228a204a94657d17c75df6b11747fa2cf70ff3d89b1446bf4afdc75615be841a619874ea4f960480e45b598796c310a1f8ba8ab07747f5a75bd9adb9e9d60d3b0142808783d5ab9964354230ed187b0d9e1d489fe306c3bb7653f6c86/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/aa/a1/aaa1f16d46cb617f939c3ae5018ec621/aaa1f16d46cb617f939c3ae5018ec621.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/2b/2be03891c5094aa072583bf9e80be8df/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/0eb6462961d8ac52f4bb49b9caaf9344df4bc0d3d57ec271c4809630a91b3bda821d396228a204a94657d17c75df6b11747fa2cf70ff3d89b1446bf4afdc75615be841a619874ea4f960480e45b598796c310a1f8ba8ab07747f5a75bd9adb9e9d60d3b0142808783d5ab9964354230ed187b0d9e1d489fe306c3bb7653f6c86/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www007.vipanicdn.net/streamhls/ded93b1c5440189a59d62dac1ab84c5c/ep.1.1677596228.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "MTkzMzYz",
             "SUBBED": "MTg2MjQ2"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/aa/a1/aaa1f16d46cb617f939c3ae5018ec621/aaa1f16d46cb617f939c3ae5018ec621.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/2b/2be03891c5094aa072583bf9e80be8df/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

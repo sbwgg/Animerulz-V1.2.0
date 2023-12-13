@@ -1,24 +1,18 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "OVA",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/0d850b75ebdf7109bd9aa300e2328e13ae44beb2017c50c0749ce6e5fb024834f4607c20ed2f1dc5e67328b2009f072e70a58b88456c3ee11f40b848cf16aef0677384ec95db22fd8aab7261cf266f58a2ba62257695b62661ee9de939c33582643c09319e24cab61d7c1aaa136cbddd801ee3fa55cea4ed03b45d80979f0d56/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/b2/38/b238bb11160378d96f8beb60b35b94ff/b238bb11160378d96f8beb60b35b94ff.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/d5/d5507140d01a9a16099177d224a5871c/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/0d850b75ebdf7109bd9aa300e2328e13ae44beb2017c50c0749ce6e5fb024834f4607c20ed2f1dc5e67328b2009f072e70a58b88456c3ee11f40b848cf16aef0677384ec95db22fd8aab7261cf266f58a2ba62257695b62661ee9de939c33582643c09319e24cab61d7c1aaa136cbddd801ee3fa55cea4ed03b45d80979f0d56/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www047.vipanicdn.net/streamhls/7ccf68d431e98a1c18deef9e4f24ec26/ep.1.1696411018.m3u8"
@@ -32,9 +26,15 @@
         "downloadLink": {
             "SUBBED": "MTYzODg2"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/b2/38/b238bb11160378d96f8beb60b35b94ff/b238bb11160378d96f8beb60b35b94ff.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/d5/d5507140d01a9a16099177d224a5871c/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

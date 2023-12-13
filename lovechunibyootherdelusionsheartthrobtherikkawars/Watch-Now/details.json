@@ -1,23 +1,21 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/0e768bc30cbbe76a101e9ce55d284622b99b9ce6e564cd3a06f0fe6553133126031df175039859677be88b167d164a503a2fd2a3be69eb6bf66751e87231e956ddb8cc3b3dd25b450245a6b4312da0ce7b9a7dbeaaa8ffd4cbce2f467c43d906e3770dc201278a81571aeb20b525603c76f5172df7405bb83857d93e60d2e136/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=chuunibyou-demo-koi-ga-shitai-ren-saisei-no-the-rikka-wars-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/0e768bc30cbbe76a101e9ce55d284622b99b9ce6e564cd3a06f0fe6553133126031df175039859677be88b167d164a503a2fd2a3be69eb6bf66751e87231e956ddb8cc3b3dd25b450245a6b4312da0ce7b9a7dbeaaa8ffd4cbce2f467c43d906e3770dc201278a81571aeb20b525603c76f5172df7405bb83857d93e60d2e136/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/eb/ebb89d5dbb43d385add77bff7c4a5587/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
@@ -33,9 +31,11 @@
         "downloadLink": {
             "SUBBED": "NDcxMTA="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/eb/ebb89d5dbb43d385add77bff7c4a5587/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

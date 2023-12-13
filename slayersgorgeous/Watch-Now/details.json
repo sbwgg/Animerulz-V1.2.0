@@ -1,24 +1,18 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/11cb245668b345d999126030f4f165b5363710be5a3f80ddc78c1d5ffebcdaf88df38aa17405457d28963a815eaa3156b3b1ffd04287fe174e2b465f56eec1e96a4bfddc41e499da624dc3176145a1351c46b5a4efbda3e890ad1731df34d482f6813cae8d589b8a15b3f9236f9000ef0f129e8b93071a54855039d5533a15b7/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/e5/30/e530362ed580dc2bf75f1a340ad5410b/jpn-2.vtt",
-                            "lang": "Japanese - English Subs"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/07/0702f9155b73706c81382a0de3601cab/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/11cb245668b345d999126030f4f165b5363710be5a3f80ddc78c1d5ffebcdaf88df38aa17405457d28963a815eaa3156b3b1ffd04287fe174e2b465f56eec1e96a4bfddc41e499da624dc3176145a1351c46b5a4efbda3e890ad1731df34d482f6813cae8d589b8a15b3f9236f9000ef0f129e8b93071a54855039d5533a15b7/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www026.vipanicdn.net/streamhls/88aac29776cf2beffd4e42586db674d3/ep.1.1677705912.m3u8"
@@ -32,9 +26,15 @@
         "downloadLink": {
             "SUBBED": "MTQwMTI1"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/e5/30/e530362ed580dc2bf75f1a340ad5410b/jpn-2.vtt",
+                "lang": "Japanese - English Subs"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/07/0702f9155b73706c81382a0de3601cab/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

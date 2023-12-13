@@ -1,38 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/0b3a457dd71690ce79261479793134fc5f26d39610a9fcf6602433d1f9c9183ae24ddc55209f4d1e732b535b5f00ecf547ba02292601eb2bf92ce3d7afad5e74233fe6751c4724ba4d678cb08c4a0e6a2c0a9e09e6a38a4d1d21f54538a2730ab9a86e09cccef2bd716f943033f701384eb1421f797e11e10326d3cdbfd2c1c5/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=precure-all-stars-gogo-dream-live-2008-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/0b3a457dd71690ce79261479793134fc5f26d39610a9fcf6602433d1f9c9183ae24ddc55209f4d1e732b535b5f00ecf547ba02292601eb2bf92ce3d7afad5e74233fe6751c4724ba4d678cb08c4a0e6a2c0a9e09e6a38a4d1d21f54538a2730ab9a86e09cccef2bd716f943033f701384eb1421f797e11e10326d3cdbfd2c1c5/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/67/673ef5726b3f79cd2e52b2c78f46d24a/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/c8ab608b4b56c3ca9632c017329a161abcbd0fe48831a7b8888963c405779d7d2723f13ff130905a8aae1fd65e6c3b93df41ec8d8ba4a97ecaf3720c83964976f0b40d116f1ce96ede2d867be28c45df551dc4c4ce57e9879aa8da47ce7656a2d1411a36eab4aae72977e110354b3a74e543938705ca5334443b9d1806f33c68/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/ea/dc/eadc8be25a8ee13d9907ca358ad7d014/eng-3.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/67/673ef5726b3f79cd2e52b2c78f46d24a/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/c8ab608b4b56c3ca9632c017329a161abcbd0fe48831a7b8888963c405779d7d2723f13ff130905a8aae1fd65e6c3b93df41ec8d8ba4a97ecaf3720c83964976f0b40d116f1ce96ede2d867be28c45df551dc4c4ce57e9879aa8da47ce7656a2d1411a36eab4aae72977e110354b3a74e543938705ca5334443b9d1806f33c68/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www008.vipanicdn.net/streamhls/eefc3d9af8c37fccab2275e6f418c20d/ep.1.1677665666.m3u8"
@@ -46,9 +34,15 @@
         "downloadLink": {
             "SUBBED": "NDI5MDc="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/ea/dc/eadc8be25a8ee13d9907ca358ad7d014/eng-3.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/67/673ef5726b3f79cd2e52b2c78f46d24a/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

@@ -1,42 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Ghost in the Shell - Border:1 Ghost Pain",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/6f7a7b99df30320ee28d099552ba448dd72796fa2894c5d055733be1e41f66010090b6afc778ec5c20055a0f65266460bbfd23da0cef124906c7d47fa0848eb877b7e110e5e14418930c51a7c9c68c8c1a6ba82e979cd697d339c6fba7655af95dc97c76ebcfd68a964b64714ff4b87731c28aca6ab9346c07d1817c2a933a7d/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=ghost-in-the-shell-arise-border-1-ghost-pain-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/6f7a7b99df30320ee28d099552ba448dd72796fa2894c5d055733be1e41f66010090b6afc778ec5c20055a0f65266460bbfd23da0cef124906c7d47fa0848eb877b7e110e5e14418930c51a7c9c68c8c1a6ba82e979cd697d339c6fba7655af95dc97c76ebcfd68a964b64714ff4b87731c28aca6ab9346c07d1817c2a933a7d/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/b7/b75fd3588e62f894842ec2eaf7deea3d/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/dbcd9a61d419a9f5041e7fa72b9a68cb64270efdf25dec4d2c3ec0a93a8b66812091d10c068bc365d561cf8792a8e85c33dace197a4a6570f866a61d403de7329e1512750e57964cf5e1551d7ba432b80bb4296d55678f9ea301d6129ed893cdef7f123a9ea57142a33111c2bcf6f5375939b0e1876bfa9a4bcaa7e0277e20b5/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/cb/cc/cbcc4b88e115460cbc623c892919f22a/eng-3.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/cb/cc/cbcc4b88e115460cbc623c892919f22a/eng-4.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/b7/b75fd3588e62f894842ec2eaf7deea3d/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/dbcd9a61d419a9f5041e7fa72b9a68cb64270efdf25dec4d2c3ec0a93a8b66812091d10c068bc365d561cf8792a8e85c33dace197a4a6570f866a61d403de7329e1512750e57964cf5e1551d7ba432b80bb4296d55678f9ea301d6129ed893cdef7f123a9ea57142a33111c2bcf6f5375939b0e1876bfa9a4bcaa7e0277e20b5/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www022.vipanicdn.net/streamhls/9be5ca0d5f714e82719516002bb28c4b/ep.1.1677666086.m3u8"
@@ -50,9 +34,19 @@
         "downloadLink": {
             "SUBBED": "NDk4ODE="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/cb/cc/cbcc4b88e115460cbc623c892919f22a/eng-3.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/cb/cc/cbcc4b88e115460cbc623c892919f22a/eng-4.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/b7/b75fd3588e62f894842ec2eaf7deea3d/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Special",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/b1bca2c09fb4ef3e584753e021732f42d943bc6c0ae4bd3b57be4f3936e4beef93f40141a65189303f8ec91b0822ac1ee7cdbbeffe077642a7a863f84a9e8bc9f6f9caffab56e9941bddc600a2eb534b3c2db64d12bf0aeebc776feef7974031b7e6fc3547a5a683c995b9774c9f789bf971da59916e8c1b3acf355c2126d427/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www008.vipanicdn.net/streamhls/a5d8e7bf851ddfccf419d0821a10c594/ep.1.1677676583.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=inu-x-boku-ss-special-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/b1bca2c09fb4ef3e584753e021732f42d943bc6c0ae4bd3b57be4f3936e4beef93f40141a65189303f8ec91b0822ac1ee7cdbbeffe077642a7a863f84a9e8bc9f6f9caffab56e9941bddc600a2eb534b3c2db64d12bf0aeebc776feef7974031b7e6fc3547a5a683c995b9774c9f789bf971da59916e8c1b3acf355c2126d427/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/17/17ba7ac12179d2f502b938824af1ea6f/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/bd849caf89e27a10c446b7f46af76c25b64c1b5cdd47f9c26dc0518adc1de076407599d3f6b6783002febbc1f90ba7be47f9f0194634cafe526c094332aacda255b7e4b9f82a4967eecaa61b0b11e249d57da1acec0d73a99c78002906bcc6c2b22bf46eeeb5589b5b03c0c90154c84f4ff47874ceb18cef264424a93874dc3d/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/ca/19/ca1918e0e1f452c9cc8c21962f4ea80f/ca1918e0e1f452c9cc8c21962f4ea80f.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/17/17ba7ac12179d2f502b938824af1ea6f/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/bd849caf89e27a10c446b7f46af76c25b64c1b5cdd47f9c26dc0518adc1de076407599d3f6b6783002febbc1f90ba7be47f9f0194634cafe526c094332aacda255b7e4b9f82a4967eecaa61b0b11e249d57da1acec0d73a99c78002906bcc6c2b22bf46eeeb5589b5b03c0c90154c84f4ff47874ceb18cef264424a93874dc3d/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www022.vipanicdn.net/streamhls/a1452123a8d1a94824da87a33a65a13b/ep.1.1677634368.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "OTI4Mjc=",
             "SUBBED": "MjAzMzE="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/ca/19/ca1918e0e1f452c9cc8c21962f4ea80f/ca1918e0e1f452c9cc8c21962f4ea80f.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/17/17ba7ac12179d2f502b938824af1ea6f/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

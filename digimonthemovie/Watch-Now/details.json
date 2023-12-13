@@ -1,38 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/fce892932f0553d3463459eef89673e1d513f56d431a3e8b262e0f12671c7c15dff58ad4a3939bccdcef9c580fa76490669a2e7a94e772cf6a19dd0955952c390865d965145551dda5b607fe43b60c5a296f2caa80f16bcc17b86abd5c10ecb38966e589a1195b01302b65a1dabbfd4750b3e294ee2ed3419da30812fb495c58/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=-digimon-movie-2-our-war-game-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/fce892932f0553d3463459eef89673e1d513f56d431a3e8b262e0f12671c7c15dff58ad4a3939bccdcef9c580fa76490669a2e7a94e772cf6a19dd0955952c390865d965145551dda5b607fe43b60c5a296f2caa80f16bcc17b86abd5c10ecb38966e589a1195b01302b65a1dabbfd4750b3e294ee2ed3419da30812fb495c58/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/ea/ea3608a5ba11a8140ab4ca26b56f34c7/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/42ef3f878b1b123c077c341e71530bbb35a1768e263e3f4906c650409a34c6335a468360279f5e17b0a3f1a1c8954574d1030908cd879c9345f6398293c4bfa3791e037ea081fe5e98d3bb0c5463565aff33a705bfec090a78d114d286f1167adc34e4e8830bac24595c17ad71d7bff347eeba46640a5507454a512a857397cd/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/01/fd/01fd1eecd65c253e6aacf00c80a9a6bd/eng-3.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/ea/ea3608a5ba11a8140ab4ca26b56f34c7/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/42ef3f878b1b123c077c341e71530bbb35a1768e263e3f4906c650409a34c6335a468360279f5e17b0a3f1a1c8954574d1030908cd879c9345f6398293c4bfa3791e037ea081fe5e98d3bb0c5463565aff33a705bfec090a78d114d286f1167adc34e4e8830bac24595c17ad71d7bff347eeba46640a5507454a512a857397cd/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www047.vipanicdn.net/streamhls/3c559a043fac495d75084b389487353a/ep.1.1687857968.m3u8"
@@ -46,9 +34,15 @@
         "downloadLink": {
             "SUBBED": "NDI5NjY="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/01/fd/01fd1eecd65c253e6aacf00c80a9a6bd/eng-3.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/ea/ea3608a5ba11a8140ab4ca26b56f34c7/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

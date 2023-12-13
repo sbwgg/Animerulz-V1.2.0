@@ -1,38 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/297346c8903d6a355d2112f77c526e0d0e9123a2fc07bbd5963a8c4e1e7ecdb487a14d0c424589604bf98c931fff3f9d4a6e72a287f05a7e9adbe9c43682b354e88a271d9a7d10cd9c15f316dd4531ec57908429461265ffcf81494e13fcbee9c1860f34d1aa995183f9d2778c1032da772e7d925eaaa75f0a698b3da05df650/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=bleach-movie-3-fade-to-black-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/297346c8903d6a355d2112f77c526e0d0e9123a2fc07bbd5963a8c4e1e7ecdb487a14d0c424589604bf98c931fff3f9d4a6e72a287f05a7e9adbe9c43682b354e88a271d9a7d10cd9c15f316dd4531ec57908429461265ffcf81494e13fcbee9c1860f34d1aa995183f9d2778c1032da772e7d925eaaa75f0a698b3da05df650/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/d2/d2be21abe02ed7177ca4d31eb4afbed5/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/6415f2effa86bce52614739a58f5da4f4ecf0627afc8052f02f4d409f2d219718cec162ad4ecc16be547b2340fafe20554c74a08185483acad7e69d96d8174ac06964230ba4315a9c6d8339196b7213e0b373fd6f99d2fa1c24585b249c9b74a4b2309fd7e16120d1a056f33e69c3496132e612e5fcaff31858cb0906ea398f9/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/45/f6/45f6cd1048a4f5da4819e6f8901a0553/45f6cd1048a4f5da4819e6f8901a0553.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/d2/d2be21abe02ed7177ca4d31eb4afbed5/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/6415f2effa86bce52614739a58f5da4f4ecf0627afc8052f02f4d409f2d219718cec162ad4ecc16be547b2340fafe20554c74a08185483acad7e69d96d8174ac06964230ba4315a9c6d8339196b7213e0b373fd6f99d2fa1c24585b249c9b74a4b2309fd7e16120d1a056f33e69c3496132e612e5fcaff31858cb0906ea398f9/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www007.vipanicdn.net/streamhls/a993394e48fc18fbdf3bfa2f225de9fc/ep.1.1677605280.m3u8"
@@ -46,9 +34,15 @@
         "downloadLink": {
             "SUBBED": "NDA0NDY="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/45/f6/45f6cd1048a4f5da4819e6f8901a0553/45f6cd1048a4f5da4819e6f8901a0553.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/d2/d2be21abe02ed7177ca4d31eb4afbed5/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

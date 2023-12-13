@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/160de492826f56c763d44a2d4519e6bd581296c0f3067abc935176307336745cb63e64c9673a962f0b22a28ac0c12effe9b01ceea7d8cbd0d9da8067c01f93ef3fb918db07e875e19c574cce91355fbf6eed95be5c1c49835710d173b0e585a310435e3139cf61e87c3d9dfc6e141e6fcc0d66baa24b4be903c70d40fe9e2da0/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www047.vipanicdn.net/streamhls/70cf6b8679392627cf337a3667e2e382/ep.1.1696400827.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=arifureta-shokugyou-de-sekai-saikyou-2nd-season-special-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/160de492826f56c763d44a2d4519e6bd581296c0f3067abc935176307336745cb63e64c9673a962f0b22a28ac0c12effe9b01ceea7d8cbd0d9da8067c01f93ef3fb918db07e875e19c574cce91355fbf6eed95be5c1c49835710d173b0e585a310435e3139cf61e87c3d9dfc6e141e6fcc0d66baa24b4be903c70d40fe9e2da0/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/03/03532e835140d31259ecceaac263d12e/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/500f9a9461df40808673ad5f3b702ba53b3e2fd96d8e61f0155135401eb9f6c9b7b7478614712c3025461290dca9a265610b0606404291974e9fe8d2d35fd7ecb240b373f3f310ec3924b012321add26e90c7515241d06e6208d695bae6b604a001214917e9bc51b7baa2b11dc327357e7f4e2f71e0f0f951c93cd631497e07e/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/4a/20/4a208d40bb5283985687d3e069914672/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/03/03532e835140d31259ecceaac263d12e/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/500f9a9461df40808673ad5f3b702ba53b3e2fd96d8e61f0155135401eb9f6c9b7b7478614712c3025461290dca9a265610b0606404291974e9fe8d2d35fd7ecb240b373f3f310ec3924b012321add26e90c7515241d06e6208d695bae6b604a001214917e9bc51b7baa2b11dc327357e7f4e2f71e0f0f951c93cd631497e07e/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www006.vipanicdn.net/streamhls/c22e457da0d7244c547d19c0823c893b/ep.1.1677594397.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "MTg1MjQ2",
             "SUBBED": "MTg0MDI1"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/4a/20/4a208d40bb5283985687d3e069914672/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/03/03532e835140d31259ecceaac263d12e/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

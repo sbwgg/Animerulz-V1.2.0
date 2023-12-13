@@ -1,45 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/c220e0827005c4b93c7f82c047d725e7c75006dc95f2baae2e055414bc2b340dbea4fab4783abc85b265d5949b567f68a73fef17c720ca93740f2833ab69e9f79d5d00ef2c23312b83495c1d2a3c0cd74c98f0a153ea01a7f6f400ecc5124639b7be9df32259c942065aaabac6bd5ad3d229f6179758ffcba44b7b998605b08c/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www010.vipanicdn.net/streamhls/427be016b453836bd00bf5a47898573f/ep.1.1677667132.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=amefuri-kozou-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/c220e0827005c4b93c7f82c047d725e7c75006dc95f2baae2e055414bc2b340dbea4fab4783abc85b265d5949b567f68a73fef17c720ca93740f2833ab69e9f79d5d00ef2c23312b83495c1d2a3c0cd74c98f0a153ea01a7f6f400ecc5124639b7be9df32259c942065aaabac6bd5ad3d229f6179758ffcba44b7b998605b08c/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/b2/80/b2801598c4aa08fbf93fb6c9e389171b/b2801598c4aa08fbf93fb6c9e389171b.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/4a/4ae957eb397013bd7823995b844206f5/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/3e57f8d36ace7721ff08b80168485007563429e40b48317328525ca6a8ea3cb4d5e4d132b74a73dabb03f83711acda751f3e4a4e020f872057b58347d84c1a0faa48fda49a1654ccef66dd4b1f59c2f0676310e71c5a2f87ba80c1f65ddbec7dc120709dc192fadb5b0750dea8af0f87451372b7cbc5f71955224d760d6a337f/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/7a/f7/7af75dc4375b4ac6b35c6b4157f3243e/7af75dc4375b4ac6b35c6b4157f3243e.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/4a/4ae957eb397013bd7823995b844206f5/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/3e57f8d36ace7721ff08b80168485007563429e40b48317328525ca6a8ea3cb4d5e4d132b74a73dabb03f83711acda751f3e4a4e020f872057b58347d84c1a0faa48fda49a1654ccef66dd4b1f59c2f0676310e71c5a2f87ba80c1f65ddbec7dc120709dc192fadb5b0750dea8af0f87451372b7cbc5f71955224d760d6a337f/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www049.vipanicdn.net/streamhls/c8bdcdb65b889934eead26738399bf54/ep.1.1677858607.m3u8"
@@ -54,9 +38,15 @@
             "DUBBED": "ODIxNzk=",
             "SUBBED": "MTQ3OTk4"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/7a/f7/7af75dc4375b4ac6b35c6b4157f3243e/7af75dc4375b4ac6b35c6b4157f3243e.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/4a/4ae957eb397013bd7823995b844206f5/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

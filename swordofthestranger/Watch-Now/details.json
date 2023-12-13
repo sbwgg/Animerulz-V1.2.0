@@ -1,57 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/40f65f3a85482ac9cd5da1427515c2013897c9fc1962a190c50cc16fb8f70645292445f4f1e0e331227bb1bb470691f0b905826c27439c6ebbe282bb47cf5f8b35a83cea24c11de291499b07927283976efaa3369259d7f81c7dc96d8cad665b689aa93e2add902ecd2fe38e1a3b48173ca2a3a3a4309b349949487a3f0ae0c4/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www027.vipanicdn.net/streamhls/7dde98c048fab8ec5c065d2a2b1033da/ep.1.1677713649.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=sword-of-the-stranger-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/40f65f3a85482ac9cd5da1427515c2013897c9fc1962a190c50cc16fb8f70645292445f4f1e0e331227bb1bb470691f0b905826c27439c6ebbe282bb47cf5f8b35a83cea24c11de291499b07927283976efaa3369259d7f81c7dc96d8cad665b689aa93e2add902ecd2fe38e1a3b48173ca2a3a3a4309b349949487a3f0ae0c4/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/ac/acab91904e58d9d58f3a01dd04e5a782/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/be09c9a6ff2c65479c512f1f74a609e6a30632bf459775d843b0399f8a18107aaf038d5e52a7c72d604f2de9c578e9ddcae46c41b40f122303d86a411b2e5aebf55ef85730903c5ad66e505d05fbaea1765406f8311eec4f883d8031075b15e5f4ef7a91931d895773da9133b6ccbbe281c0255f8b2861904f2db8fe38c2a8f0/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/4c/58/4c5814dcf795d7091205d9e139baff0e/eng-5.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/4c/58/4c5814dcf795d7091205d9e139baff0e/ger-14.vtt",
-                            "lang": "German"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/4c/58/4c5814dcf795d7091205d9e139baff0e/hun-15.vtt",
-                            "lang": "Hungarian"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/4c/58/4c5814dcf795d7091205d9e139baff0e/ind-16.vtt",
-                            "lang": "Indonesian"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/4c/58/4c5814dcf795d7091205d9e139baff0e/per-17.vtt",
-                            "lang": "Persian"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/ac/acab91904e58d9d58f3a01dd04e5a782/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/be09c9a6ff2c65479c512f1f74a609e6a30632bf459775d843b0399f8a18107aaf038d5e52a7c72d604f2de9c578e9ddcae46c41b40f122303d86a411b2e5aebf55ef85730903c5ad66e505d05fbaea1765406f8311eec4f883d8031075b15e5f4ef7a91931d895773da9133b6ccbbe281c0255f8b2861904f2db8fe38c2a8f0/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www006.vipanicdn.net/streamhls/aefe6143340901e3ed9872d9772c6caa/ep.1.1677604318.m3u8"
@@ -66,9 +38,31 @@
             "DUBBED": "OTA2MjY=",
             "SUBBED": "NDA0MTU="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/4c/58/4c5814dcf795d7091205d9e139baff0e/eng-5.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/4c/58/4c5814dcf795d7091205d9e139baff0e/ger-14.vtt",
+                "lang": "German"
+            },
+            {
+                "url": "https://ccb.megaresources.co/4c/58/4c5814dcf795d7091205d9e139baff0e/hun-15.vtt",
+                "lang": "Hungarian"
+            },
+            {
+                "url": "https://ccb.megaresources.co/4c/58/4c5814dcf795d7091205d9e139baff0e/ind-16.vtt",
+                "lang": "Indonesian"
+            },
+            {
+                "url": "https://ccb.megaresources.co/4c/58/4c5814dcf795d7091205d9e139baff0e/per-17.vtt",
+                "lang": "Persian"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/ac/acab91904e58d9d58f3a01dd04e5a782/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

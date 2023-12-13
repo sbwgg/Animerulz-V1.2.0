@@ -1,51 +1,35 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/ee042bfe1f7ce84300df3933e312c0eb6580de560f9f9f4fbcef7433dc2bbdf746037f27cbf9f780bf6c278d63a3cd4c8e795eebc065d1f8872e1a57dc9c99d96e2554646d93317a7758b0fe7b5f82c64c86b1af9bc017b7b5c55ed4c27607b6b95e413c35f55ab65cf99b63b45265b270feaa118b703f6d94c9d8fb7480b96b/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www054.vipanicdn.net/streamhls/a57eca86ad2a4b8adc43c41c4c6eae18/ep.1.1682658978.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=5-toubun-no-hanayome-movie-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/ee042bfe1f7ce84300df3933e312c0eb6580de560f9f9f4fbcef7433dc2bbdf746037f27cbf9f780bf6c278d63a3cd4c8e795eebc065d1f8872e1a57dc9c99d96e2554646d93317a7758b0fe7b5f82c64c86b1af9bc017b7b5c55ed4c27607b6b95e413c35f55ab65cf99b63b45265b270feaa118b703f6d94c9d8fb7480b96b/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/77/62/7762afe4c4535b2816b09c0caeb42ea7/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/64/642da09f41d245b66e19b3010d1a5e2c/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/00729ddfaf9aa4383ad75980fcb065030ed45f190dd4fb154628a5647310b17c5bf53df59aa667539a1de3510ab1b79bbe8518da3417d8fbe6d15ccb87139329f4380ca83f7ef8d80ba378f972da4885764dd71db4ad8f6f3c22b4828f079d698bfd7f175a1f1b0c89dbba773c27c2e6b6a762d2646d06b3776297f95ceac36e/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www024.vipanicdn.net/streamhls/691ff63de976339878189302c2114c84/ep.1.1677611295.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=5-toubun-no-hanayome-movie-episode-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/00729ddfaf9aa4383ad75980fcb065030ed45f190dd4fb154628a5647310b17c5bf53df59aa667539a1de3510ab1b79bbe8518da3417d8fbe6d15ccb87139329f4380ca83f7ef8d80ba378f972da4885764dd71db4ad8f6f3c22b4828f079d698bfd7f175a1f1b0c89dbba773c27c2e6b6a762d2646d06b3776297f95ceac36e/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/78/92/7892661c59ffe2c27aeaf08909d23999/7892661c59ffe2c27aeaf08909d23999.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/64/642da09f41d245b66e19b3010d1a5e2c/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -54,9 +38,15 @@
             "DUBBED": "MjAzNTYz",
             "SUBBED": "MTk0MTgz"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/78/92/7892661c59ffe2c27aeaf08909d23999/7892661c59ffe2c27aeaf08909d23999.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/64/642da09f41d245b66e19b3010d1a5e2c/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

@@ -1,37 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/9c9573c25a41d0c6b0bbb298c39215750f733fafbcb92df6ac1858e4264d49c4cbf31ed43cb8a5da5fc2898886b91a6dc80145cc7214e7195cdc85148501639f76f5b2ddf36931e6312625698b1ed8e0be0df6efa82a7bdeb6cd1a2f370bf637013eba51fc37ab4c8dd60bc682a7df81/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www032.vipanicdn.net/streamhls/2c4a6e5ad70bbce85a4c5de3069b815d/ep.1.1677845281.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=hokuto-no-ken-movie-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/9c9573c25a41d0c6b0bbb298c39215750f733fafbcb92df6ac1858e4264d49c4cbf31ed43cb8a5da5fc2898886b91a6dc80145cc7214e7195cdc85148501639f76f5b2ddf36931e6312625698b1ed8e0be0df6efa82a7bdeb6cd1a2f370bf637013eba51fc37ab4c8dd60bc682a7df81/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/82/825b1baaac8a028e65d9044c10cdf15b/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/f6ab8b618dc0e967fe522b6928a6211a4b28c1bb42defbca5ccbc47f3e9ad12f7592f65e285bbb501b8b6f422cf1488e620d466f1d3c12865861ef42e81789f80c832629f09ebc07af1223edc41daa4a88f9b74a56c8e3310a343ac1a86a020f9075743f4de4605ee5f66510e3d42880/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/82/825b1baaac8a028e65d9044c10cdf15b/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/f6ab8b618dc0e967fe522b6928a6211a4b28c1bb42defbca5ccbc47f3e9ad12f7592f65e285bbb501b8b6f422cf1488e620d466f1d3c12865861ef42e81789f80c832629f09ebc07af1223edc41daa4a88f9b74a56c8e3310a343ac1a86a020f9075743f4de4605ee5f66510e3d42880/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www001.vipanicdn.net/streamhls/4ba70adc8997059a565535b288f66cca/ep.1.1677695076.m3u8"
@@ -46,9 +38,11 @@
             "DUBBED": "MTIxMDIx",
             "SUBBED": "MTIxMDIw"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/82/825b1baaac8a028e65d9044c10cdf15b/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

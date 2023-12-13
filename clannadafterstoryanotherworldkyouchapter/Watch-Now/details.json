@@ -1,38 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Special",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/bec53941ebcbcac5921eb6d78a28c6b51f4e49386518f17d39ded5aab4810c65aafe1b1f9c49304dae795b19c404a75f125ccc13e72bcd691e51f2305f9742bdf0fa185e0b2c957a5bc984ce785086adc107da2dcdf01c32f2f5e097bbdb5460d144b0b47eb4c3be2ae8c44d606cfc913043108f5d86f9dd686c6cebd7e135f2/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=clannad-after-story-another-world--kyou-chapter-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/bec53941ebcbcac5921eb6d78a28c6b51f4e49386518f17d39ded5aab4810c65aafe1b1f9c49304dae795b19c404a75f125ccc13e72bcd691e51f2305f9742bdf0fa185e0b2c957a5bc984ce785086adc107da2dcdf01c32f2f5e097bbdb5460d144b0b47eb4c3be2ae8c44d606cfc913043108f5d86f9dd686c6cebd7e135f2/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/f6/f62548feaa9be1b28a5c7b37732678ce/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/d84b75c68813a2b30d99857f0664fbf0fb9809e82705a836bb102be2013a4f87b1856146285196780159a427d3636135b67c12b2bbebf6ef6bfaf83fac47f4b714ba83b858c2813bcc80cb1f7d2154c99b12c86b3709b3fe4f25717996c0721534329a6434f1639c765864f95a8180e1282c38dff35efb838ecea97f6c0488be/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/08/f9/08f95986e25a5cf2e1cd5ae2d28bc41b/08f95986e25a5cf2e1cd5ae2d28bc41b.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/f6/f62548feaa9be1b28a5c7b37732678ce/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/d84b75c68813a2b30d99857f0664fbf0fb9809e82705a836bb102be2013a4f87b1856146285196780159a427d3636135b67c12b2bbebf6ef6bfaf83fac47f4b714ba83b858c2813bcc80cb1f7d2154c99b12c86b3709b3fe4f25717996c0721534329a6434f1639c765864f95a8180e1282c38dff35efb838ecea97f6c0488be/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www001.vipanicdn.net/streamhls/9a5765d70b5f3d599d6b0abaa445927e/ep.1.1677651747.m3u8"
@@ -46,9 +34,15 @@
         "downloadLink": {
             "SUBBED": "MTM2ODA="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/08/f9/08f95986e25a5cf2e1cd5ae2d28bc41b/08f95986e25a5cf2e1cd5ae2d28bc41b.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/f6/f62548feaa9be1b28a5c7b37732678ce/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

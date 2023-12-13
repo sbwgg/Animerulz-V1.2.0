@@ -1,30 +1,24 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/f5561432d136d882863a1841d79b7073830cb513506b8e345c74bdfb304901ebcb514f2bb5cafe3b56a285c21af0ce2dbdebf6f97b3794fdeff62b497927f72d8676e48e78e7d8ff89c2b30d67beff0c736fbe7c44348b5aefab56f242851511d967f259b67126ed684a1e83777a573a3f3f11ec1396ef7c6f8a542c62aef594/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www025.vipanicdn.net/streamhls/09a57f23923d9c74355398d2651f641a/ep.1.1679135931.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=one-piece-movie-02-nejimaki-jima-no-daibouken-episode-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/f5561432d136d882863a1841d79b7073830cb513506b8e345c74bdfb304901ebcb514f2bb5cafe3b56a285c21af0ce2dbdebf6f97b3794fdeff62b497927f72d8676e48e78e7d8ff89c2b30d67beff0c736fbe7c44348b5aefab56f242851511d967f259b67126ed684a1e83777a573a3f3f11ec1396ef7c6f8a542c62aef594/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/10/ad/10ad0dbea214a9c26563e0ff2c408b74/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/77/77fee5287dcd444e3a4606f7c90dd42d/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -32,9 +26,15 @@
         "downloadLink": {
             "SUBBED": "MjAxMjM0"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/10/ad/10ad0dbea214a9c26563e0ff2c408b74/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/77/77fee5287dcd444e3a4606f7c90dd42d/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

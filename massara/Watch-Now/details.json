@@ -1,36 +1,18 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/148038b60f82c30ab56cbef85c5c354a873d0fb4baa3ef231fb1fd46db2b6a1753b332fdb7f52160b1200a8a7c4f100daee50c3042389dea6e8c15fb159f1b943fe7a8b84b048d609ae411733f1541164fc54bc7b402022d9924397bfc4bea5f0113eed6a9fd04bc62ae8eeabd95c01b54cb71ca9bab6a0ea84101718006996c/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/50/ee/50eec97f02ccf267ae440466bfd87bde/chi-2.vtt",
-                            "lang": "Chinese"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/50/ee/50eec97f02ccf267ae440466bfd87bde/eng-3.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/50/ee/50eec97f02ccf267ae440466bfd87bde/jpn-4.vtt",
-                            "lang": "Japanese"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/50/ee/50eec97f02ccf267ae440466bfd87bde/kor-5.vtt",
-                            "lang": "Korean"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/43/434babdd6cc5a40c60607869b2df76b3/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/148038b60f82c30ab56cbef85c5c354a873d0fb4baa3ef231fb1fd46db2b6a1753b332fdb7f52160b1200a8a7c4f100daee50c3042389dea6e8c15fb159f1b943fe7a8b84b048d609ae411733f1541164fc54bc7b402022d9924397bfc4bea5f0113eed6a9fd04bc62ae8eeabd95c01b54cb71ca9bab6a0ea84101718006996c/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www006.vipanicdn.net/streamhls/de498ab3343877e52786e77ea2570a4e/ep.1.1677599166.m3u8"
@@ -44,9 +26,27 @@
         "downloadLink": {
             "SUBBED": "MTgzMTg1"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/50/ee/50eec97f02ccf267ae440466bfd87bde/chi-2.vtt",
+                "lang": "Chinese"
+            },
+            {
+                "url": "https://ccb.megaresources.co/50/ee/50eec97f02ccf267ae440466bfd87bde/eng-3.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/50/ee/50eec97f02ccf267ae440466bfd87bde/jpn-4.vtt",
+                "lang": "Japanese"
+            },
+            {
+                "url": "https://ccb.megaresources.co/50/ee/50eec97f02ccf267ae440466bfd87bde/kor-5.vtt",
+                "lang": "Korean"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/43/434babdd6cc5a40c60607869b2df76b3/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

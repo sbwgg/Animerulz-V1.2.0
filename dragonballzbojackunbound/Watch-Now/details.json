@@ -1,42 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/67025987114d5b35c651cf7670273bde7d1093b13bf248f7de8ca54921b84c49cefbab0e3490850a7d51e3c92bb620f6db587850f33705398ca751652cdda5e5ba0551e05a13c4f35625516dce3402d450c7de7fdd8efd64b4fd3e49b7208499904805c7fe64b232abfbeb629013a185864a7539ae1832eee76760426808b34b/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=dragon-ball-z-movie-9-bojack-unbound-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/67025987114d5b35c651cf7670273bde7d1093b13bf248f7de8ca54921b84c49cefbab0e3490850a7d51e3c92bb620f6db587850f33705398ca751652cdda5e5ba0551e05a13c4f35625516dce3402d450c7de7fdd8efd64b4fd3e49b7208499904805c7fe64b232abfbeb629013a185864a7539ae1832eee76760426808b34b/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/d5/d5ddd3ddf657d890bf52f3fddb62e052/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/dbc32648c3aaf6c8c201184d64204d13c2f93e052f3e05c9428c07fb3556855cd836ee6ddf3d9aca6cb9cbc089c2ea3a8fe4cf2c3c289153f7b3aff55e0ea9a3260f21d5c2677fee9cd43d09e428ca9e4cd2201d99578ff92b604460d676702a7a3b3b3e6ec4e49496b9a9e8be6bb1d13f56cb683240ffd567ad12e95a3a7d33/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/72/54/72546c733e5a9ef5aa99ce87fdbdf7c4/eng-4.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/a4/81/a48113c9b1bd8f70df3499873dbe48c4/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/d5/d5ddd3ddf657d890bf52f3fddb62e052/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/dbc32648c3aaf6c8c201184d64204d13c2f93e052f3e05c9428c07fb3556855cd836ee6ddf3d9aca6cb9cbc089c2ea3a8fe4cf2c3c289153f7b3aff55e0ea9a3260f21d5c2677fee9cd43d09e428ca9e4cd2201d99578ff92b604460d676702a7a3b3b3e6ec4e49496b9a9e8be6bb1d13f56cb683240ffd567ad12e95a3a7d33/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www020.vipanicdn.net/streamhls/aba7866aee17a40beed5f7612329642c/ep.1.1677660859.m3u8"
@@ -50,9 +34,19 @@
         "downloadLink": {
             "SUBBED": "NDA3Mjk="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/72/54/72546c733e5a9ef5aa99ce87fdbdf7c4/eng-4.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/a4/81/a48113c9b1bd8f70df3499873dbe48c4/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/d5/d5ddd3ddf657d890bf52f3fddb62e052/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

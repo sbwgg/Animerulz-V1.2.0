@@ -1,38 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/bf393757737954fd269fb08cece5341c55e3d6eb884ec2dac8390c4812f3a105da0aa784921b08e590b365fcc57c1c8c56b1399d84922f199dd5afe7b8a8cebb9c7bcb674734cc94bb70e265deb436961f930d3286a5db0249ffd1818faeb440eb00c403bb7aeacfc9a9409cca393346bb34ea986543020752f0f09452d21ae8/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=steinsgate-fuka-ryouiki-no-deja-vu-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/bf393757737954fd269fb08cece5341c55e3d6eb884ec2dac8390c4812f3a105da0aa784921b08e590b365fcc57c1c8c56b1399d84922f199dd5afe7b8a8cebb9c7bcb674734cc94bb70e265deb436961f930d3286a5db0249ffd1818faeb440eb00c403bb7aeacfc9a9409cca393346bb34ea986543020752f0f09452d21ae8/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/bb/bb0002ecb27d6f32d289812a16fd6eef/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/be0c6409ea660d5a53f87d8c75326c0637f36651e1de81944d5fcf172e11179798e0f5a07ab06817fce4733b16f187a9232e0856dfa7daae7f53ba26c62613beba4943b4e3920a2d1faf5f4fd1a0433566c1e21e9bb7f050cbc563b68fad744e7ac826c0e1bbb6e6c47a465ac0958e0235e48597fca5bca0d4500079dcdb3f33/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/a6/0d/a60deacb0939adf9d4ad575a37504779/eng-0.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/bb/bb0002ecb27d6f32d289812a16fd6eef/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/be0c6409ea660d5a53f87d8c75326c0637f36651e1de81944d5fcf172e11179798e0f5a07ab06817fce4733b16f187a9232e0856dfa7daae7f53ba26c62613beba4943b4e3920a2d1faf5f4fd1a0433566c1e21e9bb7f050cbc563b68fad744e7ac826c0e1bbb6e6c47a465ac0958e0235e48597fca5bca0d4500079dcdb3f33/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www016.vipanicdn.net/streamhls/6bba1f1867bc850367240c818e5b1004/ep.1.1677659419.m3u8"
@@ -46,9 +34,15 @@
         "downloadLink": {
             "SUBBED": "NDA0MjU="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/a6/0d/a60deacb0939adf9d4ad575a37504779/eng-0.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/bb/bb0002ecb27d6f32d289812a16fd6eef/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

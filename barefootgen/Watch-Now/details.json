@@ -1,45 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/cf14f24e272a844f936bd6a7d713132e8923b4278fc9c53214fd2e885aa98d456fb96c532679b85f0388151859173f273ec3e84348700154a78091cb20288fb2a9841f245975a3a5c424c57023e4aab8fe8fbe4b767c2a377611d1eb7b42203af8607c905ecee8e8d464a9c1dfd0c3c58b5d1d9138936139550c032711afa04e/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www027.vipanicdn.net/streamhls/b755ff481d321531dab9ab75cb628143/ep.1.1677809617.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=hadashi-no-gen-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/cf14f24e272a844f936bd6a7d713132e8923b4278fc9c53214fd2e885aa98d456fb96c532679b85f0388151859173f273ec3e84348700154a78091cb20288fb2a9841f245975a3a5c424c57023e4aab8fe8fbe4b767c2a377611d1eb7b42203af8607c905ecee8e8d464a9c1dfd0c3c58b5d1d9138936139550c032711afa04e/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/0d/4e/0d4e7867f11a01765631f4318786482e/0d4e7867f11a01765631f4318786482e.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/6b/6b41c291c2299ce4b2f7894db0b418a1/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/3633002a692b9f35506fccd41cf9deda13447902529b5a78431f653e1106c6a8c88fcbe8f439db2c8177c0135a9788a4114e9ba8f51da6a0c4006b2a374dd9306b204a9cf59b0f82f6e604cf7e18b4148ccc5d05948f2936bd110c1e4888d28284beacea06af5a6586be0ac83eb060351d0a7d0ac7d6d09d41ec859d3f9f8966/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/0a/81/0a81a0ef8e7a7f8f26e2b4008804a8fa/0a81a0ef8e7a7f8f26e2b4008804a8fa.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/6b/6b41c291c2299ce4b2f7894db0b418a1/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/3633002a692b9f35506fccd41cf9deda13447902529b5a78431f653e1106c6a8c88fcbe8f439db2c8177c0135a9788a4114e9ba8f51da6a0c4006b2a374dd9306b204a9cf59b0f82f6e604cf7e18b4148ccc5d05948f2936bd110c1e4888d28284beacea06af5a6586be0ac83eb060351d0a7d0ac7d6d09d41ec859d3f9f8966/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www023.vipanicdn.net/streamhls/d5ef8280cc5d39dadfd6388911d48fb2/ep.1.1677809352.m3u8"
@@ -54,9 +38,15 @@
             "DUBBED": "MTQxOTI2",
             "SUBBED": "MTQxOTIy"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/0a/81/0a81a0ef8e7a7f8f26e2b4008804a8fa/0a81a0ef8e7a7f8f26e2b4008804a8fa.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/6b/6b41c291c2299ce4b2f7894db0b418a1/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

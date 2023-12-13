@@ -1,49 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/d13b77755f2b232ee98c1f17e5414f46084acee1836cfadddfa7dc1b572ce5eabb7668395e9e212393653cf0e7ed34b81132d5d98fa50e3ec1eb2fcc4216931739abd4a0f802928e7fca4a553387f2b185806d37deb7812ee8ebde7359dce4f5f67ed634aba165e1450c73cf51c4ccdf06ea0fe4316d87284a66842877ff680a/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www004.vipanicdn.net/streamhls/7d4ae0297ce4040e65d8fe193ee0fb99/ep.1.1677674762.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=lupin-iii-kutabare-nostradamus-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/d13b77755f2b232ee98c1f17e5414f46084acee1836cfadddfa7dc1b572ce5eabb7668395e9e212393653cf0e7ed34b81132d5d98fa50e3ec1eb2fcc4216931739abd4a0f802928e7fca4a553387f2b185806d37deb7812ee8ebde7359dce4f5f67ed634aba165e1450c73cf51c4ccdf06ea0fe4316d87284a66842877ff680a/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/7c/7c2cfe26a4f07dc507b5ba7b085c8746/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/7488b566b8ff80ea9a5c8f3ae23b3525b86fe74a34b6d1928ee0fa099d016d44c59599ad45995bb0df4a4531a58c3aa0b45b3f934142c86007bb8091f39cb8269ccb9c62591ace61316b801367881078cbba6e68a902a672d0905c159292b2310156fcd026f80a6509a6c94c33f5b8dc12d0e02f43ce412a7ce29439b8efa264/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/8b/52/8b52a62a6f22398c77ce0f80eacb210d/eng-3.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/8b/52/8b52a62a6f22398c77ce0f80eacb210d/ita-6.vtt",
-                            "lang": "Italian - Cartelli"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/8b/52/8b52a62a6f22398c77ce0f80eacb210d/ita-7.vtt",
-                            "lang": "Italian - Italiano"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/7c/7c2cfe26a4f07dc507b5ba7b085c8746/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/7488b566b8ff80ea9a5c8f3ae23b3525b86fe74a34b6d1928ee0fa099d016d44c59599ad45995bb0df4a4531a58c3aa0b45b3f934142c86007bb8091f39cb8269ccb9c62591ace61316b801367881078cbba6e68a902a672d0905c159292b2310156fcd026f80a6509a6c94c33f5b8dc12d0e02f43ce412a7ce29439b8efa264/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www025.vipanicdn.net/streamhls/50489bfb56a5a357d3bbe5ed9a4b3f14/ep.1.1677840075.m3u8"
@@ -58,9 +38,23 @@
             "DUBBED": "OTc0NDM=",
             "SUBBED": "MTQyNzY0"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/8b/52/8b52a62a6f22398c77ce0f80eacb210d/eng-3.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/8b/52/8b52a62a6f22398c77ce0f80eacb210d/ita-6.vtt",
+                "lang": "Italian - Cartelli"
+            },
+            {
+                "url": "https://ccb.megaresources.co/8b/52/8b52a62a6f22398c77ce0f80eacb210d/ita-7.vtt",
+                "lang": "Italian - Italiano"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/7c/7c2cfe26a4f07dc507b5ba7b085c8746/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

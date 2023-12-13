@@ -1,38 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "OVA",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/1bf2e44c656102518294cab23545c4486de0dc9ba4e0a34efef789081f6e2d8f5aaf397c296a25a564d37a5e1b55f810a9b994e5c1d24d74c4951aaa574b629160a4ab592b5babbc1b046d82f510efd475382d9441a459f43627fe832b8b81e6e7cff42795fd998cf392e97bf096cd7a/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=tetsuwan-birdy-decode-the-cipher-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/1bf2e44c656102518294cab23545c4486de0dc9ba4e0a34efef789081f6e2d8f5aaf397c296a25a564d37a5e1b55f810a9b994e5c1d24d74c4951aaa574b629160a4ab592b5babbc1b046d82f510efd475382d9441a459f43627fe832b8b81e6e7cff42795fd998cf392e97bf096cd7a/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/50/505912b3138d9c39d84543e7677f8b7f/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/dea85df65cb6dc909e1dc9fdad1d6b68409cc5634bb73eea28a8b589dd1dd512a226adf20973ffc6f5f8414b31d9828b0d6be30bcb08aeba51e0e9aa7f63b83b49b6a359d2a0e11fad1a2690756c62f6b266375063623c1b07448dac225fc8a7b6cf8793f021ddad4bae363b8a7fcd6c/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/23/e2/23e2a7db897ff53d9536a88fc1fb68dc/23e2a7db897ff53d9536a88fc1fb68dc.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/50/505912b3138d9c39d84543e7677f8b7f/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/dea85df65cb6dc909e1dc9fdad1d6b68409cc5634bb73eea28a8b589dd1dd512a226adf20973ffc6f5f8414b31d9828b0d6be30bcb08aeba51e0e9aa7f63b83b49b6a359d2a0e11fad1a2690756c62f6b266375063623c1b07448dac225fc8a7b6cf8793f021ddad4bae363b8a7fcd6c/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www050.vipanicdn.net/streamhls/c2ffa834352f895083c65fb4874cd788/ep.1.1677844906.m3u8"
@@ -46,9 +34,15 @@
         "downloadLink": {
             "SUBBED": "MTgwMjM5"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/23/e2/23e2a7db897ff53d9536a88fc1fb68dc/23e2a7db897ff53d9536a88fc1fb68dc.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/50/505912b3138d9c39d84543e7677f8b7f/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

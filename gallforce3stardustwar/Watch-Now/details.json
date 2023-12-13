@@ -1,45 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/8d30a81bb87e057dd14ea162686286a0c98ba186603862f3ec35a94cf127feea68b180d05c0f361f31ab2150d7492f9c79b2cf0ecd3a59ef745ac14897e9726b3271079f1abe6d76763bcf72ef6e0e5c8a22373ac37c9054f13683448fc9256fdfb8f5f1a7699839c45a5805df8dc1ae75847bd861218ee820c1c618c8bbda00/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www001.vipanicdn.net/streamhls/644fa235e4ba2dffa1c9bb7efe6e4e7c/ep.1.1677686777.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=gall-force-3-stardust-war-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/8d30a81bb87e057dd14ea162686286a0c98ba186603862f3ec35a94cf127feea68b180d05c0f361f31ab2150d7492f9c79b2cf0ecd3a59ef745ac14897e9726b3271079f1abe6d76763bcf72ef6e0e5c8a22373ac37c9054f13683448fc9256fdfb8f5f1a7699839c45a5805df8dc1ae75847bd861218ee820c1c618c8bbda00/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/03/70/0370cea4924beff527238ba1ec6de496/0370cea4924beff527238ba1ec6de496.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/f3/f3b7415ec9156ae93867b3dd5ca46d4b/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/daf494184f01cedf3d5f296e727381f476df791adce5a6431824471d847e6b95fb53a93172ff4b9c35e1f3b6d8956979a6b18be463159af1e4eb837c067d526c8eb6158f713ed0384cd6f65d353e2b4313a79b6f4a3f5f60c3e5b6edcb93d16738037aaf63bf23eb58299ac711dadfdcf438e79a0c31106580649d8a25b8fe5b/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/e2/93/e293a0d668e9b8c31aa4a1d3870d2b93/e293a0d668e9b8c31aa4a1d3870d2b93.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/f3/f3b7415ec9156ae93867b3dd5ca46d4b/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/daf494184f01cedf3d5f296e727381f476df791adce5a6431824471d847e6b95fb53a93172ff4b9c35e1f3b6d8956979a6b18be463159af1e4eb837c067d526c8eb6158f713ed0384cd6f65d353e2b4313a79b6f4a3f5f60c3e5b6edcb93d16738037aaf63bf23eb58299ac711dadfdcf438e79a0c31106580649d8a25b8fe5b/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www048.vipanicdn.net/streamhls/e2e1b0c9e3aaa7353e1dbb3626042515/ep.1.1677856218.m3u8"
@@ -54,9 +38,15 @@
             "DUBBED": "MTA3MDEw",
             "SUBBED": "MTQxNjc3"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/e2/93/e293a0d668e9b8c31aa4a1d3870d2b93/e293a0d668e9b8c31aa4a1d3870d2b93.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/f3/f3b7415ec9156ae93867b3dd5ca46d4b/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

@@ -1,42 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/6a51aa826e2be2e1d8784fd681dbb02fb6b892619ab507ae26af353218d851b570a9d3cf79f0a136540d52bc9a3363f79eb2b3d7c819dcadb391d95cb1c5739f7b4aa106d9f97c18945109f1e2397f3495a626319a6aee45bf4573cde09141d4a5f8b8c767ae3caeb664cb0973e0ca0e2ec4301ef16ad2375411684674f97991/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=lupin-iii-napoleon-no-jisho-wo-ubae-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/6a51aa826e2be2e1d8784fd681dbb02fb6b892619ab507ae26af353218d851b570a9d3cf79f0a136540d52bc9a3363f79eb2b3d7c819dcadb391d95cb1c5739f7b4aa106d9f97c18945109f1e2397f3495a626319a6aee45bf4573cde09141d4a5f8b8c767ae3caeb664cb0973e0ca0e2ec4301ef16ad2375411684674f97991/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/e1/e173398ecbdac76a25b99d45c8ad6e1d/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/2cf2db07dfa92f22e13ba8b0dd144f8bf00a97fcbb34eb3d24e3b44e2a9c0275abbf0f80b888e3a8c2019fadabf74e3f9ae0c71d7531f2d843a22bf612a7c26e0dd871fd6493a9acfbbc2af80bb670ab65347419688c4d64df523431fd40872c08be393b1bf05b13aee2d86eee292f0fd4e645530767ff9ba70ec801db354098/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/56/37/56376b6172928a75c48ade0068b2f6a0/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/56/37/56376b6172928a75c48ade0068b2f6a0/ita-4.vtt",
-                            "lang": "Italian - Dialoghi"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/e1/e173398ecbdac76a25b99d45c8ad6e1d/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/2cf2db07dfa92f22e13ba8b0dd144f8bf00a97fcbb34eb3d24e3b44e2a9c0275abbf0f80b888e3a8c2019fadabf74e3f9ae0c71d7531f2d843a22bf612a7c26e0dd871fd6493a9acfbbc2af80bb670ab65347419688c4d64df523431fd40872c08be393b1bf05b13aee2d86eee292f0fd4e645530767ff9ba70ec801db354098/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www020.vipanicdn.net/streamhls/43fa6ed5f210bceb42482c569e39625e/ep.1.1677700812.m3u8"
@@ -50,9 +34,19 @@
         "downloadLink": {
             "SUBBED": "MTQyOTA5"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/56/37/56376b6172928a75c48ade0068b2f6a0/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/56/37/56376b6172928a75c48ade0068b2f6a0/ita-4.vtt",
+                "lang": "Italian - Dialoghi"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/e1/e173398ecbdac76a25b99d45c8ad6e1d/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

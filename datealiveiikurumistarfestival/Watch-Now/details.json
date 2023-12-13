@@ -1,38 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Date A Live II: Kurumi Star Festival",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/1f213549d04c2c77a1a2a0f1d1b56996821e98c735d4f5d3a11b17a3034cd82169d627102b87954c2481185b3abd57fd78e721fd8e0b367183b92381c57978aee0e688942e4cfc3f2be37f9d48fefd6ebfd52c7b32f5c4b4923468c23aae1c9ac5bb7ad1e1116087409ee6d3ce891767bef05625eb5c9cc6e77f830d0b707ac7/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=date-a-live-encore-ova-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/1f213549d04c2c77a1a2a0f1d1b56996821e98c735d4f5d3a11b17a3034cd82169d627102b87954c2481185b3abd57fd78e721fd8e0b367183b92381c57978aee0e688942e4cfc3f2be37f9d48fefd6ebfd52c7b32f5c4b4923468c23aae1c9ac5bb7ad1e1116087409ee6d3ce891767bef05625eb5c9cc6e77f830d0b707ac7/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/2a/2a6cc1f000d937ac02e3439f5051660f/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/c5ecf4aa313bf9c33e5b76bb039882697553fc7fcb341ea1c42ccabb9d4717947e4276231890abe7105f67dace18db51a925b1908e7e4b00f295a0effe66fef3d63a79b5baa7b9ff5672d13f0c26651240644c2a2214f13fe87059e89e60c8e8bbf08aca2afac682a5da48824ebf8fac6b734a2fb20f9fb4676932fff625acbe/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/78/3e/783e28a80dc8e32068bfe46b4c8424a3/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/2a/2a6cc1f000d937ac02e3439f5051660f/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/c5ecf4aa313bf9c33e5b76bb039882697553fc7fcb341ea1c42ccabb9d4717947e4276231890abe7105f67dace18db51a925b1908e7e4b00f295a0effe66fef3d63a79b5baa7b9ff5672d13f0c26651240644c2a2214f13fe87059e89e60c8e8bbf08aca2afac682a5da48824ebf8fac6b734a2fb20f9fb4676932fff625acbe/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www024.vipanicdn.net/streamhls/61ccd40e13f311b25a9d90b12e812d16/ep.1.1677666764.m3u8"
@@ -46,9 +34,15 @@
         "downloadLink": {
             "SUBBED": "NDkwMTM="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/78/3e/783e28a80dc8e32068bfe46b4c8424a3/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/2a/2a6cc1f000d937ac02e3439f5051660f/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

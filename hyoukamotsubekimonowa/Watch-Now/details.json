@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "OVA",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/e189d0acc3df2254957bd9022eef2ee5713e4240038fa6e6bd230d6e20fc737abd3daf06d00634cf3c0e890351c003468017140a7753c27ee6cf8573aec42d4bf1a61fc11d2522983f10ac9264ce272fa6326b4a1a2b5971e5f2e9f513fd6ca23b102e57b444dd92e5ab47bb209944f2ebfc83908466ab2ebb347784269a5b8e/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www009.vipanicdn.net/streamhls/15b03c23ed3aedd7584075b591052239/ep.1.1677625043.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=hyouka-motsubeki-mono-wa-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/e189d0acc3df2254957bd9022eef2ee5713e4240038fa6e6bd230d6e20fc737abd3daf06d00634cf3c0e890351c003468017140a7753c27ee6cf8573aec42d4bf1a61fc11d2522983f10ac9264ce272fa6326b4a1a2b5971e5f2e9f513fd6ca23b102e57b444dd92e5ab47bb209944f2ebfc83908466ab2ebb347784269a5b8e/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/b2/b2d59725f9b52058c551d8fbd9c2ebcb/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/e871b0c7bc9a3b158d15353ca2325ee6062823adf5f9bbf2165f4a8f433451fe1a1ad084e693909681c0fd7f8aaf2b5a7c1abb1e6f8e0f7c85c5296d3d8eeb2d63ad899ad590cdbeaf71418595ce8368208e98ad96b19a6318f8557707c19ce4972e940d61636629af0678c510a05b638225588815e84b86eb4cfa21b5875ae5/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/93/37/93371852fa8892ecd4d135c2568c2f93/93371852fa8892ecd4d135c2568c2f93.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/b2/b2d59725f9b52058c551d8fbd9c2ebcb/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/e871b0c7bc9a3b158d15353ca2325ee6062823adf5f9bbf2165f4a8f433451fe1a1ad084e693909681c0fd7f8aaf2b5a7c1abb1e6f8e0f7c85c5296d3d8eeb2d63ad899ad590cdbeaf71418595ce8368208e98ad96b19a6318f8557707c19ce4972e940d61636629af0678c510a05b638225588815e84b86eb4cfa21b5875ae5/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www008.vipanicdn.net/streamhls/2bf93527b9e1efa5e91ba479951dba35/ep.1.1677612232.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "MTQ4NDc4",
             "SUBBED": "MTQ4NDc3"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/93/37/93371852fa8892ecd4d135c2568c2f93/93371852fa8892ecd4d135c2568c2f93.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/b2/b2d59725f9b52058c551d8fbd9c2ebcb/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

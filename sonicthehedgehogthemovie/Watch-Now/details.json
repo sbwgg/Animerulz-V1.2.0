@@ -1,24 +1,18 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Journey to Eggmanland",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/ac988d75a011c49de9ee07f5c05e57c9ffb52450fa6278ee1c1297c166b4a694a7ede08c407d789dcae6c99d16a44a43fb9486e637a0e7cd18cc87c8b0e435b16dd7ef681d3db9a1af7ef75e88bf3a526ee120150867898b277f720b8a85b7542e869f52668364de71f32bf389a21171e09d01349e59cfb00b55f212447d912d/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/be/8c/be8c0e64eb1bfe119ffb297e1913c982/be8c0e64eb1bfe119ffb297e1913c982.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/44/44aedff701b162874469745e4bcb10ea/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/ac988d75a011c49de9ee07f5c05e57c9ffb52450fa6278ee1c1297c166b4a694a7ede08c407d789dcae6c99d16a44a43fb9486e637a0e7cd18cc87c8b0e435b16dd7ef681d3db9a1af7ef75e88bf3a526ee120150867898b277f720b8a85b7542e869f52668364de71f32bf389a21171e09d01349e59cfb00b55f212447d912d/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www010.vipanicdn.net/streamhls/f0dee084741944c6f815d902acd73c9c/ep.1.1677690000.m3u8"
@@ -32,31 +26,31 @@
         "downloadLink": {
             "SUBBED": "MTQxMTI5"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/be/8c/be8c0e64eb1bfe119ffb297e1913c982/be8c0e64eb1bfe119ffb297e1913c982.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/44/44aedff701b162874469745e4bcb10ea/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "2": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Sonic VS Metal Sonic!!",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/e827f39af9124e533a0c046531f7db4a1df958bc89fd64a54b84ebb871a7c0a6a02658bf1b8fc27483e535d028549ac3367a6bbfd30a3dcc30eefe0e927d2cc03766f7ad8c2f9e58e8ed9fc48486de43bd41aafb0877b32b7d823f381db88f859b24f21ae2abe318b8a18066a4f72af1c090df73267611c065f5627e0b9940c5/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/07/c9/07c965be4d6993febb84537e637902fc/07c965be4d6993febb84537e637902fc.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/19/19130748305b266592897dbc54f58faf/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/e827f39af9124e533a0c046531f7db4a1df958bc89fd64a54b84ebb871a7c0a6a02658bf1b8fc27483e535d028549ac3367a6bbfd30a3dcc30eefe0e927d2cc03766f7ad8c2f9e58e8ed9fc48486de43bd41aafb0877b32b7d823f381db88f859b24f21ae2abe318b8a18066a4f72af1c090df73267611c065f5627e0b9940c5/master.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=sonicthehedgehog-episode-2"
@@ -65,9 +59,15 @@
         },
         "isFiller": false,
         "downloadLink": {},
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/07/c9/07c965be4d6993febb84537e637902fc/07c965be4d6993febb84537e637902fc.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/19/19130748305b266592897dbc54f58faf/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

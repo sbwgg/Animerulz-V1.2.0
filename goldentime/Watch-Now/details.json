@@ -1,61 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 28,
-            "end": 117
+            "end": 117,
+            "start": 28
+        },
+        "outro": {
+            "end": 1401,
+            "start": 1316
         },
         "title": "Spring Time",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/0b18493141a0fca4428447c9138ac45a7ae46d5b825ea1d018c23ecf85bcf750557c87f1541e47520161de9a7f0e30eb96e9d16b5ac7d01259a2073aa0afee29c1401736273f27dc56baece113423585ea3d14134def9cc31a273e522cad5b146b8b535b831f424ea82907b403fb8ec4a4bab5dc612867a0ad5b71c3bb97be9c/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www001.vipanicdn.net/streamhls/b1ca828d52f4894afb4fb028840ea279/ep.1.1677603501.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=golden-time-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/0b18493141a0fca4428447c9138ac45a7ae46d5b825ea1d018c23ecf85bcf750557c87f1541e47520161de9a7f0e30eb96e9d16b5ac7d01259a2073aa0afee29c1401736273f27dc56baece113423585ea3d14134def9cc31a273e522cad5b146b8b535b831f424ea82907b403fb8ec4a4bab5dc612867a0ad5b71c3bb97be9c/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/56/56c6459bdc2bb89c299a3836a2a0e2b8/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/76f671a82c313bc45beac704d0b0f94d947d491754f6b64b799a46cc3135c3b939d8abdd505da18b46a6ddb257432566dec0a62419bdf4c309562fbc4395f7264f1dddfa5fbbf9e721991646511d01b16d3994f81e14d845639c2fdb50b93cda6126af84c9a7a2405921a78f2d670ddec64eda717605961403a4b436205b615c/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/63/20/6320351619ec86a53ab8184d0a75eace/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/63/20/6320351619ec86a53ab8184d0a75eace/fre-5.vtt",
-                            "lang": "French"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/63/20/6320351619ec86a53ab8184d0a75eace/ger-7.vtt",
-                            "lang": "German"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/63/20/6320351619ec86a53ab8184d0a75eace/por-6.vtt",
-                            "lang": "Portuguese"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/63/20/6320351619ec86a53ab8184d0a75eace/spa-3.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/63/20/6320351619ec86a53ab8184d0a75eace/spa-4.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/56/56c6459bdc2bb89c299a3836a2a0e2b8/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/76f671a82c313bc45beac704d0b0f94d947d491754f6b64b799a46cc3135c3b939d8abdd505da18b46a6ddb257432566dec0a62419bdf4c309562fbc4395f7264f1dddfa5fbbf9e721991646511d01b16d3994f81e14d845639c2fdb50b93cda6126af84c9a7a2405921a78f2d670ddec64eda717605961403a4b436205b615c/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www010.vipanicdn.net/streamhls/ad744784bd025fbf4052f5cb59c0c3bc/ep.1.1677594275.m3u8"
@@ -70,68 +38,62 @@
             "DUBBED": "MTM1MTIw",
             "SUBBED": "MTI5"
         },
-        "outro": {
-            "start": 1316,
-            "end": 1401
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/63/20/6320351619ec86a53ab8184d0a75eace/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/63/20/6320351619ec86a53ab8184d0a75eace/fre-5.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/63/20/6320351619ec86a53ab8184d0a75eace/ger-7.vtt",
+                "lang": "German"
+            },
+            {
+                "url": "https://ccb.megaresources.co/63/20/6320351619ec86a53ab8184d0a75eace/por-6.vtt",
+                "lang": "Portuguese"
+            },
+            {
+                "url": "https://ccb.megaresources.co/63/20/6320351619ec86a53ab8184d0a75eace/spa-3.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/63/20/6320351619ec86a53ab8184d0a75eace/spa-4.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/56/56c6459bdc2bb89c299a3836a2a0e2b8/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "2": {
         "intro": {
-            "start": 48,
-            "end": 137
+            "end": 137,
+            "start": 48
+        },
+        "outro": {
+            "end": 1401,
+            "start": 1316
         },
         "title": "Lonely Girl",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/a4cfc3afe1bfb943f7acf94f0d833bbd1a5c4a63458fb8565137fb5fe399199f2296f932cd2011f87cec88dcdac8c8e96ce6ab05cf220ca02872a746316c6ffbed55acaa9fac2e12bc119b30bcdda4d4105429ac8ebf39f2fa830b89c12bff5076f19605eb5be45852bd2e3d00e97a78130ae2637fb5473b393c9dc8a7c4fb58/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www001.vipanicdn.net/streamhls/b1ca828d52f4894afb4fb028840ea279/ep.2.1677701596.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=golden-time-episode-dub-2"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/a4cfc3afe1bfb943f7acf94f0d833bbd1a5c4a63458fb8565137fb5fe399199f2296f932cd2011f87cec88dcdac8c8e96ce6ab05cf220ca02872a746316c6ffbed55acaa9fac2e12bc119b30bcdda4d4105429ac8ebf39f2fa830b89c12bff5076f19605eb5be45852bd2e3d00e97a78130ae2637fb5473b393c9dc8a7c4fb58/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/fc/fcb00e0a21ea7196ef80ec5ff63b97f1/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/436d221a5e2c7f40f29129b2585483369b9f07f553851bbf276c07d7c06020037e9c4077b4f8152ac357a80597d39ba2e8882b5256621365af0a05001d682bffd36fd0903222039e539de207cf2962bc06d6cdcb00b36ec987635ffed66645626b276d6b06e2559da211bfaaf40ea4479b4f1fef0c9976ecd0bcc81642e06f94/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/05/3d/053d1e37426c0d84f3ce4df43f0ec164/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/05/3d/053d1e37426c0d84f3ce4df43f0ec164/fre-5.vtt",
-                            "lang": "French"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/05/3d/053d1e37426c0d84f3ce4df43f0ec164/ger-7.vtt",
-                            "lang": "German"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/05/3d/053d1e37426c0d84f3ce4df43f0ec164/por-6.vtt",
-                            "lang": "Portuguese"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/05/3d/053d1e37426c0d84f3ce4df43f0ec164/spa-3.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/05/3d/053d1e37426c0d84f3ce4df43f0ec164/spa-4.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/fc/fcb00e0a21ea7196ef80ec5ff63b97f1/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/436d221a5e2c7f40f29129b2585483369b9f07f553851bbf276c07d7c06020037e9c4077b4f8152ac357a80597d39ba2e8882b5256621365af0a05001d682bffd36fd0903222039e539de207cf2962bc06d6cdcb00b36ec987635ffed66645626b276d6b06e2559da211bfaaf40ea4479b4f1fef0c9976ecd0bcc81642e06f94/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www011.vipanicdn.net/streamhls/ad744784bd025fbf4052f5cb59c0c3bc/ep.2.1677647640.m3u8"
@@ -146,68 +108,62 @@
             "DUBBED": "MTM1MTgw",
             "SUBBED": "MTMw"
         },
-        "outro": {
-            "start": 1316,
-            "end": 1401
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/05/3d/053d1e37426c0d84f3ce4df43f0ec164/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/05/3d/053d1e37426c0d84f3ce4df43f0ec164/fre-5.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/05/3d/053d1e37426c0d84f3ce4df43f0ec164/ger-7.vtt",
+                "lang": "German"
+            },
+            {
+                "url": "https://ccb.megaresources.co/05/3d/053d1e37426c0d84f3ce4df43f0ec164/por-6.vtt",
+                "lang": "Portuguese"
+            },
+            {
+                "url": "https://ccb.megaresources.co/05/3d/053d1e37426c0d84f3ce4df43f0ec164/spa-3.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/05/3d/053d1e37426c0d84f3ce4df43f0ec164/spa-4.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/fc/fcb00e0a21ea7196ef80ec5ff63b97f1/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "3": {
         "intro": {
-            "start": 122,
-            "end": 211
+            "end": 211,
+            "start": 122
+        },
+        "outro": {
+            "end": 1401,
+            "start": 1316
         },
         "title": "Night Escape",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/5b033e5370ce0c44a0b7dbc1cdc8eb3c8d5cb64aa3618f67a0935f5edca31aa03a78710294889c5027fd4259e3a88058dbd17b8422cad7b5c5802f90c74e0901e145d239fa6666697f9bdfe07d393b10486a04cd4bb70485bcde1c55b4918a37f7ad0bb2ddc9547a6f162ba2cbe10fd63db3114b87a5b5d8f6714a1451fd7cbf/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www009.vipanicdn.net/streamhls/b1ca828d52f4894afb4fb028840ea279/ep.3.1677602181.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=golden-time-episode-dub-3"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/5b033e5370ce0c44a0b7dbc1cdc8eb3c8d5cb64aa3618f67a0935f5edca31aa03a78710294889c5027fd4259e3a88058dbd17b8422cad7b5c5802f90c74e0901e145d239fa6666697f9bdfe07d393b10486a04cd4bb70485bcde1c55b4918a37f7ad0bb2ddc9547a6f162ba2cbe10fd63db3114b87a5b5d8f6714a1451fd7cbf/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/43/4389dfacf8455969f812038627f267e4/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/651c70d7bb18b548e2071220cff935e79808c1b9ef21fc8411e6b54639fceeed4067826558373a1bdf6f536b7b455c77714f3fdf3dd1d8da2f5b7a5b3db671fa9edd669d86010b4bfc9a838a03998cf1fc5aca59e71f5b0c57e3fea907f77f62f811740923d4c0d38f863839f38685f112dffc6f1f26b7bf72844270e6f7bfac/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/2e/20/2e20402f9e62432715b6bcc788913554/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/2e/20/2e20402f9e62432715b6bcc788913554/fre-5.vtt",
-                            "lang": "French"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/2e/20/2e20402f9e62432715b6bcc788913554/ger-7.vtt",
-                            "lang": "German"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/2e/20/2e20402f9e62432715b6bcc788913554/por-6.vtt",
-                            "lang": "Portuguese"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/2e/20/2e20402f9e62432715b6bcc788913554/spa-3.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/2e/20/2e20402f9e62432715b6bcc788913554/spa-4.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/43/4389dfacf8455969f812038627f267e4/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/651c70d7bb18b548e2071220cff935e79808c1b9ef21fc8411e6b54639fceeed4067826558373a1bdf6f536b7b455c77714f3fdf3dd1d8da2f5b7a5b3db671fa9edd669d86010b4bfc9a838a03998cf1fc5aca59e71f5b0c57e3fea907f77f62f811740923d4c0d38f863839f38685f112dffc6f1f26b7bf72844270e6f7bfac/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www027.vipanicdn.net/streamhls/ad744784bd025fbf4052f5cb59c0c3bc/ep.3.1677673891.m3u8"
@@ -222,68 +178,62 @@
             "DUBBED": "MTM1MzM4",
             "SUBBED": "MzgwNjY="
         },
-        "outro": {
-            "start": 1316,
-            "end": 1401
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/2e/20/2e20402f9e62432715b6bcc788913554/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/2e/20/2e20402f9e62432715b6bcc788913554/fre-5.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/2e/20/2e20402f9e62432715b6bcc788913554/ger-7.vtt",
+                "lang": "German"
+            },
+            {
+                "url": "https://ccb.megaresources.co/2e/20/2e20402f9e62432715b6bcc788913554/por-6.vtt",
+                "lang": "Portuguese"
+            },
+            {
+                "url": "https://ccb.megaresources.co/2e/20/2e20402f9e62432715b6bcc788913554/spa-3.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/2e/20/2e20402f9e62432715b6bcc788913554/spa-4.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/43/4389dfacf8455969f812038627f267e4/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "4": {
         "intro": {
-            "start": 25,
-            "end": 114
+            "end": 114,
+            "start": 25
+        },
+        "outro": {
+            "end": 1401,
+            "start": 1316
         },
         "title": "Blackout",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/819c9af55bb7c542ca967b3c123882f2eaf5a3e82ad538d28d38e4724a6852371255808cd30dc4f023cf6a2aa04e6aa0e1b89cc7d34c4961e61469f99c7926e44521d471aea56e0a085019bdd912e303dd6b8550874bf6ca5f83aec9dfb22a77318613f8263ba9b4b1c9ecaf3722dfd201e223ff7ca1134fe27623b059c54875/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www006.vipanicdn.net/streamhls/b1ca828d52f4894afb4fb028840ea279/ep.4.1677601072.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=golden-time-episode-dub-4"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/819c9af55bb7c542ca967b3c123882f2eaf5a3e82ad538d28d38e4724a6852371255808cd30dc4f023cf6a2aa04e6aa0e1b89cc7d34c4961e61469f99c7926e44521d471aea56e0a085019bdd912e303dd6b8550874bf6ca5f83aec9dfb22a77318613f8263ba9b4b1c9ecaf3722dfd201e223ff7ca1134fe27623b059c54875/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/91/916ae59326a6f2ae50eb62f8c53810c5/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/1536dab1887311063ae07d9fe62188bf60493309995195d845bb91ce04e5ffd53ee03a2ba1c4fb227adb8bfae2e392e690da95f6701184818219b3563e836966350152034e94aa4018f0d820576dac91ef022771edc42328f48265a5f62d1d4ea8ae6d368ee23584ad202b15dad5f7a3950902d961cd6bb8e634a18d5379d8c9/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/94/e1/94e18297d24e151d1740fa8f71c71dc0/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/94/e1/94e18297d24e151d1740fa8f71c71dc0/fre-5.vtt",
-                            "lang": "French"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/94/e1/94e18297d24e151d1740fa8f71c71dc0/ger-7.vtt",
-                            "lang": "German"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/94/e1/94e18297d24e151d1740fa8f71c71dc0/por-6.vtt",
-                            "lang": "Portuguese"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/94/e1/94e18297d24e151d1740fa8f71c71dc0/spa-3.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/94/e1/94e18297d24e151d1740fa8f71c71dc0/spa-4.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/91/916ae59326a6f2ae50eb62f8c53810c5/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/1536dab1887311063ae07d9fe62188bf60493309995195d845bb91ce04e5ffd53ee03a2ba1c4fb227adb8bfae2e392e690da95f6701184818219b3563e836966350152034e94aa4018f0d820576dac91ef022771edc42328f48265a5f62d1d4ea8ae6d368ee23584ad202b15dad5f7a3950902d961cd6bb8e634a18d5379d8c9/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www028.vipanicdn.net/streamhls/ad744784bd025fbf4052f5cb59c0c3bc/ep.4.1677661498.m3u8"
@@ -298,68 +248,62 @@
             "DUBBED": "MTM1NTE1",
             "SUBBED": "MzgwNjc="
         },
-        "outro": {
-            "start": 1316,
-            "end": 1401
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/94/e1/94e18297d24e151d1740fa8f71c71dc0/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/94/e1/94e18297d24e151d1740fa8f71c71dc0/fre-5.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/94/e1/94e18297d24e151d1740fa8f71c71dc0/ger-7.vtt",
+                "lang": "German"
+            },
+            {
+                "url": "https://ccb.megaresources.co/94/e1/94e18297d24e151d1740fa8f71c71dc0/por-6.vtt",
+                "lang": "Portuguese"
+            },
+            {
+                "url": "https://ccb.megaresources.co/94/e1/94e18297d24e151d1740fa8f71c71dc0/spa-3.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/94/e1/94e18297d24e151d1740fa8f71c71dc0/spa-4.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/91/916ae59326a6f2ae50eb62f8c53810c5/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "5": {
         "intro": {
-            "start": 75,
-            "end": 164
+            "end": 164,
+            "start": 75
+        },
+        "outro": {
+            "end": 1401,
+            "start": 1316
         },
         "title": "Body and Soul",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/96269a87b13fd9c55d824b209aefb2d439f6dbefbdb486b47a7e2ca420903c7a631cb39641fa7b99a2bfc4472688d9b82283d8f14974b82171ccf0f49bf68b782a722f59d386dd2f64d59c9ec076409b1b5d4a6076dbf9530782aeaf3919d1daa7e44430ef315e14901ea8e4146ca243193c141a344c8700621b6fd073fbe9c1/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www003.vipanicdn.net/streamhls/b1ca828d52f4894afb4fb028840ea279/ep.5.1677601741.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=golden-time-episode-dub-5"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/96269a87b13fd9c55d824b209aefb2d439f6dbefbdb486b47a7e2ca420903c7a631cb39641fa7b99a2bfc4472688d9b82283d8f14974b82171ccf0f49bf68b782a722f59d386dd2f64d59c9ec076409b1b5d4a6076dbf9530782aeaf3919d1daa7e44430ef315e14901ea8e4146ca243193c141a344c8700621b6fd073fbe9c1/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/6d/6dca54419ea26887b1e16d7dcbfe08ac/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/c23c078537047918e77f1fd24edcce95898c55b80ecd928d33b840bc28c3902844286e2c57bde054b507b80a4890f053cf3b56471db433cbcf082798f60068060b79c645cbdff1648ab6aa1ae3242ce025d85587ce04ddbd34292dd1bd7d5218a5b4cdabdcd7fbd549767d86a6366aa6c41f312283d00c3b8bf7e031b317438b/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/80/76/807608b71611c7514f2a8f6b7c3a1995/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/80/76/807608b71611c7514f2a8f6b7c3a1995/fre-5.vtt",
-                            "lang": "French"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/80/76/807608b71611c7514f2a8f6b7c3a1995/ger-7.vtt",
-                            "lang": "German"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/80/76/807608b71611c7514f2a8f6b7c3a1995/por-6.vtt",
-                            "lang": "Portuguese"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/80/76/807608b71611c7514f2a8f6b7c3a1995/spa-3.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/80/76/807608b71611c7514f2a8f6b7c3a1995/spa-4.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/6d/6dca54419ea26887b1e16d7dcbfe08ac/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/c23c078537047918e77f1fd24edcce95898c55b80ecd928d33b840bc28c3902844286e2c57bde054b507b80a4890f053cf3b56471db433cbcf082798f60068060b79c645cbdff1648ab6aa1ae3242ce025d85587ce04ddbd34292dd1bd7d5218a5b4cdabdcd7fbd549767d86a6366aa6c41f312283d00c3b8bf7e031b317438b/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www029.vipanicdn.net/streamhls/ad744784bd025fbf4052f5cb59c0c3bc/ep.5.1677661658.m3u8"
@@ -374,68 +318,62 @@
             "DUBBED": "MTM1NzIy",
             "SUBBED": "MzgwNjg="
         },
-        "outro": {
-            "start": 1316,
-            "end": 1401
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/80/76/807608b71611c7514f2a8f6b7c3a1995/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/80/76/807608b71611c7514f2a8f6b7c3a1995/fre-5.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/80/76/807608b71611c7514f2a8f6b7c3a1995/ger-7.vtt",
+                "lang": "German"
+            },
+            {
+                "url": "https://ccb.megaresources.co/80/76/807608b71611c7514f2a8f6b7c3a1995/por-6.vtt",
+                "lang": "Portuguese"
+            },
+            {
+                "url": "https://ccb.megaresources.co/80/76/807608b71611c7514f2a8f6b7c3a1995/spa-3.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/80/76/807608b71611c7514f2a8f6b7c3a1995/spa-4.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/6d/6dca54419ea26887b1e16d7dcbfe08ac/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "6": {
         "intro": {
-            "start": 200,
-            "end": 289
+            "end": 289,
+            "start": 200
+        },
+        "outro": {
+            "end": 1401,
+            "start": 1316
         },
         "title": "Yes No",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/4f74009d20bf5f0f411760e2bf46b4dd5919835fed259707fd3229de000c6994398067caec0d202b185de94fc23a6e5edeb6cada585e899f41588d7a638450ae1465c88c712e800b5bd058e97571f14761c606f2fd3a767802c96f812e0e6e46ad8ca867f11b4cab2633cc19b91332c60bb1f32a7905c122efdb91bb6fad4fcb/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www004.vipanicdn.net/streamhls/b1ca828d52f4894afb4fb028840ea279/ep.6.1677604071.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=golden-time-episode-dub-6"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/4f74009d20bf5f0f411760e2bf46b4dd5919835fed259707fd3229de000c6994398067caec0d202b185de94fc23a6e5edeb6cada585e899f41588d7a638450ae1465c88c712e800b5bd058e97571f14761c606f2fd3a767802c96f812e0e6e46ad8ca867f11b4cab2633cc19b91332c60bb1f32a7905c122efdb91bb6fad4fcb/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/fa/fa672a70b8cec258477dcce4e616fca2/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/3a253dd686ed0994ace05e546c107cc7a3249dc864f9458cead283cc319c6b64a2cd4729b437187c82889e2daa40e8045e31a3a04c0dbf3c93e7f3dcb0f0064aa3f4664d8521c9efc82fbc04568728456b0d1b15bf78d7c093b1a5748ee06e1e1cf9148f67982e751b7c10fb7b9241ac050913f39f41b7ac1f887a2ccdb7623a/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/b4/8c/b48cd62e7da719f7743e6f8697f44f43/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b4/8c/b48cd62e7da719f7743e6f8697f44f43/fre-5.vtt",
-                            "lang": "French"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b4/8c/b48cd62e7da719f7743e6f8697f44f43/ger-7.vtt",
-                            "lang": "German"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b4/8c/b48cd62e7da719f7743e6f8697f44f43/por-6.vtt",
-                            "lang": "Portuguese"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b4/8c/b48cd62e7da719f7743e6f8697f44f43/spa-3.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b4/8c/b48cd62e7da719f7743e6f8697f44f43/spa-4.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/fa/fa672a70b8cec258477dcce4e616fca2/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/3a253dd686ed0994ace05e546c107cc7a3249dc864f9458cead283cc319c6b64a2cd4729b437187c82889e2daa40e8045e31a3a04c0dbf3c93e7f3dcb0f0064aa3f4664d8521c9efc82fbc04568728456b0d1b15bf78d7c093b1a5748ee06e1e1cf9148f67982e751b7c10fb7b9241ac050913f39f41b7ac1f887a2ccdb7623a/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www003.vipanicdn.net/streamhls/ad744784bd025fbf4052f5cb59c0c3bc/ep.6.1677597362.m3u8"
@@ -450,68 +388,62 @@
             "DUBBED": "MTM1NzIz",
             "SUBBED": "NDAyNjI="
         },
-        "outro": {
-            "start": 1316,
-            "end": 1401
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/b4/8c/b48cd62e7da719f7743e6f8697f44f43/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/b4/8c/b48cd62e7da719f7743e6f8697f44f43/fre-5.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/b4/8c/b48cd62e7da719f7743e6f8697f44f43/ger-7.vtt",
+                "lang": "German"
+            },
+            {
+                "url": "https://ccb.megaresources.co/b4/8c/b48cd62e7da719f7743e6f8697f44f43/por-6.vtt",
+                "lang": "Portuguese"
+            },
+            {
+                "url": "https://ccb.megaresources.co/b4/8c/b48cd62e7da719f7743e6f8697f44f43/spa-3.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/b4/8c/b48cd62e7da719f7743e6f8697f44f43/spa-4.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/fa/fa672a70b8cec258477dcce4e616fca2/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "7": {
         "intro": {
-            "start": 17,
-            "end": 106
+            "end": 106,
+            "start": 17
+        },
+        "outro": {
+            "end": 1401,
+            "start": 1316
         },
         "title": "Masquerade",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/21888b88ccef2c7dc88af675c1341702c39c573ac3d95ac38b8bc8d65cccb07f46d9bdba169073a6cfcc8741067dfa58865442371fb23542a1c3e925bf45dc92d859b42872b1652e9fe571f784a881623ccf4a1700d19972082a6395faa8b817766b1b7ce35b2006dc58a67e343492256931cad83b7eb8b6c11e7ab995f491f8/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www005.vipanicdn.net/streamhls/b1ca828d52f4894afb4fb028840ea279/ep.7.1677701586.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=golden-time-episode-dub-7"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/21888b88ccef2c7dc88af675c1341702c39c573ac3d95ac38b8bc8d65cccb07f46d9bdba169073a6cfcc8741067dfa58865442371fb23542a1c3e925bf45dc92d859b42872b1652e9fe571f784a881623ccf4a1700d19972082a6395faa8b817766b1b7ce35b2006dc58a67e343492256931cad83b7eb8b6c11e7ab995f491f8/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/26/260f451fb7937c1013aa13a91d92f22d/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/ec015c85131ada789e891a8cc8050b9c1eb8c3adb3138e43029a85422da20fb4810a84228aecd3aa80a40b496f38777e15a8e6efe4a3e12d8c9a60bb50e4bc91468f5cdd5bc220a19341a6a33f2b4b37fe0c7406710091103c19d51a38a7a94ff3644ae6b619b40f60f1b48e0311b08c0a0a8d3c93197f961ac5cfb656e0aac4/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/af/97/af978936aaa1275b80c9f2ca0d49f6fd/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/af/97/af978936aaa1275b80c9f2ca0d49f6fd/fre-5.vtt",
-                            "lang": "French"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/af/97/af978936aaa1275b80c9f2ca0d49f6fd/ger-7.vtt",
-                            "lang": "German"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/af/97/af978936aaa1275b80c9f2ca0d49f6fd/por-6.vtt",
-                            "lang": "Portuguese"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/af/97/af978936aaa1275b80c9f2ca0d49f6fd/spa-3.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/af/97/af978936aaa1275b80c9f2ca0d49f6fd/spa-4.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/26/260f451fb7937c1013aa13a91d92f22d/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/ec015c85131ada789e891a8cc8050b9c1eb8c3adb3138e43029a85422da20fb4810a84228aecd3aa80a40b496f38777e15a8e6efe4a3e12d8c9a60bb50e4bc91468f5cdd5bc220a19341a6a33f2b4b37fe0c7406710091103c19d51a38a7a94ff3644ae6b619b40f60f1b48e0311b08c0a0a8d3c93197f961ac5cfb656e0aac4/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www016.vipanicdn.net/streamhls/ad744784bd025fbf4052f5cb59c0c3bc/ep.7.1677659818.m3u8"
@@ -526,68 +458,62 @@
             "DUBBED": "MTM1NzI0",
             "SUBBED": "NDA4NDU="
         },
-        "outro": {
-            "start": 1316,
-            "end": 1401
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/af/97/af978936aaa1275b80c9f2ca0d49f6fd/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/af/97/af978936aaa1275b80c9f2ca0d49f6fd/fre-5.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/af/97/af978936aaa1275b80c9f2ca0d49f6fd/ger-7.vtt",
+                "lang": "German"
+            },
+            {
+                "url": "https://ccb.megaresources.co/af/97/af978936aaa1275b80c9f2ca0d49f6fd/por-6.vtt",
+                "lang": "Portuguese"
+            },
+            {
+                "url": "https://ccb.megaresources.co/af/97/af978936aaa1275b80c9f2ca0d49f6fd/spa-3.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/af/97/af978936aaa1275b80c9f2ca0d49f6fd/spa-4.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/26/260f451fb7937c1013aa13a91d92f22d/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "8": {
         "intro": {
-            "start": 185,
-            "end": 274
+            "end": 274,
+            "start": 185
+        },
+        "outro": {
+            "end": 1401,
+            "start": 1316
         },
         "title": "Reset",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/99e7146c3f337880c7b0611cef2553526fe53bd3bc0ada959a37595706211ee0482bc865af6b8f6b968c300bfc12b7083bbb4bc156dfc43dee4d070a6c6788a30769925b13617a0a23d98091510d31e9996db2acdec20205c2a4a5b08cc75c8fd20acc7ebe46bf5b7dd9eca066bdc0f73a25dd26e26e7ec996c147798d4a5c08/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www006.vipanicdn.net/streamhls/b1ca828d52f4894afb4fb028840ea279/ep.8.1677601400.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=golden-time-episode-dub-8"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/99e7146c3f337880c7b0611cef2553526fe53bd3bc0ada959a37595706211ee0482bc865af6b8f6b968c300bfc12b7083bbb4bc156dfc43dee4d070a6c6788a30769925b13617a0a23d98091510d31e9996db2acdec20205c2a4a5b08cc75c8fd20acc7ebe46bf5b7dd9eca066bdc0f73a25dd26e26e7ec996c147798d4a5c08/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/67/67c150324b2451d5dce5f974dfa2df9b/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/552c1e1256f1b98a9e6ab1a7224c1d2f4b87c14798fd97f4161b788ee6c8cce291f47dbd544c55afd05c9347cf8b198ebaa6b872fe7a37c62a7d338eeac9ae6b0dc95794ec63a3ea5eb88a248a226e32b55ad5af6d3d59c76b0b6b13e193e2b3070b23804271dadd3e1978fa6b35eba6c5f99a16061a80609586e8df933ec3ba/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/31/d6/31d6bc53df184ae55fbdd5c7273aeec7/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/31/d6/31d6bc53df184ae55fbdd5c7273aeec7/fre-5.vtt",
-                            "lang": "French"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/31/d6/31d6bc53df184ae55fbdd5c7273aeec7/ger-7.vtt",
-                            "lang": "German"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/31/d6/31d6bc53df184ae55fbdd5c7273aeec7/por-6.vtt",
-                            "lang": "Portuguese"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/31/d6/31d6bc53df184ae55fbdd5c7273aeec7/spa-3.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/31/d6/31d6bc53df184ae55fbdd5c7273aeec7/spa-4.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/67/67c150324b2451d5dce5f974dfa2df9b/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/552c1e1256f1b98a9e6ab1a7224c1d2f4b87c14798fd97f4161b788ee6c8cce291f47dbd544c55afd05c9347cf8b198ebaa6b872fe7a37c62a7d338eeac9ae6b0dc95794ec63a3ea5eb88a248a226e32b55ad5af6d3d59c76b0b6b13e193e2b3070b23804271dadd3e1978fa6b35eba6c5f99a16061a80609586e8df933ec3ba/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www023.vipanicdn.net/streamhls/ad744784bd025fbf4052f5cb59c0c3bc/ep.8.1677687700.m3u8"
@@ -602,68 +528,62 @@
             "DUBBED": "MTM1NzI1",
             "SUBBED": "NDEwMzI="
         },
-        "outro": {
-            "start": 1316,
-            "end": 1401
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/31/d6/31d6bc53df184ae55fbdd5c7273aeec7/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/31/d6/31d6bc53df184ae55fbdd5c7273aeec7/fre-5.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/31/d6/31d6bc53df184ae55fbdd5c7273aeec7/ger-7.vtt",
+                "lang": "German"
+            },
+            {
+                "url": "https://ccb.megaresources.co/31/d6/31d6bc53df184ae55fbdd5c7273aeec7/por-6.vtt",
+                "lang": "Portuguese"
+            },
+            {
+                "url": "https://ccb.megaresources.co/31/d6/31d6bc53df184ae55fbdd5c7273aeec7/spa-3.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/31/d6/31d6bc53df184ae55fbdd5c7273aeec7/spa-4.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/67/67c150324b2451d5dce5f974dfa2df9b/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "9": {
         "intro": {
-            "start": 60,
-            "end": 149
+            "end": 149,
+            "start": 60
+        },
+        "outro": {
+            "end": 1401,
+            "start": 1316
         },
         "title": "With You Again",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/6a33c8e88f4babb8aac48f78c14938c82d6ef634c26c38809ea432d95e86038f62ec3b4c61ddca5d12b069577b3b24daed245a65f5b80eddb9091f58540bb3f9e0b8f9dc302e68b888d33fd53b16fe7319c064698979d631cd3b04abcdaa63d1963c188b432c89026cd278d61b1a1865416d2763ec43f808556fb252ea36bb4a/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www007.vipanicdn.net/streamhls/b1ca828d52f4894afb4fb028840ea279/ep.9.1677604375.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=golden-time-episode-dub-9"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/6a33c8e88f4babb8aac48f78c14938c82d6ef634c26c38809ea432d95e86038f62ec3b4c61ddca5d12b069577b3b24daed245a65f5b80eddb9091f58540bb3f9e0b8f9dc302e68b888d33fd53b16fe7319c064698979d631cd3b04abcdaa63d1963c188b432c89026cd278d61b1a1865416d2763ec43f808556fb252ea36bb4a/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/8d/8d5fb08dda7b293a06da52eaa04a29ac/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/0cb0117d27af1cc7b519530402062fdaa0cd3fbbb3c62b734d3a9a23ad32ca052d6ab0b8f5564eedb97f89cfe62ba39344d4ed436cdc4ca15c335199bdcc810bb201e79094b39db85b6ea6ec86fd21605a449b806efe19ce029a6474cc9e03c01fb30264822e72b9e06405ff88a83d01e77f750121a86087de77343ff1ae7e69/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/23/06/23068dc6c2e7242785263ab5639fed1e/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/23/06/23068dc6c2e7242785263ab5639fed1e/fre-5.vtt",
-                            "lang": "French"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/23/06/23068dc6c2e7242785263ab5639fed1e/ger-7.vtt",
-                            "lang": "German"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/23/06/23068dc6c2e7242785263ab5639fed1e/por-6.vtt",
-                            "lang": "Portuguese"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/23/06/23068dc6c2e7242785263ab5639fed1e/spa-3.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/23/06/23068dc6c2e7242785263ab5639fed1e/spa-4.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/8d/8d5fb08dda7b293a06da52eaa04a29ac/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/0cb0117d27af1cc7b519530402062fdaa0cd3fbbb3c62b734d3a9a23ad32ca052d6ab0b8f5564eedb97f89cfe62ba39344d4ed436cdc4ca15c335199bdcc810bb201e79094b39db85b6ea6ec86fd21605a449b806efe19ce029a6474cc9e03c01fb30264822e72b9e06405ff88a83d01e77f750121a86087de77343ff1ae7e69/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www001.vipanicdn.net/streamhls/ad744784bd025fbf4052f5cb59c0c3bc/ep.9.1677661326.m3u8"
@@ -678,68 +598,62 @@
             "DUBBED": "MTM1NzI2",
             "SUBBED": "NDExOTA="
         },
-        "outro": {
-            "start": 1316,
-            "end": 1401
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/23/06/23068dc6c2e7242785263ab5639fed1e/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/23/06/23068dc6c2e7242785263ab5639fed1e/fre-5.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/23/06/23068dc6c2e7242785263ab5639fed1e/ger-7.vtt",
+                "lang": "German"
+            },
+            {
+                "url": "https://ccb.megaresources.co/23/06/23068dc6c2e7242785263ab5639fed1e/por-6.vtt",
+                "lang": "Portuguese"
+            },
+            {
+                "url": "https://ccb.megaresources.co/23/06/23068dc6c2e7242785263ab5639fed1e/spa-3.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/23/06/23068dc6c2e7242785263ab5639fed1e/spa-4.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/8d/8d5fb08dda7b293a06da52eaa04a29ac/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "10": {
         "intro": {
-            "start": 110,
-            "end": 199
+            "end": 199,
+            "start": 110
+        },
+        "outro": {
+            "end": 1401,
+            "start": 1316
         },
         "title": "In the Mirror",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/468c7b88b21ee41572485fffb2416f886d3732f5bc35a2fc4254fce29de2fb5617b6367e390852bd4e84ae07ca40e46e91a3461285d5ff0fd4fa4c86888380791ab6e953a7c9e53528978ee65daa2d78056025cf7b4bfb6d232a755de3f6702510615d69e54ef2cbf9509afc6361ce5e5c631c3ec82f0e616839ae5c9975e32d/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www008.vipanicdn.net/streamhls/b1ca828d52f4894afb4fb028840ea279/ep.10.1677603167.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=golden-time-episode-dub-10"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/468c7b88b21ee41572485fffb2416f886d3732f5bc35a2fc4254fce29de2fb5617b6367e390852bd4e84ae07ca40e46e91a3461285d5ff0fd4fa4c86888380791ab6e953a7c9e53528978ee65daa2d78056025cf7b4bfb6d232a755de3f6702510615d69e54ef2cbf9509afc6361ce5e5c631c3ec82f0e616839ae5c9975e32d/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/e3/e3d25fad2fa04ce7b32eae70204c3822/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/2c329949ec72ce1a6c6b4a9944753cd31419fc4a3dee0a5de8593542ab74cd25efa47cd143527531703567befc13b19dd116a7f753c243e6f881e46058ec1078a30b6c05a18f6a8b70599cd45238eb9bcf4da45710a7e3d61cbc90bfc50ca1a547df94ccfe39ed80c73dc92256574d4f4f13e3e3afc19cf2c5dd6f879cb703ca/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/18/fd/18fd36285dd3334c194950d8a85e0431/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/18/fd/18fd36285dd3334c194950d8a85e0431/fre-5.vtt",
-                            "lang": "French"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/18/fd/18fd36285dd3334c194950d8a85e0431/ger-7.vtt",
-                            "lang": "German"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/18/fd/18fd36285dd3334c194950d8a85e0431/por-6.vtt",
-                            "lang": "Portuguese"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/18/fd/18fd36285dd3334c194950d8a85e0431/spa-3.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/18/fd/18fd36285dd3334c194950d8a85e0431/spa-4.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/e3/e3d25fad2fa04ce7b32eae70204c3822/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/2c329949ec72ce1a6c6b4a9944753cd31419fc4a3dee0a5de8593542ab74cd25efa47cd143527531703567befc13b19dd116a7f753c243e6f881e46058ec1078a30b6c05a18f6a8b70599cd45238eb9bcf4da45710a7e3d61cbc90bfc50ca1a547df94ccfe39ed80c73dc92256574d4f4f13e3e3afc19cf2c5dd6f879cb703ca/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www004.vipanicdn.net/streamhls/ad744784bd025fbf4052f5cb59c0c3bc/ep.10.1677601097.m3u8"
@@ -754,68 +668,62 @@
             "DUBBED": "MTM1NzI3",
             "SUBBED": "NDExOTM="
         },
-        "outro": {
-            "start": 1316,
-            "end": 1401
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/18/fd/18fd36285dd3334c194950d8a85e0431/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/18/fd/18fd36285dd3334c194950d8a85e0431/fre-5.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/18/fd/18fd36285dd3334c194950d8a85e0431/ger-7.vtt",
+                "lang": "German"
+            },
+            {
+                "url": "https://ccb.megaresources.co/18/fd/18fd36285dd3334c194950d8a85e0431/por-6.vtt",
+                "lang": "Portuguese"
+            },
+            {
+                "url": "https://ccb.megaresources.co/18/fd/18fd36285dd3334c194950d8a85e0431/spa-3.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/18/fd/18fd36285dd3334c194950d8a85e0431/spa-4.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/e3/e3d25fad2fa04ce7b32eae70204c3822/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "11": {
         "intro": {
-            "start": 89,
-            "end": 178
+            "end": 178,
+            "start": 89
+        },
+        "outro": {
+            "end": 1401,
+            "start": 1316
         },
         "title": "Trouble Party",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/15de155889626386f73d9a9bc2726e10427e50d8e3b90739135e558ecb464555b3757ed9429c2d66d61c9ee581dc6c64d241b7fb1f671f6e53487c6c92491f6330c0f7a0f95f6fe45c0c7421afff058f0abb28a95a2030f8686624c6835b7c6afd89a27d09d2de1ffae95758987d50e8b6604d3e232369ae6708ca4264afd9c2/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www009.vipanicdn.net/streamhls/b1ca828d52f4894afb4fb028840ea279/ep.11.1677607597.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=golden-time-episode-dub-11"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/15de155889626386f73d9a9bc2726e10427e50d8e3b90739135e558ecb464555b3757ed9429c2d66d61c9ee581dc6c64d241b7fb1f671f6e53487c6c92491f6330c0f7a0f95f6fe45c0c7421afff058f0abb28a95a2030f8686624c6835b7c6afd89a27d09d2de1ffae95758987d50e8b6604d3e232369ae6708ca4264afd9c2/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/65/65ee29a7b10906b34b1efdb2af1fe942/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/5f957df70f4a929e020842aefe892450b6e41eac5abcb66a3065e3d7a9bc59da81fdbf81446581531a02539356de647538235528d4774946a65691ff3eb8baf0f641f646f4c045bf29fd9c08b61f4707e0db56b70880c5390a6739fabda3034d6cf316c0e1bb171d8c2541d9d4835a37f5834a50156ee17a6c3face5e87c7d51/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/2c/26/2c2634ecbc715abe7cd74ea23612fb65/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/2c/26/2c2634ecbc715abe7cd74ea23612fb65/fre-5.vtt",
-                            "lang": "French"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/2c/26/2c2634ecbc715abe7cd74ea23612fb65/ger-7.vtt",
-                            "lang": "German"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/2c/26/2c2634ecbc715abe7cd74ea23612fb65/por-6.vtt",
-                            "lang": "Portuguese"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/2c/26/2c2634ecbc715abe7cd74ea23612fb65/spa-3.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/2c/26/2c2634ecbc715abe7cd74ea23612fb65/spa-4.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/65/65ee29a7b10906b34b1efdb2af1fe942/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/5f957df70f4a929e020842aefe892450b6e41eac5abcb66a3065e3d7a9bc59da81fdbf81446581531a02539356de647538235528d4774946a65691ff3eb8baf0f641f646f4c045bf29fd9c08b61f4707e0db56b70880c5390a6739fabda3034d6cf316c0e1bb171d8c2541d9d4835a37f5834a50156ee17a6c3face5e87c7d51/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www003.vipanicdn.net/streamhls/ad744784bd025fbf4052f5cb59c0c3bc/ep.11.1677598762.m3u8"
@@ -830,68 +738,62 @@
             "DUBBED": "MTM1NzI4",
             "SUBBED": "NDEzMTI="
         },
-        "outro": {
-            "start": 1316,
-            "end": 1401
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/2c/26/2c2634ecbc715abe7cd74ea23612fb65/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/2c/26/2c2634ecbc715abe7cd74ea23612fb65/fre-5.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/2c/26/2c2634ecbc715abe7cd74ea23612fb65/ger-7.vtt",
+                "lang": "German"
+            },
+            {
+                "url": "https://ccb.megaresources.co/2c/26/2c2634ecbc715abe7cd74ea23612fb65/por-6.vtt",
+                "lang": "Portuguese"
+            },
+            {
+                "url": "https://ccb.megaresources.co/2c/26/2c2634ecbc715abe7cd74ea23612fb65/spa-3.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/2c/26/2c2634ecbc715abe7cd74ea23612fb65/spa-4.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/65/65ee29a7b10906b34b1efdb2af1fe942/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "12": {
         "intro": {
-            "start": 32,
-            "end": 121
+            "end": 121,
+            "start": 32
+        },
+        "outro": {
+            "end": 1401,
+            "start": 1316
         },
         "title": "Don't Look Back",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/8c990cc46e87fabfa7b3eaee7a9f4f65b4faeda939df38f83f6f8dba53cbcd3983fa4a9ed3ebd0eda0eee4e3347dc608a9ffeee859e58675c8830915cf1b6acf297153c111498e6589148d95b878242b1c9e84339c00cc8c87e6efec49f408d94e743647ccdde69a008fa0bb64f7f1717d23fd9b98deae292c27f4d931988ed9/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www010.vipanicdn.net/streamhls/b1ca828d52f4894afb4fb028840ea279/ep.12.1677608533.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=golden-time-episode-dub-12"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/8c990cc46e87fabfa7b3eaee7a9f4f65b4faeda939df38f83f6f8dba53cbcd3983fa4a9ed3ebd0eda0eee4e3347dc608a9ffeee859e58675c8830915cf1b6acf297153c111498e6589148d95b878242b1c9e84339c00cc8c87e6efec49f408d94e743647ccdde69a008fa0bb64f7f1717d23fd9b98deae292c27f4d931988ed9/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/20/20b9613cb44e8a751cca31cd40f56379/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/61608224e586a675217e0dd2d40d94839a204c7b84281b0970e63bbba110b159563c747ebcff638f3b8929c5d675f11ba2042ee7d36dd37d41655e257eb4638db63c99263d243efb3bcecfad7199f42ff17a823454163afd9725155960958f96dccfa5a7fe3ada2f3755017cd802334727789caa11c34c4c2e41c9da9ef6cc1a/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/33/10/3310b2aa6243df8669901cff52ca7df2/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/33/10/3310b2aa6243df8669901cff52ca7df2/fre-5.vtt",
-                            "lang": "French"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/33/10/3310b2aa6243df8669901cff52ca7df2/ger-7.vtt",
-                            "lang": "German"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/33/10/3310b2aa6243df8669901cff52ca7df2/por-6.vtt",
-                            "lang": "Portuguese"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/33/10/3310b2aa6243df8669901cff52ca7df2/spa-3.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/33/10/3310b2aa6243df8669901cff52ca7df2/spa-4.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/20/20b9613cb44e8a751cca31cd40f56379/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/61608224e586a675217e0dd2d40d94839a204c7b84281b0970e63bbba110b159563c747ebcff638f3b8929c5d675f11ba2042ee7d36dd37d41655e257eb4638db63c99263d243efb3bcecfad7199f42ff17a823454163afd9725155960958f96dccfa5a7fe3ada2f3755017cd802334727789caa11c34c4c2e41c9da9ef6cc1a/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www023.vipanicdn.net/streamhls/ad744784bd025fbf4052f5cb59c0c3bc/ep.12.1677688134.m3u8"
@@ -906,68 +808,62 @@
             "DUBBED": "MTM1NzI5",
             "SUBBED": "NDEzOTI="
         },
-        "outro": {
-            "start": 1316,
-            "end": 1401
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/33/10/3310b2aa6243df8669901cff52ca7df2/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/33/10/3310b2aa6243df8669901cff52ca7df2/fre-5.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/33/10/3310b2aa6243df8669901cff52ca7df2/ger-7.vtt",
+                "lang": "German"
+            },
+            {
+                "url": "https://ccb.megaresources.co/33/10/3310b2aa6243df8669901cff52ca7df2/por-6.vtt",
+                "lang": "Portuguese"
+            },
+            {
+                "url": "https://ccb.megaresources.co/33/10/3310b2aa6243df8669901cff52ca7df2/spa-3.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/33/10/3310b2aa6243df8669901cff52ca7df2/spa-4.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/20/20b9613cb44e8a751cca31cd40f56379/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "13": {
         "intro": {
-            "start": 137,
-            "end": 226
+            "end": 226,
+            "start": 137
+        },
+        "outro": {
+            "end": 1404,
+            "start": 1316
         },
         "title": "Summer Has Come",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/53262bf8da76ab4b8f29ea3e09010f1891d4717610ecff66536b6c27e3f1e62eea5fd9389fd6a787d3bcf4743173407a293a651b4030d9cefd3ae41cbda4280a6c685688ad586bfac472d7d087908566c9e42cd1d4678cf4d1cdf5c968345c5901aab7e001dc7b56ac3f5571a3e232e8335e1d3e9693e7e515b545e2ef644be5/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www011.vipanicdn.net/streamhls/b1ca828d52f4894afb4fb028840ea279/ep.13.1677710554.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=golden-time-episode-dub-13"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/53262bf8da76ab4b8f29ea3e09010f1891d4717610ecff66536b6c27e3f1e62eea5fd9389fd6a787d3bcf4743173407a293a651b4030d9cefd3ae41cbda4280a6c685688ad586bfac472d7d087908566c9e42cd1d4678cf4d1cdf5c968345c5901aab7e001dc7b56ac3f5571a3e232e8335e1d3e9693e7e515b545e2ef644be5/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/dc/dc71349fad7c1fec1d2640ac45ff9474/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/813981476c563ff543bbc13671fd8bcdec9a2103013d4cbf8ba60cf68d9df147010f79d40e748111ab3285ad6edabb03363df1af7e1a4e8053b7c2609b992178d9778f65fdfaca64c35dc8d1e2dc6749cbddc075bfb70cc60a9adf355eb579ccad2c48f274ddd71e8db64494005516530edfd42c05b396894e6833355d1dbccf/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/9e/84/9e84713e9f47010725538cd1c47ff150/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/9e/84/9e84713e9f47010725538cd1c47ff150/fre-5.vtt",
-                            "lang": "French"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/9e/84/9e84713e9f47010725538cd1c47ff150/ger-7.vtt",
-                            "lang": "German"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/9e/84/9e84713e9f47010725538cd1c47ff150/por-6.vtt",
-                            "lang": "Portuguese"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/9e/84/9e84713e9f47010725538cd1c47ff150/spa-3.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/9e/84/9e84713e9f47010725538cd1c47ff150/spa-4.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/dc/dc71349fad7c1fec1d2640ac45ff9474/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/813981476c563ff543bbc13671fd8bcdec9a2103013d4cbf8ba60cf68d9df147010f79d40e748111ab3285ad6edabb03363df1af7e1a4e8053b7c2609b992178d9778f65fdfaca64c35dc8d1e2dc6749cbddc075bfb70cc60a9adf355eb579ccad2c48f274ddd71e8db64494005516530edfd42c05b396894e6833355d1dbccf/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www028.vipanicdn.net/streamhls/ad744784bd025fbf4052f5cb59c0c3bc/ep.13.1677662811.m3u8"
@@ -982,68 +878,62 @@
             "DUBBED": "MTM1NzMw",
             "SUBBED": "NDEzOTc="
         },
-        "outro": {
-            "start": 1316,
-            "end": 1404
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/9e/84/9e84713e9f47010725538cd1c47ff150/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/9e/84/9e84713e9f47010725538cd1c47ff150/fre-5.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/9e/84/9e84713e9f47010725538cd1c47ff150/ger-7.vtt",
+                "lang": "German"
+            },
+            {
+                "url": "https://ccb.megaresources.co/9e/84/9e84713e9f47010725538cd1c47ff150/por-6.vtt",
+                "lang": "Portuguese"
+            },
+            {
+                "url": "https://ccb.megaresources.co/9e/84/9e84713e9f47010725538cd1c47ff150/spa-3.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/9e/84/9e84713e9f47010725538cd1c47ff150/spa-4.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/dc/dc71349fad7c1fec1d2640ac45ff9474/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "14": {
         "intro": {
-            "start": 22,
-            "end": 111
+            "end": 111,
+            "start": 22
+        },
+        "outro": {
+            "end": 1404,
+            "start": 1316
         },
         "title": "Ladies Talk",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/9713374ec2720600961da31b17ecea4d4c1479c1ff905de5e1a6b3877201766d4498d00db114058e83cae22368e8f0663d9f3dc23d6b2e9249fc43c3034e570f0cce32ba8f1b92d8561026c9e2900d49d2ebbe3b130e9d8b1b33c7b5b8767fcb44a79ff0b46899796e7bd40076b4ae3929024524732473b8853f8380bb3b75f1/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www012.vipanicdn.net/streamhls/b1ca828d52f4894afb4fb028840ea279/ep.14.1677620506.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=golden-time-episode-dub-14"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/9713374ec2720600961da31b17ecea4d4c1479c1ff905de5e1a6b3877201766d4498d00db114058e83cae22368e8f0663d9f3dc23d6b2e9249fc43c3034e570f0cce32ba8f1b92d8561026c9e2900d49d2ebbe3b130e9d8b1b33c7b5b8767fcb44a79ff0b46899796e7bd40076b4ae3929024524732473b8853f8380bb3b75f1/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/a4/a4b7d84e8f2bcfec0793da39e5423629/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/57bceb67d2ac0d3e7b62e343bd2861e3108445bcf1ef4dac242eba00c96040940c0ef20f2cf0fdbaac0d5b57a6c523ef06657b2c19d94ad00dc87a4db7b9208ef507c75d1a78c994420f07d6276fbebd5f120a77e3b88939513a8ce0e7ed92fe5f62848e7a80b9bae48358f1929a5d8ca76dd351157786544844399fdd7a970d/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/fc/65/fc654f2634aa90ff34b5cc62767e7051/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/fc/65/fc654f2634aa90ff34b5cc62767e7051/fre-5.vtt",
-                            "lang": "French"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/fc/65/fc654f2634aa90ff34b5cc62767e7051/ger-7.vtt",
-                            "lang": "German"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/fc/65/fc654f2634aa90ff34b5cc62767e7051/por-6.vtt",
-                            "lang": "Portuguese"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/fc/65/fc654f2634aa90ff34b5cc62767e7051/spa-3.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/fc/65/fc654f2634aa90ff34b5cc62767e7051/spa-4.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/a4/a4b7d84e8f2bcfec0793da39e5423629/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/57bceb67d2ac0d3e7b62e343bd2861e3108445bcf1ef4dac242eba00c96040940c0ef20f2cf0fdbaac0d5b57a6c523ef06657b2c19d94ad00dc87a4db7b9208ef507c75d1a78c994420f07d6276fbebd5f120a77e3b88939513a8ce0e7ed92fe5f62848e7a80b9bae48358f1929a5d8ca76dd351157786544844399fdd7a970d/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www024.vipanicdn.net/streamhls/ad744784bd025fbf4052f5cb59c0c3bc/ep.14.1677663993.m3u8"
@@ -1058,68 +948,62 @@
             "DUBBED": "MTM1NzMx",
             "SUBBED": "NDE2MDM="
         },
-        "outro": {
-            "start": 1316,
-            "end": 1404
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/fc/65/fc654f2634aa90ff34b5cc62767e7051/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/fc/65/fc654f2634aa90ff34b5cc62767e7051/fre-5.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/fc/65/fc654f2634aa90ff34b5cc62767e7051/ger-7.vtt",
+                "lang": "German"
+            },
+            {
+                "url": "https://ccb.megaresources.co/fc/65/fc654f2634aa90ff34b5cc62767e7051/por-6.vtt",
+                "lang": "Portuguese"
+            },
+            {
+                "url": "https://ccb.megaresources.co/fc/65/fc654f2634aa90ff34b5cc62767e7051/spa-3.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/fc/65/fc654f2634aa90ff34b5cc62767e7051/spa-4.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/a4/a4b7d84e8f2bcfec0793da39e5423629/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "15": {
         "intro": {
-            "start": 181,
-            "end": 270
+            "end": 270,
+            "start": 181
+        },
+        "outro": {
+            "end": 1404,
+            "start": 1316
         },
         "title": "Accident Beach",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/0646db9b2882aa6c1e7809da9edd153c2c38011376faa39dc46c0825360c47be0131c060becca331aae30969da14cde80aa86996558bff719c7ae048ac82e9e0f85734c7ffec412164dab69965c0ac4ffd4a545d5a7ca3447d0955e043a42e958f15f27c60b7fbd5f38321c4c8831896d574f913a974b89cbcc06bc9054bd6a2/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www013.vipanicdn.net/streamhls/b1ca828d52f4894afb4fb028840ea279/ep.15.1677694708.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=golden-time-episode-dub-15"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/0646db9b2882aa6c1e7809da9edd153c2c38011376faa39dc46c0825360c47be0131c060becca331aae30969da14cde80aa86996558bff719c7ae048ac82e9e0f85734c7ffec412164dab69965c0ac4ffd4a545d5a7ca3447d0955e043a42e958f15f27c60b7fbd5f38321c4c8831896d574f913a974b89cbcc06bc9054bd6a2/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/c4/c4674d7c59b03f17a62219cbc31b9381/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/44337c5b037922cad5a328d48d393765db04cab718a6c068634d4498d512b30287e4d6d1ca06d716dfccec8f0a82a69adb6df7971914a0753d666088708b41655fc52d8181f454f2eb0f5c80406d54fa0838aafb95bb68dd2af935e4cff81816bc828d6be03e8700978cdee81b96eec36f8a4ee87239684500fca614fab1879d/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/6d/da/6dda69b5e8c7176a54f04183e29abb92/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/6d/da/6dda69b5e8c7176a54f04183e29abb92/fre-5.vtt",
-                            "lang": "French"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/6d/da/6dda69b5e8c7176a54f04183e29abb92/ger-7.vtt",
-                            "lang": "German"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/6d/da/6dda69b5e8c7176a54f04183e29abb92/por-6.vtt",
-                            "lang": "Portuguese"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/6d/da/6dda69b5e8c7176a54f04183e29abb92/spa-3.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/6d/da/6dda69b5e8c7176a54f04183e29abb92/spa-4.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/c4/c4674d7c59b03f17a62219cbc31b9381/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/44337c5b037922cad5a328d48d393765db04cab718a6c068634d4498d512b30287e4d6d1ca06d716dfccec8f0a82a69adb6df7971914a0753d666088708b41655fc52d8181f454f2eb0f5c80406d54fa0838aafb95bb68dd2af935e4cff81816bc828d6be03e8700978cdee81b96eec36f8a4ee87239684500fca614fab1879d/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www001.vipanicdn.net/streamhls/ad744784bd025fbf4052f5cb59c0c3bc/ep.15.1677661580.m3u8"
@@ -1134,64 +1018,62 @@
             "DUBBED": "MTM1NzMy",
             "SUBBED": "NDE3MDA="
         },
-        "outro": {
-            "start": 1316,
-            "end": 1404
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/6d/da/6dda69b5e8c7176a54f04183e29abb92/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/6d/da/6dda69b5e8c7176a54f04183e29abb92/fre-5.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/6d/da/6dda69b5e8c7176a54f04183e29abb92/ger-7.vtt",
+                "lang": "German"
+            },
+            {
+                "url": "https://ccb.megaresources.co/6d/da/6dda69b5e8c7176a54f04183e29abb92/por-6.vtt",
+                "lang": "Portuguese"
+            },
+            {
+                "url": "https://ccb.megaresources.co/6d/da/6dda69b5e8c7176a54f04183e29abb92/spa-3.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/6d/da/6dda69b5e8c7176a54f04183e29abb92/spa-4.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/c4/c4674d7c59b03f17a62219cbc31b9381/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "16": {
         "intro": {
-            "start": 46,
-            "end": 135
+            "end": 135,
+            "start": 46
+        },
+        "outro": {
+            "end": 1404,
+            "start": 1316
         },
         "title": "Wake-up Call",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/ecf289bac0d1831b227037b3031da0a27d7feeb70ef4c178d58a47b79b94635cd5ae8659421334ceaa1a7fb9ba3b010c7263e1b12c8f56669c188ee17ea15a4fe97de1502383dfc42fffeb76824ea99bbcd017323e1f2f06b49c5c2b28d65aa0d43b2d8429c2534a9fcfc59d3f7b83b58b3025acd4c239c27113504309f87cf0/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www014.vipanicdn.net/streamhls/b1ca828d52f4894afb4fb028840ea279/ep.16.1677623862.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=golden-time-episode-dub-16"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/ecf289bac0d1831b227037b3031da0a27d7feeb70ef4c178d58a47b79b94635cd5ae8659421334ceaa1a7fb9ba3b010c7263e1b12c8f56669c188ee17ea15a4fe97de1502383dfc42fffeb76824ea99bbcd017323e1f2f06b49c5c2b28d65aa0d43b2d8429c2534a9fcfc59d3f7b83b58b3025acd4c239c27113504309f87cf0/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/fa/fab774d363866bb9e6b3cd10372cba18/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/c310df74e299e8509907c0bc1396d04a15a7c49a31fd0c9fe4db0692cb48d656bb485365a33975b08baa7962b811757355afa98ce88738954fb812a08ce8a5b28560f5626c36515df155e935199c6e2a16c1d6e78327e3dc07264ebb0d0d2ca786f05432677a6f05871d25cc31a7e29bd02f3cec5c920503e9d6c3e2739cdf13/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/9b/81/9b813e19529d574045964eb681172b01/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/9b/81/9b813e19529d574045964eb681172b01/fre-4.vtt",
-                            "lang": "French"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/9b/81/9b813e19529d574045964eb681172b01/ger-6.vtt",
-                            "lang": "German"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/9b/81/9b813e19529d574045964eb681172b01/por-5.vtt",
-                            "lang": "Portuguese"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/9b/81/9b813e19529d574045964eb681172b01/spa-3.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/fa/fab774d363866bb9e6b3cd10372cba18/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/c310df74e299e8509907c0bc1396d04a15a7c49a31fd0c9fe4db0692cb48d656bb485365a33975b08baa7962b811757355afa98ce88738954fb812a08ce8a5b28560f5626c36515df155e935199c6e2a16c1d6e78327e3dc07264ebb0d0d2ca786f05432677a6f05871d25cc31a7e29bd02f3cec5c920503e9d6c3e2739cdf13/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www017.vipanicdn.net/streamhls/ad744784bd025fbf4052f5cb59c0c3bc/ep.16.1677661767.m3u8"
@@ -1206,68 +1088,58 @@
             "DUBBED": "MTM1NzMz",
             "SUBBED": "NDE3NzY="
         },
-        "outro": {
-            "start": 1316,
-            "end": 1404
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/9b/81/9b813e19529d574045964eb681172b01/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/9b/81/9b813e19529d574045964eb681172b01/fre-4.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/9b/81/9b813e19529d574045964eb681172b01/ger-6.vtt",
+                "lang": "German"
+            },
+            {
+                "url": "https://ccb.megaresources.co/9b/81/9b813e19529d574045964eb681172b01/por-5.vtt",
+                "lang": "Portuguese"
+            },
+            {
+                "url": "https://ccb.megaresources.co/9b/81/9b813e19529d574045964eb681172b01/spa-3.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/fa/fab774d363866bb9e6b3cd10372cba18/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "17": {
         "intro": {
-            "start": 16,
-            "end": 105
+            "end": 105,
+            "start": 16
+        },
+        "outro": {
+            "end": 1404,
+            "start": 1316
         },
         "title": "Return to Yesterday",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/164d7280aeab48fa937ce40cba063dd243bc58347a18f8409239a0f73116e3f923ab50ca6a7e161dc060f26374526b82fc7ad351ee1e903366a4cc8ae2edf1556245d95b4ee01985a2d132bd116276f1fb3080c73cf8472cc07c538b3ebbb1ab4c69ab6e1477da1a87016893906f2563dde0968a6a88dcb65f43a24b7fa30fe5/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www015.vipanicdn.net/streamhls/b1ca828d52f4894afb4fb028840ea279/ep.17.1677625651.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=golden-time-episode-dub-17"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/164d7280aeab48fa937ce40cba063dd243bc58347a18f8409239a0f73116e3f923ab50ca6a7e161dc060f26374526b82fc7ad351ee1e903366a4cc8ae2edf1556245d95b4ee01985a2d132bd116276f1fb3080c73cf8472cc07c538b3ebbb1ab4c69ab6e1477da1a87016893906f2563dde0968a6a88dcb65f43a24b7fa30fe5/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/e2/e25f12fe1b58175b73098a8bbde5f9af/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/323db69c95be2b1a2c9ed17bbfb2064b971873fee650d0a025c85e1032a9cb10f063f887c2eec97b3bf35846f945f746b3dc4f4eb3ca3a16546514a5d6aae3ea3b6a0ec2b11fdcfd7dac313ee505dde598666e8ef42fb3cf8ddd7ac7a9fc68437a816a56a597c12bd0a6465367ea2630910cfea5a79ac18c79db434001db23ab/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/7e/4a/7e4a1f32f55f93f551f62e5c072fb01d/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/7e/4a/7e4a1f32f55f93f551f62e5c072fb01d/fre-5.vtt",
-                            "lang": "French"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/7e/4a/7e4a1f32f55f93f551f62e5c072fb01d/ger-7.vtt",
-                            "lang": "German"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/7e/4a/7e4a1f32f55f93f551f62e5c072fb01d/por-6.vtt",
-                            "lang": "Portuguese"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/7e/4a/7e4a1f32f55f93f551f62e5c072fb01d/spa-3.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/7e/4a/7e4a1f32f55f93f551f62e5c072fb01d/spa-4.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/e2/e25f12fe1b58175b73098a8bbde5f9af/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/323db69c95be2b1a2c9ed17bbfb2064b971873fee650d0a025c85e1032a9cb10f063f887c2eec97b3bf35846f945f746b3dc4f4eb3ca3a16546514a5d6aae3ea3b6a0ec2b11fdcfd7dac313ee505dde598666e8ef42fb3cf8ddd7ac7a9fc68437a816a56a597c12bd0a6465367ea2630910cfea5a79ac18c79db434001db23ab/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www008.vipanicdn.net/streamhls/ad744784bd025fbf4052f5cb59c0c3bc/ep.17.1677600410.m3u8"
@@ -1282,68 +1154,62 @@
             "DUBBED": "MTM1NzM0",
             "SUBBED": "NDE4NTc="
         },
-        "outro": {
-            "start": 1316,
-            "end": 1404
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/7e/4a/7e4a1f32f55f93f551f62e5c072fb01d/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/7e/4a/7e4a1f32f55f93f551f62e5c072fb01d/fre-5.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/7e/4a/7e4a1f32f55f93f551f62e5c072fb01d/ger-7.vtt",
+                "lang": "German"
+            },
+            {
+                "url": "https://ccb.megaresources.co/7e/4a/7e4a1f32f55f93f551f62e5c072fb01d/por-6.vtt",
+                "lang": "Portuguese"
+            },
+            {
+                "url": "https://ccb.megaresources.co/7e/4a/7e4a1f32f55f93f551f62e5c072fb01d/spa-3.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/7e/4a/7e4a1f32f55f93f551f62e5c072fb01d/spa-4.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/e2/e25f12fe1b58175b73098a8bbde5f9af/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "18": {
         "intro": {
-            "start": 44,
-            "end": 133
+            "end": 133,
+            "start": 44
+        },
+        "outro": {
+            "end": 1404,
+            "start": 1316
         },
         "title": "My Hometown",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/aef6f8ebef14caa423c6d43981af62585679868aca3bdd57440141ce26caf8dfed1d64d6fb99fc461e29f9d482d2d6fe896732e24462f0c58cfd3a239bb21038577d7b018a74c3d7abbcc93cf0ce3f57ceb5d5fa6d438313c40105074497fa11ebffdb93e07c139f78dfa2b7d4a9f3a2a9c1cd3168e95d9a8f1c242058acb129/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www016.vipanicdn.net/streamhls/b1ca828d52f4894afb4fb028840ea279/ep.18.1677696318.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=golden-time-episode-dub-18"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/aef6f8ebef14caa423c6d43981af62585679868aca3bdd57440141ce26caf8dfed1d64d6fb99fc461e29f9d482d2d6fe896732e24462f0c58cfd3a239bb21038577d7b018a74c3d7abbcc93cf0ce3f57ceb5d5fa6d438313c40105074497fa11ebffdb93e07c139f78dfa2b7d4a9f3a2a9c1cd3168e95d9a8f1c242058acb129/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/4a/4a918168e7ffed33ab792ab44be1db81/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/1b94e938914293450b6960ac843c5fe7ccb83378b778e5481c362136202a387f258f1a67363b73742c8596df8fb03be843942dec350fcb3018b801a488d970cda804f70e7965fca3de5d7350732f0a01d670a951ec602651c5c865790b194e1d98cf2556fd309b1de4c376c2e379b9b9ec1fa7498bc97d203f49d11a081a5f6d/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/aa/7e/aa7e732a79977d9860381334d4414388/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/aa/7e/aa7e732a79977d9860381334d4414388/fre-5.vtt",
-                            "lang": "French"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/aa/7e/aa7e732a79977d9860381334d4414388/ger-7.vtt",
-                            "lang": "German"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/aa/7e/aa7e732a79977d9860381334d4414388/por-6.vtt",
-                            "lang": "Portuguese"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/aa/7e/aa7e732a79977d9860381334d4414388/spa-3.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/aa/7e/aa7e732a79977d9860381334d4414388/spa-4.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/4a/4a918168e7ffed33ab792ab44be1db81/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/1b94e938914293450b6960ac843c5fe7ccb83378b778e5481c362136202a387f258f1a67363b73742c8596df8fb03be843942dec350fcb3018b801a488d970cda804f70e7965fca3de5d7350732f0a01d670a951ec602651c5c865790b194e1d98cf2556fd309b1de4c376c2e379b9b9ec1fa7498bc97d203f49d11a081a5f6d/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www014.vipanicdn.net/streamhls/ad744784bd025fbf4052f5cb59c0c3bc/ep.18.1677620114.m3u8"
@@ -1358,68 +1224,62 @@
             "DUBBED": "MTM1NzM1",
             "SUBBED": "NDE5MjM="
         },
-        "outro": {
-            "start": 1316,
-            "end": 1404
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/aa/7e/aa7e732a79977d9860381334d4414388/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/aa/7e/aa7e732a79977d9860381334d4414388/fre-5.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/aa/7e/aa7e732a79977d9860381334d4414388/ger-7.vtt",
+                "lang": "German"
+            },
+            {
+                "url": "https://ccb.megaresources.co/aa/7e/aa7e732a79977d9860381334d4414388/por-6.vtt",
+                "lang": "Portuguese"
+            },
+            {
+                "url": "https://ccb.megaresources.co/aa/7e/aa7e732a79977d9860381334d4414388/spa-3.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/aa/7e/aa7e732a79977d9860381334d4414388/spa-4.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/4a/4a918168e7ffed33ab792ab44be1db81/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "19": {
         "intro": {
-            "start": 71,
-            "end": 160
+            "end": 160,
+            "start": 71
+        },
+        "outro": {
+            "end": 1404,
+            "start": 1316
         },
         "title": "Night in Paris",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/88356bee5e859c9fe0521f1be3cee3bc5307f1a86d6600f636c21d97446257cc51eb3de7fb967abeb7b7fcec0fa004ec87d5706cdc2bef4f10e92aa857446d85b8f8e5c174f8733c21e21d7b4e36ecf13a219a778d1bf101f870230ac8b9b495865062f3a77451e524da0d3ff3abb5886949c583b8b3107c59faf512df0dba6e/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www017.vipanicdn.net/streamhls/b1ca828d52f4894afb4fb028840ea279/ep.19.1677699005.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=golden-time-episode-dub-19"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/88356bee5e859c9fe0521f1be3cee3bc5307f1a86d6600f636c21d97446257cc51eb3de7fb967abeb7b7fcec0fa004ec87d5706cdc2bef4f10e92aa857446d85b8f8e5c174f8733c21e21d7b4e36ecf13a219a778d1bf101f870230ac8b9b495865062f3a77451e524da0d3ff3abb5886949c583b8b3107c59faf512df0dba6e/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/7d/7dc124781ea34878636fcd3fb3cd51aa/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/37d9531aecfb7ab4a775ac0d9b02ad92970099bd114af9ef4599b18520c333b98e4fc4da5dc807235e0992901bdb9b2a4005ceb0edb0b64de768d03230a19ae0944b353844224c3f8abad3308b7b92ce3b44cf49f4920b3036bf578761cece0724b39580c46fb9c2807a3908ccf816e52c3e0a5efec39c0e3fb438c4e9264e19/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/c2/0e/c20ef28488999d935f638da440407bec/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/c2/0e/c20ef28488999d935f638da440407bec/fre-5.vtt",
-                            "lang": "French"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/c2/0e/c20ef28488999d935f638da440407bec/ger-7.vtt",
-                            "lang": "German"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/c2/0e/c20ef28488999d935f638da440407bec/por-6.vtt",
-                            "lang": "Portuguese"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/c2/0e/c20ef28488999d935f638da440407bec/spa-3.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/c2/0e/c20ef28488999d935f638da440407bec/spa-4.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/7d/7dc124781ea34878636fcd3fb3cd51aa/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/37d9531aecfb7ab4a775ac0d9b02ad92970099bd114af9ef4599b18520c333b98e4fc4da5dc807235e0992901bdb9b2a4005ceb0edb0b64de768d03230a19ae0944b353844224c3f8abad3308b7b92ce3b44cf49f4920b3036bf578761cece0724b39580c46fb9c2807a3908ccf816e52c3e0a5efec39c0e3fb438c4e9264e19/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www004.vipanicdn.net/streamhls/ad744784bd025fbf4052f5cb59c0c3bc/ep.19.1677603382.m3u8"
@@ -1434,68 +1294,62 @@
             "DUBBED": "MTM1NzM2",
             "SUBBED": "NDIwMDM="
         },
-        "outro": {
-            "start": 1316,
-            "end": 1404
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/c2/0e/c20ef28488999d935f638da440407bec/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/c2/0e/c20ef28488999d935f638da440407bec/fre-5.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/c2/0e/c20ef28488999d935f638da440407bec/ger-7.vtt",
+                "lang": "German"
+            },
+            {
+                "url": "https://ccb.megaresources.co/c2/0e/c20ef28488999d935f638da440407bec/por-6.vtt",
+                "lang": "Portuguese"
+            },
+            {
+                "url": "https://ccb.megaresources.co/c2/0e/c20ef28488999d935f638da440407bec/spa-3.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/c2/0e/c20ef28488999d935f638da440407bec/spa-4.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/7d/7dc124781ea34878636fcd3fb3cd51aa/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "20": {
         "intro": {
-            "start": 56,
-            "end": 145
+            "end": 145,
+            "start": 56
+        },
+        "outro": {
+            "end": 1404,
+            "start": 1316
         },
         "title": "His Chasm",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/567cce6be21f833802da5932a949e87b3843f146f0b9fae1c9f8f9a7dca65d027a844f21b4fd9109f90fdfc71c19809cf9e9379f5e912255c08a5f3ba24fd6e9fd919a0909765e294deb0ebc906222272cf311c9a16c8cddccf54e0862ab9d16149ca8641dc630190eee89e8ea8cc049cee067f22b14cce1cfd033671157fcb1/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www018.vipanicdn.net/streamhls/b1ca828d52f4894afb4fb028840ea279/ep.20.1677622511.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=golden-time-episode-dub-20"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/567cce6be21f833802da5932a949e87b3843f146f0b9fae1c9f8f9a7dca65d027a844f21b4fd9109f90fdfc71c19809cf9e9379f5e912255c08a5f3ba24fd6e9fd919a0909765e294deb0ebc906222272cf311c9a16c8cddccf54e0862ab9d16149ca8641dc630190eee89e8ea8cc049cee067f22b14cce1cfd033671157fcb1/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/3e/3eead25f59107bdf4cba994381ca52d0/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/07d817441620cb4009241cd875a6f0a213642105f8bac47911a17485d39a4123f10a437a2539de07f3d48e0764ec7bd5b2b5850e7384bd4f7114ecb74b2cd8c6c892403018521b9273acd5366753e2880388e32608c4bef287fecac13d58c1bd15024fb95fb9dd5c40fe7d42333560e21104170eefd885bdb9210cc0ab9b8bc0/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/a4/b5/a4b5ce49c459a380f0bca6bb0794631c/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/a4/b5/a4b5ce49c459a380f0bca6bb0794631c/fre-5.vtt",
-                            "lang": "French"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/a4/b5/a4b5ce49c459a380f0bca6bb0794631c/ger-7.vtt",
-                            "lang": "German"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/a4/b5/a4b5ce49c459a380f0bca6bb0794631c/por-6.vtt",
-                            "lang": "Portuguese"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/a4/b5/a4b5ce49c459a380f0bca6bb0794631c/spa-3.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/a4/b5/a4b5ce49c459a380f0bca6bb0794631c/spa-4.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/3e/3eead25f59107bdf4cba994381ca52d0/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/07d817441620cb4009241cd875a6f0a213642105f8bac47911a17485d39a4123f10a437a2539de07f3d48e0764ec7bd5b2b5850e7384bd4f7114ecb74b2cd8c6c892403018521b9273acd5366753e2880388e32608c4bef287fecac13d58c1bd15024fb95fb9dd5c40fe7d42333560e21104170eefd885bdb9210cc0ab9b8bc0/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www026.vipanicdn.net/streamhls/ad744784bd025fbf4052f5cb59c0c3bc/ep.20.1677663575.m3u8"
@@ -1510,68 +1364,62 @@
             "DUBBED": "MTM1NzM3",
             "SUBBED": "NDIwODU="
         },
-        "outro": {
-            "start": 1316,
-            "end": 1404
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/a4/b5/a4b5ce49c459a380f0bca6bb0794631c/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/a4/b5/a4b5ce49c459a380f0bca6bb0794631c/fre-5.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/a4/b5/a4b5ce49c459a380f0bca6bb0794631c/ger-7.vtt",
+                "lang": "German"
+            },
+            {
+                "url": "https://ccb.megaresources.co/a4/b5/a4b5ce49c459a380f0bca6bb0794631c/por-6.vtt",
+                "lang": "Portuguese"
+            },
+            {
+                "url": "https://ccb.megaresources.co/a4/b5/a4b5ce49c459a380f0bca6bb0794631c/spa-3.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/a4/b5/a4b5ce49c459a380f0bca6bb0794631c/spa-4.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/3e/3eead25f59107bdf4cba994381ca52d0/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "21": {
         "intro": {
-            "start": 55,
-            "end": 144
+            "end": 144,
+            "start": 55
+        },
+        "outro": {
+            "end": 1404,
+            "start": 1316
         },
         "title": "I'll Be Back",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/d9b386cb9a62408ba095b12ca001d0196e6bd115931da05b018f36306792649947f61e1624af8564c58bd84bdef7bc9685646a8ccb0519321ef6b282f8a33c046a8bd2f020ba2df3267b67eec63b6d427abece8762bd1c2832c5b4c29601618455c458e3583b7912dad36e2f44b2fbf9bddd1d617cddb9e75729bd628b007e71/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www019.vipanicdn.net/streamhls/b1ca828d52f4894afb4fb028840ea279/ep.21.1677696461.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=golden-time-episode-dub-21"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/d9b386cb9a62408ba095b12ca001d0196e6bd115931da05b018f36306792649947f61e1624af8564c58bd84bdef7bc9685646a8ccb0519321ef6b282f8a33c046a8bd2f020ba2df3267b67eec63b6d427abece8762bd1c2832c5b4c29601618455c458e3583b7912dad36e2f44b2fbf9bddd1d617cddb9e75729bd628b007e71/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/42/4285860fcfd1fee6a501b0e4b6346f8e/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/5e874690dc666be3807dbf6174e26b7d070fc11347311d0bfacafb775244a9c0f43ea6804dcd0913946016d257f0dbe59c18cbde4510b73652f54a488b570d826ae7135a77131aafbddab7791195d941d756eab2f6f085717d3e59ad77a810f406931c2c89a394f36c85706ecae088433f91a1c3a89b5763da6cda68220412b3/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/98/e7/98e7f0d4bb0631cc10a1395ba9e8b19b/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/98/e7/98e7f0d4bb0631cc10a1395ba9e8b19b/fre-5.vtt",
-                            "lang": "French"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/98/e7/98e7f0d4bb0631cc10a1395ba9e8b19b/ger-7.vtt",
-                            "lang": "German"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/98/e7/98e7f0d4bb0631cc10a1395ba9e8b19b/por-6.vtt",
-                            "lang": "Portuguese"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/98/e7/98e7f0d4bb0631cc10a1395ba9e8b19b/spa-3.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/98/e7/98e7f0d4bb0631cc10a1395ba9e8b19b/spa-4.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/42/4285860fcfd1fee6a501b0e4b6346f8e/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/5e874690dc666be3807dbf6174e26b7d070fc11347311d0bfacafb775244a9c0f43ea6804dcd0913946016d257f0dbe59c18cbde4510b73652f54a488b570d826ae7135a77131aafbddab7791195d941d756eab2f6f085717d3e59ad77a810f406931c2c89a394f36c85706ecae088433f91a1c3a89b5763da6cda68220412b3/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www018.vipanicdn.net/streamhls/ad744784bd025fbf4052f5cb59c0c3bc/ep.21.1677618011.m3u8"
@@ -1586,68 +1434,62 @@
             "DUBBED": "MTM1NzM4",
             "SUBBED": "NDIxNjc="
         },
-        "outro": {
-            "start": 1316,
-            "end": 1404
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/98/e7/98e7f0d4bb0631cc10a1395ba9e8b19b/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/98/e7/98e7f0d4bb0631cc10a1395ba9e8b19b/fre-5.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/98/e7/98e7f0d4bb0631cc10a1395ba9e8b19b/ger-7.vtt",
+                "lang": "German"
+            },
+            {
+                "url": "https://ccb.megaresources.co/98/e7/98e7f0d4bb0631cc10a1395ba9e8b19b/por-6.vtt",
+                "lang": "Portuguese"
+            },
+            {
+                "url": "https://ccb.megaresources.co/98/e7/98e7f0d4bb0631cc10a1395ba9e8b19b/spa-3.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/98/e7/98e7f0d4bb0631cc10a1395ba9e8b19b/spa-4.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/42/4285860fcfd1fee6a501b0e4b6346f8e/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "22": {
         "intro": {
-            "start": 63,
-            "end": 152
+            "end": 152,
+            "start": 63
+        },
+        "outro": {
+            "end": 1404,
+            "start": 1316
         },
         "title": "Paradise Lost",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/f48fb223cb5b88fd555962d6200ac15c5ae36b0a6da3f2ffaabbff4a6c343644a2c5b8ef1cd7d58ed598507850efa8b6a3fd72af7393d141ad5727b0034aa1dbaf0dc29daecd7fa8559a14b65fb8b85461238a9a3049cd79cce98ca1083fd9b1c1d5fefcc4ac30b4b9b6e0d7bc286931bff2748214279c89aedfad2b02a1123d/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www020.vipanicdn.net/streamhls/b1ca828d52f4894afb4fb028840ea279/ep.22.1677697620.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=golden-time-episode-dub-22"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/f48fb223cb5b88fd555962d6200ac15c5ae36b0a6da3f2ffaabbff4a6c343644a2c5b8ef1cd7d58ed598507850efa8b6a3fd72af7393d141ad5727b0034aa1dbaf0dc29daecd7fa8559a14b65fb8b85461238a9a3049cd79cce98ca1083fd9b1c1d5fefcc4ac30b4b9b6e0d7bc286931bff2748214279c89aedfad2b02a1123d/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/dd/ddc73d764e41b5dd39422d86b0c0cce4/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/1986c8a8a3fb8f3eba2f820c87c74521c7fa9ff95c34cbe3b4f4b2697b88854548033146f49acbd7b06c4e612a48a112b3ebbcc5d7e99ee6a29331468db2d1aa271af88f6ec6f8f930c0ff3ae7b04a568020e4d39d917c70785e62fdceb1288f2ae3fa0d7aeecf3484b43e6d45986ff72a32c044fbd63405fca1974a950dcf04/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/a7/14/a7147a821a3a5772cf7d305108230c9b/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/a7/14/a7147a821a3a5772cf7d305108230c9b/fre-5.vtt",
-                            "lang": "French"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/a7/14/a7147a821a3a5772cf7d305108230c9b/ger-7.vtt",
-                            "lang": "German"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/a7/14/a7147a821a3a5772cf7d305108230c9b/por-6.vtt",
-                            "lang": "Portuguese"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/a7/14/a7147a821a3a5772cf7d305108230c9b/spa-3.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/a7/14/a7147a821a3a5772cf7d305108230c9b/spa-4.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/dd/ddc73d764e41b5dd39422d86b0c0cce4/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/1986c8a8a3fb8f3eba2f820c87c74521c7fa9ff95c34cbe3b4f4b2697b88854548033146f49acbd7b06c4e612a48a112b3ebbcc5d7e99ee6a29331468db2d1aa271af88f6ec6f8f930c0ff3ae7b04a568020e4d39d917c70785e62fdceb1288f2ae3fa0d7aeecf3484b43e6d45986ff72a32c044fbd63405fca1974a950dcf04/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www029.vipanicdn.net/streamhls/ad744784bd025fbf4052f5cb59c0c3bc/ep.22.1677663524.m3u8"
@@ -1662,68 +1504,62 @@
             "DUBBED": "MTM1NzM5",
             "SUBBED": "NDIyMzg="
         },
-        "outro": {
-            "start": 1316,
-            "end": 1404
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/a7/14/a7147a821a3a5772cf7d305108230c9b/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/a7/14/a7147a821a3a5772cf7d305108230c9b/fre-5.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/a7/14/a7147a821a3a5772cf7d305108230c9b/ger-7.vtt",
+                "lang": "German"
+            },
+            {
+                "url": "https://ccb.megaresources.co/a7/14/a7147a821a3a5772cf7d305108230c9b/por-6.vtt",
+                "lang": "Portuguese"
+            },
+            {
+                "url": "https://ccb.megaresources.co/a7/14/a7147a821a3a5772cf7d305108230c9b/spa-3.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/a7/14/a7147a821a3a5772cf7d305108230c9b/spa-4.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/dd/ddc73d764e41b5dd39422d86b0c0cce4/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "23": {
         "intro": {
-            "start": 65,
-            "end": 154
+            "end": 154,
+            "start": 65
+        },
+        "outro": {
+            "end": 1404,
+            "start": 1316
         },
         "title": "Last Smile",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/74661798921f3155842a5a00d13d0841f2f8754e1f2caea95c1f8208615c13227f099940b43562cf86961b313039492026265ccf4f16c40ee4c813af0ee57ce5c93edd17406c7927b430317073e0ca5d68cefeecf6f9328361b22276edbcc5f8dfa4fc3cb067b05a0b29bfe8fafe58ca4f098a5996ce2c1f7960e17e3fc96664/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www021.vipanicdn.net/streamhls/b1ca828d52f4894afb4fb028840ea279/ep.23.1677697144.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=golden-time-episode-dub-23"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/74661798921f3155842a5a00d13d0841f2f8754e1f2caea95c1f8208615c13227f099940b43562cf86961b313039492026265ccf4f16c40ee4c813af0ee57ce5c93edd17406c7927b430317073e0ca5d68cefeecf6f9328361b22276edbcc5f8dfa4fc3cb067b05a0b29bfe8fafe58ca4f098a5996ce2c1f7960e17e3fc96664/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/5a/5ade69e65bd7cd914a6df0f51d8efb20/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/835559569851094763e53d61a7d0d518f29a7edcd3a722462ee82eddccd2679a80581bc727a3e4fad57e5872037b0ba72406194bd81b839f43306571acc7aa6824b7a7bce51c6ab295e25c85641b01e406d27ccb496b33f172756508b9a6910f42314130fbf89f5554bd243b921996a2fc01bcefdd1e9e1628b8704904226a0a/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/0a/66/0a66bc05f69af6816688558ae85eb48b/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/0a/66/0a66bc05f69af6816688558ae85eb48b/fre-5.vtt",
-                            "lang": "French"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/0a/66/0a66bc05f69af6816688558ae85eb48b/ger-7.vtt",
-                            "lang": "German"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/0a/66/0a66bc05f69af6816688558ae85eb48b/por-6.vtt",
-                            "lang": "Portuguese"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/0a/66/0a66bc05f69af6816688558ae85eb48b/spa-3.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/0a/66/0a66bc05f69af6816688558ae85eb48b/spa-4.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/5a/5ade69e65bd7cd914a6df0f51d8efb20/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/835559569851094763e53d61a7d0d518f29a7edcd3a722462ee82eddccd2679a80581bc727a3e4fad57e5872037b0ba72406194bd81b839f43306571acc7aa6824b7a7bce51c6ab295e25c85641b01e406d27ccb496b33f172756508b9a6910f42314130fbf89f5554bd243b921996a2fc01bcefdd1e9e1628b8704904226a0a/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www019.vipanicdn.net/streamhls/ad744784bd025fbf4052f5cb59c0c3bc/ep.23.1677661658.m3u8"
@@ -1738,68 +1574,62 @@
             "DUBBED": "MTM1NzQw",
             "SUBBED": "NDIzNDg="
         },
-        "outro": {
-            "start": 1316,
-            "end": 1404
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/0a/66/0a66bc05f69af6816688558ae85eb48b/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/0a/66/0a66bc05f69af6816688558ae85eb48b/fre-5.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/0a/66/0a66bc05f69af6816688558ae85eb48b/ger-7.vtt",
+                "lang": "German"
+            },
+            {
+                "url": "https://ccb.megaresources.co/0a/66/0a66bc05f69af6816688558ae85eb48b/por-6.vtt",
+                "lang": "Portuguese"
+            },
+            {
+                "url": "https://ccb.megaresources.co/0a/66/0a66bc05f69af6816688558ae85eb48b/spa-3.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/0a/66/0a66bc05f69af6816688558ae85eb48b/spa-4.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/5a/5ade69e65bd7cd914a6df0f51d8efb20/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "24": {
         "intro": {
-            "start": 129,
-            "end": 218
+            "end": 218,
+            "start": 129
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Golden Time",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/1522d16d6917f41947a1a9204c960ab5941f5044466aaccaadcc5ea4cf56d24bb8d7e265858aa7eee29baba9be9937023cf10ca434b493e1823833f40785e8601de73d602f976008faeb3f795d43cef836e37074eaeab0559eca341be2ac4819d694e317b6f9f25a3f6fa10a0901f5bf1eb27bf4ee0cf55ecb9da7d76572655f/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www022.vipanicdn.net/streamhls/b1ca828d52f4894afb4fb028840ea279/ep.24.1677621078.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=golden-time-episode-dub-24"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/1522d16d6917f41947a1a9204c960ab5941f5044466aaccaadcc5ea4cf56d24bb8d7e265858aa7eee29baba9be9937023cf10ca434b493e1823833f40785e8601de73d602f976008faeb3f795d43cef836e37074eaeab0559eca341be2ac4819d694e317b6f9f25a3f6fa10a0901f5bf1eb27bf4ee0cf55ecb9da7d76572655f/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/a6/a6c4f0048c13a207102a5e8e6cada28f/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/3d7357e062e3439f6bd4f5af54be57ec41dad8c160cd83e122d765e1b640b5c12397242e9c11e1dff0878a94269608fac5f5224499686cc80b753c0cc3caf32cff3f5ec3201f45d74df10765aede60a497edda5c451cb9657d95dbfa30ed63bfd949a2f10c58ab50aa9a86cb9a4fc07e3a4a879cd931a3fb1809dcb54a729bf8/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/37/6e/376ec7a9dd2b143c37630bc8d319b74b/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/37/6e/376ec7a9dd2b143c37630bc8d319b74b/fre-5.vtt",
-                            "lang": "French"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/37/6e/376ec7a9dd2b143c37630bc8d319b74b/ger-7.vtt",
-                            "lang": "German"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/37/6e/376ec7a9dd2b143c37630bc8d319b74b/por-6.vtt",
-                            "lang": "Portuguese"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/37/6e/376ec7a9dd2b143c37630bc8d319b74b/spa-3.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/37/6e/376ec7a9dd2b143c37630bc8d319b74b/spa-4.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/a6/a6c4f0048c13a207102a5e8e6cada28f/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/3d7357e062e3439f6bd4f5af54be57ec41dad8c160cd83e122d765e1b640b5c12397242e9c11e1dff0878a94269608fac5f5224499686cc80b753c0cc3caf32cff3f5ec3201f45d74df10765aede60a497edda5c451cb9657d95dbfa30ed63bfd949a2f10c58ab50aa9a86cb9a4fc07e3a4a879cd931a3fb1809dcb54a729bf8/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www003.vipanicdn.net/streamhls/ad744784bd025fbf4052f5cb59c0c3bc/ep.24.1677599123.m3u8"
@@ -1814,9 +1644,35 @@
             "DUBBED": "MTM1NzQx",
             "SUBBED": "NDI2MzI="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/37/6e/376ec7a9dd2b143c37630bc8d319b74b/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/37/6e/376ec7a9dd2b143c37630bc8d319b74b/fre-5.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/37/6e/376ec7a9dd2b143c37630bc8d319b74b/ger-7.vtt",
+                "lang": "German"
+            },
+            {
+                "url": "https://ccb.megaresources.co/37/6e/376ec7a9dd2b143c37630bc8d319b74b/por-6.vtt",
+                "lang": "Portuguese"
+            },
+            {
+                "url": "https://ccb.megaresources.co/37/6e/376ec7a9dd2b143c37630bc8d319b74b/spa-3.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/37/6e/376ec7a9dd2b143c37630bc8d319b74b/spa-4.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/a6/a6c4f0048c13a207102a5e8e6cada28f/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

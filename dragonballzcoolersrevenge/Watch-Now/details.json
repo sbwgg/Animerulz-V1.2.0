@@ -1,42 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/bb95f3f5bed0b08112bbd5ffa83feefdf6ab3e76ad9627c6d4da57160d1bf730fe36a1c8504e39aa671b00a529b7f1c79891afb989f5d6b6c38e575ea435386382f3352f45e9810dadd01f1ed82920dea706243821da5bec1d0ec918ec54337510f94510cdb19ccf5228220d8a1307fe3a8e7f24711cfdcb76183457b5f19df0/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=dragon-ball-z-movie-5-coolers-revenge-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/bb95f3f5bed0b08112bbd5ffa83feefdf6ab3e76ad9627c6d4da57160d1bf730fe36a1c8504e39aa671b00a529b7f1c79891afb989f5d6b6c38e575ea435386382f3352f45e9810dadd01f1ed82920dea706243821da5bec1d0ec918ec54337510f94510cdb19ccf5228220d8a1307fe3a8e7f24711cfdcb76183457b5f19df0/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/60/60454905531e8bd2a7e9fe590ff9092f/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/2bb40ff6eadee87c6dc89d29738e76573502297bdf269b2a0a6536561a3de07e954926bad9e960d5a8ffb2bf238f4ffd7f2b859d4b5a12b20dd84c01578febb5b5611056a49af4874d68c4b72fe9196f6cfbfea0d564dfad9e41f60af2ef45496c546d23f75c80887c65df9f84b9735a7acf901d2321b543624a0d414a9f8f3d/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/58/fd/58fd50b544ee2548aee994e7507070af/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/0f/7c/0f7c5cbf4f1c5d946ece93de201cf0da/eng-4.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/60/60454905531e8bd2a7e9fe590ff9092f/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/2bb40ff6eadee87c6dc89d29738e76573502297bdf269b2a0a6536561a3de07e954926bad9e960d5a8ffb2bf238f4ffd7f2b859d4b5a12b20dd84c01578febb5b5611056a49af4874d68c4b72fe9196f6cfbfea0d564dfad9e41f60af2ef45496c546d23f75c80887c65df9f84b9735a7acf901d2321b543624a0d414a9f8f3d/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www013.vipanicdn.net/streamhls/35bdaabc475dbc75c537120e166dfe21/ep.1.1677660579.m3u8"
@@ -50,9 +34,19 @@
         "downloadLink": {
             "SUBBED": "NDA3MjI="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/58/fd/58fd50b544ee2548aee994e7507070af/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/0f/7c/0f7c5cbf4f1c5d946ece93de201cf0da/eng-4.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/60/60454905531e8bd2a7e9fe590ff9092f/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

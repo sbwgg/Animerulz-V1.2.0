@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/5d76eff86f0938b8703e0548d99dfc2aa0a1c06fd3f2b70a56f1bfaf6b8b4bbec3912e634c50a90c65eca04a6fff582dfa6a7b5c76da83794639b7f27e793e12f8d031de8ffbe2011eda7fa7a6789f490cd86c82c759b818dfbf22d6ddb39b37c11666eff23e3fda49c66f2d8841b3d10de96e735fcc7a3a1b3a896bd262033b/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www047.vipanicdn.net/streamhls/8cb248c4102b7450b3ffa31ebe625e53/ep.1.1677855250.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=dead-leaves-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/5d76eff86f0938b8703e0548d99dfc2aa0a1c06fd3f2b70a56f1bfaf6b8b4bbec3912e634c50a90c65eca04a6fff582dfa6a7b5c76da83794639b7f27e793e12f8d031de8ffbe2011eda7fa7a6789f490cd86c82c759b818dfbf22d6ddb39b37c11666eff23e3fda49c66f2d8841b3d10de96e735fcc7a3a1b3a896bd262033b/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/84/84b3c01a935a5ca86b4ec462bdeb8a28/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/9652367973086f2d43ab5f08363d0aee52b250d7e897d4407dace6873d9f62cb47c80a9ca7de5f4bb78b0cd3866b57a4020bc1a379dec745deec6c308dfb6ad6bf3875c768ce36a5cfdfe82745efcdc4e97dca5559131e00f72d4420760cd8cbe09a155fdd3836d88c4ddf7b414c4a56b551abce9040c3a83ae0fe757f31c65c/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/e9/e5/e9e52364d454a77d99af51980e30742e/jpn-3.vtt",
-                            "lang": "Japanese - [MTBB]"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/84/84b3c01a935a5ca86b4ec462bdeb8a28/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/9652367973086f2d43ab5f08363d0aee52b250d7e897d4407dace6873d9f62cb47c80a9ca7de5f4bb78b0cd3866b57a4020bc1a379dec745deec6c308dfb6ad6bf3875c768ce36a5cfdfe82745efcdc4e97dca5559131e00f72d4420760cd8cbe09a155fdd3836d88c4ddf7b414c4a56b551abce9040c3a83ae0fe757f31c65c/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www008.vipanicdn.net/streamhls/39eaf08d84ef318d01c4c5e7d7021a3f/ep.1.1677664945.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "MTYwMjk2",
             "SUBBED": "NDA1Njc="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/e9/e5/e9e52364d454a77d99af51980e30742e/jpn-3.vtt",
+                "lang": "Japanese - [MTBB]"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/84/84b3c01a935a5ca86b4ec462bdeb8a28/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

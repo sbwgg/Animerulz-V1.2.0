@@ -1,49 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/57dc22526da09db868e9c08d73b5ee57be6203676eb421efd30d0d43e0e0fbf23535156bdce6f56a049a4d3a58aa082b3209f812964e9fab82385a79f47eeee0c6e08f1657268fa5237c5669d78e4cd4019bc13ef80d42f4daefdf85e044627001e99a0da49171dcb81a94e34fd238e372968ad040247281c1f1e26f8f0f2c35/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www020.vipanicdn.net/streamhls/3b4ca89754763d6641a3b50e4ef1c9d5/ep.1.1677703486.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-movie-orion-no-ya-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/57dc22526da09db868e9c08d73b5ee57be6203676eb421efd30d0d43e0e0fbf23535156bdce6f56a049a4d3a58aa082b3209f812964e9fab82385a79f47eeee0c6e08f1657268fa5237c5669d78e4cd4019bc13ef80d42f4daefdf85e044627001e99a0da49171dcb81a94e34fd238e372968ad040247281c1f1e26f8f0f2c35/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/ea/ead0e4b15183c36b2805ccd2ba14bda5/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/f5fe73abff04898b472ae98b01d7c1448fbcb229967c822fa291027f0249bf07c603b07a3c0309742d0d8865f95f87acd1641f92cd64edecead75d54b9192d9671a1d2ce63ba617157f6909421de3144d2d1bf0bf7db5152ebf2133398a076435be721fa88855fe4aee4d631e03840baa5e638178c379a54beb82019ce4cde9e/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/f0/d3/f0d3d4e78c3b7ef4deddd37d321c0aaa/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/f0/d3/f0d3d4e78c3b7ef4deddd37d321c0aaa/por-3.vtt",
-                            "lang": "Portuguese"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/f0/d3/f0d3d4e78c3b7ef4deddd37d321c0aaa/spa-4.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/ea/ead0e4b15183c36b2805ccd2ba14bda5/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/f5fe73abff04898b472ae98b01d7c1448fbcb229967c822fa291027f0249bf07c603b07a3c0309742d0d8865f95f87acd1641f92cd64edecead75d54b9192d9671a1d2ce63ba617157f6909421de3144d2d1bf0bf7db5152ebf2133398a076435be721fa88855fe4aee4d631e03840baa5e638178c379a54beb82019ce4cde9e/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www006.vipanicdn.net/streamhls/3aba90f6a5f6071bbf878882251113c2/ep.1.1677599505.m3u8"
@@ -58,9 +38,23 @@
             "DUBBED": "MTQ2MjA5",
             "SUBBED": "MTI0MDU1"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/f0/d3/f0d3d4e78c3b7ef4deddd37d321c0aaa/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/f0/d3/f0d3d4e78c3b7ef4deddd37d321c0aaa/por-3.vtt",
+                "lang": "Portuguese"
+            },
+            {
+                "url": "https://ccb.megaresources.co/f0/d3/f0d3d4e78c3b7ef4deddd37d321c0aaa/spa-4.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/ea/ead0e4b15183c36b2805ccd2ba14bda5/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

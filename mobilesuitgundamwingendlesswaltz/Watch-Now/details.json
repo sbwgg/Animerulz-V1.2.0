@@ -1,45 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/7ccb39313094010228a63f2a164038136990dd1fef2eadd9db6cf706bdf7f60c3353a101f9cbcee4a1e126c6fdef9f3c83b1e38043d7d0f8ea5c71397444bf84cb4a7c12f55352a8be7143d6df9a92a85c86e061368ef5744696675eae7690e633568b04448233cd85e51aca99f6ce1e/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www009.vipanicdn.net/streamhls/fbbd6e8f923e169627317545e3b3a352/ep.1.1677680409.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=mobile-suit-gundam-wing-endless-waltz-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/7ccb39313094010228a63f2a164038136990dd1fef2eadd9db6cf706bdf7f60c3353a101f9cbcee4a1e126c6fdef9f3c83b1e38043d7d0f8ea5c71397444bf84cb4a7c12f55352a8be7143d6df9a92a85c86e061368ef5744696675eae7690e633568b04448233cd85e51aca99f6ce1e/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/81/8195dc8be394fee7375b87c7694c0a6c/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/0bb816ed764da12a1a7a6a57c98ae05d7aaf75c8b19f47087d560b6302992c09efb83fd00961ae3870ea0ed22118aee765d6dbac6390195d08e09b1ed7a6e5028717138c2b6e87978765f57cf769a67caae876b2f12dd77ef1aae36a4c3ad62cd15601f840fbc0fa3e1e0f4a6530d4e9/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/cc/ff/ccff615c0cc47fd57bf6395f91e5978b/eng-3.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/cc/ff/ccff615c0cc47fd57bf6395f91e5978b/eng-4.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/81/8195dc8be394fee7375b87c7694c0a6c/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/0bb816ed764da12a1a7a6a57c98ae05d7aaf75c8b19f47087d560b6302992c09efb83fd00961ae3870ea0ed22118aee765d6dbac6390195d08e09b1ed7a6e5028717138c2b6e87978765f57cf769a67caae876b2f12dd77ef1aae36a4c3ad62cd15601f840fbc0fa3e1e0f4a6530d4e9/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www007.vipanicdn.net/streamhls/8218402ebd45df160eb6ec99c581d1a7/ep.1.1677692680.m3u8"
@@ -54,9 +38,19 @@
             "DUBBED": "MTAxNzY4",
             "SUBBED": "MTQwMjU2"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/cc/ff/ccff615c0cc47fd57bf6395f91e5978b/eng-3.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/cc/ff/ccff615c0cc47fd57bf6395f91e5978b/eng-4.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/81/8195dc8be394fee7375b87c7694c0a6c/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

@@ -1,45 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/3587bd118c6c8f5a90239c3231c1b4eb50db897b90130babe55b44ac9cbf141e5bfc63474d9e97e828992bc3b18544dc11490d082900f29db258e17e721c7424e6042d3f2fc93ad1a14cf934293a582c0045093516b0d7d2ba7f752eb3c4adf9092b8d7dbee8070866fbaea4a14d1dac46d3ded2cda3ccc69961bfd2c16123f1/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www015.vipanicdn.net/streamhls/66f4d5e455226e6239ce61fe375c8d6e/ep.1.1677628375.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=dragon-ball-z-movie-13-wrath-of-the-dragon-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/3587bd118c6c8f5a90239c3231c1b4eb50db897b90130babe55b44ac9cbf141e5bfc63474d9e97e828992bc3b18544dc11490d082900f29db258e17e721c7424e6042d3f2fc93ad1a14cf934293a582c0045093516b0d7d2ba7f752eb3c4adf9092b8d7dbee8070866fbaea4a14d1dac46d3ded2cda3ccc69961bfd2c16123f1/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/43/4383cc207299b0f891ecde59f87128d5/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/ea7eb0fcee750b336b8f8ebeaf8531641eff871a9787a7601b55b8f7db3fcfae71f0e4a227143e39273a5ee2a81b4888a294e7ff83749d0cad9de2d64dd3ce2586553a271b9f1dbf662a6bcc03342ec64a49538b860991c96acce0a5af18660f2a3cbad3ca35dde383367ce71d79a6194a0f18465094ebd857b3fb6946a6b468/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/c0/27/c0271768e04dad072e96d815afba5526/eng-4.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/07/69/07696146a4f110b209957109fe834fca/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/43/4383cc207299b0f891ecde59f87128d5/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/ea7eb0fcee750b336b8f8ebeaf8531641eff871a9787a7601b55b8f7db3fcfae71f0e4a227143e39273a5ee2a81b4888a294e7ff83749d0cad9de2d64dd3ce2586553a271b9f1dbf662a6bcc03342ec64a49538b860991c96acce0a5af18660f2a3cbad3ca35dde383367ce71d79a6194a0f18465094ebd857b3fb6946a6b468/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www004.vipanicdn.net/streamhls/3fc04d6f6fbb7a073c3782ccd84ecf80/ep.1.1677659544.m3u8"
@@ -54,9 +38,19 @@
             "DUBBED": "OTM2NDQ=",
             "SUBBED": "NDA3MTM="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/c0/27/c0271768e04dad072e96d815afba5526/eng-4.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/07/69/07696146a4f110b209957109fe834fca/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/43/4383cc207299b0f891ecde59f87128d5/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/f7ba15e70d13e79d06bdd4596632155dfc3516376a461254da9f3135a3d6b82d3d8413744b88fdcefc97cba38e1c430772c71f6d99dfa331911ad2b0f2989e1f6dba3d760aa5d3299ece5123c6c2ccca80440f75b2e429d67c8059b9b1fbc8c2c55e7f7598e5db2952440476dc384b24d10cdd3301b113ae6b7809b7a35fea0d/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www023.vipanicdn.net/streamhls/c2294bdab427a14356545dacb070bacc/ep.1.1677787274.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=wakaokami-wa-shougakusei-movie-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/f7ba15e70d13e79d06bdd4596632155dfc3516376a461254da9f3135a3d6b82d3d8413744b88fdcefc97cba38e1c430772c71f6d99dfa331911ad2b0f2989e1f6dba3d760aa5d3299ece5123c6c2ccca80440f75b2e429d67c8059b9b1fbc8c2c55e7f7598e5db2952440476dc384b24d10cdd3301b113ae6b7809b7a35fea0d/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/9c/9c410dddea14683630113978e73585f5/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/c0c054e5d24cc9bc510e3e625819cad9ba644bd8ae3b4b9f712dd3555ec287b17cfc915ae58be5ac67013109db5f7d5be57e118f26dc2c6895e628a76f1c059aca90bf1c1fbe00b8bd395435f306c014a885894932c1b6b3de1dee7192bfa4ee9fb003e9bc7f529f4a98856554801292671fe909e17e5b310e78f79e2ec026c9/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/72/09/7209b26f45566a37f08ce78e7116bbe3/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/9c/9c410dddea14683630113978e73585f5/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/c0c054e5d24cc9bc510e3e625819cad9ba644bd8ae3b4b9f712dd3555ec287b17cfc915ae58be5ac67013109db5f7d5be57e118f26dc2c6895e628a76f1c059aca90bf1c1fbe00b8bd395435f306c014a885894932c1b6b3de1dee7192bfa4ee9fb003e9bc7f529f4a98856554801292671fe909e17e5b310e78f79e2ec026c9/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www017.vipanicdn.net/streamhls/f76180be954a9f72165f01905a3a6f2f/ep.1.1677695005.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "MTI1MjQy",
             "SUBBED": "MTI1MjM2"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/72/09/7209b26f45566a37f08ce78e7116bbe3/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/9c/9c410dddea14683630113978e73585f5/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

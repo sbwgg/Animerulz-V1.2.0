@@ -1,32 +1,18 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Special: Moonlight/Lostroom",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/205bae10986243771bbc2f27573fc8cf61eb9fd3e3d7716ec4d95eab04844f2e42ab1ba9f2c16c6c46e2f271497fdad02f33c33c87d140122fb7c395f26d973c2e8e412d1e0ff2fd7e5cf43618835b37eb1708bafeceade672939c67072dfe669a297693b7fa0bb60ce073ac6f487d3ff04f8abe078c424b8169b3891316b289/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/64/55/6455d887a93244701d2a889395e4a952/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/64/55/6455d887a93244701d2a889395e4a952/por-4.vtt",
-                            "lang": "Portuguese - Portugues(Brasil)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/64/55/6455d887a93244701d2a889395e4a952/spa-3.vtt",
-                            "lang": "Spanish - Espanol"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/2d/2d56d9dd0031a9c4940a90a65e21e378/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/205bae10986243771bbc2f27573fc8cf61eb9fd3e3d7716ec4d95eab04844f2e42ab1ba9f2c16c6c46e2f271497fdad02f33c33c87d140122fb7c395f26d973c2e8e412d1e0ff2fd7e5cf43618835b37eb1708bafeceade672939c67072dfe669a297693b7fa0bb60ce073ac6f487d3ff04f8abe078c424b8169b3891316b289/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www001.vipanicdn.net/streamhls/cb585a0bf3569e3f033fd99754e7e99b/ep.1.1677684112.m3u8"
@@ -40,9 +26,23 @@
         "downloadLink": {
             "SUBBED": "MTAzMTcw"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/64/55/6455d887a93244701d2a889395e4a952/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/64/55/6455d887a93244701d2a889395e4a952/por-4.vtt",
+                "lang": "Portuguese - Portugues(Brasil)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/64/55/6455d887a93244701d2a889395e4a952/spa-3.vtt",
+                "lang": "Spanish - Espanol"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/2d/2d56d9dd0031a9c4940a90a65e21e378/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

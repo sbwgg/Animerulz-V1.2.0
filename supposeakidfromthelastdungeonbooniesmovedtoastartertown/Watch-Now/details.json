@@ -1,53 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Episode 1",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/38881d4e442f125672647c40e843f558ad8263afd033f3a63a4752248022c2905e7addd9a4d48dece7179f2fa3fc9720ba2b21cde680ddee285b153358c88645541e698c14631400ab19ebe338e5f969b59646719aa61a35073e05163434a9fd2d4077e5aab3045f8d615b7d9cd47070ba6116eab1c2eecad19a69bc334273b5/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www008.vipanicdn.net/streamhls/4b40002e979391a0ff2344c31b9234ae/ep.1.1677598713.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=tatoeba-last-dungeon-mae-no-mura-no-shounen-ga-joban-no-machi-de-kurasu-youna-monogatari-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/38881d4e442f125672647c40e843f558ad8263afd033f3a63a4752248022c2905e7addd9a4d48dece7179f2fa3fc9720ba2b21cde680ddee285b153358c88645541e698c14631400ab19ebe338e5f969b59646719aa61a35073e05163434a9fd2d4077e5aab3045f8d615b7d9cd47070ba6116eab1c2eecad19a69bc334273b5/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/5d/26/5d26b7a0eddafce300af4e0672f8bbb6/eng-0.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/27/27998ca1e95ed0dc8b33866e32043473/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/c56eaaaab337829bcc7b1dfe8818a3d50f7aaba15dc28f0deb06530992e285f42022fd675fe03c47b7d504aca5bf5d99d08412fbb846cc73eb9ab3967aedf4e589a8628fff211bd9a9b87dce2c2e5db3384cdbc2117ac8dba0c7c6679a365c0bde3ac83163c3b4194b3013319b091d719f0f33bfc6668ef0f2418eacfc9f6802/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/8b/dd/8bddeb0f0beffd2bfa647dbb9f339b44/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/8b/dd/8bddeb0f0beffd2bfa647dbb9f339b44/por-4.vtt",
-                            "lang": "Portuguese - Portugues"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/8b/dd/8bddeb0f0beffd2bfa647dbb9f339b44/spa-3.vtt",
-                            "lang": "Spanish - Espanol"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/27/27998ca1e95ed0dc8b33866e32043473/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/c56eaaaab337829bcc7b1dfe8818a3d50f7aaba15dc28f0deb06530992e285f42022fd675fe03c47b7d504aca5bf5d99d08412fbb846cc73eb9ab3967aedf4e589a8628fff211bd9a9b87dce2c2e5db3384cdbc2117ac8dba0c7c6679a365c0bde3ac83163c3b4194b3013319b091d719f0f33bfc6668ef0f2418eacfc9f6802/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www015.vipanicdn.net/streamhls/b212452e6d74440baca8347249a11b01/ep.1.1677614331.m3u8"
@@ -62,52 +38,50 @@
             "DUBBED": "MTU0MjY3",
             "SUBBED": "MTUwMDc0"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/8b/dd/8bddeb0f0beffd2bfa647dbb9f339b44/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/8b/dd/8bddeb0f0beffd2bfa647dbb9f339b44/por-4.vtt",
+                "lang": "Portuguese - Portugues"
+            },
+            {
+                "url": "https://ccb.megaresources.co/8b/dd/8bddeb0f0beffd2bfa647dbb9f339b44/spa-3.vtt",
+                "lang": "Spanish - Espanol"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/27/27998ca1e95ed0dc8b33866e32043473/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "2": {
         "intro": {
-            "start": 125,
-            "end": 215
+            "end": 215,
+            "start": 125
+        },
+        "outro": {
+            "end": 1445,
+            "start": 1356
         },
         "title": "Episode 2",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/8317af983ec94bd606e104a29630ae35c026ad4d528ea1e9b15d06ae1ea7bc462351131b93530d6138303efc06f8bc23fb94a109219af0fe26e9bbc5217d4b9a26c5e82ae7063e39cba8a642a42198792e7dbfcedc6edba83baa629e93e9e59688c9f5f4b22aac72ce2b0bfdaec5226211aaa4b46ef4f324b781e284af3a9ec0/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www021.vipanicdn.net/streamhls/4b40002e979391a0ff2344c31b9234ae/ep.2.1677704978.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=tatoeba-last-dungeon-mae-no-mura-no-shounen-ga-joban-no-machi-de-kurasu-youna-monogatari-episode-dub-2"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/8317af983ec94bd606e104a29630ae35c026ad4d528ea1e9b15d06ae1ea7bc462351131b93530d6138303efc06f8bc23fb94a109219af0fe26e9bbc5217d4b9a26c5e82ae7063e39cba8a642a42198792e7dbfcedc6edba83baa629e93e9e59688c9f5f4b22aac72ce2b0bfdaec5226211aaa4b46ef4f324b781e284af3a9ec0/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/dd/4f/dd4fdb38a6e8fa5ff25b9fb5cfc4a59a/eng-0.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/9a/9aa8072eb93934cee2f6f6c246b22199/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/a04a87ade3d2d9153027ae0a0e61fd799025a50780e35bf93e4fccaf72f7b2ec2161463e73f15b13251398ce9c78d115ecc53f1b98f7bbd063abeef1b6e5ed76dc30e4cd64de4d9da131fe3993629b7095cdc2ac241ce0f21908509f62c945da6bcc569d003a96097820e7510e6c54e9ab34b72662a890e7cd01593b953c92a0/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/1d/75/1d754bb9d2fff477e47df730dcc8d3eb/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/9a/9aa8072eb93934cee2f6f6c246b22199/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/a04a87ade3d2d9153027ae0a0e61fd799025a50780e35bf93e4fccaf72f7b2ec2161463e73f15b13251398ce9c78d115ecc53f1b98f7bbd063abeef1b6e5ed76dc30e4cd64de4d9da131fe3993629b7095cdc2ac241ce0f21908509f62c945da6bcc569d003a96097820e7510e6c54e9ab34b72662a890e7cd01593b953c92a0/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www008.vipanicdn.net/streamhls/b212452e6d74440baca8347249a11b01/ep.2.1677596588.m3u8"
@@ -122,60 +96,42 @@
             "DUBBED": "MTU0ODIw",
             "SUBBED": "MTUwMzA3"
         },
-        "outro": {
-            "start": 1356,
-            "end": 1445
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/1d/75/1d754bb9d2fff477e47df730dcc8d3eb/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/9a/9aa8072eb93934cee2f6f6c246b22199/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "3": {
         "intro": {
-            "start": 169,
-            "end": 259
+            "end": 259,
+            "start": 169
+        },
+        "outro": {
+            "end": 1445,
+            "start": 1356
         },
         "title": "Episode 3",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/2bd0b0a8914bb92559e993801e2370858b08e21d31e6ff852bf13d481cdcbe6b40f75dcb440a82bb7aebc827a25a5b570dd432a633267b4754af7ae9580cc75478c56f3f7208c46ddc6796fccc94702231af1b644e5692a295d8c8ec0e3833af4e42f87f84209f07095b961534d2982facfbf3b8463dc502ee389338eb8cc5c4/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www018.vipanicdn.net/streamhls/4b40002e979391a0ff2344c31b9234ae/ep.3.1677616968.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=tatoeba-last-dungeon-mae-no-mura-no-shounen-ga-joban-no-machi-de-kurasu-youna-monogatari-episode-dub-3"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/2bd0b0a8914bb92559e993801e2370858b08e21d31e6ff852bf13d481cdcbe6b40f75dcb440a82bb7aebc827a25a5b570dd432a633267b4754af7ae9580cc75478c56f3f7208c46ddc6796fccc94702231af1b644e5692a295d8c8ec0e3833af4e42f87f84209f07095b961534d2982facfbf3b8463dc502ee389338eb8cc5c4/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/5a/e7/5ae78cbc1b05f7d4154928561797ff72/eng-0.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/76/763e8fc42d76d6fa4bf45749e186cb0f/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/d22c713d76bb7b81e0ce5630457bc70f56cbf6aa6d89ec538de7d6581e5989cedb5ca80efbc937b9ffb1521c889bdac79964067a61d45be30fd835ed0128a23d7ec8d895d7e1ba681d44b36768e017c4ca0991d083a483e2100998484f98b5cafe9a716f27bb5585ff59e940f8a4eb23122c582e26a8f9d328e80d1343c2f9ed/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/87/1d/871d16d3d36dbf55dd1cc940856d7c37/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/87/1d/871d16d3d36dbf55dd1cc940856d7c37/por-4.vtt",
-                            "lang": "Portuguese - Portugues"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/87/1d/871d16d3d36dbf55dd1cc940856d7c37/spa-3.vtt",
-                            "lang": "Spanish - Espanol"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/76/763e8fc42d76d6fa4bf45749e186cb0f/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/d22c713d76bb7b81e0ce5630457bc70f56cbf6aa6d89ec538de7d6581e5989cedb5ca80efbc937b9ffb1521c889bdac79964067a61d45be30fd835ed0128a23d7ec8d895d7e1ba681d44b36768e017c4ca0991d083a483e2100998484f98b5cafe9a716f27bb5585ff59e940f8a4eb23122c582e26a8f9d328e80d1343c2f9ed/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www017.vipanicdn.net/streamhls/b212452e6d74440baca8347249a11b01/ep.3.1677706922.m3u8"
@@ -190,52 +146,50 @@
             "DUBBED": "MTU1NDQ3",
             "SUBBED": "MTUwNzk2"
         },
-        "outro": {
-            "start": 1356,
-            "end": 1445
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/87/1d/871d16d3d36dbf55dd1cc940856d7c37/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/87/1d/871d16d3d36dbf55dd1cc940856d7c37/por-4.vtt",
+                "lang": "Portuguese - Portugues"
+            },
+            {
+                "url": "https://ccb.megaresources.co/87/1d/871d16d3d36dbf55dd1cc940856d7c37/spa-3.vtt",
+                "lang": "Spanish - Espanol"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/76/763e8fc42d76d6fa4bf45749e186cb0f/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "4": {
         "intro": {
-            "start": 93,
-            "end": 183
+            "end": 183,
+            "start": 93
+        },
+        "outro": {
+            "end": 1445,
+            "start": 1356
         },
         "title": "Episode 4",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/15f266096a3f4530d9d8e1f24119fb5fccc9a9d26a337ab2b2aa53aeac486fab55ae496ac79732bb829bba3be19bf2c6d229318958ba57a1373de1cb505a0de4184e1940a59a8ae962da53125ddaff2a45ef790d59b6d406c7344a9b8ebb2cd6fe6c340b3cb61f032ef1eb1e269d168619ba0f1eb1b740be59361c639b1d47e8/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www048.vipanicdn.net/streamhls/4b40002e979391a0ff2344c31b9234ae/ep.4.1677851423.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=tatoeba-last-dungeon-mae-no-mura-no-shounen-ga-joban-no-machi-de-kurasu-youna-monogatari-episode-dub-4"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/15f266096a3f4530d9d8e1f24119fb5fccc9a9d26a337ab2b2aa53aeac486fab55ae496ac79732bb829bba3be19bf2c6d229318958ba57a1373de1cb505a0de4184e1940a59a8ae962da53125ddaff2a45ef790d59b6d406c7344a9b8ebb2cd6fe6c340b3cb61f032ef1eb1e269d168619ba0f1eb1b740be59361c639b1d47e8/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/ee/45/ee4565f063fa49dc127574da76f90f3c/eng-0.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/fb/fbe20b16ccd2e624691b844962a4b44f/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/b6e780a972eae475723086678c1fd587af92e2088e8493a017a7c340cf6b3eb2502dc703c4601a4ac145925374d4582f9d16b5b997f1f7caf9b240a75b0795d5341f0b3316a2745dcb812173178b31e30ade6c5462d43b9da424f2bb6221e8d0cbd8075ee4cf5ce43e189ab51f393dc2564ac5750a2fbd3388bef2235a2ce80f/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/d2/c6/d2c619d441d8b370d001e30f371d77c2/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/fb/fbe20b16ccd2e624691b844962a4b44f/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/b6e780a972eae475723086678c1fd587af92e2088e8493a017a7c340cf6b3eb2502dc703c4601a4ac145925374d4582f9d16b5b997f1f7caf9b240a75b0795d5341f0b3316a2745dcb812173178b31e30ade6c5462d43b9da424f2bb6221e8d0cbd8075ee4cf5ce43e189ab51f393dc2564ac5750a2fbd3388bef2235a2ce80f/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www020.vipanicdn.net/streamhls/b212452e6d74440baca8347249a11b01/ep.4.1677705751.m3u8"
@@ -250,52 +204,42 @@
             "DUBBED": "MTU2MzU3",
             "SUBBED": "MTUxMzM5"
         },
-        "outro": {
-            "start": 1356,
-            "end": 1445
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/d2/c6/d2c619d441d8b370d001e30f371d77c2/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/fb/fbe20b16ccd2e624691b844962a4b44f/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "5": {
         "intro": {
-            "start": 103,
-            "end": 193
+            "end": 193,
+            "start": 103
+        },
+        "outro": {
+            "end": 1396,
+            "start": 1306
         },
         "title": "Episode 5",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/3df31285d62ce283dbb12daa9cddf986a22c8e1d85f4981becb2386d5fa88a573619bf1c4658218f03686469210edf36d81fcd7d3c6683852af66667d48dfa5050ebff0b7714463a9f8d5197ad2f635f18fdc6ef2c87eaa5daeb82a4662d59073e831d6e3530a08f0d24b0cdd4c74665997fa3cf64f542c7acf47d055fdc83a3/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www006.vipanicdn.net/streamhls/4b40002e979391a0ff2344c31b9234ae/ep.5.1677599706.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=tatoeba-last-dungeon-mae-no-mura-no-shounen-ga-joban-no-machi-de-kurasu-youna-monogatari-episode-dub-5"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/3df31285d62ce283dbb12daa9cddf986a22c8e1d85f4981becb2386d5fa88a573619bf1c4658218f03686469210edf36d81fcd7d3c6683852af66667d48dfa5050ebff0b7714463a9f8d5197ad2f635f18fdc6ef2c87eaa5daeb82a4662d59073e831d6e3530a08f0d24b0cdd4c74665997fa3cf64f542c7acf47d055fdc83a3/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/a2/91/a2915b3277acc39f6dd74dbd0367162a/eng-0.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/e1/e107b444cea5bfe2238656cfea39d67e/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/c295c921bd50caae8cd48b84fd49ca722356bb8bdfdc66c9a49f99c9bd2d2489464e01dc960ca46ee6a1865c76b7bc0ae671f4ed77ee6b0baf26bccd14cb081f635e1bc70b419fd5530efa098cc26bc7684598e6b18aeabdce8d2d427b33d46960549ef731f36f6f2b831f872d7591e7a9e537e458d728e2b6af56ca2dd9c902/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/3b/df/3bdfb5e230032a57bf3cffbd524a41f0/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/e1/e107b444cea5bfe2238656cfea39d67e/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/c295c921bd50caae8cd48b84fd49ca722356bb8bdfdc66c9a49f99c9bd2d2489464e01dc960ca46ee6a1865c76b7bc0ae671f4ed77ee6b0baf26bccd14cb081f635e1bc70b419fd5530efa098cc26bc7684598e6b18aeabdce8d2d427b33d46960549ef731f36f6f2b831f872d7591e7a9e537e458d728e2b6af56ca2dd9c902/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www001.vipanicdn.net/streamhls/b212452e6d74440baca8347249a11b01/ep.5.1677601379.m3u8"
@@ -310,52 +254,42 @@
             "DUBBED": "MTU3MTE1",
             "SUBBED": "MTUxNzcw"
         },
-        "outro": {
-            "start": 1306,
-            "end": 1396
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/3b/df/3bdfb5e230032a57bf3cffbd524a41f0/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/e1/e107b444cea5bfe2238656cfea39d67e/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "6": {
         "intro": {
-            "start": 77,
-            "end": 167
+            "end": 167,
+            "start": 77
+        },
+        "outro": {
+            "end": 1418,
+            "start": 1329
         },
         "title": "Episode 6",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/3f127a70b6812a09fd08968b80ce4535b75c1c82f5ee418a98cdc106e9e50a851507b8c2aac9c157dc3ce6d11d49ca663afac57516bd40247178d79e4a1f9c7587ba58e9ac346a08f9f59646e7751acb800c252c4e7fc2459ddde8b16578ebe819038e1c86a8c151050bf88f4e04dde51a969986eab9e3ef114df6f41d25e0e2/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www047.vipanicdn.net/streamhls/4b40002e979391a0ff2344c31b9234ae/ep.6.1696413733.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=tatoeba-last-dungeon-mae-no-mura-no-shounen-ga-joban-no-machi-de-kurasu-youna-monogatari-episode-dub-6"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/3f127a70b6812a09fd08968b80ce4535b75c1c82f5ee418a98cdc106e9e50a851507b8c2aac9c157dc3ce6d11d49ca663afac57516bd40247178d79e4a1f9c7587ba58e9ac346a08f9f59646e7751acb800c252c4e7fc2459ddde8b16578ebe819038e1c86a8c151050bf88f4e04dde51a969986eab9e3ef114df6f41d25e0e2/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/c6/84/c684f9990804f2110ec3ccaaf365c0e4/eng-0.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/8b/8b92cb55eac77b01e5642ac0087ea637/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/aa3e6fb8b7d745335361ab9691256d86e3b906b58f6c8d87004252c7942a4be0ba7a04dacafeefe52609bee0637f24b369f57de63641555b17b84683be35338bfcc872da0807683f795f4b0c54225e9e0e9962bf312be135ad27a0b6908263680f19d8042e959439662a7dbf6fc702e2e73d6957e557257d62a8e3de219aaf8b/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/75/15/7515183dc49915c0ff190204bc8036ed/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/8b/8b92cb55eac77b01e5642ac0087ea637/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/aa3e6fb8b7d745335361ab9691256d86e3b906b58f6c8d87004252c7942a4be0ba7a04dacafeefe52609bee0637f24b369f57de63641555b17b84683be35338bfcc872da0807683f795f4b0c54225e9e0e9962bf312be135ad27a0b6908263680f19d8042e959439662a7dbf6fc702e2e73d6957e557257d62a8e3de219aaf8b/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www016.vipanicdn.net/streamhls/b212452e6d74440baca8347249a11b01/ep.6.1677704756.m3u8"
@@ -370,52 +304,42 @@
             "DUBBED": "MTU4MTg2",
             "SUBBED": "MTUyMDI1"
         },
-        "outro": {
-            "start": 1329,
-            "end": 1418
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/75/15/7515183dc49915c0ff190204bc8036ed/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/8b/8b92cb55eac77b01e5642ac0087ea637/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "7": {
         "intro": {
-            "start": 86,
-            "end": 176
+            "end": 176,
+            "start": 86
+        },
+        "outro": {
+            "end": 1445,
+            "start": 1356
         },
         "title": "Episode 7",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/a9cef95db193e5c543358e45d85330e36f5774046a65c397e29a83d0356f96a0c5940dbe7f147af38c6619b4feda7a87ffd03f717329b5b905f4c9d0246de8b65da27be6113107e18cf6e36239b6a1c448cac15c961b07e7c01ee2421fcebb39e538dc160eb9adba989be74baf35c0886f8671920d688f8d4127af775bdf1761/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www045.vipanicdn.net/streamhls/4b40002e979391a0ff2344c31b9234ae/ep.7.1677857949.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=tatoeba-last-dungeon-mae-no-mura-no-shounen-ga-joban-no-machi-de-kurasu-youna-monogatari-episode-dub-7"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/a9cef95db193e5c543358e45d85330e36f5774046a65c397e29a83d0356f96a0c5940dbe7f147af38c6619b4feda7a87ffd03f717329b5b905f4c9d0246de8b65da27be6113107e18cf6e36239b6a1c448cac15c961b07e7c01ee2421fcebb39e538dc160eb9adba989be74baf35c0886f8671920d688f8d4127af775bdf1761/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/43/8a/438a13d1ddb0e8e899ba50aea85f88f2/eng-0.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/95/95497fe60596e04e087d88999b2a2f51/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/be4399596092cc4d34f4a9e9da813df0e301cef1126e12f04547cb2e8a5457dfd062b73b13c924524ba41d7197e46c4749109977dcfcef82b74a62de9b70ac6fbb3f8c145fa573e7ab931f8955832358256f0ec7e415d8249ce483432f79164793470e2ae4ed9e3672cba4063b55fefbf2efbd0a619fdd266d3a3002512ef559/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/df/f6/dff69e6be2954aa435e132dddbf38be8/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/95/95497fe60596e04e087d88999b2a2f51/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/be4399596092cc4d34f4a9e9da813df0e301cef1126e12f04547cb2e8a5457dfd062b73b13c924524ba41d7197e46c4749109977dcfcef82b74a62de9b70ac6fbb3f8c145fa573e7ab931f8955832358256f0ec7e415d8249ce483432f79164793470e2ae4ed9e3672cba4063b55fefbf2efbd0a619fdd266d3a3002512ef559/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www011.vipanicdn.net/streamhls/b212452e6d74440baca8347249a11b01/ep.7.1677719785.m3u8"
@@ -430,52 +354,42 @@
             "DUBBED": "MTU5NjM0",
             "SUBBED": "MTUyMzUw"
         },
-        "outro": {
-            "start": 1356,
-            "end": 1445
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/df/f6/dff69e6be2954aa435e132dddbf38be8/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/95/95497fe60596e04e087d88999b2a2f51/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "8": {
         "intro": {
-            "start": 73,
-            "end": 163
+            "end": 163,
+            "start": 73
+        },
+        "outro": {
+            "end": 1445,
+            "start": 1362
         },
         "title": "Episode 8",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/c43d269730ba319d611910e43d45bcc2e379c649c6e423814a01836eab1c0ece8580e1cf3abcafe8afca076c32db1159d512bafb68c38fa35fcde6af73cd2870a051b509424bd30207256bfdda2eb8337921fc466a1930329de47f0ccb4d5ad25562ad32e22216b0724208fbfc9c951287eb6cf67951e56f166f585d89ec28dd/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www009.vipanicdn.net/streamhls/4b40002e979391a0ff2344c31b9234ae/ep.8.1677602240.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=tatoeba-last-dungeon-mae-no-mura-no-shounen-ga-joban-no-machi-de-kurasu-youna-monogatari-episode-dub-8"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/c43d269730ba319d611910e43d45bcc2e379c649c6e423814a01836eab1c0ece8580e1cf3abcafe8afca076c32db1159d512bafb68c38fa35fcde6af73cd2870a051b509424bd30207256bfdda2eb8337921fc466a1930329de47f0ccb4d5ad25562ad32e22216b0724208fbfc9c951287eb6cf67951e56f166f585d89ec28dd/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/1d/e1/1de1e23cab32738ce4c6a0f16cb06ef3/eng-0.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/74/7461508113d55e2dc670ff3a91af5dcf/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/ac8f74a7509a7aadaf0efe16ee87a1083414572f20933aa908e6eb9dbf5c2f1e0fbc64cca8a392c55362b07b94c72e0c44cafa83219f25db0a0d6c4f62703e74bfdc71340cc8ee6059023253748d45d9c89a28b0b9db418cdcf0b7d0b35b65a8ca6b19d691daaa0333a24af3db4525d12b33414ff20dc9d7bbd2c7ac91512068/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/26/48/264818f0ddc69dc4fffb6ca356d174f8/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/74/7461508113d55e2dc670ff3a91af5dcf/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/ac8f74a7509a7aadaf0efe16ee87a1083414572f20933aa908e6eb9dbf5c2f1e0fbc64cca8a392c55362b07b94c72e0c44cafa83219f25db0a0d6c4f62703e74bfdc71340cc8ee6059023253748d45d9c89a28b0b9db418cdcf0b7d0b35b65a8ca6b19d691daaa0333a24af3db4525d12b33414ff20dc9d7bbd2c7ac91512068/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www005.vipanicdn.net/streamhls/b212452e6d74440baca8347249a11b01/ep.8.1677605762.m3u8"
@@ -490,52 +404,42 @@
             "DUBBED": "MTU5NjM4",
             "SUBBED": "MTUyOTc0"
         },
-        "outro": {
-            "start": 1362,
-            "end": 1445
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/26/48/264818f0ddc69dc4fffb6ca356d174f8/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/74/7461508113d55e2dc670ff3a91af5dcf/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "9": {
         "intro": {
-            "start": 137,
-            "end": 227
+            "end": 227,
+            "start": 137
+        },
+        "outro": {
+            "end": 1445,
+            "start": 1356
         },
         "title": "Episode 9",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/8f2b44ff5fadfb74f8f52921f79ce109e84bf58d3bbf3777d544d0cf3cd8aacf78164ceae34947f218e4ab1aaad1dd0755bbfa39a41a44a4614f438d44d94c9eae1d3fede8e878228ac16b997f9ea246da950fe123460bb03895ee4b411971c9851c05fa329872b13d26b955694cac1ae2d68ea5baad7521670e81e9e7250e77/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www047.vipanicdn.net/streamhls/4b40002e979391a0ff2344c31b9234ae/ep.9.1677855274.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=tatoeba-last-dungeon-mae-no-mura-no-shounen-ga-joban-no-machi-de-kurasu-youna-monogatari-episode-dub-9"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/8f2b44ff5fadfb74f8f52921f79ce109e84bf58d3bbf3777d544d0cf3cd8aacf78164ceae34947f218e4ab1aaad1dd0755bbfa39a41a44a4614f438d44d94c9eae1d3fede8e878228ac16b997f9ea246da950fe123460bb03895ee4b411971c9851c05fa329872b13d26b955694cac1ae2d68ea5baad7521670e81e9e7250e77/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/aa/93/aa9388d36f591d6da7bfd1625384b23e/eng-0.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/ee/eecc72eec3e550c6c31d2afe3f969560/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/30570af8a315104e1469ed6bd9f3182f4f7b9914cf8599e6a094366948d4f0e2638c7ff812fce38cdc952221993328f64a55c71b56ca72ce0902b2c75d97315b50a0288d8ee227a79c7caca9fd54265f94b1a404318293a00f86966e861f9030bdae843846d351e8563e4a4f8a364eeeabf6d2dcfbbd8e5d58ca1c83fc15f4bb/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/52/93/5293d0ea7ce1e524a8d523fa607f7dfc/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/ee/eecc72eec3e550c6c31d2afe3f969560/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/30570af8a315104e1469ed6bd9f3182f4f7b9914cf8599e6a094366948d4f0e2638c7ff812fce38cdc952221993328f64a55c71b56ca72ce0902b2c75d97315b50a0288d8ee227a79c7caca9fd54265f94b1a404318293a00f86966e861f9030bdae843846d351e8563e4a4f8a364eeeabf6d2dcfbbd8e5d58ca1c83fc15f4bb/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www013.vipanicdn.net/streamhls/b212452e6d74440baca8347249a11b01/ep.9.1677703811.m3u8"
@@ -550,52 +454,42 @@
             "DUBBED": "MTYwMjU2",
             "SUBBED": "MTUzNjQy"
         },
-        "outro": {
-            "start": 1356,
-            "end": 1445
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/52/93/5293d0ea7ce1e524a8d523fa607f7dfc/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/ee/eecc72eec3e550c6c31d2afe3f969560/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "10": {
         "intro": {
-            "start": 55,
-            "end": 145
+            "end": 145,
+            "start": 55
+        },
+        "outro": {
+            "end": 1436,
+            "start": 1347
         },
         "title": "Episode 10",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/a82789bbc575bce769d5bfde898fab591f7030c6539fdd023ed5dab34893042447f24f6aa69f32374eb657f7bd6350bfd8a4261e62bf058e2f864501a8d4a5ff71adebc19b29479f2006ad5b260fc495ae7317ca35de21b62d35a8d6b026c59def905f996757291145e862507a9c3e4244099b0b6c19ba8ff6f98f135605578d/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www025.vipanicdn.net/streamhls/4b40002e979391a0ff2344c31b9234ae/ep.10.1677861679.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=tatoeba-last-dungeon-mae-no-mura-no-shounen-ga-joban-no-machi-de-kurasu-youna-monogatari-episode-dub-10"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/a82789bbc575bce769d5bfde898fab591f7030c6539fdd023ed5dab34893042447f24f6aa69f32374eb657f7bd6350bfd8a4261e62bf058e2f864501a8d4a5ff71adebc19b29479f2006ad5b260fc495ae7317ca35de21b62d35a8d6b026c59def905f996757291145e862507a9c3e4244099b0b6c19ba8ff6f98f135605578d/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/23/ae/23aed6f0129b6fb2f6902f60de6cd270/eng-0.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/6b/6bbf4881c01d8fd730046e27094f35de/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/a1eac1a8a5e7c84603f36ed38a0df449b3599251874af4bfcf5d7804b587f93c0bc8e8b817ef53c1c86ccc96ac894e8d01566f72c914c7b698fe31dd62840d26a503531d841b4d679399df0ebf00d86c1b23d56217df8cf796d05c798f74b71a9f28e9a7150bf5c766049a6329b73cdb1bebe53b5a66f59a2f60d16a24d36070/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/a4/a0/a4a0d108c09f6bf71637665eca2a24bd/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/6b/6bbf4881c01d8fd730046e27094f35de/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/a1eac1a8a5e7c84603f36ed38a0df449b3599251874af4bfcf5d7804b587f93c0bc8e8b817ef53c1c86ccc96ac894e8d01566f72c914c7b698fe31dd62840d26a503531d841b4d679399df0ebf00d86c1b23d56217df8cf796d05c798f74b71a9f28e9a7150bf5c766049a6329b73cdb1bebe53b5a66f59a2f60d16a24d36070/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www049.vipanicdn.net/streamhls/b212452e6d74440baca8347249a11b01/ep.10.1677857340.m3u8"
@@ -610,52 +504,42 @@
             "DUBBED": "MTYwNzk0",
             "SUBBED": "MTU0MTM4"
         },
-        "outro": {
-            "start": 1347,
-            "end": 1436
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/a4/a0/a4a0d108c09f6bf71637665eca2a24bd/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/6b/6bbf4881c01d8fd730046e27094f35de/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "11": {
         "intro": {
-            "start": 99,
-            "end": 189
+            "end": 189,
+            "start": 99
+        },
+        "outro": {
+            "end": 1445,
+            "start": 1356
         },
         "title": "Episode 11",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/8c0b82654ce77dbca2ec996fce18750f7290fb19a2da4f4cb3aa086f6d12cf165802b10831ba2d7912c2e23acad50019cdad2968ec0a6a4cf5db9d31523082264d96c7fb96ee06cbbafe0c9edece4e85117414d53baf9d98c4f3bda55a7a9a0730b826d3c88b45b42a81d454d6ef8295c045172d46acc5799024d5173b2ac896/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www004.vipanicdn.net/streamhls/4b40002e979391a0ff2344c31b9234ae/ep.11.1677607223.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=tatoeba-last-dungeon-mae-no-mura-no-shounen-ga-joban-no-machi-de-kurasu-youna-monogatari-episode-dub-11"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/8c0b82654ce77dbca2ec996fce18750f7290fb19a2da4f4cb3aa086f6d12cf165802b10831ba2d7912c2e23acad50019cdad2968ec0a6a4cf5db9d31523082264d96c7fb96ee06cbbafe0c9edece4e85117414d53baf9d98c4f3bda55a7a9a0730b826d3c88b45b42a81d454d6ef8295c045172d46acc5799024d5173b2ac896/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/47/26/4726d6965b20e83631fa2940a73236b9/eng-0.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/c6/c62ecda7e2a83547bbf43154060f350a/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/9c8bcee2f6cae63a0127512620936772ffbe889504c212220c88747e830d392a22f87f46a52f788a9f102b59de0190fa75d77e397a944a2c4d292772e6cc0d0d7467fa80561f5e79434c4557d815de2244eece991e695527c4c60ee7779a29734a18b47f3e4c8e5a49dd6463a9be275a64fc9f2ae8901d260ef207f8968680d3/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/50/8b/508ba50a902bac89f1f448a646479e9d/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/c6/c62ecda7e2a83547bbf43154060f350a/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/9c8bcee2f6cae63a0127512620936772ffbe889504c212220c88747e830d392a22f87f46a52f788a9f102b59de0190fa75d77e397a944a2c4d292772e6cc0d0d7467fa80561f5e79434c4557d815de2244eece991e695527c4c60ee7779a29734a18b47f3e4c8e5a49dd6463a9be275a64fc9f2ae8901d260ef207f8968680d3/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www050.vipanicdn.net/streamhls/b212452e6d74440baca8347249a11b01/ep.11.1677856350.m3u8"
@@ -670,52 +554,42 @@
             "DUBBED": "MTYyMjcz",
             "SUBBED": "MTU0ODE5"
         },
-        "outro": {
-            "start": 1356,
-            "end": 1445
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/50/8b/508ba50a902bac89f1f448a646479e9d/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/c6/c62ecda7e2a83547bbf43154060f350a/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "12": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 1444,
+            "start": 1361
         },
         "title": "Episode 12",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/b8c7bfe1ad0acf5c14d797f9399716844de57dab4ceb846436e0812285920b62370c143c1cdf6d9e644f8c89ee7a48ced5bd2edac5bc71eb0070666a3e1045b1854e4c708b7cd264a31b83923cfe03bc0368142beed97ea42281882612b294e60e8c87bdc8cfc8e9db8b23fd44095c8c8288ca378d6fe70fc37e958278a40de4/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www045.vipanicdn.net/streamhls/4b40002e979391a0ff2344c31b9234ae/ep.12.1677856926.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=tatoeba-last-dungeon-mae-no-mura-no-shounen-ga-joban-no-machi-de-kurasu-youna-monogatari-episode-dub-12"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/b8c7bfe1ad0acf5c14d797f9399716844de57dab4ceb846436e0812285920b62370c143c1cdf6d9e644f8c89ee7a48ced5bd2edac5bc71eb0070666a3e1045b1854e4c708b7cd264a31b83923cfe03bc0368142beed97ea42281882612b294e60e8c87bdc8cfc8e9db8b23fd44095c8c8288ca378d6fe70fc37e958278a40de4/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/ae/e5/aee502e02c544b8d2b3e2c36bfd76616/eng-0.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/9d/9df3417f966cea3a88f56be84ea14c1a/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/565deed287b381a0065c8e3b87d718c6176df3c5d2642a98b7392dc79095e02722d67ae0435a65fde97b24cf7197928c2f294cdc1c5e408c539f576374ee92b19b3179bc3ae5c012583be1416293550e8310b3e28f481eb89fbf900aa94b06edbcab8186064a15b65e6b662b4c1c468fbd3ea445dbf13886c98a29e45c56c56c/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/14/03/14034907b3eb89f665e39cbc8e812b30/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/9d/9df3417f966cea3a88f56be84ea14c1a/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/565deed287b381a0065c8e3b87d718c6176df3c5d2642a98b7392dc79095e02722d67ae0435a65fde97b24cf7197928c2f294cdc1c5e408c539f576374ee92b19b3179bc3ae5c012583be1416293550e8310b3e28f481eb89fbf900aa94b06edbcab8186064a15b65e6b662b4c1c468fbd3ea445dbf13886c98a29e45c56c56c/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www047.vipanicdn.net/streamhls/b212452e6d74440baca8347249a11b01/ep.12.1696415360.m3u8"
@@ -730,9 +604,15 @@
             "DUBBED": "MTYyMjc0",
             "SUBBED": "MTU1NDQ2"
         },
-        "outro": {
-            "start": 1361,
-            "end": 1444
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/14/03/14034907b3eb89f665e39cbc8e812b30/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/9d/9df3417f966cea3a88f56be84ea14c1a/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

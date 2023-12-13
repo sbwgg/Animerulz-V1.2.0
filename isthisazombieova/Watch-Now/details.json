@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "OVA: Episode 13",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/efbaaf0bfb12f75ad27c553b47eb1a141bcbf5fbca6a7ef83a6c84418452939ed7129b2e4638de03903d567368c35a11010beecb2bc63ea8826e737dd8a3995414b8a3f3c0d68392cc18145fc28e24692b1e18dbb07c3b69c7296e42ed30540c99799389626c6787eaf5e6de7e5eccc6f9b5f3a2740d5539fef1944c7bb6c7bd/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www021.vipanicdn.net/streamhls/b4b6eeaf8e59b158430da41be2271df9/ep.1.1677704268.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=kore-wa-zombie-desu-ka-ova-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/efbaaf0bfb12f75ad27c553b47eb1a141bcbf5fbca6a7ef83a6c84418452939ed7129b2e4638de03903d567368c35a11010beecb2bc63ea8826e737dd8a3995414b8a3f3c0d68392cc18145fc28e24692b1e18dbb07c3b69c7296e42ed30540c99799389626c6787eaf5e6de7e5eccc6f9b5f3a2740d5539fef1944c7bb6c7bd/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/62/6243f03c4b6ec8fba68e3ca74301ff88/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/33dddbc8644180ad8c52dba0c40e300b982b3d717495eb12a6c80b06afbd5f872ea478c0c831663096d1173ce5af7a0ab8d8627d1c621d52e9fef2dd8e25b979faf46dd9cd9a88d988b6d0cf53d4949ec05d2bb433789d763cfdd4c050ed60e084da5e3cfcad31f389e743c8fd66674b15328ad0e20f07513c07a4190e5a81d3/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/e6/99/e6992f5a7d648575e1bec53fc61f1a9f/e6992f5a7d648575e1bec53fc61f1a9f.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/62/6243f03c4b6ec8fba68e3ca74301ff88/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/33dddbc8644180ad8c52dba0c40e300b982b3d717495eb12a6c80b06afbd5f872ea478c0c831663096d1173ce5af7a0ab8d8627d1c621d52e9fef2dd8e25b979faf46dd9cd9a88d988b6d0cf53d4949ec05d2bb433789d763cfdd4c050ed60e084da5e3cfcad31f389e743c8fd66674b15328ad0e20f07513c07a4190e5a81d3/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www020.vipanicdn.net/streamhls/4f92dc35c4468b57f7aca04e18cced5d/ep.1.1677706747.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "MTUzNTMw",
             "SUBBED": "MTUzNTI5"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/e6/99/e6992f5a7d648575e1bec53fc61f1a9f/e6992f5a7d648575e1bec53fc61f1a9f.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/62/6243f03c4b6ec8fba68e3ca74301ff88/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

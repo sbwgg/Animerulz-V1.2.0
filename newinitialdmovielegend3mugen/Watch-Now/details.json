@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Initial D Movie: Legend 3 - Mugen",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/b88aab928b37a40cee9cfc094496c92318c484c4809e96ad9c1194f96908f70f16e9306fde810314d5438e7baba5b8eef2943beaabcc22b1e73e0a6af0e0b9416db8917f82fae7daa88df56cf2387575881e4e710f25696bde0509007df5125f4804ebc1d4084eea5c2d026c1570ab10304e8d3cb1cc0cf9300a397a6d8d67e1/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www048.vipanicdn.net/streamhls/cda4b87f920cbb3fc7dc583fb9615883/ep.1.1677834380.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=new-initial-d-movie-legend-3-mugen-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/b88aab928b37a40cee9cfc094496c92318c484c4809e96ad9c1194f96908f70f16e9306fde810314d5438e7baba5b8eef2943beaabcc22b1e73e0a6af0e0b9416db8917f82fae7daa88df56cf2387575881e4e710f25696bde0509007df5125f4804ebc1d4084eea5c2d026c1570ab10304e8d3cb1cc0cf9300a397a6d8d67e1/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/6a/6a90861a5dded4e8a747b1e15e449a65/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/144a31d1a2d8ee81c7a35d15104ce8b4fa1211f7f672869767fab547ccbb748c69c146ba6d0857dcf28e5bd5fcdd9138d5617667d8de392107a555d67843783f6d4d93a0c0594a661d22f62ede8547772be1aa677087d37c78bd7afd8fc30b932868670dc2ef4a0f830040efd142c081e166a28db52f276ac4b559e36f01fc5f/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/48/c5/48c5a7e4c744f18c7b2ab9451c41df52/eng-3.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/6a/6a90861a5dded4e8a747b1e15e449a65/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/144a31d1a2d8ee81c7a35d15104ce8b4fa1211f7f672869767fab547ccbb748c69c146ba6d0857dcf28e5bd5fcdd9138d5617667d8de392107a555d67843783f6d4d93a0c0594a661d22f62ede8547772be1aa677087d37c78bd7afd8fc30b932868670dc2ef4a0f830040efd142c081e166a28db52f276ac4b559e36f01fc5f/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www013.vipanicdn.net/streamhls/913a16a0fbacdb993c93a2d770629f54/ep.1.1677666954.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "MTk4Nzc3",
             "SUBBED": "NzM1MTI="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/48/c5/48c5a7e4c744f18c7b2ab9451c41df52/eng-3.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/6a/6a90861a5dded4e8a747b1e15e449a65/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

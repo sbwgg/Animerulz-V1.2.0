@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Special",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/491161f53a552220e766f8ccf435dcd8170e9355d13d25552075cc462a55f3b3f2e6d8c481448fff3d6e8f52071311ca205f33a5f30336334dc6159295ffb8642e8a0f27bebf8976561dd066b0d37d7db457665cd384db479008efa26c2738fd5ecc643471cd016b05406de8b5273167/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www029.vipanicdn.net/streamhls/88f47e0a13138f5ff0d1d3c9e96eacb7/ep.1.1677680971.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=red-garden-dead-girls-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/491161f53a552220e766f8ccf435dcd8170e9355d13d25552075cc462a55f3b3f2e6d8c481448fff3d6e8f52071311ca205f33a5f30336334dc6159295ffb8642e8a0f27bebf8976561dd066b0d37d7db457665cd384db479008efa26c2738fd5ecc643471cd016b05406de8b5273167/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/27/27d3fdcf36cd3ddc3711f43c888c08e9/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/99131377a764e992116660ad4bf71d109efb140eb0994eeb5824065ef80d2b2d8b25842288d8bafadf1a1a62fac02bab5e5d20bd4f5b33cf63c238e89bd55d7dd1716b743bff0a46f5c0483629d56145e501849435fbf8e77cb5162142f5173f958196b0241f327d1dc22e8b2c1df4df/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/7d/b3/7db32f1f897a8a7c87f7442ad153af5f/7db32f1f897a8a7c87f7442ad153af5f.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/27/27d3fdcf36cd3ddc3711f43c888c08e9/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/99131377a764e992116660ad4bf71d109efb140eb0994eeb5824065ef80d2b2d8b25842288d8bafadf1a1a62fac02bab5e5d20bd4f5b33cf63c238e89bd55d7dd1716b743bff0a46f5c0483629d56145e501849435fbf8e77cb5162142f5173f958196b0241f327d1dc22e8b2c1df4df/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www009.vipanicdn.net/streamhls/9b7f97eb4d4a1fde4974df8eccd48a7c/ep.1.1677665603.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "OTkyOTg=",
             "SUBBED": "NDI5OTg="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/7d/b3/7db32f1f897a8a7c87f7442ad153af5f/7db32f1f897a8a7c87f7442ad153af5f.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/27/27d3fdcf36cd3ddc3711f43c888c08e9/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

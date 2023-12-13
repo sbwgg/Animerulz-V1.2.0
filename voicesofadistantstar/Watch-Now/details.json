@@ -1,34 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/55ea10c5b6d0610543d2ab45ad7aae689075e468889349cf6b70e3699fd4bcc433f898905bbabde638c5743b8d64ad6865902317bdeb8ab33083523af991a7c8696dd5450e369391cc27b65bd3104bf0623595d5fb479186f60af54ca576e2a712d380f6feaff171801d6df0413a5e7234828268aa4f619b36cbbf70c7535cd8/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=hoshi-no-koe-dub-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/55ea10c5b6d0610543d2ab45ad7aae689075e468889349cf6b70e3699fd4bcc433f898905bbabde638c5743b8d64ad6865902317bdeb8ab33083523af991a7c8696dd5450e369391cc27b65bd3104bf0623595d5fb479186f60af54ca576e2a712d380f6feaff171801d6df0413a5e7234828268aa4f619b36cbbf70c7535cd8/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/00/0075a2626515e5bb4646fe29da71b081/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/467d42d5e4d35e1598c72841a4a0cdf3bfc56aa608bc6965c0a8f5c89b68b368c85ba47247a01d0ac0a34186075192979811d2eb7ed737e325e9df0a8a8a82c49a9ff39c85afe188a6962c40feacf8bf9c917cee9457dba478ab1bf29f53a3fd34cbe99c5837fbd3819a450f3f60fdf8db44b0909894037501b97d222a67fe07/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/00/0075a2626515e5bb4646fe29da71b081/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/467d42d5e4d35e1598c72841a4a0cdf3bfc56aa608bc6965c0a8f5c89b68b368c85ba47247a01d0ac0a34186075192979811d2eb7ed737e325e9df0a8a8a82c49a9ff39c85afe188a6962c40feacf8bf9c917cee9457dba478ab1bf29f53a3fd34cbe99c5837fbd3819a450f3f60fdf8db44b0909894037501b97d222a67fe07/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www046.vipanicdn.net/streamhls/b063244d618989cb900c58bd3b42217f/ep.1.1677840806.m3u8"
@@ -42,9 +34,11 @@
         "downloadLink": {
             "SUBBED": "MTkwNjM1"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/00/0075a2626515e5bb4646fe29da71b081/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

@@ -1,32 +1,18 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/ebb04019dc719ac3229ac29354917fc6abbaa4ea82fbd5c3171893cd439f054dffc4455d297e134b2204de1848e508f02480435a2acbd0eeed823763821eea639fc80fc82fcc71d7d17c18296e23097f58f67f843421513d3136a39af2367ae66f4e2cefcd8c54610cc7c44e662b6d3a41a7c603fd4f0f06a59a97e46af0b3ea/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/d8/96/d896a9e9447cbc8d9dd13bc4b05bd216/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/d8/96/d896a9e9447cbc8d9dd13bc4b05bd216/eng-3.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/d8/96/d896a9e9447cbc8d9dd13bc4b05bd216/eng-4.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/00/0043d65fe0ddd4ddbd5a37014fc23a9e/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/ebb04019dc719ac3229ac29354917fc6abbaa4ea82fbd5c3171893cd439f054dffc4455d297e134b2204de1848e508f02480435a2acbd0eeed823763821eea639fc80fc82fcc71d7d17c18296e23097f58f67f843421513d3136a39af2367ae66f4e2cefcd8c54610cc7c44e662b6d3a41a7c603fd4f0f06a59a97e46af0b3ea/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www043.vipanicdn.net/streamhls/9c93667b7e297824e817142d1c90f102/ep.1.1677844317.m3u8"
@@ -40,9 +26,23 @@
         "downloadLink": {
             "SUBBED": "MTc4OTcy"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/d8/96/d896a9e9447cbc8d9dd13bc4b05bd216/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/d8/96/d896a9e9447cbc8d9dd13bc4b05bd216/eng-3.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/d8/96/d896a9e9447cbc8d9dd13bc4b05bd216/eng-4.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/00/0043d65fe0ddd4ddbd5a37014fc23a9e/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

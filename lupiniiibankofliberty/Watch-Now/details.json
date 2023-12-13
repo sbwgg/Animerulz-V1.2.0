@@ -1,42 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/5d1408d11729322301ae3083bef4ff303811826a8777bc8989096fb0484df2cff1cb181571c41a8074f504cf7d8e06adc69920e40c28d2b10e19426f1ca7aa3b07de803d0af8590b0b2775847a0bfb588e248166ebc20adf9e5ca5f4fe38a5be1ff9ee89fe5bd9291604cb0a1de2822d1a418989a1108d04eae932da453e4c46/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=lupin-iii-russia-yori-ai-wo-komete-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/5d1408d11729322301ae3083bef4ff303811826a8777bc8989096fb0484df2cff1cb181571c41a8074f504cf7d8e06adc69920e40c28d2b10e19426f1ca7aa3b07de803d0af8590b0b2775847a0bfb588e248166ebc20adf9e5ca5f4fe38a5be1ff9ee89fe5bd9291604cb0a1de2822d1a418989a1108d04eae932da453e4c46/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/04/0475c1bbe53b636337a19a6000efa40c/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/0e4818bf9586ebf9b7b9b6637a414338e16d7a617a8b4a87ba764f544a88008f19985fdbd6ce4ebec113c9de2576f8e0e5f63ff975882b0ab795aae3bedbe1d60d8d08e5e8c9ddf1989ee6ff5c8c59b56e18b9da7f3a81520b6bb49cc467a864ebddfea64493d103320f49a116dd2dc73a4321460fd968a49df34eb28fcc4ff9/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/23/30/2330142eabfb2d8c8edf3ce4f2e41fa3/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/23/30/2330142eabfb2d8c8edf3ce4f2e41fa3/ita-5.vtt",
-                            "lang": "Italian - Dialoghi"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/04/0475c1bbe53b636337a19a6000efa40c/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/0e4818bf9586ebf9b7b9b6637a414338e16d7a617a8b4a87ba764f544a88008f19985fdbd6ce4ebec113c9de2576f8e0e5f63ff975882b0ab795aae3bedbe1d60d8d08e5e8c9ddf1989ee6ff5c8c59b56e18b9da7f3a81520b6bb49cc467a864ebddfea64493d103320f49a116dd2dc73a4321460fd968a49df34eb28fcc4ff9/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www021.vipanicdn.net/streamhls/16b917837178b67ffce2f916cf63d52d/ep.1.1677699831.m3u8"
@@ -50,9 +34,19 @@
         "downloadLink": {
             "SUBBED": "MTQyOTEw"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/23/30/2330142eabfb2d8c8edf3ce4f2e41fa3/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/23/30/2330142eabfb2d8c8edf3ce4f2e41fa3/ita-5.vtt",
+                "lang": "Italian - Dialoghi"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/04/0475c1bbe53b636337a19a6000efa40c/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

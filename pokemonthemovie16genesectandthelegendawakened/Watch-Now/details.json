@@ -1,50 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/e41018f73173886d3863f8e58902275be34c7a20525610264ba6d2a5e9d9d6acbb46d3bc19ff2fcc92a36eecbf4c6238e663d2b765df83a6a3fb1ba95b0d2a3a44fb7f9e6e9ac8356090c4fa1d7eb506ea33b05bf3f1aa0f4849dc2fa418d0a432a173bb869b86c91c6d18d08681997252d61378a6e5c28a81f41633b1e74062/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=pokemon-movie-16-shinsoku-no-genosect-mewtwo-kakusei-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/e41018f73173886d3863f8e58902275be34c7a20525610264ba6d2a5e9d9d6acbb46d3bc19ff2fcc92a36eecbf4c6238e663d2b765df83a6a3fb1ba95b0d2a3a44fb7f9e6e9ac8356090c4fa1d7eb506ea33b05bf3f1aa0f4849dc2fa418d0a432a173bb869b86c91c6d18d08681997252d61378a6e5c28a81f41633b1e74062/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/ac/ac0d989d1cf2807e5ad6b180546d2860/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/901630f05ae1f28e40275900c114a3f8058423b10aae3b580619218943fb7604feb49f3282669da93c57bfb46baec7b05925423aba87f8eb7c4f1d90d63c914778f35c298ed3780d0057278e9f04c369fbdcfb278bf8022db2c6d7040476ec2b2f75c9b34dc91bf8cc8e7b2dca770abcc56a5e32e081693cc834eacb2cca3573/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/48/d3/48d37fe508a114f50675153c9672682c/eng-12.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/48/d3/48d37fe508a114f50675153c9672682c/por-9.vtt",
-                            "lang": "Portuguese - Portuguese (Brazil)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/48/d3/48d37fe508a114f50675153c9672682c/spa-11.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/48/d3/48d37fe508a114f50675153c9672682c/spa-10.vtt",
-                            "lang": "Spanish - Castilian"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/ac/ac0d989d1cf2807e5ad6b180546d2860/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/901630f05ae1f28e40275900c114a3f8058423b10aae3b580619218943fb7604feb49f3282669da93c57bfb46baec7b05925423aba87f8eb7c4f1d90d63c914778f35c298ed3780d0057278e9f04c369fbdcfb278bf8022db2c6d7040476ec2b2f75c9b34dc91bf8cc8e7b2dca770abcc56a5e32e081693cc834eacb2cca3573/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www004.vipanicdn.net/streamhls/8fbe27e81c2bb3982b80b309ab2777e1/ep.1.1677659443.m3u8"
@@ -58,9 +34,27 @@
         "downloadLink": {
             "SUBBED": "NDA1MzM="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/48/d3/48d37fe508a114f50675153c9672682c/eng-12.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/48/d3/48d37fe508a114f50675153c9672682c/por-9.vtt",
+                "lang": "Portuguese - Portuguese (Brazil)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/48/d3/48d37fe508a114f50675153c9672682c/spa-11.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/48/d3/48d37fe508a114f50675153c9672682c/spa-10.vtt",
+                "lang": "Spanish - Castilian"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/ac/ac0d989d1cf2807e5ad6b180546d2860/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/05fbf16bcb439b90ef1169044464cf51647220e7a33df6bfb4901e6dc1961dcc6068191593d549e32a56b8e81140e794b76958fd846d9be38ff5c48a087b91ca724fca9dcb288d9f5373bfbe86aef0733af93ee6091f0be082375ccfb5082a4aedc9e2bf4b66aa86fd704892f7cc4061135bd983b409b2c75195973da07e9711/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www033.vipanicdn.net/streamhls/6b93099428ed6d7cbebdc46684d1d44e/ep.1.1677815352.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=fragtime-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/05fbf16bcb439b90ef1169044464cf51647220e7a33df6bfb4901e6dc1961dcc6068191593d549e32a56b8e81140e794b76958fd846d9be38ff5c48a087b91ca724fca9dcb288d9f5373bfbe86aef0733af93ee6091f0be082375ccfb5082a4aedc9e2bf4b66aa86fd704892f7cc4061135bd983b409b2c75195973da07e9711/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/30/303952b61485e24047853642d435a60b/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/d9e70d1f961b020c1f4fd1b5ba33b74cf086d50eedaa35f504194c7fc16ffddc0f33a9dce9910335119da6ec07444241639881caefe0c3c49a5888d9b4aca2d957cd64c79691679c04cc8f4016c33ac91c1186566c93707d3782cd76cd095b3135e0f21b45795e1605c180ff71b09440ff1990ea34a6a44732d38fd1cfeac250/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/e5/b9/e5b9ddb8ac3e3110169a7bf1a6c4dafe/e5b9ddb8ac3e3110169a7bf1a6c4dafe.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/30/303952b61485e24047853642d435a60b/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/d9e70d1f961b020c1f4fd1b5ba33b74cf086d50eedaa35f504194c7fc16ffddc0f33a9dce9910335119da6ec07444241639881caefe0c3c49a5888d9b4aca2d957cd64c79691679c04cc8f4016c33ac91c1186566c93707d3782cd76cd095b3135e0f21b45795e1605c180ff71b09440ff1990ea34a6a44732d38fd1cfeac250/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www004.vipanicdn.net/streamhls/a3c205d1bb35f374f3792ea216042f09/ep.1.1677693224.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "MTk2MzAy",
             "SUBBED": "MTM5NTAz"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/e5/b9/e5b9ddb8ac3e3110169a7bf1a6c4dafe/e5b9ddb8ac3e3110169a7bf1a6c4dafe.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/30/303952b61485e24047853642d435a60b/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

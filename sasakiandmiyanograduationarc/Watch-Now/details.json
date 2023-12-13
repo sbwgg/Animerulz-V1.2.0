@@ -1,30 +1,24 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/f1a5ded5da5ff659870bcb1739653c3edd899e609d9a0eb7bf871c5e90d0a52b9b48f9052d82d8565fb489b0ba8db513e77fdc4c7242f62232072d1df5717ed26b22d71118438cc8b7c370d6c69c882ae0c7b58a5e21a43cc9d8223cce49a1d93a1eb130a4dec80137535c03282a4e9ecf5ded1d9fafe8793a247a705617ce74/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www048.vipanicdn.net/streamhls/a3ea52348e2c26b9ff7d56708822b6d4/ep.1.1694618934.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=sasaki-to-miyano-movie-sotsugyou-hen-episode-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/f1a5ded5da5ff659870bcb1739653c3edd899e609d9a0eb7bf871c5e90d0a52b9b48f9052d82d8565fb489b0ba8db513e77fdc4c7242f62232072d1df5717ed26b22d71118438cc8b7c370d6c69c882ae0c7b58a5e21a43cc9d8223cce49a1d93a1eb130a4dec80137535c03282a4e9ecf5ded1d9fafe8793a247a705617ce74/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/2d/c1/2dc1f368629f49e964f7dec0bd910d01/2dc1f368629f49e964f7dec0bd910d01.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/bd/bdb6f683f96db83c864656541fc3d66c/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -32,9 +26,15 @@
         "downloadLink": {
             "SUBBED": "MjExOTA3"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/2d/c1/2dc1f368629f49e964f7dec0bd910d01/2dc1f368629f49e964f7dec0bd910d01.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/bd/bdb6f683f96db83c864656541fc3d66c/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

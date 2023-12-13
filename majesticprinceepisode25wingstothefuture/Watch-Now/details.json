@@ -1,26 +1,24 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Episode 1",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/7ac488554aeadaca9a5137ba331fb46b0a30389667a46e8945fdcfa973b5d082105a22c4df2aa76e71d5648be6074ac0ac6c864b2a304066dcc11fa5b80f6721533a561c71c74d0d7464baee0192a6fcfdc8d1453fa9ade4881fb43002e604e2471306d6f72ce2b4c2b9db779a516e919ed49d22aa0bfe56d05d6dff6463de2b/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www036.vipanicdn.net/streamhls/240a79e24976dace6777e9572f42f6f6/ep.1.1677834389.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=ginga-kikoutai-majestic-prince-mirai-e-no-tsubasa-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/7ac488554aeadaca9a5137ba331fb46b0a30389667a46e8945fdcfa973b5d082105a22c4df2aa76e71d5648be6074ac0ac6c864b2a304066dcc11fa5b80f6721533a561c71c74d0d7464baee0192a6fcfdc8d1453fa9ade4881fb43002e604e2471306d6f72ce2b4c2b9db779a516e919ed49d22aa0bfe56d05d6dff6463de2b/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/e1/e127bd8145514b990341a9a070c1ad2d/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
@@ -37,9 +35,11 @@
             "DUBBED": "MTYxODQ1",
             "SUBBED": "NzcyNjI="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/e1/e127bd8145514b990341a9a070c1ad2d/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

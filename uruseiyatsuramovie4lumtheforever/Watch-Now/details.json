@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/97af2c38bfd5db23b9e6e189de5b163f4d2beb16066f9ad61ac0729c744b167f2b47c12245ee251944f734e28cfac9dd6e830a61a81056d471f7dd2b1e32ce9dd1b771beef9178551316b9e0b2ebc56a6ec929decdc00c85bea13a55e5e79daf2ef36c1286ac2244e566899efbcb6351fb0f1853d23d29951c370d3e00aa53aa/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www033.vipanicdn.net/streamhls/3711901f76963ffb166550acfebbf17f/ep.1.1677831514.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=urusei-yatsura-movie-4-lum-the-forever-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/97af2c38bfd5db23b9e6e189de5b163f4d2beb16066f9ad61ac0729c744b167f2b47c12245ee251944f734e28cfac9dd6e830a61a81056d471f7dd2b1e32ce9dd1b771beef9178551316b9e0b2ebc56a6ec929decdc00c85bea13a55e5e79daf2ef36c1286ac2244e566899efbcb6351fb0f1853d23d29951c370d3e00aa53aa/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/94/94e7ee0ea000890d0b6c230af5f0012c/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/28a4ae21529decabc32efff7698482da43daaa54c36ac80cba5a35b20aeb82a818a2948d5509eb088298febcddd7460ce04413718fb805f5eeaadca95972b8381afc90be140017aed2f7855d87283ad26aa7a465408c10f3b4181655711d9488cb3dcd45db15368a4dc83977e80b641667bfdec23f7c8254d34acfb57eeaa8d9/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/ed/ae/edaeeb191ae0c06bfd558a193fb4a95f/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/94/94e7ee0ea000890d0b6c230af5f0012c/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/28a4ae21529decabc32efff7698482da43daaa54c36ac80cba5a35b20aeb82a818a2948d5509eb088298febcddd7460ce04413718fb805f5eeaadca95972b8381afc90be140017aed2f7855d87283ad26aa7a465408c10f3b4181655711d9488cb3dcd45db15368a4dc83977e80b641667bfdec23f7c8254d34acfb57eeaa8d9/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www009.vipanicdn.net/streamhls/53d78e9e2f7e0dade4047655bda9ead1/ep.1.1677664778.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "MTU0MjYy",
             "SUBBED": "NDAzODg="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/ed/ae/edaeeb191ae0c06bfd558a193fb4a95f/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/94/94e7ee0ea000890d0b6c230af5f0012c/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

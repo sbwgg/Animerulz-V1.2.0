@@ -1,48 +1,18 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/319a7761df82682541f3c5b986857b5a291788a2d086ae495d85386347e74d173472a9629eda20dd6b6e60ebae17a8241b8060bb04182ce14b3789dcd5e47bbd4ee4c46a6cded599903e01d7363e5ab68e15120719a7fe705940bbcf057dd987e7da3171301bd3a82a5de483d01556a48e9099ef00e14dce99cf7db9c29e87a5/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/c1/de/c1dedbb70194770bbc0654f878f41752/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/c1/de/c1dedbb70194770bbc0654f878f41752/fre-6.vtt",
-                            "lang": "French - Francais(France)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/c1/de/c1dedbb70194770bbc0654f878f41752/ger-3.vtt",
-                            "lang": "German - Deutsch"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/c1/de/c1dedbb70194770bbc0654f878f41752/ita-7.vtt",
-                            "lang": "Italian - Italiano"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/c1/de/c1dedbb70194770bbc0654f878f41752/por-8.vtt",
-                            "lang": "Portuguese - Portugues(Brasil)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/c1/de/c1dedbb70194770bbc0654f878f41752/spa-5.vtt",
-                            "lang": "Spanish - Espanol"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/c1/de/c1dedbb70194770bbc0654f878f41752/spa-4.vtt",
-                            "lang": "Spanish - Espanol(Espana)"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/e3/e392298210e513331c80b96a364ae673/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/319a7761df82682541f3c5b986857b5a291788a2d086ae495d85386347e74d173472a9629eda20dd6b6e60ebae17a8241b8060bb04182ce14b3789dcd5e47bbd4ee4c46a6cded599903e01d7363e5ab68e15120719a7fe705940bbcf057dd987e7da3171301bd3a82a5de483d01556a48e9099ef00e14dce99cf7db9c29e87a5/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www018.vipanicdn.net/streamhls/e5b65b207233fca498cec7b221aa9975/ep.1.1677616266.m3u8"
@@ -56,9 +26,39 @@
         "downloadLink": {
             "SUBBED": "OTY5Nzc="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/c1/de/c1dedbb70194770bbc0654f878f41752/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/c1/de/c1dedbb70194770bbc0654f878f41752/fre-6.vtt",
+                "lang": "French - Francais(France)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/c1/de/c1dedbb70194770bbc0654f878f41752/ger-3.vtt",
+                "lang": "German - Deutsch"
+            },
+            {
+                "url": "https://ccb.megaresources.co/c1/de/c1dedbb70194770bbc0654f878f41752/ita-7.vtt",
+                "lang": "Italian - Italiano"
+            },
+            {
+                "url": "https://ccb.megaresources.co/c1/de/c1dedbb70194770bbc0654f878f41752/por-8.vtt",
+                "lang": "Portuguese - Portugues(Brasil)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/c1/de/c1dedbb70194770bbc0654f878f41752/spa-5.vtt",
+                "lang": "Spanish - Espanol"
+            },
+            {
+                "url": "https://ccb.megaresources.co/c1/de/c1dedbb70194770bbc0654f878f41752/spa-4.vtt",
+                "lang": "Spanish - Espanol(Espana)"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/e3/e392298210e513331c80b96a364ae673/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

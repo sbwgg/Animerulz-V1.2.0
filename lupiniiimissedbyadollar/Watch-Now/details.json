@@ -1,49 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/bc62b2144f1f508b040d696baed8d5a996db4961f06c12c858612c50bc4154a6d935bfa6ef951f44b4b447b7fe48646a55f752bd38d07967a26fb7cc617bee5f8d54dddde9b2971451b2caefbc8314cd18cb839c1c88a1a9eda3350ba24178785bcade570fa6f0adef1f1deba1d0c73efb159b03940ae21c871f2860ca724b61/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www011.vipanicdn.net/streamhls/d0a7df1f11227f45b5693cb72180792f/ep.1.1677714682.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=lupin-iii-1-money-wars-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/bc62b2144f1f508b040d696baed8d5a996db4961f06c12c858612c50bc4154a6d935bfa6ef951f44b4b447b7fe48646a55f752bd38d07967a26fb7cc617bee5f8d54dddde9b2971451b2caefbc8314cd18cb839c1c88a1a9eda3350ba24178785bcade570fa6f0adef1f1deba1d0c73efb159b03940ae21c871f2860ca724b61/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/be/be9ae6f51c824849bbe601659e5dc827/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/3a4f66e4efb07d0fbcf00b97e8a9f2dc9f466d1ed3ce070b04a38b4c5e18e3bc622ca55535d4ee4a0e989ff18fee093be8aa43f4f4a2dfae2ec7db7b1bb8bc0102948612d157c8576aea278f06cab35ef294ed0b80dc045cccfd1224baf304f6ca24e20afb7120daaea01a2016f7672eabc74c84d62971024d81b96c9d68d378/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/1d/5d/1d5d35096cc8a2959221f0475143ce51/eng-3.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/1d/5d/1d5d35096cc8a2959221f0475143ce51/ita-6.vtt",
-                            "lang": "Italian - Cartelli"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/1d/5d/1d5d35096cc8a2959221f0475143ce51/ita-7.vtt",
-                            "lang": "Italian - Dialoghi"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/be/be9ae6f51c824849bbe601659e5dc827/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/3a4f66e4efb07d0fbcf00b97e8a9f2dc9f466d1ed3ce070b04a38b4c5e18e3bc622ca55535d4ee4a0e989ff18fee093be8aa43f4f4a2dfae2ec7db7b1bb8bc0102948612d157c8576aea278f06cab35ef294ed0b80dc045cccfd1224baf304f6ca24e20afb7120daaea01a2016f7672eabc74c84d62971024d81b96c9d68d378/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www025.vipanicdn.net/streamhls/2425fc233f0f1c303950828dfa7b5892/ep.1.1677840700.m3u8"
@@ -58,9 +38,23 @@
             "DUBBED": "MTQyODEw",
             "SUBBED": "MTQyOTE0"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/1d/5d/1d5d35096cc8a2959221f0475143ce51/eng-3.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/1d/5d/1d5d35096cc8a2959221f0475143ce51/ita-6.vtt",
+                "lang": "Italian - Cartelli"
+            },
+            {
+                "url": "https://ccb.megaresources.co/1d/5d/1d5d35096cc8a2959221f0475143ce51/ita-7.vtt",
+                "lang": "Italian - Dialoghi"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/be/be9ae6f51c824849bbe601659e5dc827/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

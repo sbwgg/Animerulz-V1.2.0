@@ -1,38 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/3e14cea6a64327310f4b43cf200dc6b8c7c90a200245064d07477ab7ca2694b0f7efaabb31469dba038c2439398198ea229b5faa374f8ac9afcf0445d0ceaf50089bee791cbcd3c64fb004d13603d2eecfc8f48d8be1f0a3c54cd2b3ba08763161b7eef13ffdd6edb88c61a46a1b2d5add92e6f4d650a0d0c8745750fc09d881/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=girls-panzer-saishuushou-part-1-dub-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/3e14cea6a64327310f4b43cf200dc6b8c7c90a200245064d07477ab7ca2694b0f7efaabb31469dba038c2439398198ea229b5faa374f8ac9afcf0445d0ceaf50089bee791cbcd3c64fb004d13603d2eecfc8f48d8be1f0a3c54cd2b3ba08763161b7eef13ffdd6edb88c61a46a1b2d5add92e6f4d650a0d0c8745750fc09d881/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/ad/ad1473fbdc410264f694918fe2b41b0e/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/f41774d5a3c86de8eee81c666bf65fdba323910d4966bf647e9292a6d7acd5b935385b52a7c3d65bb7f328a42ca857b10cc765468d16c0d5d1d01107a9642d0f646d325a47439f8b2ce28740345e008deb87dfe9f1388537977a4a55c15c8fced83ebb7b544bc6c0e30d93143ad9b659d74f1b155a6bb3930318b0a44e2fd801/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/a7/71/a771020b5d513f4b493754d355bb1ac4/a771020b5d513f4b493754d355bb1ac4.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/ad/ad1473fbdc410264f694918fe2b41b0e/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/f41774d5a3c86de8eee81c666bf65fdba323910d4966bf647e9292a6d7acd5b935385b52a7c3d65bb7f328a42ca857b10cc765468d16c0d5d1d01107a9642d0f646d325a47439f8b2ce28740345e008deb87dfe9f1388537977a4a55c15c8fced83ebb7b544bc6c0e30d93143ad9b659d74f1b155a6bb3930318b0a44e2fd801/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www038.vipanicdn.net/streamhls/458a93a42f142cd2b0994705808ca805/ep.1.1677821720.m3u8"
@@ -46,9 +34,15 @@
         "downloadLink": {
             "SUBBED": "MTgxOTI3"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/a7/71/a771020b5d513f4b493754d355bb1ac4/a771020b5d513f4b493754d355bb1ac4.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/ad/ad1473fbdc410264f694918fe2b41b0e/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

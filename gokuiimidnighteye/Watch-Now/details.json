@@ -1,37 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/003047ad16f0843943a50956531a6ae343de84ef43b2e2f94bef13c9e0b28d3f474041c5c3d4e642b401ddd860492798567db57a0bdb4a113ef8c22b04e33713fd75989a83578849a289443bec5121407059668b0eb8a5906a992cddb5ddeb2971c6711ff94b19737ec7c2e7a026fad5cc9f673abd150ac828edb928b076254d/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www046.vipanicdn.net/streamhls/b0cf2c5f36550158230c23b12296635c/ep.2.1697749771.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=midnight-eye-gokuu-ii-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/003047ad16f0843943a50956531a6ae343de84ef43b2e2f94bef13c9e0b28d3f474041c5c3d4e642b401ddd860492798567db57a0bdb4a113ef8c22b04e33713fd75989a83578849a289443bec5121407059668b0eb8a5906a992cddb5ddeb2971c6711ff94b19737ec7c2e7a026fad5cc9f673abd150ac828edb928b076254d/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/cb/cba220622d18d4f2436eeab12d704a0d/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/02312764467d376551b8c0eff7a9109ebea5bbf1c4918f94c5e8eae6d2b087418e0b501dbbd85ab0aab0be0f847fa76547072bff14f80f053f4832fcf10e0872961b1b70155a032d2f6d9b3859d9873b14ef694744454b9d1755acd127336133b7f004d0f770af8f41107148e58ac4a66bca11564b3c88fcb8090fae672dcfe8/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/cb/cba220622d18d4f2436eeab12d704a0d/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/02312764467d376551b8c0eff7a9109ebea5bbf1c4918f94c5e8eae6d2b087418e0b501dbbd85ab0aab0be0f847fa76547072bff14f80f053f4832fcf10e0872961b1b70155a032d2f6d9b3859d9873b14ef694744454b9d1755acd127336133b7f004d0f770af8f41107148e58ac4a66bca11564b3c88fcb8090fae672dcfe8/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www048.vipanicdn.net/streamhls/49074274306bdb4da65cb9a5e92e48c6/ep.1.1697749988.m3u8"
@@ -46,9 +38,11 @@
             "DUBBED": "MTE5OTM1",
             "SUBBED": "MTE5OTM3"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/cb/cba220622d18d4f2436eeab12d704a0d/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

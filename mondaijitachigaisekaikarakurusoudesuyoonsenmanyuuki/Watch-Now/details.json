@@ -1,38 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/a8637d7f0897fdf554ff077be27a1628a6bea33dce88f95fede95865defdc1bc9325877723249065a5f964e21b28613d31cc96056dec31b3ae4f3c2701690c13ecb6a8554304efa5665f4c11135fdc759bf858014775d7cd4f4e983969bc9168bff0aaed86e1a16b6ab2ce184861743bf652edf730204c86e3a8c39209b50e45/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=mondaiji-tachi-ga-isekai-kara-kuru-sou-desu-yo-ova-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/a8637d7f0897fdf554ff077be27a1628a6bea33dce88f95fede95865defdc1bc9325877723249065a5f964e21b28613d31cc96056dec31b3ae4f3c2701690c13ecb6a8554304efa5665f4c11135fdc759bf858014775d7cd4f4e983969bc9168bff0aaed86e1a16b6ab2ce184861743bf652edf730204c86e3a8c39209b50e45/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/fb/fbba22381ea8f14e0b7e48c54eded347/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/375fe474b5046d61f4b10d78130ab3a06d078daeee7ceac2a5a16ae79d4eb2745d5fcef35cea2e38862e717b0c26df4b108de255ce439648351b1610cc413878f42db6853d231fc620da396a6a4a5fc8f52fb5ce6c672b30a88de1355f01aa81771e4d696d3b7c60f422558c1bfeffa683492514f13c56cf6d82b62fa5390367/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/e6/35/e63579c0b44b571a80782755eb14f2b3/e63579c0b44b571a80782755eb14f2b3.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/fb/fbba22381ea8f14e0b7e48c54eded347/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/375fe474b5046d61f4b10d78130ab3a06d078daeee7ceac2a5a16ae79d4eb2745d5fcef35cea2e38862e717b0c26df4b108de255ce439648351b1610cc413878f42db6853d231fc620da396a6a4a5fc8f52fb5ce6c672b30a88de1355f01aa81771e4d696d3b7c60f422558c1bfeffa683492514f13c56cf6d82b62fa5390367/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www021.vipanicdn.net/streamhls/f25d698f0bc687553c0f980da20ca746/ep.1.1677656909.m3u8"
@@ -46,9 +34,15 @@
         "downloadLink": {
             "SUBBED": "MjkxNTA="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/e6/35/e63579c0b44b571a80782755eb14f2b3/e63579c0b44b571a80782755eb14f2b3.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/fb/fbba22381ea8f14e0b7e48c54eded347/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

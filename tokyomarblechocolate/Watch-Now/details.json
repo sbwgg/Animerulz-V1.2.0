@@ -1,24 +1,18 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Episode 1",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/0318c55915b95d33726d6268a73bb94f27d4424e5fc603f0a3b1e34916f92eb5d42678e9b6a163dcb0e0b742acb0c14a40e73a8982e9d63f00928da62401c5e7ab9c373df4953347eab794e0a3663f5cf1f5f876e81b63e15838380e4755719f9286686f5e36526bda4908fb4778731b4f9c93794c7580ad78548e84add9cb4a/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/24/ad/24ad963a83939bfd0e286920d8270a30/24ad963a83939bfd0e286920d8270a30.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/f1/f14c8698e44970810c53d0a42539c8c2/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/0318c55915b95d33726d6268a73bb94f27d4424e5fc603f0a3b1e34916f92eb5d42678e9b6a163dcb0e0b742acb0c14a40e73a8982e9d63f00928da62401c5e7ab9c373df4953347eab794e0a3663f5cf1f5f876e81b63e15838380e4755719f9286686f5e36526bda4908fb4778731b4f9c93794c7580ad78548e84add9cb4a/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www005.vipanicdn.net/streamhls/e62c3484ec3dd03065e84820fb3156fb/ep.1.1677703192.m3u8"
@@ -32,31 +26,31 @@
         "downloadLink": {
             "SUBBED": "MTM5NDQ0"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/24/ad/24ad963a83939bfd0e286920d8270a30/24ad963a83939bfd0e286920d8270a30.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/f1/f14c8698e44970810c53d0a42539c8c2/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "2": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Episode 2",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/49b68602dd542bf5fc0bffe712afede492b298871444c091924eb6d4c4bd98bc4130ee2e670d25055b86dd4630de0ca06c727f84a47ed23fc754bac565e1b44a7c703e3e230310acd16f279af94ef8df5511660afb09d755fe2044ad20e9f27247d3a6eca179322967a123b2c7669ee5cb5c6129abd875e4a7e34859b70fd350/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/ae/2d/ae2df05566ae6128079d9a15d846f914/ae2df05566ae6128079d9a15d846f914.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/5b/5ba504aafe35824fef1e862293d4a95e/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/49b68602dd542bf5fc0bffe712afede492b298871444c091924eb6d4c4bd98bc4130ee2e670d25055b86dd4630de0ca06c727f84a47ed23fc754bac565e1b44a7c703e3e230310acd16f279af94ef8df5511660afb09d755fe2044ad20e9f27247d3a6eca179322967a123b2c7669ee5cb5c6129abd875e4a7e34859b70fd350/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www006.vipanicdn.net/streamhls/e62c3484ec3dd03065e84820fb3156fb/ep.2.1677696432.m3u8"
@@ -70,9 +64,15 @@
         "downloadLink": {
             "SUBBED": "MTM5NDQ1"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/ae/2d/ae2df05566ae6128079d9a15d846f914/ae2df05566ae6128079d9a15d846f914.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/5b/5ba504aafe35824fef1e862293d4a95e/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

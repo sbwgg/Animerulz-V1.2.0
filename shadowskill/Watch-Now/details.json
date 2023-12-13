@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Epilogue",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/29d6565e0a8bd131caf189a69a3689211cf74b17a38791b57d64e10148ef135d3f1a7c7ddb32d2b8178803e1b756eaa4d71ae6e67e5c95e77e04a1d7dafb95a4ef8108df0eda6f916ef175cea234063b003995996928ddeb80da18bd9d3ed3881731e24e681377232bdd83070595be27/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www050.vipanicdn.net/streamhls/4b82371fd051033f63ccf6869dfeb953/ep.1.1677856275.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=shadow-skill-epilogue-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/29d6565e0a8bd131caf189a69a3689211cf74b17a38791b57d64e10148ef135d3f1a7c7ddb32d2b8178803e1b756eaa4d71ae6e67e5c95e77e04a1d7dafb95a4ef8108df0eda6f916ef175cea234063b003995996928ddeb80da18bd9d3ed3881731e24e681377232bdd83070595be27/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/fe/fe17de4420eb2e25509b1e5eb97163f3/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/237ecb100631b68813bea81b74c1fb0393d11502cf552194769382a1b10825f23c41ef57d2cd0006d38c7486bac598b3ed799e53954bf353e1f65973ab8104b0f1b4f0cf393d5f0b198cf1fc4f6f471bbfa665f85db97cdffee89d099f6ecc52c15dde34e7f4055ef47e30f5d05da17a/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/64/e0/64e0d100f979c96bb96b92e7296484c0/64e0d100f979c96bb96b92e7296484c0.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/fe/fe17de4420eb2e25509b1e5eb97163f3/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/237ecb100631b68813bea81b74c1fb0393d11502cf552194769382a1b10825f23c41ef57d2cd0006d38c7486bac598b3ed799e53954bf353e1f65973ab8104b0f1b4f0cf393d5f0b198cf1fc4f6f471bbfa665f85db97cdffee89d099f6ecc52c15dde34e7f4055ef47e30f5d05da17a/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www049.vipanicdn.net/streamhls/9f4f93d7dc334c6a1552b790e46964ae/ep.1.1677853677.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "MTU1MzE5",
             "SUBBED": "MTU1MzE4"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/64/e0/64e0d100f979c96bb96b92e7296484c0/64e0d100f979c96bb96b92e7296484c0.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/fe/fe17de4420eb2e25509b1e5eb97163f3/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

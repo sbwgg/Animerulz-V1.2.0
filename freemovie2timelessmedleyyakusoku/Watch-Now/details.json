@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/b91e0c7d50a0b6e8e82d8b6424e6850b5d91fa72fc3ead8d892480ba1452ede9c12e58d8b391db8fff230bc6ff0dd11eac4c3f860351774f26b2f517beda3e2a01cf76d288c9d650c69c494c3ffa86bb467577d185f895433df5776d502b0c54ce197f496a864f5c68e9118d712027bcde9bfa7e8202045b40a79280b02f1130/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www033.vipanicdn.net/streamhls/02606ea2d679dbaa0535027ff08d14b0/ep.1.1677829684.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=free-movie-2-timeless-medley-yakusoku-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/b91e0c7d50a0b6e8e82d8b6424e6850b5d91fa72fc3ead8d892480ba1452ede9c12e58d8b391db8fff230bc6ff0dd11eac4c3f860351774f26b2f517beda3e2a01cf76d288c9d650c69c494c3ffa86bb467577d185f895433df5776d502b0c54ce197f496a864f5c68e9118d712027bcde9bfa7e8202045b40a79280b02f1130/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/53/53cb84f49a2f21d856a35edccfa1e9d0/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/cdc78a84b73c9e0fb7ebe2f69b6edd456816c0be686bce2f4a3f9e6a03a680e96fc8f34ca9c8ddc60f228fe5737b4c97248b55f998d3bb2f56010e272a257fac1711d2cab252e395181ee374cdf80918ab8ecc459a5aa040b959261684d3482856919032a971b980a31a3be7f19dfec5dc3d79d1c69bc5b271b8a4be9e97a986/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/2f/9e/2f9e1e9881f4e4f40fa0a3de64c7efcb/2f9e1e9881f4e4f40fa0a3de64c7efcb.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/53/53cb84f49a2f21d856a35edccfa1e9d0/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/cdc78a84b73c9e0fb7ebe2f69b6edd456816c0be686bce2f4a3f9e6a03a680e96fc8f34ca9c8ddc60f228fe5737b4c97248b55f998d3bb2f56010e272a257fac1711d2cab252e395181ee374cdf80918ab8ecc459a5aa040b959261684d3482856919032a971b980a31a3be7f19dfec5dc3d79d1c69bc5b271b8a4be9e97a986/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www002.vipanicdn.net/streamhls/908d4f4b0bcb82451a652ad1fda72d53/ep.1.1677606028.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "MTU5OTAy",
             "SUBBED": "MTU5OTAx"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/2f/9e/2f9e1e9881f4e4f40fa0a3de64c7efcb/2f9e1e9881f4e4f40fa0a3de64c7efcb.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/53/53cb84f49a2f21d856a35edccfa1e9d0/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

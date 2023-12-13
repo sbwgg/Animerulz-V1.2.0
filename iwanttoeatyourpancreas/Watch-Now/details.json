@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/486c0808c5b87d95b6af90bce2be3af952168db8390ba6138a7f29dc0b6a0999fb4d02dfdff9526e6baecd56af114ff08edc99e8413854c225a0a920d342b39f5d426e18f7a119c76c5104fab2482a53c85bc4934a004361045e2e668557ed4bc0f9e7b3a05acf25acdcb5edca7ace459411a846b922c53939204f4bb3aef61a/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www025.vipanicdn.net/streamhls/d1321bb36dda2fc0ed51a266a1e47303/ep.1.1677846839.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=kimi-no-suizou-wo-tabetai-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/486c0808c5b87d95b6af90bce2be3af952168db8390ba6138a7f29dc0b6a0999fb4d02dfdff9526e6baecd56af114ff08edc99e8413854c225a0a920d342b39f5d426e18f7a119c76c5104fab2482a53c85bc4934a004361045e2e668557ed4bc0f9e7b3a05acf25acdcb5edca7ace459411a846b922c53939204f4bb3aef61a/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/d6/d657e3b619fff5f30fffc907dfe008d4/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/a5c70860a2c4bd65e2ef7de31710c5761f7a2d12b999811c3da3f4b93f0d59093ea9ac4c27e438ad207636e1aab686ba4dd3d30241230b4f289f871c94005d5535509ea1c5cb0d67d855ea0e5b0fafe4e076c53f70a77c51a3d77f14cec16d98929ac9c1bad2b1063d83ed3664b2ccee1cc05d43d94f4d2eb0fc4d0a70957dfd/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/f3/d7/f3d7eee3f1c32d907fdc80fac4bf19dd/f3d7eee3f1c32d907fdc80fac4bf19dd.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/d6/d657e3b619fff5f30fffc907dfe008d4/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/a5c70860a2c4bd65e2ef7de31710c5761f7a2d12b999811c3da3f4b93f0d59093ea9ac4c27e438ad207636e1aab686ba4dd3d30241230b4f289f871c94005d5535509ea1c5cb0d67d855ea0e5b0fafe4e076c53f70a77c51a3d77f14cec16d98929ac9c1bad2b1063d83ed3664b2ccee1cc05d43d94f4d2eb0fc4d0a70957dfd/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www004.vipanicdn.net/streamhls/23e7f28754ef58da889690e950e51b45/ep.1.1677592935.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "MTQ2OTM0",
             "SUBBED": "MTExNzIz"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/f3/d7/f3d7eee3f1c32d907fdc80fac4bf19dd/f3d7eee3f1c32d907fdc80fac4bf19dd.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/d6/d657e3b619fff5f30fffc907dfe008d4/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

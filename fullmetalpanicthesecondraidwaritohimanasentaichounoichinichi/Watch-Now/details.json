@@ -1,49 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Wari to Hima na Sentaichou no Ichinichi",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/dcb6bea23b9b93ec0465cde16b4c880572c3c7ecec129870c95c4afb5b44ba9632c1f0b532d83c6276ef53e9e8b7071589c2278231953a658b06056f294c7238ab383ef9571bba456bf44044230d70470f47342b4d9b93a509079cef0b60fbd706a883fdcac48451355d6afef95ae538af2b96abc80071586424f5c9397ce019/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www013.vipanicdn.net/streamhls/926de3e18d271bb99b828743dfd8a7c4/ep.1.1677700150.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=full-metal-panic-the-second-raid-wari-to-hima-na-sentaichou-no-ichinichi-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/dcb6bea23b9b93ec0465cde16b4c880572c3c7ecec129870c95c4afb5b44ba9632c1f0b532d83c6276ef53e9e8b7071589c2278231953a658b06056f294c7238ab383ef9571bba456bf44044230d70470f47342b4d9b93a509079cef0b60fbd706a883fdcac48451355d6afef95ae538af2b96abc80071586424f5c9397ce019/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/9a/9ac377cef427425548b30f16b64d6949/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/b00a541e754b891b06bfb36bc67ee83c640ebd257fe58fb7fd0a66927e02adef13d7a1feac7791c68d2a06ba3a976437afa93eeb6102f7486b948792daa3583362f5020d2fec4225988ae64e2c610c275a1e228c7c039d193043a3047f3410bc0425519ecf87a90b2af357277543ef638132e4636de2b4b247efcf11004f6423/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/08/c8/08c83c3f5926327475845e9872dc9127/eng-0.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/08/c8/08c83c3f5926327475845e9872dc9127/por-2.vtt",
-                            "lang": "Portuguese"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/08/c8/08c83c3f5926327475845e9872dc9127/spa-1.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/9a/9ac377cef427425548b30f16b64d6949/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/b00a541e754b891b06bfb36bc67ee83c640ebd257fe58fb7fd0a66927e02adef13d7a1feac7791c68d2a06ba3a976437afa93eeb6102f7486b948792daa3583362f5020d2fec4225988ae64e2c610c275a1e228c7c039d193043a3047f3410bc0425519ecf87a90b2af357277543ef638132e4636de2b4b247efcf11004f6423/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www045.vipanicdn.net/streamhls/f5e9f4b202617a891213379e5b83f91b/ep.1.1677861134.m3u8"
@@ -58,9 +38,23 @@
             "DUBBED": "MTQ4MzMy",
             "SUBBED": "MTQ4MzM0"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/08/c8/08c83c3f5926327475845e9872dc9127/eng-0.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/08/c8/08c83c3f5926327475845e9872dc9127/por-2.vtt",
+                "lang": "Portuguese"
+            },
+            {
+                "url": "https://ccb.megaresources.co/08/c8/08c83c3f5926327475845e9872dc9127/spa-1.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/9a/9ac377cef427425548b30f16b64d6949/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

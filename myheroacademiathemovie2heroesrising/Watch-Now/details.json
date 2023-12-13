@@ -1,57 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/deab00274a32c893dcd44b864024a01ebaf6b37ac35718cfd5d5539ae1baea0e016475ab25206822e485137d60902373c55fa0d8451f006428111b29473d4dba184c88fe7dd6c5fddebcf2df8c1ef7de455e838d369cf485d3da7994b97422920b485a0972767e0af469e0d23daf0191fac7428fc24ba8eb50e7ccddc965b8a7/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www011.vipanicdn.net/streamhls/d55423bf3009ca86d04f50fc538d6752/ep.1.1677716685.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=boku-no-hero-academia-the-movie-2-heroesrising-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/deab00274a32c893dcd44b864024a01ebaf6b37ac35718cfd5d5539ae1baea0e016475ab25206822e485137d60902373c55fa0d8451f006428111b29473d4dba184c88fe7dd6c5fddebcf2df8c1ef7de455e838d369cf485d3da7994b97422920b485a0972767e0af469e0d23daf0191fac7428fc24ba8eb50e7ccddc965b8a7/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/d2/d2728a6e965d1c7b379785db2278c5e5/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/534a5eae5ac41ee90481c8283b1b2342829ad426a35c6f7a891ad9cc4a4a3d9b863de066ac04993e6653f0ee2faa56252796ba597e6b33d62c9ff7fa798edcb201e9a343e4aa55018e70a775981ac05d05637487636554fe74bbada74a2e66ca7b8ab8ac0e8ead605feb99e8839bc5fef7e9b782602e83add06db5d8d18a715b/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/59/d5/59d5f272d9ef2fc6c0c64320de48411f/59d5f272d9ef2fc6c0c64320de48411f.vtt",
-                            "lang": "Arabic - Arabic (KiyoshiiSubs)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b2/fd/b2fd33c935a4fae1230d3691536c0e94/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b2/fd/b2fd33c935a4fae1230d3691536c0e94/eng-3.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b2/fd/b2fd33c935a4fae1230d3691536c0e94/fre-4.vtt",
-                            "lang": "French"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b2/fd/b2fd33c935a4fae1230d3691536c0e94/spa-6.vtt",
-                            "lang": "Spanish - Spanish[LAT] (D&M)"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/d2/d2728a6e965d1c7b379785db2278c5e5/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/534a5eae5ac41ee90481c8283b1b2342829ad426a35c6f7a891ad9cc4a4a3d9b863de066ac04993e6653f0ee2faa56252796ba597e6b33d62c9ff7fa798edcb201e9a343e4aa55018e70a775981ac05d05637487636554fe74bbada74a2e66ca7b8ab8ac0e8ead605feb99e8839bc5fef7e9b782602e83add06db5d8d18a715b/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www027.vipanicdn.net/streamhls/d892065409eeecc9af69114d3216caa2/ep.1.1677611504.m3u8"
@@ -66,9 +38,31 @@
             "DUBBED": "MTQ2NTAw",
             "SUBBED": "MTQyMTM2"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/59/d5/59d5f272d9ef2fc6c0c64320de48411f/59d5f272d9ef2fc6c0c64320de48411f.vtt",
+                "lang": "Arabic - Arabic (KiyoshiiSubs)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/b2/fd/b2fd33c935a4fae1230d3691536c0e94/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/b2/fd/b2fd33c935a4fae1230d3691536c0e94/eng-3.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/b2/fd/b2fd33c935a4fae1230d3691536c0e94/fre-4.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/b2/fd/b2fd33c935a4fae1230d3691536c0e94/spa-6.vtt",
+                "lang": "Spanish - Spanish[LAT] (D&M)"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/d2/d2728a6e965d1c7b379785db2278c5e5/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

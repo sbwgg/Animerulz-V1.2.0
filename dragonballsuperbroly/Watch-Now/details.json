@@ -1,51 +1,35 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/ad1ffc7c44084253e1444d05867c165c10ae5e749d3cea890546fce8236c6af2412f19a6235332a7526d531db1879424c800b8ca711d756fb5aa3f6197904ff4c9a08558965e640b17b80c0a5eb0be964be22924bac5f5eae78564ca9232b88e31141b5d9eea2afe4aad31bd9753960b4500069fd67ceac4bdeeffded6b98f7a/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www010.vipanicdn.net/streamhls/e4f867f5a555c1ecdbae040f8000c8f6/ep.1.1677593055.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=dragon-ball-super-movie-broly-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/ad1ffc7c44084253e1444d05867c165c10ae5e749d3cea890546fce8236c6af2412f19a6235332a7526d531db1879424c800b8ca711d756fb5aa3f6197904ff4c9a08558965e640b17b80c0a5eb0be964be22924bac5f5eae78564ca9232b88e31141b5d9eea2afe4aad31bd9753960b4500069fd67ceac4bdeeffded6b98f7a/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/3d/3debcb2ea21644cb268b5f21951627ff/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/f8ec0bf27910710a2b21c54852935d765b58bf414612db627e53655f471ddb34bb8d6a602d7fa3bf88dfd5ca549c664e7d0863f7fe87dd5916c7318bdc44a97d387c04800ea11d87dfd4e419db083240e011fc8609f90476c7f9f1eacbfc775fb4df191be9db906b6f5b1efdfbb2bb68201f46952282c73c197d4b4d1b92f2ce/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www009.vipanicdn.net/streamhls/2193d2fd40d3304b81be045c66496633/ep.1.1677593597.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=dragon-ball-super-movie-broly-episode-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/f8ec0bf27910710a2b21c54852935d765b58bf414612db627e53655f471ddb34bb8d6a602d7fa3bf88dfd5ca549c664e7d0863f7fe87dd5916c7318bdc44a97d387c04800ea11d87dfd4e419db083240e011fc8609f90476c7f9f1eacbfc775fb4df191be9db906b6f5b1efdfbb2bb68201f46952282c73c197d4b4d1b92f2ce/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/7d/c1/7dc1a9ec66adc1a30e21767570475b86/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/7d/c1/7dc1a9ec66adc1a30e21767570475b86/eng-3.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/3d/3debcb2ea21644cb268b5f21951627ff/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -54,9 +38,19 @@
             "DUBBED": "MTEyOTI5",
             "SUBBED": "MTEyOTI4"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/7d/c1/7dc1a9ec66adc1a30e21767570475b86/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/7d/c1/7dc1a9ec66adc1a30e21767570475b86/eng-3.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/3d/3debcb2ea21644cb268b5f21951627ff/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

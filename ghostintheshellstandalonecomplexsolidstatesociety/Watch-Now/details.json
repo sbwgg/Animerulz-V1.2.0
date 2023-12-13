@@ -1,42 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Solid State Society (OVA)",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/25dc08599169ad94800850ad2ae1de345ddddba2ae814ba24cd29e38660b3615123d65a48b1cfd1d639df281a914fba00407e2c1a7693abbe6bbf692c4e90ad9a3c0e07d9ca2950ab6994196586a9702d09a5c45600505f2dc9f6708b4f3e6803f5666a30bde090e06c6447af252298b4c3154cdce682539647d4de22ecd7207/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=ghost-in-the-shell-solid-state-society-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/25dc08599169ad94800850ad2ae1de345ddddba2ae814ba24cd29e38660b3615123d65a48b1cfd1d639df281a914fba00407e2c1a7693abbe6bbf692c4e90ad9a3c0e07d9ca2950ab6994196586a9702d09a5c45600505f2dc9f6708b4f3e6803f5666a30bde090e06c6447af252298b4c3154cdce682539647d4de22ecd7207/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/b8/b880c5b67099803216f760e9cad00e2c/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/e70aef7c501f34f0cde47f794625df38a8af18afa9521bba3d8010cf3c07a98b6c3130daae8394c62780c767e2bfc66c2a4e6eda4ecee9302efe71cff28b268c8f858c10bd00b6ed17d086fdceb7fa7cf16a98e79dbdb2085dab36ef8a3f51b302c088f18b5ece382a5929bfd6a98395df8450822f496fab2b84876e4ad6b64d/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/10/1b/101b45d4b97812897db72a792710bc99/eng-3.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/10/1b/101b45d4b97812897db72a792710bc99/eng-4.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/b8/b880c5b67099803216f760e9cad00e2c/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/e70aef7c501f34f0cde47f794625df38a8af18afa9521bba3d8010cf3c07a98b6c3130daae8394c62780c767e2bfc66c2a4e6eda4ecee9302efe71cff28b268c8f858c10bd00b6ed17d086fdceb7fa7cf16a98e79dbdb2085dab36ef8a3f51b302c088f18b5ece382a5929bfd6a98395df8450822f496fab2b84876e4ad6b64d/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www001.vipanicdn.net/streamhls/617a236eafc7db502328bb59b0548f74/ep.1.1677661059.m3u8"
@@ -50,9 +34,19 @@
         "downloadLink": {
             "SUBBED": "NDA3MTA="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/10/1b/101b45d4b97812897db72a792710bc99/eng-3.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/10/1b/101b45d4b97812897db72a792710bc99/eng-4.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/b8/b880c5b67099803216f760e9cad00e2c/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

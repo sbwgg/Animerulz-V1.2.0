@@ -1,65 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 30,
-            "end": 119
+            "end": 119,
+            "start": 30
+        },
+        "outro": {
+            "end": 1380,
+            "start": 1290
         },
         "title": "The Twelve Houses",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/37e49e2a05767ae8f8b346f6284573012f196711cfe6c6bdd078713b7d23f8b8089d29f866b742fee12d1ef65e9efbffc8adfe8070ab7c29ab890253781faaded7f0bb72e82cb3d6b6cc485be9326f8380ae6d0f3fc9832c6c51d43c6d8a6ca897e88284d667bb20a7df5b8de9cd2b32775a6723cf6917e4e30bcbf3ea5f431f/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www042.vipanicdn.net/streamhls/20e410997ebff5fbebc3d2ac7e7a1c4f/ep.1.1677837038.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=knights-of-the-zodiac-saint-seiya-battle-for-sanctuary-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/37e49e2a05767ae8f8b346f6284573012f196711cfe6c6bdd078713b7d23f8b8089d29f866b742fee12d1ef65e9efbffc8adfe8070ab7c29ab890253781faaded7f0bb72e82cb3d6b6cc485be9326f8380ae6d0f3fc9832c6c51d43c6d8a6ca897e88284d667bb20a7df5b8de9cd2b32775a6723cf6917e4e30bcbf3ea5f431f/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/d0/d0b373ca26dfa668fa3e3ffd5800e1fa/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/3c04c9d7e0a3c609289f1c9e0595b37683794ae7fc614b03e4fbb11f0ace4ab1fcf1cabe13c1bae155b8cd1b08ac34a2d9e1e2e2d5bc1a839f4e60865e711658cb4c5a6bafcd47e1cc75a829ccd7c809abc947aaaf15ad061fdccaff2012b660e017fabdb2bb5dcb072032b12a64226b41f3e353f953af69e952ce42e470549e/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/d7/78/d7789a26d7d77ea775b04891c43066a2/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/d7/78/d7789a26d7d77ea775b04891c43066a2/fre-6.vtt",
-                            "lang": "French"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/d7/78/d7789a26d7d77ea775b04891c43066a2/ger-7.vtt",
-                            "lang": "German"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/d7/78/d7789a26d7d77ea775b04891c43066a2/por-3.vtt",
-                            "lang": "Portuguese - Portuguese(Brazil)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/d7/78/d7789a26d7d77ea775b04891c43066a2/rus-8.vtt",
-                            "lang": "Russian"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/d7/78/d7789a26d7d77ea775b04891c43066a2/spa-5.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/d7/78/d7789a26d7d77ea775b04891c43066a2/spa-4.vtt",
-                            "lang": "Spanish - Spanish(Latin_America)"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/d0/d0b373ca26dfa668fa3e3ffd5800e1fa/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/3c04c9d7e0a3c609289f1c9e0595b37683794ae7fc614b03e4fbb11f0ace4ab1fcf1cabe13c1bae155b8cd1b08ac34a2d9e1e2e2d5bc1a839f4e60865e711658cb4c5a6bafcd47e1cc75a829ccd7c809abc947aaaf15ad061fdccaff2012b660e017fabdb2bb5dcb072032b12a64226b41f3e353f953af69e952ce42e470549e/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www022.vipanicdn.net/streamhls/8c72b0dce7100a98e35a64e2b77c0983/ep.1.1677629235.m3u8"
@@ -74,72 +38,66 @@
             "DUBBED": "MTg5OTMx",
             "SUBBED": "MTg5OTIx"
         },
-        "outro": {
-            "start": 1290,
-            "end": 1380
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/d7/78/d7789a26d7d77ea775b04891c43066a2/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/d7/78/d7789a26d7d77ea775b04891c43066a2/fre-6.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/d7/78/d7789a26d7d77ea775b04891c43066a2/ger-7.vtt",
+                "lang": "German"
+            },
+            {
+                "url": "https://ccb.megaresources.co/d7/78/d7789a26d7d77ea775b04891c43066a2/por-3.vtt",
+                "lang": "Portuguese - Portuguese(Brazil)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/d7/78/d7789a26d7d77ea775b04891c43066a2/rus-8.vtt",
+                "lang": "Russian"
+            },
+            {
+                "url": "https://ccb.megaresources.co/d7/78/d7789a26d7d77ea775b04891c43066a2/spa-5.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/d7/78/d7789a26d7d77ea775b04891c43066a2/spa-4.vtt",
+                "lang": "Spanish - Spanish(Latin_America)"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/d0/d0b373ca26dfa668fa3e3ffd5800e1fa/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "2": {
         "intro": {
-            "start": 30,
-            "end": 119
+            "end": 119,
+            "start": 30
+        },
+        "outro": {
+            "end": 1380,
+            "start": 1290
         },
         "title": "The Seventh Sense",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/acf4443e7a049ff9b2bfd5e84e16e60624b282c364f6980757a0ded79397befc0989f65b2320cae2a86cdbfe9706846eb78d32495c687e7ca2658565d0423fb69fb8bc5ec5756e6acfc1583fc46e252c90218b8f368ab867ba4de9c1f11af56e3b246fc289bb96871c1b623705d050bf4bc8512275fa4e633b8b72f5bb86dcbf/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www043.vipanicdn.net/streamhls/20e410997ebff5fbebc3d2ac7e7a1c4f/ep.2.1677838912.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=knights-of-the-zodiac-saint-seiya-battle-for-sanctuary-episode-dub-2"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/acf4443e7a049ff9b2bfd5e84e16e60624b282c364f6980757a0ded79397befc0989f65b2320cae2a86cdbfe9706846eb78d32495c687e7ca2658565d0423fb69fb8bc5ec5756e6acfc1583fc46e252c90218b8f368ab867ba4de9c1f11af56e3b246fc289bb96871c1b623705d050bf4bc8512275fa4e633b8b72f5bb86dcbf/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/1c/1c08a090a09e23b6d2b82a375d3c3aa4/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/f9ac587f987046b15289a41e645d6e2e2a6ee7be0af6a9b0056718e992307a3e5426f35cfd6a8304677f55ee8c1e1d0786e9e28dc5e0f71ced7d3a992fabc6c6d106be949ecf41cd55d7d4d75234814fb07888b388ab73d6a2c0e85af6962e678d1b8265e8800555c5e756f705a608b3119a0d1e520f254738c79fcb1acdc73c/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/4a/1b/4a1baa1595c12d5fd0a05badc5abffcc/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/4a/1b/4a1baa1595c12d5fd0a05badc5abffcc/fre-6.vtt",
-                            "lang": "French"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/4a/1b/4a1baa1595c12d5fd0a05badc5abffcc/ger-7.vtt",
-                            "lang": "German"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/4a/1b/4a1baa1595c12d5fd0a05badc5abffcc/por-3.vtt",
-                            "lang": "Portuguese - Portuguese(Brazil)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/4a/1b/4a1baa1595c12d5fd0a05badc5abffcc/rus-8.vtt",
-                            "lang": "Russian"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/4a/1b/4a1baa1595c12d5fd0a05badc5abffcc/spa-5.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/4a/1b/4a1baa1595c12d5fd0a05badc5abffcc/spa-4.vtt",
-                            "lang": "Spanish - Spanish(Latin_America)"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/1c/1c08a090a09e23b6d2b82a375d3c3aa4/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/f9ac587f987046b15289a41e645d6e2e2a6ee7be0af6a9b0056718e992307a3e5426f35cfd6a8304677f55ee8c1e1d0786e9e28dc5e0f71ced7d3a992fabc6c6d106be949ecf41cd55d7d4d75234814fb07888b388ab73d6a2c0e85af6962e678d1b8265e8800555c5e756f705a608b3119a0d1e520f254738c79fcb1acdc73c/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www033.vipanicdn.net/streamhls/8c72b0dce7100a98e35a64e2b77c0983/ep.2.1677818097.m3u8"
@@ -154,76 +112,66 @@
             "DUBBED": "MTg5OTMy",
             "SUBBED": "MTg5OTIy"
         },
-        "outro": {
-            "start": 1290,
-            "end": 1380
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/4a/1b/4a1baa1595c12d5fd0a05badc5abffcc/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/4a/1b/4a1baa1595c12d5fd0a05badc5abffcc/fre-6.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/4a/1b/4a1baa1595c12d5fd0a05badc5abffcc/ger-7.vtt",
+                "lang": "German"
+            },
+            {
+                "url": "https://ccb.megaresources.co/4a/1b/4a1baa1595c12d5fd0a05badc5abffcc/por-3.vtt",
+                "lang": "Portuguese - Portuguese(Brazil)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/4a/1b/4a1baa1595c12d5fd0a05badc5abffcc/rus-8.vtt",
+                "lang": "Russian"
+            },
+            {
+                "url": "https://ccb.megaresources.co/4a/1b/4a1baa1595c12d5fd0a05badc5abffcc/spa-5.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/4a/1b/4a1baa1595c12d5fd0a05badc5abffcc/spa-4.vtt",
+                "lang": "Spanish - Spanish(Latin_America)"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/1c/1c08a090a09e23b6d2b82a375d3c3aa4/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "3": {
         "intro": {
-            "start": 30,
-            "end": 119
+            "end": 119,
+            "start": 30
+        },
+        "outro": {
+            "end": 1380,
+            "start": 1290
         },
         "title": "Andromeda Island",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/8e636fb51997d1b256c0a92285213d7af7eac821f8818c4273895f7f0fc8bcc9e6ffd43895b1a560da168d70236ae5b58e64839fdc25ca1727579047dbbbdf3a7b81d2ff39d29ca70b7686dd1b5db986963196e5753bcf9cf0da90a896ecacdddf6bb38354373da5f14a4d4547d7be8c8d99e0f71a747f0b94cd55731b1468c3/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www031.vipanicdn.net/streamhls/20e410997ebff5fbebc3d2ac7e7a1c4f/ep.3.1677819324.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=knights-of-the-zodiac-saint-seiya-battle-for-sanctuary-episode-dub-3"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/8e636fb51997d1b256c0a92285213d7af7eac821f8818c4273895f7f0fc8bcc9e6ffd43895b1a560da168d70236ae5b58e64839fdc25ca1727579047dbbbdf3a7b81d2ff39d29ca70b7686dd1b5db986963196e5753bcf9cf0da90a896ecacdddf6bb38354373da5f14a4d4547d7be8c8d99e0f71a747f0b94cd55731b1468c3/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/5b/9e/5b9e863cb989a55efdabaed48dc81930/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/63/63af2cdd40ef169df5a0e0d9962a5817/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/d027285e18f90fa4df86fbb78c031edd80621859fa65513ec079a28f45e52f12940fe28c8f4110ecf6c3e4cc2e0a9707ad0fc4325e18acb3f8743bc6cab64db115d362a5612e1904e74c602d02b98eada05a726e907ca83b836bec49c2adc057c8c5d25ab7b648cd276f6ee6f92928ceaa50403e786657761a473b60fa408b60/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/ed/eb/edebced96fbc28ebdc21385854419ee4/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/ed/eb/edebced96fbc28ebdc21385854419ee4/fre-6.vtt",
-                            "lang": "French"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/ed/eb/edebced96fbc28ebdc21385854419ee4/ger-7.vtt",
-                            "lang": "German"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/ed/eb/edebced96fbc28ebdc21385854419ee4/por-3.vtt",
-                            "lang": "Portuguese - Portuguese(Brazil)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/ed/eb/edebced96fbc28ebdc21385854419ee4/rus-8.vtt",
-                            "lang": "Russian"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/ed/eb/edebced96fbc28ebdc21385854419ee4/spa-5.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/ed/eb/edebced96fbc28ebdc21385854419ee4/spa-4.vtt",
-                            "lang": "Spanish - Spanish(Latin_America)"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/63/63af2cdd40ef169df5a0e0d9962a5817/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/d027285e18f90fa4df86fbb78c031edd80621859fa65513ec079a28f45e52f12940fe28c8f4110ecf6c3e4cc2e0a9707ad0fc4325e18acb3f8743bc6cab64db115d362a5612e1904e74c602d02b98eada05a726e907ca83b836bec49c2adc057c8c5d25ab7b648cd276f6ee6f92928ceaa50403e786657761a473b60fa408b60/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www008.vipanicdn.net/streamhls/8c72b0dce7100a98e35a64e2b77c0983/ep.3.1677620515.m3u8"
@@ -238,72 +186,66 @@
             "DUBBED": "MTkwMjQw",
             "SUBBED": "MTkwMjM3"
         },
-        "outro": {
-            "start": 1290,
-            "end": 1380
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/ed/eb/edebced96fbc28ebdc21385854419ee4/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/ed/eb/edebced96fbc28ebdc21385854419ee4/fre-6.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/ed/eb/edebced96fbc28ebdc21385854419ee4/ger-7.vtt",
+                "lang": "German"
+            },
+            {
+                "url": "https://ccb.megaresources.co/ed/eb/edebced96fbc28ebdc21385854419ee4/por-3.vtt",
+                "lang": "Portuguese - Portuguese(Brazil)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/ed/eb/edebced96fbc28ebdc21385854419ee4/rus-8.vtt",
+                "lang": "Russian"
+            },
+            {
+                "url": "https://ccb.megaresources.co/ed/eb/edebced96fbc28ebdc21385854419ee4/spa-5.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/ed/eb/edebced96fbc28ebdc21385854419ee4/spa-4.vtt",
+                "lang": "Spanish - Spanish(Latin_America)"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/63/63af2cdd40ef169df5a0e0d9962a5817/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "4": {
         "intro": {
-            "start": 30,
-            "end": 119
+            "end": 119,
+            "start": 30
+        },
+        "outro": {
+            "end": 1380,
+            "start": 1290
         },
         "title": "Cold Hearted",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/61e88df9651a2345503fc490deda10195aaf83d54b4e380e5cffe997ef0f718179a34a1ba469370cc2c008960f27b72f7c8d22284ebf7bdcf2466674648a063427f56dabfcbbaa939dcf8e87f5c6ccdb44ae5b34935a47748786cc5e65a8f49676630ad2231904b0ae653ee9da58bc129dcd44bd84a0da37b12dd8e4ce93d726/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www039.vipanicdn.net/streamhls/20e410997ebff5fbebc3d2ac7e7a1c4f/ep.4.1677818971.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=knights-of-the-zodiac-saint-seiya-battle-for-sanctuary-episode-dub-4"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/61e88df9651a2345503fc490deda10195aaf83d54b4e380e5cffe997ef0f718179a34a1ba469370cc2c008960f27b72f7c8d22284ebf7bdcf2466674648a063427f56dabfcbbaa939dcf8e87f5c6ccdb44ae5b34935a47748786cc5e65a8f49676630ad2231904b0ae653ee9da58bc129dcd44bd84a0da37b12dd8e4ce93d726/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/15/15f627e709e6f251bbdf33aa54687b82/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/6c7cb83b0935c073129039e8fad60691c25f60db5a6d9a9bcfbed8349814891e4f3e438dcf724e9f0c156b161c18e7f5964587a5231b17d94c124a022cdd3f46fc950aa845ddc6be3b3368f1526ab5e7e797b3ea8f64959ec4c998472b5eb2340f010d209a91527afae06ef84c78abbc22b99c92c4e308e4c9190c38e8100a44/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/25/27/2527e3a7c88c058e8a87c92f164951f4/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/25/27/2527e3a7c88c058e8a87c92f164951f4/fre-6.vtt",
-                            "lang": "French"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/25/27/2527e3a7c88c058e8a87c92f164951f4/ger-7.vtt",
-                            "lang": "German"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/25/27/2527e3a7c88c058e8a87c92f164951f4/por-3.vtt",
-                            "lang": "Portuguese - Portuguese(Brazil)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/25/27/2527e3a7c88c058e8a87c92f164951f4/rus-8.vtt",
-                            "lang": "Russian"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/25/27/2527e3a7c88c058e8a87c92f164951f4/spa-5.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/25/27/2527e3a7c88c058e8a87c92f164951f4/spa-4.vtt",
-                            "lang": "Spanish - Spanish(Latin_America)"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/15/15f627e709e6f251bbdf33aa54687b82/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/6c7cb83b0935c073129039e8fad60691c25f60db5a6d9a9bcfbed8349814891e4f3e438dcf724e9f0c156b161c18e7f5964587a5231b17d94c124a022cdd3f46fc950aa845ddc6be3b3368f1526ab5e7e797b3ea8f64959ec4c998472b5eb2340f010d209a91527afae06ef84c78abbc22b99c92c4e308e4c9190c38e8100a44/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www040.vipanicdn.net/streamhls/8c72b0dce7100a98e35a64e2b77c0983/ep.4.1677819918.m3u8"
@@ -318,84 +260,66 @@
             "DUBBED": "MTkwNTQ4",
             "SUBBED": "MTkwNTI5"
         },
-        "outro": {
-            "start": 1290,
-            "end": 1380
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/25/27/2527e3a7c88c058e8a87c92f164951f4/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/25/27/2527e3a7c88c058e8a87c92f164951f4/fre-6.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/25/27/2527e3a7c88c058e8a87c92f164951f4/ger-7.vtt",
+                "lang": "German"
+            },
+            {
+                "url": "https://ccb.megaresources.co/25/27/2527e3a7c88c058e8a87c92f164951f4/por-3.vtt",
+                "lang": "Portuguese - Portuguese(Brazil)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/25/27/2527e3a7c88c058e8a87c92f164951f4/rus-8.vtt",
+                "lang": "Russian"
+            },
+            {
+                "url": "https://ccb.megaresources.co/25/27/2527e3a7c88c058e8a87c92f164951f4/spa-5.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/25/27/2527e3a7c88c058e8a87c92f164951f4/spa-4.vtt",
+                "lang": "Spanish - Spanish(Latin_America)"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/15/15f627e709e6f251bbdf33aa54687b82/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "5": {
         "intro": {
-            "start": 30,
-            "end": 119
+            "end": 119,
+            "start": 30
+        },
+        "outro": {
+            "end": 1380,
+            "start": 1290
         },
         "title": "The Land of the Dead",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/cfc8161850c1675882469cf357a9a203806a4c66adbec614a494ecf9433cc00f03bccf70c7bc4fe9546f59c79c5026ab2d00d29dcc3a5ec67c8a4de129cba574dd38cdb60c6a4e7091a1a73e54906dd20e2a2c7f138daea0bd86fd75412f902c371aa3078e6fdef1e7aad2a10f5473d22bf652e535ba9f7e3cb963dbeea9730c/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www036.vipanicdn.net/streamhls/20e410997ebff5fbebc3d2ac7e7a1c4f/ep.5.1677819495.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=knights-of-the-zodiac-saint-seiya-battle-for-sanctuary-episode-dub-5"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/cfc8161850c1675882469cf357a9a203806a4c66adbec614a494ecf9433cc00f03bccf70c7bc4fe9546f59c79c5026ab2d00d29dcc3a5ec67c8a4de129cba574dd38cdb60c6a4e7091a1a73e54906dd20e2a2c7f138daea0bd86fd75412f902c371aa3078e6fdef1e7aad2a10f5473d22bf652e535ba9f7e3cb963dbeea9730c/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/83/c5/83c547fc72d3c35bb3b57c221a9a00e2/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/f2/f26f0404066caead64376eaab0d38ab2/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/3101f3cd31156e9d5fd53c541ee8145cf0ed76ff1c126b17f069c74cb0b1ecafd3755046d55993b20f2fe8060da887fb928ab1528f87722e2058f6068d24b50f99eef8887bc339373ebc283d5c763372139cd98ecbb89cc781558e2e7f24c6b74c22c32089e76e80a60128dc33f59d05bb5db76d7e564857db470813299ebbdf/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/af/dc/afdc2521a6e33886da6e909765a8c7b0/ara-6.vtt",
-                            "lang": "Arabic"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/af/dc/afdc2521a6e33886da6e909765a8c7b0/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/af/dc/afdc2521a6e33886da6e909765a8c7b0/fre-7.vtt",
-                            "lang": "French"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/af/dc/afdc2521a6e33886da6e909765a8c7b0/ger-8.vtt",
-                            "lang": "German"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/af/dc/afdc2521a6e33886da6e909765a8c7b0/ita-9.vtt",
-                            "lang": "Italian"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/af/dc/afdc2521a6e33886da6e909765a8c7b0/por-3.vtt",
-                            "lang": "Portuguese - Portuguese(Brazil)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/af/dc/afdc2521a6e33886da6e909765a8c7b0/rus-10.vtt",
-                            "lang": "Russian"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/af/dc/afdc2521a6e33886da6e909765a8c7b0/spa-5.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/af/dc/afdc2521a6e33886da6e909765a8c7b0/spa-4.vtt",
-                            "lang": "Spanish - Spanish(Latin_America)"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/f2/f26f0404066caead64376eaab0d38ab2/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/3101f3cd31156e9d5fd53c541ee8145cf0ed76ff1c126b17f069c74cb0b1ecafd3755046d55993b20f2fe8060da887fb928ab1528f87722e2058f6068d24b50f99eef8887bc339373ebc283d5c763372139cd98ecbb89cc781558e2e7f24c6b74c22c32089e76e80a60128dc33f59d05bb5db76d7e564857db470813299ebbdf/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www049.vipanicdn.net/streamhls/8c72b0dce7100a98e35a64e2b77c0983/ep.5.1677837994.m3u8"
@@ -410,52 +334,74 @@
             "DUBBED": "MTkwODA1",
             "SUBBED": "MTkwNzk4"
         },
-        "outro": {
-            "start": 1290,
-            "end": 1380
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/af/dc/afdc2521a6e33886da6e909765a8c7b0/ara-6.vtt",
+                "lang": "Arabic"
+            },
+            {
+                "url": "https://ccb.megaresources.co/af/dc/afdc2521a6e33886da6e909765a8c7b0/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/af/dc/afdc2521a6e33886da6e909765a8c7b0/fre-7.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/af/dc/afdc2521a6e33886da6e909765a8c7b0/ger-8.vtt",
+                "lang": "German"
+            },
+            {
+                "url": "https://ccb.megaresources.co/af/dc/afdc2521a6e33886da6e909765a8c7b0/ita-9.vtt",
+                "lang": "Italian"
+            },
+            {
+                "url": "https://ccb.megaresources.co/af/dc/afdc2521a6e33886da6e909765a8c7b0/por-3.vtt",
+                "lang": "Portuguese - Portuguese(Brazil)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/af/dc/afdc2521a6e33886da6e909765a8c7b0/rus-10.vtt",
+                "lang": "Russian"
+            },
+            {
+                "url": "https://ccb.megaresources.co/af/dc/afdc2521a6e33886da6e909765a8c7b0/spa-5.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/af/dc/afdc2521a6e33886da6e909765a8c7b0/spa-4.vtt",
+                "lang": "Spanish - Spanish(Latin_America)"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/f2/f26f0404066caead64376eaab0d38ab2/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "6": {
         "intro": {
-            "start": 30,
-            "end": 119
+            "end": 119,
+            "start": 30
+        },
+        "outro": {
+            "end": 1380,
+            "start": 1290
         },
         "title": "Rebirth of the Rising Dragon",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/9deaeb650722b59d32a9950425bc7f1f59c65253401f3bd5862bdd4081103f71dfdcec32d7c34a7dc3fef81da61cdb86303f6f4178a752fad492503e1ad31953854ddc2b209016567e9aa4c1b92e0e0f715b5074fc60d586ec98e48e0ac3d0bd30b6619b3556b604e36b9b1094b1f78476a2cb6593175bd6de24375f80895c24/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www042.vipanicdn.net/streamhls/20e410997ebff5fbebc3d2ac7e7a1c4f/ep.6.1677836635.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=knights-of-the-zodiac-saint-seiya-battle-for-sanctuary-episode-dub-6"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/9deaeb650722b59d32a9950425bc7f1f59c65253401f3bd5862bdd4081103f71dfdcec32d7c34a7dc3fef81da61cdb86303f6f4178a752fad492503e1ad31953854ddc2b209016567e9aa4c1b92e0e0f715b5074fc60d586ec98e48e0ac3d0bd30b6619b3556b604e36b9b1094b1f78476a2cb6593175bd6de24375f80895c24/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/be/f3/bef36876284c60960f7598e3c8372c30/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/1f/1fad094a7eec97a67ba7e3d4516deb06/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/9729eac9c8091d3f93d01c5c8196dd1dba0ae9d177cca5a93fe56f7308fcf46aa8feb4222245c6d7a51a84e5eda21aa3a53f96279ed70e2d23ef045214099e73d3b899a7c8acdb35911520a101cd3c25cb20854285adb41289be66d349e357ab44e1883a4a700c2c13f020c8ddae9546e30decfad91098b20e81b726d1210945/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/ba/85/ba85f52107a5b44e9f56bec44c11f750/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/1f/1fad094a7eec97a67ba7e3d4516deb06/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/9729eac9c8091d3f93d01c5c8196dd1dba0ae9d177cca5a93fe56f7308fcf46aa8feb4222245c6d7a51a84e5eda21aa3a53f96279ed70e2d23ef045214099e73d3b899a7c8acdb35911520a101cd3c25cb20854285adb41289be66d349e357ab44e1883a4a700c2c13f020c8ddae9546e30decfad91098b20e81b726d1210945/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www036.vipanicdn.net/streamhls/8c72b0dce7100a98e35a64e2b77c0983/ep.6.1677819252.m3u8"
@@ -470,84 +416,42 @@
             "DUBBED": "MTkxMjMx",
             "SUBBED": "MTkxMjI1"
         },
-        "outro": {
-            "start": 1290,
-            "end": 1380
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/ba/85/ba85f52107a5b44e9f56bec44c11f750/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/1f/1fad094a7eec97a67ba7e3d4516deb06/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "7": {
         "intro": {
-            "start": 32,
-            "end": 121
+            "end": 121,
+            "start": 32
+        },
+        "outro": {
+            "end": 1252,
+            "start": 1162
         },
         "title": "Battle for the House of Leo",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/3ecdd721fb82eb2318cb73b262726c24f80575fbe787b30dac97c35f634e838ae17898279f7471f895aeb8c85370ebc76ebae84a228b3ba01fc06c8b0959f17af089ec7612f517ad04765b112ec2f33ab625e8b29da51a45e8fb59b5fed5cbcc7eb28d4d8e88a329b4f19ada3c119f2a6bf2702d3a3b100ee1f53370d9e0a97c/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www036.vipanicdn.net/streamhls/20e410997ebff5fbebc3d2ac7e7a1c4f/ep.7.1677818977.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=knights-of-the-zodiac-saint-seiya-battle-for-sanctuary-episode-dub-7"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/3ecdd721fb82eb2318cb73b262726c24f80575fbe787b30dac97c35f634e838ae17898279f7471f895aeb8c85370ebc76ebae84a228b3ba01fc06c8b0959f17af089ec7612f517ad04765b112ec2f33ab625e8b29da51a45e8fb59b5fed5cbcc7eb28d4d8e88a329b4f19ada3c119f2a6bf2702d3a3b100ee1f53370d9e0a97c/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/94/41/9441bdc5526611542365b788acc96cf3/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/58/5857250ebb5c9ff061281ec7cbf11524/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/0088f214f560527593060f74deb9ed77b5978782cfda51269e765932bbbb6f40217bd9d786f6b5cd581433e4361d74b39b3f746106dcc203722131cf7c0a0a00d6bea3af393a0c3e56db272f757566b83a5c783dc6292eaa0560db768dcccfb35c7025de59bf0ca5a7bf946190141d9869640d5b9373fc6172342a9bb008f013/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/fc/bc/fcbc57525e4bb9d335d36d8346ded53e/ara-6.vtt",
-                            "lang": "Arabic"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/fc/bc/fcbc57525e4bb9d335d36d8346ded53e/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/fc/bc/fcbc57525e4bb9d335d36d8346ded53e/fre-7.vtt",
-                            "lang": "French"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/fc/bc/fcbc57525e4bb9d335d36d8346ded53e/ger-8.vtt",
-                            "lang": "German"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/fc/bc/fcbc57525e4bb9d335d36d8346ded53e/ita-9.vtt",
-                            "lang": "Italian"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/fc/bc/fcbc57525e4bb9d335d36d8346ded53e/por-3.vtt",
-                            "lang": "Portuguese - Portuguese(Brazil)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/fc/bc/fcbc57525e4bb9d335d36d8346ded53e/rus-10.vtt",
-                            "lang": "Russian"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/fc/bc/fcbc57525e4bb9d335d36d8346ded53e/spa-5.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/fc/bc/fcbc57525e4bb9d335d36d8346ded53e/spa-4.vtt",
-                            "lang": "Spanish - Spanish(Latin_America)"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/58/5857250ebb5c9ff061281ec7cbf11524/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/0088f214f560527593060f74deb9ed77b5978782cfda51269e765932bbbb6f40217bd9d786f6b5cd581433e4361d74b39b3f746106dcc203722131cf7c0a0a00d6bea3af393a0c3e56db272f757566b83a5c783dc6292eaa0560db768dcccfb35c7025de59bf0ca5a7bf946190141d9869640d5b9373fc6172342a9bb008f013/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www045.vipanicdn.net/streamhls/8c72b0dce7100a98e35a64e2b77c0983/ep.7.1677840848.m3u8"
@@ -562,84 +466,74 @@
             "DUBBED": "MTkxNjY1",
             "SUBBED": "MTkxNjE0"
         },
-        "outro": {
-            "start": 1162,
-            "end": 1252
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/fc/bc/fcbc57525e4bb9d335d36d8346ded53e/ara-6.vtt",
+                "lang": "Arabic"
+            },
+            {
+                "url": "https://ccb.megaresources.co/fc/bc/fcbc57525e4bb9d335d36d8346ded53e/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/fc/bc/fcbc57525e4bb9d335d36d8346ded53e/fre-7.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/fc/bc/fcbc57525e4bb9d335d36d8346ded53e/ger-8.vtt",
+                "lang": "German"
+            },
+            {
+                "url": "https://ccb.megaresources.co/fc/bc/fcbc57525e4bb9d335d36d8346ded53e/ita-9.vtt",
+                "lang": "Italian"
+            },
+            {
+                "url": "https://ccb.megaresources.co/fc/bc/fcbc57525e4bb9d335d36d8346ded53e/por-3.vtt",
+                "lang": "Portuguese - Portuguese(Brazil)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/fc/bc/fcbc57525e4bb9d335d36d8346ded53e/rus-10.vtt",
+                "lang": "Russian"
+            },
+            {
+                "url": "https://ccb.megaresources.co/fc/bc/fcbc57525e4bb9d335d36d8346ded53e/spa-5.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/fc/bc/fcbc57525e4bb9d335d36d8346ded53e/spa-4.vtt",
+                "lang": "Spanish - Spanish(Latin_America)"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/58/5857250ebb5c9ff061281ec7cbf11524/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "8": {
         "intro": {
-            "start": 30,
-            "end": 119
+            "end": 119,
+            "start": 30
+        },
+        "outro": {
+            "end": 1380,
+            "start": 1290
         },
         "title": "The Skull Knights",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/4ef68b228be4318a4ba1ac982b91cdd9c36545fb1061eadc61a89c10d5ad7e438694e3b7940ee7a86bf0dfc35cc55fcf3a32f2c8474cd1137cd2ef2ceefbddd4a6ac588dd7740e11b70667ed869d0302952d330ae46d29788f37ca3cf2c841ab352f465c2b504b743a1a213a0faa7a62b622cfae18d1f86cc4da954c5a28a42f/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www049.vipanicdn.net/streamhls/20e410997ebff5fbebc3d2ac7e7a1c4f/ep.8.1677837431.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=knights-of-the-zodiac-saint-seiya-battle-for-sanctuary-episode-dub-8"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/4ef68b228be4318a4ba1ac982b91cdd9c36545fb1061eadc61a89c10d5ad7e438694e3b7940ee7a86bf0dfc35cc55fcf3a32f2c8474cd1137cd2ef2ceefbddd4a6ac588dd7740e11b70667ed869d0302952d330ae46d29788f37ca3cf2c841ab352f465c2b504b743a1a213a0faa7a62b622cfae18d1f86cc4da954c5a28a42f/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/6f/3a/6f3a6ccbb70e0a86b53816cdccb43a6b/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/cf/cfc81d8356f9df4a920baa9bf035f90d/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/262d2eeb29d981cbba58f318358662e5fb669997366f46ebcbff56fc581ae18fbb8496500c5d9bc1aa9fc8225ffddd106723f9bc653e364773ef1ee3b95ab36e60dc198aad7213a0ba75fd6f0fbd566f46f5529cb2a0775d7fa362c2841fad3b016772abb58bbc0efe2d837be12d0e7d023ad9d8866bf0999a9ec2e64d6d7a42/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/56/7f/567f13cfedd03eb918761787c98c1846/ara-6.vtt",
-                            "lang": "Arabic"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/56/7f/567f13cfedd03eb918761787c98c1846/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/56/7f/567f13cfedd03eb918761787c98c1846/fre-7.vtt",
-                            "lang": "French"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/56/7f/567f13cfedd03eb918761787c98c1846/ger-8.vtt",
-                            "lang": "German"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/56/7f/567f13cfedd03eb918761787c98c1846/ita-9.vtt",
-                            "lang": "Italian"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/56/7f/567f13cfedd03eb918761787c98c1846/por-3.vtt",
-                            "lang": "Portuguese - Portuguese(Brazil)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/56/7f/567f13cfedd03eb918761787c98c1846/rus-10.vtt",
-                            "lang": "Russian"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/56/7f/567f13cfedd03eb918761787c98c1846/spa-5.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/56/7f/567f13cfedd03eb918761787c98c1846/spa-4.vtt",
-                            "lang": "Spanish - Spanish(Latin_America)"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/cf/cfc81d8356f9df4a920baa9bf035f90d/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/262d2eeb29d981cbba58f318358662e5fb669997366f46ebcbff56fc581ae18fbb8496500c5d9bc1aa9fc8225ffddd106723f9bc653e364773ef1ee3b95ab36e60dc198aad7213a0ba75fd6f0fbd566f46f5529cb2a0775d7fa362c2841fad3b016772abb58bbc0efe2d837be12d0e7d023ad9d8866bf0999a9ec2e64d6d7a42/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www036.vipanicdn.net/streamhls/8c72b0dce7100a98e35a64e2b77c0983/ep.8.1677818802.m3u8"
@@ -654,80 +548,74 @@
             "DUBBED": "MTkyMDM4",
             "SUBBED": "MTkyMDI1"
         },
-        "outro": {
-            "start": 1290,
-            "end": 1380
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/56/7f/567f13cfedd03eb918761787c98c1846/ara-6.vtt",
+                "lang": "Arabic"
+            },
+            {
+                "url": "https://ccb.megaresources.co/56/7f/567f13cfedd03eb918761787c98c1846/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/56/7f/567f13cfedd03eb918761787c98c1846/fre-7.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/56/7f/567f13cfedd03eb918761787c98c1846/ger-8.vtt",
+                "lang": "German"
+            },
+            {
+                "url": "https://ccb.megaresources.co/56/7f/567f13cfedd03eb918761787c98c1846/ita-9.vtt",
+                "lang": "Italian"
+            },
+            {
+                "url": "https://ccb.megaresources.co/56/7f/567f13cfedd03eb918761787c98c1846/por-3.vtt",
+                "lang": "Portuguese - Portuguese(Brazil)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/56/7f/567f13cfedd03eb918761787c98c1846/rus-10.vtt",
+                "lang": "Russian"
+            },
+            {
+                "url": "https://ccb.megaresources.co/56/7f/567f13cfedd03eb918761787c98c1846/spa-5.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/56/7f/567f13cfedd03eb918761787c98c1846/spa-4.vtt",
+                "lang": "Spanish - Spanish(Latin_America)"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/cf/cfc81d8356f9df4a920baa9bf035f90d/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "9": {
         "intro": {
-            "start": 30,
-            "end": 119
+            "end": 119,
+            "start": 30
+        },
+        "outro": {
+            "end": 1380,
+            "start": 1290
         },
         "title": "Reflections",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/e8f4139386b296db577103d0d141c1bd823e4d9b4cab79d82bc28ea6ce1b63c856a9389cf1ba6e479fcdf809cbc7a1af5503637053413fb2ffa13b0c6998410dcbc5178c780c61e8d98b6195e51a91d685f2f17a9dd7bb800e2a62d7489fee97daebb4ee157742095629fc3ec500edc7c2e9d27c93a3cc8da385baa894227407/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www047.vipanicdn.net/streamhls/20e410997ebff5fbebc3d2ac7e7a1c4f/ep.9.1677838918.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=knights-of-the-zodiac-saint-seiya-battle-for-sanctuary-episode-dub-9"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/e8f4139386b296db577103d0d141c1bd823e4d9b4cab79d82bc28ea6ce1b63c856a9389cf1ba6e479fcdf809cbc7a1af5503637053413fb2ffa13b0c6998410dcbc5178c780c61e8d98b6195e51a91d685f2f17a9dd7bb800e2a62d7489fee97daebb4ee157742095629fc3ec500edc7c2e9d27c93a3cc8da385baa894227407/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/04/04ab486c436a910c2cfebff6d0606105/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/f1392d0d26b22dd3ec52fd46b9d3646480b0ff8591d0e66a5131998b5235f5aa7d32daef4953a8de9bc2d2cc024fa1b48f75f48a227993dd0d31022885897561b4b93475a50ce4fdc0100d61720303449b3a635276f80b27e130593b35f38a181df82810587939e21b2ffeb7516bfa15b504c22cf91f4511b69e65d1a516426e/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/be/1a/be1a69da691c3eb53af9a02283af1fd9/ara-6.vtt",
-                            "lang": "Arabic"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/be/1a/be1a69da691c3eb53af9a02283af1fd9/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/be/1a/be1a69da691c3eb53af9a02283af1fd9/fre-7.vtt",
-                            "lang": "French"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/be/1a/be1a69da691c3eb53af9a02283af1fd9/ger-8.vtt",
-                            "lang": "German"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/be/1a/be1a69da691c3eb53af9a02283af1fd9/ita-9.vtt",
-                            "lang": "Italian"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/be/1a/be1a69da691c3eb53af9a02283af1fd9/por-3.vtt",
-                            "lang": "Portuguese - Portuguese(Brazil)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/be/1a/be1a69da691c3eb53af9a02283af1fd9/rus-10.vtt",
-                            "lang": "Russian"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/be/1a/be1a69da691c3eb53af9a02283af1fd9/spa-5.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/be/1a/be1a69da691c3eb53af9a02283af1fd9/spa-4.vtt",
-                            "lang": "Spanish - Spanish(Latin_America)"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/04/04ab486c436a910c2cfebff6d0606105/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/f1392d0d26b22dd3ec52fd46b9d3646480b0ff8591d0e66a5131998b5235f5aa7d32daef4953a8de9bc2d2cc024fa1b48f75f48a227993dd0d31022885897561b4b93475a50ce4fdc0100d61720303449b3a635276f80b27e130593b35f38a181df82810587939e21b2ffeb7516bfa15b504c22cf91f4511b69e65d1a516426e/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www050.vipanicdn.net/streamhls/8c72b0dce7100a98e35a64e2b77c0983/ep.9.1677837840.m3u8"
@@ -742,80 +630,74 @@
             "DUBBED": "MTkyODE2",
             "SUBBED": "MTkyNDE5"
         },
-        "outro": {
-            "start": 1290,
-            "end": 1380
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/be/1a/be1a69da691c3eb53af9a02283af1fd9/ara-6.vtt",
+                "lang": "Arabic"
+            },
+            {
+                "url": "https://ccb.megaresources.co/be/1a/be1a69da691c3eb53af9a02283af1fd9/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/be/1a/be1a69da691c3eb53af9a02283af1fd9/fre-7.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/be/1a/be1a69da691c3eb53af9a02283af1fd9/ger-8.vtt",
+                "lang": "German"
+            },
+            {
+                "url": "https://ccb.megaresources.co/be/1a/be1a69da691c3eb53af9a02283af1fd9/ita-9.vtt",
+                "lang": "Italian"
+            },
+            {
+                "url": "https://ccb.megaresources.co/be/1a/be1a69da691c3eb53af9a02283af1fd9/por-3.vtt",
+                "lang": "Portuguese - Portuguese(Brazil)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/be/1a/be1a69da691c3eb53af9a02283af1fd9/rus-10.vtt",
+                "lang": "Russian"
+            },
+            {
+                "url": "https://ccb.megaresources.co/be/1a/be1a69da691c3eb53af9a02283af1fd9/spa-5.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/be/1a/be1a69da691c3eb53af9a02283af1fd9/spa-4.vtt",
+                "lang": "Spanish - Spanish(Latin_America)"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/04/04ab486c436a910c2cfebff6d0606105/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "10": {
         "intro": {
-            "start": 30,
-            "end": 119
+            "end": 119,
+            "start": 30
+        },
+        "outro": {
+            "end": 1380,
+            "start": 1290
         },
         "title": "The One as Powerful as a God",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/bf854637cad13f9d6d9fdee9ce9365c59cce2db497178465144e5a55aa962836deb076ba5abfbd5c48275153220f8e868b96645281838277d51d03d537125ec722c9dd92c8de8c3b98a614075d85387bac7d17b191685eadbeb139721c32349085c6d0183d51d45c896c3fec80b662c5503d607afa8599362aeaedf490a123c9/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www041.vipanicdn.net/streamhls/20e410997ebff5fbebc3d2ac7e7a1c4f/ep.10.1677837701.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=knights-of-the-zodiac-saint-seiya-battle-for-sanctuary-episode-dub-10"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/bf854637cad13f9d6d9fdee9ce9365c59cce2db497178465144e5a55aa962836deb076ba5abfbd5c48275153220f8e868b96645281838277d51d03d537125ec722c9dd92c8de8c3b98a614075d85387bac7d17b191685eadbeb139721c32349085c6d0183d51d45c896c3fec80b662c5503d607afa8599362aeaedf490a123c9/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/da/dac86815cf08a71e91eba848dc9089c3/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/542133cfe0264d819f7a573b3582c0e2e7b4a30a5d5953bcd3cc3465c01bf6d4ec7131cd416eb3df2682cf01ad84b146cc13c1545a8e79fa7247d805cc7d5a9e96d057340b28a75b5b9478f8b6dc3c4881a05532f71e0dbfc6df51f34a9bb77ad9aeae9395037aa81352e7acb52c9399d51c96d4e283f35ce3cc92eaf609d27d/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/31/24/3124df6e97cff619039dbc47c3beeaa6/ara-6.vtt",
-                            "lang": "Arabic"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/31/24/3124df6e97cff619039dbc47c3beeaa6/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/31/24/3124df6e97cff619039dbc47c3beeaa6/fre-7.vtt",
-                            "lang": "French"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/31/24/3124df6e97cff619039dbc47c3beeaa6/ger-8.vtt",
-                            "lang": "German"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/31/24/3124df6e97cff619039dbc47c3beeaa6/ita-9.vtt",
-                            "lang": "Italian"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/31/24/3124df6e97cff619039dbc47c3beeaa6/por-3.vtt",
-                            "lang": "Portuguese - Portuguese(Brazil)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/31/24/3124df6e97cff619039dbc47c3beeaa6/rus-10.vtt",
-                            "lang": "Russian"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/31/24/3124df6e97cff619039dbc47c3beeaa6/spa-5.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/31/24/3124df6e97cff619039dbc47c3beeaa6/spa-4.vtt",
-                            "lang": "Spanish - Spanish(Latin_America)"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/da/dac86815cf08a71e91eba848dc9089c3/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/542133cfe0264d819f7a573b3582c0e2e7b4a30a5d5953bcd3cc3465c01bf6d4ec7131cd416eb3df2682cf01ad84b146cc13c1545a8e79fa7247d805cc7d5a9e96d057340b28a75b5b9478f8b6dc3c4881a05532f71e0dbfc6df51f34a9bb77ad9aeae9395037aa81352e7acb52c9399d51c96d4e283f35ce3cc92eaf609d27d/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www044.vipanicdn.net/streamhls/8c72b0dce7100a98e35a64e2b77c0983/ep.10.1677842048.m3u8"
@@ -830,80 +712,74 @@
             "DUBBED": "MTkyODEw",
             "SUBBED": "MTkyNzkz"
         },
-        "outro": {
-            "start": 1290,
-            "end": 1380
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/31/24/3124df6e97cff619039dbc47c3beeaa6/ara-6.vtt",
+                "lang": "Arabic"
+            },
+            {
+                "url": "https://ccb.megaresources.co/31/24/3124df6e97cff619039dbc47c3beeaa6/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/31/24/3124df6e97cff619039dbc47c3beeaa6/fre-7.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/31/24/3124df6e97cff619039dbc47c3beeaa6/ger-8.vtt",
+                "lang": "German"
+            },
+            {
+                "url": "https://ccb.megaresources.co/31/24/3124df6e97cff619039dbc47c3beeaa6/ita-9.vtt",
+                "lang": "Italian"
+            },
+            {
+                "url": "https://ccb.megaresources.co/31/24/3124df6e97cff619039dbc47c3beeaa6/por-3.vtt",
+                "lang": "Portuguese - Portuguese(Brazil)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/31/24/3124df6e97cff619039dbc47c3beeaa6/rus-10.vtt",
+                "lang": "Russian"
+            },
+            {
+                "url": "https://ccb.megaresources.co/31/24/3124df6e97cff619039dbc47c3beeaa6/spa-5.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/31/24/3124df6e97cff619039dbc47c3beeaa6/spa-4.vtt",
+                "lang": "Spanish - Spanish(Latin_America)"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/da/dac86815cf08a71e91eba848dc9089c3/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "11": {
         "intro": {
-            "start": 30,
-            "end": 119
+            "end": 119,
+            "start": 30
+        },
+        "outro": {
+            "end": 1380,
+            "start": 1290
         },
         "title": "Heaven`s Treasure",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/77a3ddf25686283a3af56eae0fb0d7933bfcfe13da7502272a1027de229689e45f4b94a801159549182361bbbcf2f3fd22416f839a114d65236957ea5cbeebcced41fb242f6971e8a5be3064c2c41d461e6b9c16ac7dba2ad85d6fe32da55ea19664d862853f92d17c9bf9bcac7de75cb29d33980d02d6e3ad5338ec35174ad3/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www032.vipanicdn.net/streamhls/20e410997ebff5fbebc3d2ac7e7a1c4f/ep.11.1677816057.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=knights-of-the-zodiac-saint-seiya-battle-for-sanctuary-episode-dub-11"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/77a3ddf25686283a3af56eae0fb0d7933bfcfe13da7502272a1027de229689e45f4b94a801159549182361bbbcf2f3fd22416f839a114d65236957ea5cbeebcced41fb242f6971e8a5be3064c2c41d461e6b9c16ac7dba2ad85d6fe32da55ea19664d862853f92d17c9bf9bcac7de75cb29d33980d02d6e3ad5338ec35174ad3/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/59/597add7336a85ef0bdd020d0eaa8d0d5/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/1a01dc174eebc2a3f0b2102b52ae5a0fc4542cc8c344410d78b5a92f1540d08b11fc0c227bbd0d445f6a6e1c8cdcaffa624838a529c87de1d003b293abe99e765e18c9bf7be518d9c67b352bf2696f5035c4c6bad7f8f2a448596094211f16c9a01afc40578fdde07890fba55b3bcbfa81f9bf2eaec0677f26d6c224d665b8e2/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/1a/5d/1a5d92e4df01b491d3322959a05c9da4/ara-6.vtt",
-                            "lang": "Arabic"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/1a/5d/1a5d92e4df01b491d3322959a05c9da4/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/1a/5d/1a5d92e4df01b491d3322959a05c9da4/fre-7.vtt",
-                            "lang": "French"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/1a/5d/1a5d92e4df01b491d3322959a05c9da4/ger-8.vtt",
-                            "lang": "German"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/1a/5d/1a5d92e4df01b491d3322959a05c9da4/ita-9.vtt",
-                            "lang": "Italian"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/1a/5d/1a5d92e4df01b491d3322959a05c9da4/por-3.vtt",
-                            "lang": "Portuguese - Portuguese(Brazil)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/1a/5d/1a5d92e4df01b491d3322959a05c9da4/rus-10.vtt",
-                            "lang": "Russian"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/1a/5d/1a5d92e4df01b491d3322959a05c9da4/spa-5.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/1a/5d/1a5d92e4df01b491d3322959a05c9da4/spa-4.vtt",
-                            "lang": "Spanish - Spanish(Latin_America)"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/59/597add7336a85ef0bdd020d0eaa8d0d5/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/1a01dc174eebc2a3f0b2102b52ae5a0fc4542cc8c344410d78b5a92f1540d08b11fc0c227bbd0d445f6a6e1c8cdcaffa624838a529c87de1d003b293abe99e765e18c9bf7be518d9c67b352bf2696f5035c4c6bad7f8f2a448596094211f16c9a01afc40578fdde07890fba55b3bcbfa81f9bf2eaec0677f26d6c224d665b8e2/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www047.vipanicdn.net/streamhls/8c72b0dce7100a98e35a64e2b77c0983/ep.11.1677838707.m3u8"
@@ -918,84 +794,74 @@
             "DUBBED": "MTkzMjAx",
             "SUBBED": "MTkzMTk2"
         },
-        "outro": {
-            "start": 1290,
-            "end": 1380
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/1a/5d/1a5d92e4df01b491d3322959a05c9da4/ara-6.vtt",
+                "lang": "Arabic"
+            },
+            {
+                "url": "https://ccb.megaresources.co/1a/5d/1a5d92e4df01b491d3322959a05c9da4/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/1a/5d/1a5d92e4df01b491d3322959a05c9da4/fre-7.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/1a/5d/1a5d92e4df01b491d3322959a05c9da4/ger-8.vtt",
+                "lang": "German"
+            },
+            {
+                "url": "https://ccb.megaresources.co/1a/5d/1a5d92e4df01b491d3322959a05c9da4/ita-9.vtt",
+                "lang": "Italian"
+            },
+            {
+                "url": "https://ccb.megaresources.co/1a/5d/1a5d92e4df01b491d3322959a05c9da4/por-3.vtt",
+                "lang": "Portuguese - Portuguese(Brazil)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/1a/5d/1a5d92e4df01b491d3322959a05c9da4/rus-10.vtt",
+                "lang": "Russian"
+            },
+            {
+                "url": "https://ccb.megaresources.co/1a/5d/1a5d92e4df01b491d3322959a05c9da4/spa-5.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/1a/5d/1a5d92e4df01b491d3322959a05c9da4/spa-4.vtt",
+                "lang": "Spanish - Spanish(Latin_America)"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/59/597add7336a85ef0bdd020d0eaa8d0d5/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "12": {
         "intro": {
-            "start": 30,
-            "end": 119
+            "end": 119,
+            "start": 30
+        },
+        "outro": {
+            "end": 1380,
+            "start": 1290
         },
         "title": "The Secrets of Sanctuary",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/4288fa36f3d5fbfb3dc39295ddd7e08ee1fb99dd55ef66b818f3ef81cab763ac852cfe49e89827d318f4cf912bcf6211e86bc6e7cd6416f2b59b9d86b02aba1ac8d82098479909a7ba125f6c89bfcf344364072249d1bbb10924d992ac05b083325713f586a890b4ce979f5e790e0feb4e64637654e8014e047db4cf09053b7f/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www034.vipanicdn.net/streamhls/20e410997ebff5fbebc3d2ac7e7a1c4f/ep.12.1677816021.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=knights-of-the-zodiac-saint-seiya-battle-for-sanctuary-episode-dub-12"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/4288fa36f3d5fbfb3dc39295ddd7e08ee1fb99dd55ef66b818f3ef81cab763ac852cfe49e89827d318f4cf912bcf6211e86bc6e7cd6416f2b59b9d86b02aba1ac8d82098479909a7ba125f6c89bfcf344364072249d1bbb10924d992ac05b083325713f586a890b4ce979f5e790e0feb4e64637654e8014e047db4cf09053b7f/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/7a/58/7a583e3534f918a8372f6cb4723a7824/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/58/584e49a46a375f4d91225be5704630c4/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/1d2fa108de6b1e36ac26f2f2360885456a3c159b669ee61e7a1adbbaa32f6eed70fb9b76df99ca4d0bcb92957f2b1472083738f573720274995ef846d07530c7f7787515b2471e8cf50cca778d795f66af0b25b29e267e359a40e98a2c402516e1f3d8e3a126502881083f3a86a787cafc3bb60793851ccc81ee49a0ebd8223d/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/cf/ac/cfac2127fecaf143e74ce58e4f494122/ara-6.vtt",
-                            "lang": "Arabic"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/cf/ac/cfac2127fecaf143e74ce58e4f494122/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/cf/ac/cfac2127fecaf143e74ce58e4f494122/fre-7.vtt",
-                            "lang": "French"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/cf/ac/cfac2127fecaf143e74ce58e4f494122/ger-8.vtt",
-                            "lang": "German"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/cf/ac/cfac2127fecaf143e74ce58e4f494122/ita-9.vtt",
-                            "lang": "Italian"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/cf/ac/cfac2127fecaf143e74ce58e4f494122/por-3.vtt",
-                            "lang": "Portuguese - Portuguese(Brazil)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/cf/ac/cfac2127fecaf143e74ce58e4f494122/rus-10.vtt",
-                            "lang": "Russian"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/cf/ac/cfac2127fecaf143e74ce58e4f494122/spa-5.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/cf/ac/cfac2127fecaf143e74ce58e4f494122/spa-4.vtt",
-                            "lang": "Spanish - Spanish(Latin_America)"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/58/584e49a46a375f4d91225be5704630c4/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/1d2fa108de6b1e36ac26f2f2360885456a3c159b669ee61e7a1adbbaa32f6eed70fb9b76df99ca4d0bcb92957f2b1472083738f573720274995ef846d07530c7f7787515b2471e8cf50cca778d795f66af0b25b29e267e359a40e98a2c402516e1f3d8e3a126502881083f3a86a787cafc3bb60793851ccc81ee49a0ebd8223d/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www040.vipanicdn.net/streamhls/8c72b0dce7100a98e35a64e2b77c0983/ep.12.1677818275.m3u8"
@@ -1010,9 +876,47 @@
             "DUBBED": "MTkzNTIz",
             "SUBBED": "MTkzNTA5"
         },
-        "outro": {
-            "start": 1290,
-            "end": 1380
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/cf/ac/cfac2127fecaf143e74ce58e4f494122/ara-6.vtt",
+                "lang": "Arabic"
+            },
+            {
+                "url": "https://ccb.megaresources.co/cf/ac/cfac2127fecaf143e74ce58e4f494122/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/cf/ac/cfac2127fecaf143e74ce58e4f494122/fre-7.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/cf/ac/cfac2127fecaf143e74ce58e4f494122/ger-8.vtt",
+                "lang": "German"
+            },
+            {
+                "url": "https://ccb.megaresources.co/cf/ac/cfac2127fecaf143e74ce58e4f494122/ita-9.vtt",
+                "lang": "Italian"
+            },
+            {
+                "url": "https://ccb.megaresources.co/cf/ac/cfac2127fecaf143e74ce58e4f494122/por-3.vtt",
+                "lang": "Portuguese - Portuguese(Brazil)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/cf/ac/cfac2127fecaf143e74ce58e4f494122/rus-10.vtt",
+                "lang": "Russian"
+            },
+            {
+                "url": "https://ccb.megaresources.co/cf/ac/cfac2127fecaf143e74ce58e4f494122/spa-5.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/cf/ac/cfac2127fecaf143e74ce58e4f494122/spa-4.vtt",
+                "lang": "Spanish - Spanish(Latin_America)"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/58/584e49a46a375f4d91225be5704630c4/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

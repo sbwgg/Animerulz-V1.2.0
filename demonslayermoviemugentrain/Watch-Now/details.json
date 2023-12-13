@@ -1,61 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/321cdbcc82d7ad4483ae2d9d3d7736dd20683b4ffc9b3fa08a90f30b2229e17e4febd031c3381705a767a3d177679d35f43d4e385b08bf8b8ff03b132fc2725004c280a80a9d7c184c38f4a17ac04d004707e1b8da5853eedacea30adca046a589de62336d1e70187388aeedb5bb6df524eae648b8298f52f5197a7e2569f3a0/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www002.vipanicdn.net/streamhls/cf75127fc37551d8d277121bc45beb0b/ep.1.1677591591.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=kimetsu-no-yaiba-movie-mugen-ressha-hen-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/321cdbcc82d7ad4483ae2d9d3d7736dd20683b4ffc9b3fa08a90f30b2229e17e4febd031c3381705a767a3d177679d35f43d4e385b08bf8b8ff03b132fc2725004c280a80a9d7c184c38f4a17ac04d004707e1b8da5853eedacea30adca046a589de62336d1e70187388aeedb5bb6df524eae648b8298f52f5197a7e2569f3a0/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/91/91c5f2eeda6764588dbbb3f129bfcc1a/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/e84bf209c9c72a545bf0d4dceead0a66e1f392f381e5fd97b9abc2fd3b98ce2481b23146096885c0aaac6382c44dc1c9a66ec96a48f73b8c2416d965536ce7a33e49e899a78ffff4a64887e8bfa044099ce9f708f0358096c87fa0bf6eac50b34a91855c38e6f7ef48e78b0850232820b95195a1182893f1b2478a33d9cdb6d9/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/7f/4d/7f4d84b071c20230c15b2989d4b34947/7f4d84b071c20230c15b2989d4b34947.vtt",
-                            "lang": "Arabic"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/2e/9d/2e9d8d3855ef20fe1215784c9acfc4df/2e9d8d3855ef20fe1215784c9acfc4df.vtt",
-                            "lang": "Chinese"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/3c/ae/3cae2c04ae03452daf5bac12064260ec/3cae2c04ae03452daf5bac12064260ec.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/aa/94/aa9426b93bca57a31d329c3c0f03006b/aa9426b93bca57a31d329c3c0f03006b.vtt",
-                            "lang": "Indonesian"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/23/2b/232b98b1f14453ae68a1bd7b296bda61/232b98b1f14453ae68a1bd7b296bda61.vtt",
-                            "lang": "Spanish - Espanol"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/a6/72/a6726949aebe9538876e0d91478b98c2/a6726949aebe9538876e0d91478b98c2.vtt",
-                            "lang": "Thai"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/91/91c5f2eeda6764588dbbb3f129bfcc1a/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/e84bf209c9c72a545bf0d4dceead0a66e1f392f381e5fd97b9abc2fd3b98ce2481b23146096885c0aaac6382c44dc1c9a66ec96a48f73b8c2416d965536ce7a33e49e899a78ffff4a64887e8bfa044099ce9f708f0358096c87fa0bf6eac50b34a91855c38e6f7ef48e78b0850232820b95195a1182893f1b2478a33d9cdb6d9/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www010.vipanicdn.net/streamhls/4784de0ca2635bff65762ff31949e3e8/ep.1.1677592469.m3u8"
@@ -70,9 +38,35 @@
             "DUBBED": "MTU5OTYx",
             "SUBBED": "MTQ5MTA5"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/7f/4d/7f4d84b071c20230c15b2989d4b34947/7f4d84b071c20230c15b2989d4b34947.vtt",
+                "lang": "Arabic"
+            },
+            {
+                "url": "https://ccb.megaresources.co/2e/9d/2e9d8d3855ef20fe1215784c9acfc4df/2e9d8d3855ef20fe1215784c9acfc4df.vtt",
+                "lang": "Chinese"
+            },
+            {
+                "url": "https://ccb.megaresources.co/3c/ae/3cae2c04ae03452daf5bac12064260ec/3cae2c04ae03452daf5bac12064260ec.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/aa/94/aa9426b93bca57a31d329c3c0f03006b/aa9426b93bca57a31d329c3c0f03006b.vtt",
+                "lang": "Indonesian"
+            },
+            {
+                "url": "https://ccb.megaresources.co/23/2b/232b98b1f14453ae68a1bd7b296bda61/232b98b1f14453ae68a1bd7b296bda61.vtt",
+                "lang": "Spanish - Espanol"
+            },
+            {
+                "url": "https://ccb.megaresources.co/a6/72/a6726949aebe9538876e0d91478b98c2/a6726949aebe9538876e0d91478b98c2.vtt",
+                "lang": "Thai"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/91/91c5f2eeda6764588dbbb3f129bfcc1a/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

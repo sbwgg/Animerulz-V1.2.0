@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/44e6a0af8207059727458a963eb4c54f5e26a593f68bb704a9bcce17767373426e592c1c37aac80a664308d51aab0783bd30b0b335fb32fb507fc90ed2bd4d6b9369e74632b63730402d015637c4e1848c92174dd307f5bd90ff3d11c5f3172bec72e9db11845e3893112b885ae5978abaec75b15b45c7f68d301bbdbb1ed833/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www005.vipanicdn.net/streamhls/43fcc5f21ac59db9865bf398e627a211/ep.1.1677672961.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=akira-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/44e6a0af8207059727458a963eb4c54f5e26a593f68bb704a9bcce17767373426e592c1c37aac80a664308d51aab0783bd30b0b335fb32fb507fc90ed2bd4d6b9369e74632b63730402d015637c4e1848c92174dd307f5bd90ff3d11c5f3172bec72e9db11845e3893112b885ae5978abaec75b15b45c7f68d301bbdbb1ed833/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/55/554ae6b7ac93f93f57c7256bb602fa5a/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/e4632ff8de4a399fe72b241c58520610eda6d89cbedb06689c84bcfb480caa0a50b13ff77debc88159d501deab73084b131363ecb3fcf28ec9c4724e25361a1254722450944f617671369e362d0107735e94975ae71e27b993a57d394b2a2bc53ddcb13c312393ae73b86a364d17340a66bf08dd686ca226a574d09f15cb7b4a/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/fd/80/fd802d93ac88a3fc431d41a06a8b1b59/fd802d93ac88a3fc431d41a06a8b1b59.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/55/554ae6b7ac93f93f57c7256bb602fa5a/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/e4632ff8de4a399fe72b241c58520610eda6d89cbedb06689c84bcfb480caa0a50b13ff77debc88159d501deab73084b131363ecb3fcf28ec9c4724e25361a1254722450944f617671369e362d0107735e94975ae71e27b993a57d394b2a2bc53ddcb13c312393ae73b86a364d17340a66bf08dd686ca226a574d09f15cb7b4a/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www004.vipanicdn.net/streamhls/e0863a74655d512e7963ef09efd24bc8/ep.1.1677601317.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "ODIyMDQ=",
             "SUBBED": "NDAzNTM="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/fd/80/fd802d93ac88a3fc431d41a06a8b1b59/fd802d93ac88a3fc431d41a06a8b1b59.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/55/554ae6b7ac93f93f57c7256bb602fa5a/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

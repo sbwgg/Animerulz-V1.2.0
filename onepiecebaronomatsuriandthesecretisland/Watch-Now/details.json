@@ -1,30 +1,24 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/e262239bbe93d597274fdc5b05d471eaa6f2ae1b6aa204f36edbb32d06f8315c4605a520b9768413806bf1b99d73b2d1068a6b93d054cb5c94ae147844d5ed5c4d73db6dcda3636192a1a05b6849ed50a457215a2f05fefd375ba2cafd5956e8451c4c38a87377a989d704907bc763b9a3168ac18af2960b51734646f8646347/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www022.vipanicdn.net/streamhls/e55582bc9fdb551034a612adfe25463f/ep.1.1677617166.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=one-piece-movie-6-baron-omatsuri-and-the-secret-island-episode-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/e262239bbe93d597274fdc5b05d471eaa6f2ae1b6aa204f36edbb32d06f8315c4605a520b9768413806bf1b99d73b2d1068a6b93d054cb5c94ae147844d5ed5c4d73db6dcda3636192a1a05b6849ed50a457215a2f05fefd375ba2cafd5956e8451c4c38a87377a989d704907bc763b9a3168ac18af2960b51734646f8646347/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/1f/dc/1fdca350ac55ee2e789fe24a3d5a2bed/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/83/83eee8fd4b25043f1e62b32bae3e4317/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -32,9 +26,15 @@
         "downloadLink": {
             "SUBBED": "NDA1NTE="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/1f/dc/1fdca350ac55ee2e789fe24a3d5a2bed/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/83/83eee8fd4b25043f1e62b32bae3e4317/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

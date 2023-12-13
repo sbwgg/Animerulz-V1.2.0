@@ -1,30 +1,24 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/643107a15b9ec721a28bfd87b11d2514cf078be9791a3d8a8317fd7a9be38628b3c4c8c7089cfd1b13b88595b8f059498aa265380788689eac2da2f354e7689d6973a5d672a5df120d826a8a7bb9f362fa2ba26553ae050bd0879c5bd5f3031942591731bea6c25977642a72c1ce7030846301493e0d5c7d821f52edf9f1faa8/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www024.vipanicdn.net/streamhls/a9b808e3ba101f600936b38e60bc9fc8/ep.1.1677664641.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=saint-onii-san-episode-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/643107a15b9ec721a28bfd87b11d2514cf078be9791a3d8a8317fd7a9be38628b3c4c8c7089cfd1b13b88595b8f059498aa265380788689eac2da2f354e7689d6973a5d672a5df120d826a8a7bb9f362fa2ba26553ae050bd0879c5bd5f3031942591731bea6c25977642a72c1ce7030846301493e0d5c7d821f52edf9f1faa8/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/14/86/148631f2737776f927404c855d28f5af/148631f2737776f927404c855d28f5af.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/e4/e4d3d88e9c68fde627dd757902d19c02/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -32,9 +26,15 @@
         "downloadLink": {
             "SUBBED": "NDMxMzM="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/14/86/148631f2737776f927404c855d28f5af/148631f2737776f927404c855d28f5af.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/e4/e4d3d88e9c68fde627dd757902d19c02/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

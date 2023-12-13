@@ -1,23 +1,21 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/94a5ce28978821a3e11935991b8d0d5f3ef62cd728f2fb7b0812f6b338f8a342f31aec7588a936eee52e430bd1e88e2178d14ac12060af056368a848da0d942544b0a4bbf9b410eb803b3f7e969942625b8341e54b39c278456ccf7fc81e0bd82e9f8302c29163d783c7958cc324d8dffc6a2813793c88a2939d9a83cb7e0e2d/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=digimon-adventure-tri--episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/94a5ce28978821a3e11935991b8d0d5f3ef62cd728f2fb7b0812f6b338f8a342f31aec7588a936eee52e430bd1e88e2178d14ac12060af056368a848da0d942544b0a4bbf9b410eb803b3f7e969942625b8341e54b39c278456ccf7fc81e0bd82e9f8302c29163d783c7958cc324d8dffc6a2813793c88a2939d9a83cb7e0e2d/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/ab/abd7edb134a728081ce1cc9753ccf5bd/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
@@ -33,9 +31,11 @@
         "downloadLink": {
             "SUBBED": "Njk3NTI="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/ab/abd7edb134a728081ce1cc9753ccf5bd/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

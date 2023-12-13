@@ -1,45 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/e8149e4ebd7fe7e7715a9eebdad3d8fbfe35f3b1b3af16b736ea50c541d879ffc1bdd82922c150678f18000f6bf7416c1b05ebe184e19c3e0e2e163ab9f5573c5cd59ff441359ab96b86c132c9b5cddbb5ac9d5a5ebe66b0c284f6d626fd5fc6b1220d7ee1c6b903668be2c89b8ff887377dfc40034f34b53b58fbf8f55ac8e8/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www024.vipanicdn.net/streamhls/6355155f11015706e8b06355a9639871/ep.1.1677702736.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=made-in-abyss-movie-1-tabidachi-no-yoake-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/e8149e4ebd7fe7e7715a9eebdad3d8fbfe35f3b1b3af16b736ea50c541d879ffc1bdd82922c150678f18000f6bf7416c1b05ebe184e19c3e0e2e163ab9f5573c5cd59ff441359ab96b86c132c9b5cddbb5ac9d5a5ebe66b0c284f6d626fd5fc6b1220d7ee1c6b903668be2c89b8ff887377dfc40034f34b53b58fbf8f55ac8e8/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/b6/b6e48a9513dd5840afb37b50b7388259/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/634ed93e613c9e5f266e4e2f80b0076428fe0fccb36e5f0fa801592a4b04d8d20591f9afeeb3db885235186ff8cda7c0a368414805a56bc4632e3ddb66369350411c3dff67d2f2db9222b4d67881f6c8a901803ac4027b10a8267a7557f139203d7a2ac217a71b8d58655be14efddb160ee6c8630606e33758d81c96d02093f2/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/64/9f/649f72efc6e18ba7aa2f748eb25a4fa4/649f72efc6e18ba7aa2f748eb25a4fa4.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/76/6c/766c293441d769deae4c9da8952ff5d1/766c293441d769deae4c9da8952ff5d1.vtt",
-                            "lang": "Spanish - Espanol"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/b6/b6e48a9513dd5840afb37b50b7388259/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/634ed93e613c9e5f266e4e2f80b0076428fe0fccb36e5f0fa801592a4b04d8d20591f9afeeb3db885235186ff8cda7c0a368414805a56bc4632e3ddb66369350411c3dff67d2f2db9222b4d67881f6c8a901803ac4027b10a8267a7557f139203d7a2ac217a71b8d58655be14efddb160ee6c8630606e33758d81c96d02093f2/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www020.vipanicdn.net/streamhls/a20ea249226373af86dfb3eb14ee6792/ep.1.1677697942.m3u8"
@@ -54,9 +38,19 @@
             "DUBBED": "MTM3MzMz",
             "SUBBED": "MTM2MzY5"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/64/9f/649f72efc6e18ba7aa2f748eb25a4fa4/649f72efc6e18ba7aa2f748eb25a4fa4.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/76/6c/766c293441d769deae4c9da8952ff5d1/766c293441d769deae4c9da8952ff5d1.vtt",
+                "lang": "Spanish - Espanol"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/b6/b6e48a9513dd5840afb37b50b7388259/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

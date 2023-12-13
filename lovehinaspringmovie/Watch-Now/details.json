@@ -1,38 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Spring",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/10690dc24f0206c00c722de363fad11873f21fa73cb3b6b54b91def8a390c51afcb84f5dfe02f2540f58287cd8cb0b9fd4a9d3f35a87c9040fc58ca86b49a4a2a385f345dd52144eaa268b71053677a0c58d18fe0a0b9892e3c56a9c04ac880d0f4273a60e0ac7c411b9ef75e5b3f1e590fd47dcefd5808806e050a73f43343b/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=love-hina-spring-special-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/10690dc24f0206c00c722de363fad11873f21fa73cb3b6b54b91def8a390c51afcb84f5dfe02f2540f58287cd8cb0b9fd4a9d3f35a87c9040fc58ca86b49a4a2a385f345dd52144eaa268b71053677a0c58d18fe0a0b9892e3c56a9c04ac880d0f4273a60e0ac7c411b9ef75e5b3f1e590fd47dcefd5808806e050a73f43343b/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/31/311898f0dec7baa1a9fa17a8137991d7/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/80af730a1dcabb3fa6e91495a536150f0c95b0252f4f655c95784d61d86c23591083f760b5a122997faeef0154db9dffdf69906cddc69a7c353e6de1d091445e7cdb6d30d60dd35a35ebd3b8b4eaca29f3a7c86765ce19ec3fdcf676a4fb59ce3f6331d0223ec0a138d101b052f481f1610981a679192c68c8efc9030656aaa9/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/c3/1b/c31ba2291ac03174e5ad97bf804925ac/eng-3.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/31/311898f0dec7baa1a9fa17a8137991d7/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/80af730a1dcabb3fa6e91495a536150f0c95b0252f4f655c95784d61d86c23591083f760b5a122997faeef0154db9dffdf69906cddc69a7c353e6de1d091445e7cdb6d30d60dd35a35ebd3b8b4eaca29f3a7c86765ce19ec3fdcf676a4fb59ce3f6331d0223ec0a138d101b052f481f1610981a679192c68c8efc9030656aaa9/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www025.vipanicdn.net/streamhls/0e268b4a52aba87213ea342d8edb8823/ep.1.1677684983.m3u8"
@@ -46,9 +34,15 @@
         "downloadLink": {
             "SUBBED": "MzQzNDQ="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/c3/1b/c31ba2291ac03174e5ad97bf804925ac/eng-3.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/31/311898f0dec7baa1a9fa17a8137991d7/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

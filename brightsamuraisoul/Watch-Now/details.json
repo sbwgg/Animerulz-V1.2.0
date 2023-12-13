@@ -1,301 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/04690b0810bccc0df710502780c3d41b4f9693673c700225c638c1d1d5b8df70d758608fa78902d09fc2fc250e5f482c11d9e6ee95b8549589ff60e4074001295c64c45803b325caa1348458ee93adf86e6dd61c6ca06aa42dcbb7629ca942e1b445810c17e7038a13453b585e82378a09b4e1a67214f2d0a3822485ff52433e/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www045.vipanicdn.net/streamhls/4d1baa55939a20e5172421e9386d5673/ep.1.1677852369.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=bright-samurai-soul-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/04690b0810bccc0df710502780c3d41b4f9693673c700225c638c1d1d5b8df70d758608fa78902d09fc2fc250e5f482c11d9e6ee95b8549589ff60e4074001295c64c45803b325caa1348458ee93adf86e6dd61c6ca06aa42dcbb7629ca942e1b445810c17e7038a13453b585e82378a09b4e1a67214f2d0a3822485ff52433e/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/b6/ad/b6ad10994aacb94048eca18cd3c9e56a/ara-3.vtt",
-                            "lang": "Arabic"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b6/ad/b6ad10994aacb94048eca18cd3c9e56a/chi-4.vtt",
-                            "lang": "Chinese - Chinese Simplified"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b6/ad/b6ad10994aacb94048eca18cd3c9e56a/chi-5.vtt",
-                            "lang": "Chinese - Chinese Traditional"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b6/ad/b6ad10994aacb94048eca18cd3c9e56a/hrv-6.vtt",
-                            "lang": "Croatian"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b6/ad/b6ad10994aacb94048eca18cd3c9e56a/cze-7.vtt",
-                            "lang": "Czech"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b6/ad/b6ad10994aacb94048eca18cd3c9e56a/dan-8.vtt",
-                            "lang": "Danish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b6/ad/b6ad10994aacb94048eca18cd3c9e56a/dut-9.vtt",
-                            "lang": "Dutch"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b6/ad/b6ad10994aacb94048eca18cd3c9e56a/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b6/ad/b6ad10994aacb94048eca18cd3c9e56a/fin-10.vtt",
-                            "lang": "Finnish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b6/ad/b6ad10994aacb94048eca18cd3c9e56a/fre-11.vtt",
-                            "lang": "French"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b6/ad/b6ad10994aacb94048eca18cd3c9e56a/ger-12.vtt",
-                            "lang": "German"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b6/ad/b6ad10994aacb94048eca18cd3c9e56a/gre-13.vtt",
-                            "lang": "Greek"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b6/ad/b6ad10994aacb94048eca18cd3c9e56a/heb-14.vtt",
-                            "lang": "Hebrew"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b6/ad/b6ad10994aacb94048eca18cd3c9e56a/hun-15.vtt",
-                            "lang": "Hungarian"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b6/ad/b6ad10994aacb94048eca18cd3c9e56a/ind-16.vtt",
-                            "lang": "Indonesian"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b6/ad/b6ad10994aacb94048eca18cd3c9e56a/ita-17.vtt",
-                            "lang": "Italian"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b6/ad/b6ad10994aacb94048eca18cd3c9e56a/jpn-18.vtt",
-                            "lang": "Japanese"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b6/ad/b6ad10994aacb94048eca18cd3c9e56a/jpn-19.vtt",
-                            "lang": "Japanese - Forced"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b6/ad/b6ad10994aacb94048eca18cd3c9e56a/kor-20.vtt",
-                            "lang": "Korean"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b6/ad/b6ad10994aacb94048eca18cd3c9e56a/may-21.vtt",
-                            "lang": "Malay"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b6/ad/b6ad10994aacb94048eca18cd3c9e56a/nob-22.vtt",
-                            "lang": "Norwegian Bokm\u00c3\u00a5l - Norwegian Bokmal"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b6/ad/b6ad10994aacb94048eca18cd3c9e56a/pol-23.vtt",
-                            "lang": "Polish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b6/ad/b6ad10994aacb94048eca18cd3c9e56a/por-24.vtt",
-                            "lang": "Portuguese"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b6/ad/b6ad10994aacb94048eca18cd3c9e56a/por-25.vtt",
-                            "lang": "Portuguese - Brazilian Portuguese"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b6/ad/b6ad10994aacb94048eca18cd3c9e56a/rum-26.vtt",
-                            "lang": "Romanian"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b6/ad/b6ad10994aacb94048eca18cd3c9e56a/rus-27.vtt",
-                            "lang": "Russian"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b6/ad/b6ad10994aacb94048eca18cd3c9e56a/spa-28.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b6/ad/b6ad10994aacb94048eca18cd3c9e56a/spa-29.vtt",
-                            "lang": "Spanish - European Spanish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b6/ad/b6ad10994aacb94048eca18cd3c9e56a/swe-30.vtt",
-                            "lang": "Swedish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b6/ad/b6ad10994aacb94048eca18cd3c9e56a/tha-31.vtt",
-                            "lang": "Thai"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b6/ad/b6ad10994aacb94048eca18cd3c9e56a/tur-32.vtt",
-                            "lang": "Turkish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b6/ad/b6ad10994aacb94048eca18cd3c9e56a/ukr-33.vtt",
-                            "lang": "Ukrainian"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b6/ad/b6ad10994aacb94048eca18cd3c9e56a/vie-34.vtt",
-                            "lang": "Vietnamese"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/7d/7d570ef3a1dc9524ee0f332d6d617f58/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/19834979b716650b0cc5ff511452692e7c01aeaef1343177a505e1e4a6c94c56aca38e3dea2ec61badb78908212a0c8502f461facbfab4fc144c91a360eb41360927b08e868d418354d4a676e82b2b7c614f66bfe09e3cc14d17cf243490a00d30c866efd309fc80d62a258a89a2d75abe267b293ea139626415cb07310f5159/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/ara-3.vtt",
-                            "lang": "Arabic"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/chi-4.vtt",
-                            "lang": "Chinese - Chinese Simplified"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/chi-5.vtt",
-                            "lang": "Chinese - Chinese Traditional"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/hrv-6.vtt",
-                            "lang": "Croatian"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/cze-7.vtt",
-                            "lang": "Czech"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/dan-8.vtt",
-                            "lang": "Danish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/dut-9.vtt",
-                            "lang": "Dutch"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/fin-10.vtt",
-                            "lang": "Finnish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/fre-11.vtt",
-                            "lang": "French"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/ger-12.vtt",
-                            "lang": "German"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/gre-13.vtt",
-                            "lang": "Greek"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/heb-14.vtt",
-                            "lang": "Hebrew"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/hun-15.vtt",
-                            "lang": "Hungarian"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/ind-16.vtt",
-                            "lang": "Indonesian"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/ita-17.vtt",
-                            "lang": "Italian"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/jpn-18.vtt",
-                            "lang": "Japanese"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/jpn-19.vtt",
-                            "lang": "Japanese - Forced"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/kor-20.vtt",
-                            "lang": "Korean"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/may-21.vtt",
-                            "lang": "Malay"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/nob-22.vtt",
-                            "lang": "Norwegian Bokm\u00c3\u00a5l - Norwegian Bokmal"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/pol-23.vtt",
-                            "lang": "Polish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/por-24.vtt",
-                            "lang": "Portuguese"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/por-25.vtt",
-                            "lang": "Portuguese - Brazilian Portuguese"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/rum-26.vtt",
-                            "lang": "Romanian"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/rus-27.vtt",
-                            "lang": "Russian"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/spa-28.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/spa-29.vtt",
-                            "lang": "Spanish - European Spanish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/swe-30.vtt",
-                            "lang": "Swedish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/tha-31.vtt",
-                            "lang": "Thai"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/tur-32.vtt",
-                            "lang": "Turkish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/ukr-33.vtt",
-                            "lang": "Ukrainian"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/vie-34.vtt",
-                            "lang": "Vietnamese"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/7d/7d570ef3a1dc9524ee0f332d6d617f58/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/19834979b716650b0cc5ff511452692e7c01aeaef1343177a505e1e4a6c94c56aca38e3dea2ec61badb78908212a0c8502f461facbfab4fc144c91a360eb41360927b08e868d418354d4a676e82b2b7c614f66bfe09e3cc14d17cf243490a00d30c866efd309fc80d62a258a89a2d75abe267b293ea139626415cb07310f5159/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www043.vipanicdn.net/streamhls/e2713041503bb4ab8c882ffee55a278a/ep.1.1677847222.m3u8"
@@ -310,9 +38,143 @@
             "DUBBED": "MTcyNDU0",
             "SUBBED": "MTcyNDUy"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/ara-3.vtt",
+                "lang": "Arabic"
+            },
+            {
+                "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/chi-4.vtt",
+                "lang": "Chinese - Chinese Simplified"
+            },
+            {
+                "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/chi-5.vtt",
+                "lang": "Chinese - Chinese Traditional"
+            },
+            {
+                "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/hrv-6.vtt",
+                "lang": "Croatian"
+            },
+            {
+                "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/cze-7.vtt",
+                "lang": "Czech"
+            },
+            {
+                "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/dan-8.vtt",
+                "lang": "Danish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/dut-9.vtt",
+                "lang": "Dutch"
+            },
+            {
+                "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/fin-10.vtt",
+                "lang": "Finnish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/fre-11.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/ger-12.vtt",
+                "lang": "German"
+            },
+            {
+                "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/gre-13.vtt",
+                "lang": "Greek"
+            },
+            {
+                "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/heb-14.vtt",
+                "lang": "Hebrew"
+            },
+            {
+                "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/hun-15.vtt",
+                "lang": "Hungarian"
+            },
+            {
+                "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/ind-16.vtt",
+                "lang": "Indonesian"
+            },
+            {
+                "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/ita-17.vtt",
+                "lang": "Italian"
+            },
+            {
+                "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/jpn-18.vtt",
+                "lang": "Japanese"
+            },
+            {
+                "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/jpn-19.vtt",
+                "lang": "Japanese - Forced"
+            },
+            {
+                "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/kor-20.vtt",
+                "lang": "Korean"
+            },
+            {
+                "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/may-21.vtt",
+                "lang": "Malay"
+            },
+            {
+                "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/nob-22.vtt",
+                "lang": "Norwegian Bokm\u00c3\u00a5l - Norwegian Bokmal"
+            },
+            {
+                "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/pol-23.vtt",
+                "lang": "Polish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/por-24.vtt",
+                "lang": "Portuguese"
+            },
+            {
+                "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/por-25.vtt",
+                "lang": "Portuguese - Brazilian Portuguese"
+            },
+            {
+                "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/rum-26.vtt",
+                "lang": "Romanian"
+            },
+            {
+                "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/rus-27.vtt",
+                "lang": "Russian"
+            },
+            {
+                "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/spa-28.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/spa-29.vtt",
+                "lang": "Spanish - European Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/swe-30.vtt",
+                "lang": "Swedish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/tha-31.vtt",
+                "lang": "Thai"
+            },
+            {
+                "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/tur-32.vtt",
+                "lang": "Turkish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/ukr-33.vtt",
+                "lang": "Ukrainian"
+            },
+            {
+                "url": "https://ccb.megaresources.co/40/88/4088debc25204b9f950aac33004773d6/vie-34.vtt",
+                "lang": "Vietnamese"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/7d/7d570ef3a1dc9524ee0f332d6d617f58/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/5a4a95d7e66f1b8bf15237c6210a85911582ff4af5852046b00e8ea71747ad7445cfea5e28b750f15cb61d2ab33442d718cf36bcc555e9d1b92036ec1e2addb972b5eac7f0fbe21956324bdb4d627c240ac65cfa16dacbf48164a07395ca0283a9fec6783853a68564cd20682677e09ece23834d08e81c98838fcebcd46b8939/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www021.vipanicdn.net/streamhls/84e5c94f0409e82b39799190c27e1976/ep.1.1677686690.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=fairy-tail-movie-2-dragon-cry-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/5a4a95d7e66f1b8bf15237c6210a85911582ff4af5852046b00e8ea71747ad7445cfea5e28b750f15cb61d2ab33442d718cf36bcc555e9d1b92036ec1e2addb972b5eac7f0fbe21956324bdb4d627c240ac65cfa16dacbf48164a07395ca0283a9fec6783853a68564cd20682677e09ece23834d08e81c98838fcebcd46b8939/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/28/283a37330962a2877918d0a5b0118710/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/aa90935b0ba234e92c02b8067653e83ea9f33bed3bb8d8a240fea6c950b087c179e19392d3d20758ea8fd460f6f324e800964c23d3a728a7431f74ed1798f72c4f193919917e967cebeda65afbcc844f75c2c71c356af92dfef1bf9992a8370a8e57d987c571c0b0d84b953d6150defc08147c4c4b725ad7d3894ffef367c23b/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/66/7c/667cd8ae1b05fc38d4068d4bd8f78f0a/667cd8ae1b05fc38d4068d4bd8f78f0a.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/28/283a37330962a2877918d0a5b0118710/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/aa90935b0ba234e92c02b8067653e83ea9f33bed3bb8d8a240fea6c950b087c179e19392d3d20758ea8fd460f6f324e800964c23d3a728a7431f74ed1798f72c4f193919917e967cebeda65afbcc844f75c2c71c356af92dfef1bf9992a8370a8e57d987c571c0b0d84b953d6150defc08147c4c4b725ad7d3894ffef367c23b/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www025.vipanicdn.net/streamhls/6044e30dc295efbcb5d4ff7626e8d424/ep.1.1677750191.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "MTEyMjIw",
             "SUBBED": "MTAyNDQ0"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/66/7c/667cd8ae1b05fc38d4068d4bd8f78f0a/667cd8ae1b05fc38d4068d4bd8f78f0a.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/28/283a37330962a2877918d0a5b0118710/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

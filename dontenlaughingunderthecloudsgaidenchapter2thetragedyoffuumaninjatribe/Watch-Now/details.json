@@ -1,45 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/f7cd07db466a6510a41eee5ae37b61a2efe5fa574f2e33f73d678f28de088ade253f9aeac2b35d702c8ccf8ee8eb31191038f002a0cde3c6043832faf6974be3fa9f11a7f1b5b045cf5fc00ce6c4e8df0022b9d2a3b9528347bf9db301e477cc38233763c42a1c9b03e93b3b9169b08229e8159e13245f5eca9e5d7a519e53b5/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www045.vipanicdn.net/streamhls/fb8c4c06c7e33f1c9dabf5dd6cbf830b/ep.1.1677849926.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=donten-ni-warau-gaiden-shukumei-soutou-no-fuuma-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/f7cd07db466a6510a41eee5ae37b61a2efe5fa574f2e33f73d678f28de088ade253f9aeac2b35d702c8ccf8ee8eb31191038f002a0cde3c6043832faf6974be3fa9f11a7f1b5b045cf5fc00ce6c4e8df0022b9d2a3b9528347bf9db301e477cc38233763c42a1c9b03e93b3b9169b08229e8159e13245f5eca9e5d7a519e53b5/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/56/0c/560c6b93aa4d04350a122279f201531c/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/0e/0e053cb23b8c8f24749f8ba044d59e01/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/6b3f33e70dfef74c0831de45c2fc988df9b098223ac702515de9af12b073042daa4cd5637bfa718aa606cac591bfe442a26a97f26fa3ef91fb8df6e068b01fc32b9b3d1907e91f3d6c377172fc979f21027eadeb145ab43f5871ecb39ddd1fba82bca758213949fcf799bf395d22f6d6a9e53af0e8554fdbc0e3427eae6a7af1/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/26/fc/26fc823bc1d565b9a64282984dbbfeef/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/0e/0e053cb23b8c8f24749f8ba044d59e01/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/6b3f33e70dfef74c0831de45c2fc988df9b098223ac702515de9af12b073042daa4cd5637bfa718aa606cac591bfe442a26a97f26fa3ef91fb8df6e068b01fc32b9b3d1907e91f3d6c377172fc979f21027eadeb145ab43f5871ecb39ddd1fba82bca758213949fcf799bf395d22f6d6a9e53af0e8554fdbc0e3427eae6a7af1/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www010.vipanicdn.net/streamhls/404fb576fca9cdca411eed60a69bbdfb/ep.1.1677596349.m3u8"
@@ -54,9 +38,15 @@
             "DUBBED": "MTc3Mjk0",
             "SUBBED": "MTc3Mjc5"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/26/fc/26fc823bc1d565b9a64282984dbbfeef/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/0e/0e053cb23b8c8f24749f8ba044d59e01/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/abfab3c36e69ea8c7102f1207a146cf8525495446e31b454b630df9d4bcf3a372236888b0e24f92fdc458bbcb56fbf52d651a4d2b0602d713f57fe7486ae71231019fd7c7121fa718d908d797fec10e4da4f3df7ce1471a83998a4b34422b2520dee39fe52ef6eecd0b9dc970cc41e490ddf36a95a28c3a97e73c1d05baefd66/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www010.vipanicdn.net/streamhls/3dcd3cc6171d1ed74f3d0eaa09b7d625/ep.1.1677664628.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=ah-my-goddess-the-movie-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/abfab3c36e69ea8c7102f1207a146cf8525495446e31b454b630df9d4bcf3a372236888b0e24f92fdc458bbcb56fbf52d651a4d2b0602d713f57fe7486ae71231019fd7c7121fa718d908d797fec10e4da4f3df7ce1471a83998a4b34422b2520dee39fe52ef6eecd0b9dc970cc41e490ddf36a95a28c3a97e73c1d05baefd66/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/d2/d217a539aafc8a3e0001a07f4cc7f669/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/3e7719003e1a3c81533c666e8d1893a4287485d80e56205e41f99394385c7f7dfab0f132a5b5ca67986eab47290fa517f9f910b18ad79db30550c2ffc8caf705a15bc36fec0c8f87acbfa4fbbe31c86ea8ccfbf5f342fe46e2a58e29ce10169d6b9c1de97bbd8f7e1108f49ff6898f7eca8525f44b9829f6ffbdb3a8c9dba556/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/bd/7d/bd7db26ed2b6241007bc27a8d18914f5/bd7db26ed2b6241007bc27a8d18914f5.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/d2/d217a539aafc8a3e0001a07f4cc7f669/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/3e7719003e1a3c81533c666e8d1893a4287485d80e56205e41f99394385c7f7dfab0f132a5b5ca67986eab47290fa517f9f910b18ad79db30550c2ffc8caf705a15bc36fec0c8f87acbfa4fbbe31c86ea8ccfbf5f342fe46e2a58e29ce10169d6b9c1de97bbd8f7e1108f49ff6898f7eca8525f44b9829f6ffbdb3a8c9dba556/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www018.vipanicdn.net/streamhls/7d54ee276dbd2cb8eac2be3ee2437ca6/ep.1.1677664082.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "NzQ0Mzk=",
             "SUBBED": "NDAzMzc="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/bd/7d/bd7db26ed2b6241007bc27a8d18914f5/bd7db26ed2b6241007bc27a8d18914f5.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/d2/d217a539aafc8a3e0001a07f4cc7f669/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

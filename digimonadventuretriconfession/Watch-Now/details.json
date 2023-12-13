@@ -1,26 +1,24 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/2862afc2cd3a1a880ab6a7dfac4dfe44bba436804ebb4ffab19e5edc9ea115d7e29a880bbe75e10f98b9e8ba6a5966a44750500ca247d38d36e5e2024580d9dc27226b8737a8b9e4a57ee0393570d2d6d6efa509c26d91585b2548429083a11e3b1ad0bcf016416d98950afa790b63c558a748f2eb6b47060663c2061fa331b9/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www019.vipanicdn.net/streamhls/5a0080cdddfa0832a7e604a8acb182a9/ep.1.1677700708.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=digimon-adventure-tri-3-kokuhaku-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/2862afc2cd3a1a880ab6a7dfac4dfe44bba436804ebb4ffab19e5edc9ea115d7e29a880bbe75e10f98b9e8ba6a5966a44750500ca247d38d36e5e2024580d9dc27226b8737a8b9e4a57ee0393570d2d6d6efa509c26d91585b2548429083a11e3b1ad0bcf016416d98950afa790b63c558a748f2eb6b47060663c2061fa331b9/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/52/52748ccf830d17c4a4ef263d127fecdd/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
@@ -37,9 +35,11 @@
             "DUBBED": "MTQ2NzQ4",
             "SUBBED": "NzY1Mzg="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/52/52748ccf830d17c4a4ef263d127fecdd/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

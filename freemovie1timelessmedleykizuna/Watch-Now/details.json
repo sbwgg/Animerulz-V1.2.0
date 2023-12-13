@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/949532942534a5302b2e2dc1f47ae86d32a85437243d0d08ce3f1883bc593bc2b4389e9192acb089df38c0e01012e9994f12d0521a41342e7cc0e49d10b7d2d27a2c4172b2d2f8cec008d6be1a228ff60a9a2570e9fc7421e83f6ef59c2ef0ce467f92011ed158c54817c9e2ea1bc93f7bd447f220c6d915e3d288b3c1a23e31/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www040.vipanicdn.net/streamhls/219c542d36ce0ed81b8d89d6d8ae79cd/ep.1.1677829186.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=free-movie-1-timeless-medley-kizuna-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/949532942534a5302b2e2dc1f47ae86d32a85437243d0d08ce3f1883bc593bc2b4389e9192acb089df38c0e01012e9994f12d0521a41342e7cc0e49d10b7d2d27a2c4172b2d2f8cec008d6be1a228ff60a9a2570e9fc7421e83f6ef59c2ef0ce467f92011ed158c54817c9e2ea1bc93f7bd447f220c6d915e3d288b3c1a23e31/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/ea/ea0baf0be6dcc12b9bdac175558b26e6/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/fe008ec37d70e4894f335b2d1fa2c539cebb88382909d77e108112c4cae152f2b43c830afe679a47ca787ece734904dc57950f9b51c2cb9812e9bbfc539d89ec879e0e993113fecc5138db974fd3471b2d27d7840c0d243704901bf040b6b45d999d4732aeef5f40de393bba5fcc396467a8ba9c7811c7f3e50cb9d65f57a0e0/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/58/ad/58ad71e2a8f3d7a8e4093b8a869c12f2/58ad71e2a8f3d7a8e4093b8a869c12f2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/ea/ea0baf0be6dcc12b9bdac175558b26e6/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/fe008ec37d70e4894f335b2d1fa2c539cebb88382909d77e108112c4cae152f2b43c830afe679a47ca787ece734904dc57950f9b51c2cb9812e9bbfc539d89ec879e0e993113fecc5138db974fd3471b2d27d7840c0d243704901bf040b6b45d999d4732aeef5f40de393bba5fcc396467a8ba9c7811c7f3e50cb9d65f57a0e0/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www039.vipanicdn.net/streamhls/91e1b262ac8e11f40e79548f1368517b/ep.1.1677825453.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "MTc1MjI5",
             "SUBBED": "MTc1MjI4"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/58/ad/58ad71e2a8f3d7a8e4093b8a869c12f2/58ad71e2a8f3d7a8e4093b8a869c12f2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/ea/ea0baf0be6dcc12b9bdac175558b26e6/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

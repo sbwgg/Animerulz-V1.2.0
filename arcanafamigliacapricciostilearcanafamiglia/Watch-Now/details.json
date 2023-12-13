@@ -1,45 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/f5f6d8f9bd6bb640f69e404590e046498cf6e07406984929c9ba3c135d21a048b26ac495e7748d435c02712d2a7e9b64d2dbc26177fd7bab0a9d8980367a8b8b4ddd9a59dbe4aa0a5f1bec082b830d7b244a00e2bd19d01cbc1841a52f5cfcb7d5c5a34a56b077c5b6b941afc79369494a1711c48c2b3e6aec2782d38c1afa9a/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www017.vipanicdn.net/streamhls/1142b312c7af7281dd48c798d5d1c5e2/ep.1.1677686405.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=arcana-famiglia-capriccio-stile-arcana-famiglia-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/f5f6d8f9bd6bb640f69e404590e046498cf6e07406984929c9ba3c135d21a048b26ac495e7748d435c02712d2a7e9b64d2dbc26177fd7bab0a9d8980367a8b8b4ddd9a59dbe4aa0a5f1bec082b830d7b244a00e2bd19d01cbc1841a52f5cfcb7d5c5a34a56b077c5b6b941afc79369494a1711c48c2b3e6aec2782d38c1afa9a/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/22/fd/22fdab99cb56e2e37d79b687c26f6d34/22fdab99cb56e2e37d79b687c26f6d34.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/27/27d39b968bae65eca67175afa4ab1d68/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/19e50765534af1fdc4009e744a32dbd07acf96d8a164b72c1117d60d3fe366e0b8b89673182bf4d5b957c42af29fe4e2a93a227d75197945075e5c24d774b5a1cefb079945083c68bd5b81f1cb3b996dd185566be44f78fc55df4fb11f0220a3411fa17387aa329852a3acdd60e0fd68bb76ad108c159ff8393e81b29642c836/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/33/08/3308644bed2712586f69129296ebdd13/3308644bed2712586f69129296ebdd13.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/27/27d39b968bae65eca67175afa4ab1d68/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/19e50765534af1fdc4009e744a32dbd07acf96d8a164b72c1117d60d3fe366e0b8b89673182bf4d5b957c42af29fe4e2a93a227d75197945075e5c24d774b5a1cefb079945083c68bd5b81f1cb3b996dd185566be44f78fc55df4fb11f0220a3411fa17387aa329852a3acdd60e0fd68bb76ad108c159ff8393e81b29642c836/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www018.vipanicdn.net/streamhls/3136e20a170cfe19d4f6559eb26bdacf/ep.1.1677664257.m3u8"
@@ -54,9 +38,15 @@
             "DUBBED": "MTA3MDg2",
             "SUBBED": "NDE1MDc="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/33/08/3308644bed2712586f69129296ebdd13/3308644bed2712586f69129296ebdd13.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/27/27d39b968bae65eca67175afa4ab1d68/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

@@ -1,65 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/4c7b764885dd7ed234ddc1190a9294d2942180b86717910fda8b91647bd3f86ed8db45d19423c71204ff45aaf880ae650e883f4e051e2ae2313f24d4ed328911eac82d433a570622547cd7ec2bb7d9ed8616ee6d4e81941a884e789ad09372eb76c6652a4985148bcb53979c74570deaa419948f5b9a757fb8fce3885502d4e3/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www018.vipanicdn.net/streamhls/23ef511653185807ea81247de2be6ce8/ep.1.1677633835.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta-ova-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/4c7b764885dd7ed234ddc1190a9294d2942180b86717910fda8b91647bd3f86ed8db45d19423c71204ff45aaf880ae650e883f4e051e2ae2313f24d4ed328911eac82d433a570622547cd7ec2bb7d9ed8616ee6d4e81941a884e789ad09372eb76c6652a4985148bcb53979c74570deaa419948f5b9a757fb8fce3885502d4e3/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/88/0d/880d79460dd2f986faf177ad2da37b1f/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/10/10954538bdaef672dcdb48ec3ab7bec0/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/73a3374d978f2c400459537bbe32cd12baa7c148ea0db713e0582385c350b423cc6386deaa948a035a830cd8238744f31bb0f2c7903daf79ffda4f47b095a69e2aa1d963c9f50e82e7a369dbfef46285c78e1f6943789b0162aa50f930bfa12231b620ede7530a976bcaa2d2c9ac3b8ecc8bde17928bb46a26ecb623a71c4e48/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/2d/3f/2d3f6a89d90323b527a7dbaca6ed8ed3/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/2d/3f/2d3f6a89d90323b527a7dbaca6ed8ed3/ger-6.vtt",
-                            "lang": "German"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/2d/3f/2d3f6a89d90323b527a7dbaca6ed8ed3/por-3.vtt",
-                            "lang": "Portuguese - Portuguese(Brazil)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/2d/3f/2d3f6a89d90323b527a7dbaca6ed8ed3/rus-7.vtt",
-                            "lang": "Russian"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/2d/3f/2d3f6a89d90323b527a7dbaca6ed8ed3/spa-5.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/2d/3f/2d3f6a89d90323b527a7dbaca6ed8ed3/spa-4.vtt",
-                            "lang": "Spanish - Spanish(Latin_America)"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/10/10954538bdaef672dcdb48ec3ab7bec0/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/73a3374d978f2c400459537bbe32cd12baa7c148ea0db713e0582385c350b423cc6386deaa948a035a830cd8238744f31bb0f2c7903daf79ffda4f47b095a69e2aa1d963c9f50e82e7a369dbfef46285c78e1f6943789b0162aa50f930bfa12231b620ede7530a976bcaa2d2c9ac3b8ecc8bde17928bb46a26ecb623a71c4e48/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www009.vipanicdn.net/streamhls/2c24bbcba1c634469b0437b18c5cfaa0/ep.1.1677598815.m3u8"
@@ -74,9 +38,35 @@
             "DUBBED": "MTgxMDA3",
             "SUBBED": "MTc3MzY4"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/2d/3f/2d3f6a89d90323b527a7dbaca6ed8ed3/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/2d/3f/2d3f6a89d90323b527a7dbaca6ed8ed3/ger-6.vtt",
+                "lang": "German"
+            },
+            {
+                "url": "https://ccb.megaresources.co/2d/3f/2d3f6a89d90323b527a7dbaca6ed8ed3/por-3.vtt",
+                "lang": "Portuguese - Portuguese(Brazil)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/2d/3f/2d3f6a89d90323b527a7dbaca6ed8ed3/rus-7.vtt",
+                "lang": "Russian"
+            },
+            {
+                "url": "https://ccb.megaresources.co/2d/3f/2d3f6a89d90323b527a7dbaca6ed8ed3/spa-5.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/2d/3f/2d3f6a89d90323b527a7dbaca6ed8ed3/spa-4.vtt",
+                "lang": "Spanish - Spanish(Latin_America)"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/10/10954538bdaef672dcdb48ec3ab7bec0/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

@@ -1,53 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 90,
-            "end": 182
+            "end": 182,
+            "start": 90
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Love Makes the World Go Round",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/94521713561757990afbedbe04027ec7821648c2826d230d7a7df09d4d51d3819c256660af2929314a28f5a1d1a60691facc3587a355d6ebaf27a8ccf71289233a28ab7ad0512bf5938d4d60bae93499861c21003269d0b399f799f9debb3fbb38138709586c0b1bf96fd571d64947f586453ca0830ab17c050fdbb90582928e/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www023.vipanicdn.net/streamhls/b65ddcc85969e3bbcfd83c89d0388e2f/ep.1.1677725743.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=the-world-god-only-knows-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/94521713561757990afbedbe04027ec7821648c2826d230d7a7df09d4d51d3819c256660af2929314a28f5a1d1a60691facc3587a355d6ebaf27a8ccf71289233a28ab7ad0512bf5938d4d60bae93499861c21003269d0b399f799f9debb3fbb38138709586c0b1bf96fd571d64947f586453ca0830ab17c050fdbb90582928e/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/aa/aa196a945fade898825e1e51f3b974fe/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/9020392f6eae08d3899b88f87c6e064d518cce4d5929de9fe1bd830458cc647e0251a46ad65b5af6e554760999bac54849b1bad7997414999bb4b890a0a05e1b97d27524cec269ae236aa24be7c5750f9ac0af7f57ac3bd20106d5d7693bd72a67e2c365647f988b91eac682e17a12d639cbc7b16ed5ef0b5416b1f31d0ac908/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/de/1e/de1e85c816ec3cf6de177a51248c947f/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/de/1e/de1e85c816ec3cf6de177a51248c947f/por-3.vtt",
-                            "lang": "Portuguese - Portugu\u00c3\u00aas (Brasil)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/de/1e/de1e85c816ec3cf6de177a51248c947f/spa-5.vtt",
-                            "lang": "Spanish - Espa\u00c3\u00b1ol (Espa\u00c3\u00b1a)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/de/1e/de1e85c816ec3cf6de177a51248c947f/spa-4.vtt",
-                            "lang": "Spanish - Espa\u00c3\u00b1ol (LA)"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/aa/aa196a945fade898825e1e51f3b974fe/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/9020392f6eae08d3899b88f87c6e064d518cce4d5929de9fe1bd830458cc647e0251a46ad65b5af6e554760999bac54849b1bad7997414999bb4b890a0a05e1b97d27524cec269ae236aa24be7c5750f9ac0af7f57ac3bd20106d5d7693bd72a67e2c365647f988b91eac682e17a12d639cbc7b16ed5ef0b5416b1f31d0ac908/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www017.vipanicdn.net/streamhls/4cb956a3ac203385686033c7c87797b0/ep.1.1677658828.m3u8"
@@ -62,60 +38,54 @@
             "DUBBED": "OTE3NjI=",
             "SUBBED": "MzI5ODY="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/de/1e/de1e85c816ec3cf6de177a51248c947f/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/de/1e/de1e85c816ec3cf6de177a51248c947f/por-3.vtt",
+                "lang": "Portuguese - Portugu\u00c3\u00aas (Brasil)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/de/1e/de1e85c816ec3cf6de177a51248c947f/spa-5.vtt",
+                "lang": "Spanish - Espa\u00c3\u00b1ol (Espa\u00c3\u00b1a)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/de/1e/de1e85c816ec3cf6de177a51248c947f/spa-4.vtt",
+                "lang": "Spanish - Espa\u00c3\u00b1ol (LA)"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/aa/aa196a945fade898825e1e51f3b974fe/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "2": {
         "intro": {
-            "start": 45,
-            "end": 134
+            "end": 134,
+            "start": 45
+        },
+        "outro": {
+            "end": 1400,
+            "start": 1310
         },
         "title": "Demon of a Sister / Baby, You're a Rich Girl",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/7f2530e2066a3acc79eec55b54c6594264006c3684fd9f25ea2c7f2def4882e450648aeb4b6864bb7fbecf7760e0932b5874b584cb6d109f3577f621c0c4ed84f41a8c872f85466874f7b6b7940c76bac9d8973fa23d43ac87d220f8bf623b602b8e9a89a7831838081b6d8b2dea410c1fd7b0ce529e72c76d32abb2ad26876f/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www024.vipanicdn.net/streamhls/b65ddcc85969e3bbcfd83c89d0388e2f/ep.2.1677679520.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=the-world-god-only-knows-episode-dub-2"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/7f2530e2066a3acc79eec55b54c6594264006c3684fd9f25ea2c7f2def4882e450648aeb4b6864bb7fbecf7760e0932b5874b584cb6d109f3577f621c0c4ed84f41a8c872f85466874f7b6b7940c76bac9d8973fa23d43ac87d220f8bf623b602b8e9a89a7831838081b6d8b2dea410c1fd7b0ce529e72c76d32abb2ad26876f/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/c3/c32013f1220a5b50e202cee54be70788/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/3fb7e841cee2b9bee516f8fa8c7a55c7b7b91c357519147e8a4877d69bda470b09e92831989d924433cbf8c20dfe7648d36b76221a6083b922107c37c3e6d9b7af37d5bc5b61b2435e36aeec4024fb9be868262f8bd21a0d8d143f6b0b741e3da91cc187d4cd41a8124524d483f9275f712c0fef848400b293d2a4a40b32bd9f/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/40/cd/40cd0f90f1484e0cfac0ee202d49c396/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/40/cd/40cd0f90f1484e0cfac0ee202d49c396/por-3.vtt",
-                            "lang": "Portuguese - Portugu\u00c3\u00aas (Brasil)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/40/cd/40cd0f90f1484e0cfac0ee202d49c396/spa-5.vtt",
-                            "lang": "Spanish - Espa\u00c3\u00b1ol (Espa\u00c3\u00b1a)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/40/cd/40cd0f90f1484e0cfac0ee202d49c396/spa-4.vtt",
-                            "lang": "Spanish - Espa\u00c3\u00b1ol (LA)"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/c3/c32013f1220a5b50e202cee54be70788/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/3fb7e841cee2b9bee516f8fa8c7a55c7b7b91c357519147e8a4877d69bda470b09e92831989d924433cbf8c20dfe7648d36b76221a6083b922107c37c3e6d9b7af37d5bc5b61b2435e36aeec4024fb9be868262f8bd21a0d8d143f6b0b741e3da91cc187d4cd41a8124524d483f9275f712c0fef848400b293d2a4a40b32bd9f/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www016.vipanicdn.net/streamhls/4cb956a3ac203385686033c7c87797b0/ep.2.1677657250.m3u8"
@@ -130,60 +100,54 @@
             "DUBBED": "OTE3NjM=",
             "SUBBED": "MzI5ODU="
         },
-        "outro": {
-            "start": 1310,
-            "end": 1400
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/40/cd/40cd0f90f1484e0cfac0ee202d49c396/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/40/cd/40cd0f90f1484e0cfac0ee202d49c396/por-3.vtt",
+                "lang": "Portuguese - Portugu\u00c3\u00aas (Brasil)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/40/cd/40cd0f90f1484e0cfac0ee202d49c396/spa-5.vtt",
+                "lang": "Spanish - Espa\u00c3\u00b1ol (Espa\u00c3\u00b1a)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/40/cd/40cd0f90f1484e0cfac0ee202d49c396/spa-4.vtt",
+                "lang": "Spanish - Espa\u00c3\u00b1ol (LA)"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/c3/c32013f1220a5b50e202cee54be70788/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "3": {
         "intro": {
-            "start": 23,
-            "end": 112
+            "end": 112,
+            "start": 23
+        },
+        "outro": {
+            "end": 1401,
+            "start": 1311
         },
         "title": "Drive My Car / Don't Want to Spoil the Party",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/d12f02084def8162d9342db89bf87f2581a2c980b5684fb339f5ba72ad86e9c1d580f3840dc15dbc07dd0e02da5f21c747beb59ced862f94af3c269a7e1eb613e0841031de865aa25a2e5d3a158298b682ca6c071a5cd6beee6bdda41350308fb42d530f723083a23979a762bb32f66969deaec0ee7b3d0e4cfa983e2b047a8b/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www025.vipanicdn.net/streamhls/b65ddcc85969e3bbcfd83c89d0388e2f/ep.3.1677733403.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=the-world-god-only-knows-episode-dub-3"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/d12f02084def8162d9342db89bf87f2581a2c980b5684fb339f5ba72ad86e9c1d580f3840dc15dbc07dd0e02da5f21c747beb59ced862f94af3c269a7e1eb613e0841031de865aa25a2e5d3a158298b682ca6c071a5cd6beee6bdda41350308fb42d530f723083a23979a762bb32f66969deaec0ee7b3d0e4cfa983e2b047a8b/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/08/083be84a5a60a18619693bfe32e670f2/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/c5d39f446f41c5905e04c310ffd8f6abfc8f7ea3e6f61fb02e64f57f1a5076bfe47569a98ec2fd08fd930e8e10ccd5ece71278b1ba115fdd69ea6256bdea54386a17fbbdf83d9a881b21b03f66d155ce9f12ae2a1830563bbebcab2cda895e9bb144e437981c5421463e2986d50dbd0d2f4cd948277d85d4236a265f2d0830af/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/d3/cd/d3cdc44ce4520e1c764b3b4ab27e382a/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/d3/cd/d3cdc44ce4520e1c764b3b4ab27e382a/por-3.vtt",
-                            "lang": "Portuguese - Portugu\u00c3\u00aas (Brasil)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/d3/cd/d3cdc44ce4520e1c764b3b4ab27e382a/spa-5.vtt",
-                            "lang": "Spanish - Espa\u00c3\u00b1ol (Espa\u00c3\u00b1a)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/d3/cd/d3cdc44ce4520e1c764b3b4ab27e382a/spa-4.vtt",
-                            "lang": "Spanish - Espa\u00c3\u00b1ol (LA)"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/08/083be84a5a60a18619693bfe32e670f2/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/c5d39f446f41c5905e04c310ffd8f6abfc8f7ea3e6f61fb02e64f57f1a5076bfe47569a98ec2fd08fd930e8e10ccd5ece71278b1ba115fdd69ea6256bdea54386a17fbbdf83d9a881b21b03f66d155ce9f12ae2a1830563bbebcab2cda895e9bb144e437981c5421463e2986d50dbd0d2f4cd948277d85d4236a265f2d0830af/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www014.vipanicdn.net/streamhls/4cb956a3ac203385686033c7c87797b0/ep.3.1677626289.m3u8"
@@ -198,60 +162,54 @@
             "DUBBED": "OTE3NjQ=",
             "SUBBED": "MzI5ODM="
         },
-        "outro": {
-            "start": 1311,
-            "end": 1401
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/d3/cd/d3cdc44ce4520e1c764b3b4ab27e382a/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/d3/cd/d3cdc44ce4520e1c764b3b4ab27e382a/por-3.vtt",
+                "lang": "Portuguese - Portugu\u00c3\u00aas (Brasil)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/d3/cd/d3cdc44ce4520e1c764b3b4ab27e382a/spa-5.vtt",
+                "lang": "Spanish - Espa\u00c3\u00b1ol (Espa\u00c3\u00b1a)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/d3/cd/d3cdc44ce4520e1c764b3b4ab27e382a/spa-4.vtt",
+                "lang": "Spanish - Espa\u00c3\u00b1ol (LA)"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/08/083be84a5a60a18619693bfe32e670f2/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "4": {
         "intro": {
-            "start": 72,
-            "end": 161
+            "end": 161,
+            "start": 72
+        },
+        "outro": {
+            "end": 1399,
+            "start": 1311
         },
         "title": "On a Crusade",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/3adec7b419fc577a346df8b0de59d8e1da8e0cb567de30f9aba91bc1598eb97c6403cb87b5d4b585a84be58f965579e3495c21ee8e2128c7e613f2f6f20c072dd769b8f2b71c4e958c131d019b3e986030e81f2eaf13daffd40ea57a08f3fdc0592f257078f0df0baf5b260e8f2eac27c2e57149344b5d4d19939d248501b9dd/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www026.vipanicdn.net/streamhls/b65ddcc85969e3bbcfd83c89d0388e2f/ep.4.1677679819.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=the-world-god-only-knows-episode-dub-4"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/3adec7b419fc577a346df8b0de59d8e1da8e0cb567de30f9aba91bc1598eb97c6403cb87b5d4b585a84be58f965579e3495c21ee8e2128c7e613f2f6f20c072dd769b8f2b71c4e958c131d019b3e986030e81f2eaf13daffd40ea57a08f3fdc0592f257078f0df0baf5b260e8f2eac27c2e57149344b5d4d19939d248501b9dd/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/1e/1e294ddf647e41d39ca71c303810253c/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/a231ac96919165f914f031ea10b3ea1efe6daef2a28ec0d0542777de2c7f0d9933f77dd21a3a38f7df9fcb3e293dfef79364773466a81ea915a7ef8f618f53cd379baca54dd5eec2e1fed64787c8dc057ca6398dd0f52a81471c3997a78373c9939a2e5e31c17e62b3816afd0f3e4899645edd4035dc914f6e5545d4af5b4dfa/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/ed/97/ed97020a0cdb879565d3d55f70f93211/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/ed/97/ed97020a0cdb879565d3d55f70f93211/por-3.vtt",
-                            "lang": "Portuguese - Portugu\u00c3\u00aas (Brasil)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/ed/97/ed97020a0cdb879565d3d55f70f93211/spa-5.vtt",
-                            "lang": "Spanish - Espa\u00c3\u00b1ol (Espa\u00c3\u00b1a)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/ed/97/ed97020a0cdb879565d3d55f70f93211/spa-4.vtt",
-                            "lang": "Spanish - Espa\u00c3\u00b1ol (LA)"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/1e/1e294ddf647e41d39ca71c303810253c/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/a231ac96919165f914f031ea10b3ea1efe6daef2a28ec0d0542777de2c7f0d9933f77dd21a3a38f7df9fcb3e293dfef79364773466a81ea915a7ef8f618f53cd379baca54dd5eec2e1fed64787c8dc057ca6398dd0f52a81471c3997a78373c9939a2e5e31c17e62b3816afd0f3e4899645edd4035dc914f6e5545d4af5b4dfa/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www013.vipanicdn.net/streamhls/4cb956a3ac203385686033c7c87797b0/ep.4.1677658444.m3u8"
@@ -266,60 +224,54 @@
             "DUBBED": "OTE3NjU=",
             "SUBBED": "MzI5ODI="
         },
-        "outro": {
-            "start": 1311,
-            "end": 1399
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/ed/97/ed97020a0cdb879565d3d55f70f93211/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/ed/97/ed97020a0cdb879565d3d55f70f93211/por-3.vtt",
+                "lang": "Portuguese - Portugu\u00c3\u00aas (Brasil)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/ed/97/ed97020a0cdb879565d3d55f70f93211/spa-5.vtt",
+                "lang": "Spanish - Espa\u00c3\u00b1ol (Espa\u00c3\u00b1a)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/ed/97/ed97020a0cdb879565d3d55f70f93211/spa-4.vtt",
+                "lang": "Spanish - Espa\u00c3\u00b1ol (LA)"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/1e/1e294ddf647e41d39ca71c303810253c/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "5": {
         "intro": {
-            "start": 29,
-            "end": 118
+            "end": 118,
+            "start": 29
+        },
+        "outro": {
+            "end": 1400,
+            "start": 1311
         },
         "title": "Idol Bomb!!",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/38d1b54fbdd05a9c2acfc0ca46d13b6cb44d9efbb956d0812fe7a3a904a11082f9b25d7ed72b5fab8b93f0f5cd26cecbe68852b142893c0d017e3635c328de186c8e7b034fbb33f94ccb7ea4bdf3c80a73c3b3e8b83200b4a43759afd27f8c0e0c0b9bb3b0970c40b478ed50f4c29eaa1ce9e6679d0fea779f402e2ab6c10c22/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www027.vipanicdn.net/streamhls/b65ddcc85969e3bbcfd83c89d0388e2f/ep.5.1677715092.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=the-world-god-only-knows-episode-dub-5"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/38d1b54fbdd05a9c2acfc0ca46d13b6cb44d9efbb956d0812fe7a3a904a11082f9b25d7ed72b5fab8b93f0f5cd26cecbe68852b142893c0d017e3635c328de186c8e7b034fbb33f94ccb7ea4bdf3c80a73c3b3e8b83200b4a43759afd27f8c0e0c0b9bb3b0970c40b478ed50f4c29eaa1ce9e6679d0fea779f402e2ab6c10c22/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/f4/f4688261ca68b0f9ce7af1ba88ee71f6/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/0c8dd6bd3503334ad18d62fd44967a264e11bf4a55162f588f4f749abd7b34a9a93ef25e4658ba6e78c0da74deac5acb42573dafdddef256fa7916ee5563516d8e4b969b9795e923ec2a3c861e88f0d80d3f0e48c00be2b76dda71602728f747aa9e42bdd189ec8ffe4653fb5f2f89cde9724345ceb0df1c937e35603391fdd9/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/0b/83/0b8300f366864ad6cb1407106d4af048/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/0b/83/0b8300f366864ad6cb1407106d4af048/por-3.vtt",
-                            "lang": "Portuguese - Portugu\u00c3\u00aas (Brasil)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/0b/83/0b8300f366864ad6cb1407106d4af048/spa-5.vtt",
-                            "lang": "Spanish - Espa\u00c3\u00b1ol (Espa\u00c3\u00b1a)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/0b/83/0b8300f366864ad6cb1407106d4af048/spa-4.vtt",
-                            "lang": "Spanish - Espa\u00c3\u00b1ol (LA)"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/f4/f4688261ca68b0f9ce7af1ba88ee71f6/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/0c8dd6bd3503334ad18d62fd44967a264e11bf4a55162f588f4f749abd7b34a9a93ef25e4658ba6e78c0da74deac5acb42573dafdddef256fa7916ee5563516d8e4b969b9795e923ec2a3c861e88f0d80d3f0e48c00be2b76dda71602728f747aa9e42bdd189ec8ffe4653fb5f2f89cde9724345ceb0df1c937e35603391fdd9/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www012.vipanicdn.net/streamhls/4cb956a3ac203385686033c7c87797b0/ep.5.1677624266.m3u8"
@@ -334,60 +286,54 @@
             "DUBBED": "OTE3NjY=",
             "SUBBED": "MzI5ODE="
         },
-        "outro": {
-            "start": 1311,
-            "end": 1400
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/0b/83/0b8300f366864ad6cb1407106d4af048/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/0b/83/0b8300f366864ad6cb1407106d4af048/por-3.vtt",
+                "lang": "Portuguese - Portugu\u00c3\u00aas (Brasil)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/0b/83/0b8300f366864ad6cb1407106d4af048/spa-5.vtt",
+                "lang": "Spanish - Espa\u00c3\u00b1ol (Espa\u00c3\u00b1a)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/0b/83/0b8300f366864ad6cb1407106d4af048/spa-4.vtt",
+                "lang": "Spanish - Espa\u00c3\u00b1ol (LA)"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/f4/f4688261ca68b0f9ce7af1ba88ee71f6/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "6": {
         "intro": {
-            "start": 61,
-            "end": 155
+            "end": 155,
+            "start": 61
+        },
+        "outro": {
+            "end": 1399,
+            "start": 1310
         },
         "title": "I'm Ordinary?",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/f7e638cc4f4a789a3081230111275de1047cc13e42d89b23f0a016e8933b1096b82cf4becdc3d45200f44e2d59ef7be426d247150865a9c95b35964d02be4dd9c14c57704ccebc27654eab2eec274468ed7602a34ecfb26d0f25ada875d0f5d74af514a26ae293f567068ca80cf312bfac9330aafc139806e65e4e23b6dd7cff/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www028.vipanicdn.net/streamhls/b65ddcc85969e3bbcfd83c89d0388e2f/ep.6.1677678376.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=the-world-god-only-knows-episode-dub-6"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/f7e638cc4f4a789a3081230111275de1047cc13e42d89b23f0a016e8933b1096b82cf4becdc3d45200f44e2d59ef7be426d247150865a9c95b35964d02be4dd9c14c57704ccebc27654eab2eec274468ed7602a34ecfb26d0f25ada875d0f5d74af514a26ae293f567068ca80cf312bfac9330aafc139806e65e4e23b6dd7cff/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/e1/e14cf84733cffb4e8e82153ff2e5d211/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/cfa922b206b09086ae76ff1697fa7142a2f832ffee9d88f1cda3d6bdc5c96fac0bdf0669ded82155bf22a4564d52989ba8ea9269b679670990597f5429a05156a980fda9cc00981f44b625336d7f443b5bb300ea9d9833b031922304715a348d279df2799fe3316ce40a36fc74255be5ffa31d590d2427a56705a131f3ae8fbe/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/c9/d3/c9d394cf4cd721faffb215a9e7b8fde7/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/c9/d3/c9d394cf4cd721faffb215a9e7b8fde7/por-3.vtt",
-                            "lang": "Portuguese - Portugu\u00c3\u00aas (Brasil)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/c9/d3/c9d394cf4cd721faffb215a9e7b8fde7/spa-5.vtt",
-                            "lang": "Spanish - Espa\u00c3\u00b1ol (Espa\u00c3\u00b1a)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/c9/d3/c9d394cf4cd721faffb215a9e7b8fde7/spa-4.vtt",
-                            "lang": "Spanish - Espa\u00c3\u00b1ol (LA)"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/e1/e14cf84733cffb4e8e82153ff2e5d211/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/cfa922b206b09086ae76ff1697fa7142a2f832ffee9d88f1cda3d6bdc5c96fac0bdf0669ded82155bf22a4564d52989ba8ea9269b679670990597f5429a05156a980fda9cc00981f44b625336d7f443b5bb300ea9d9833b031922304715a348d279df2799fe3316ce40a36fc74255be5ffa31d590d2427a56705a131f3ae8fbe/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www011.vipanicdn.net/streamhls/4cb956a3ac203385686033c7c87797b0/ep.6.1677659873.m3u8"
@@ -402,60 +348,54 @@
             "DUBBED": "OTE3Njc=",
             "SUBBED": "MzI5ODA="
         },
-        "outro": {
-            "start": 1310,
-            "end": 1399
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/c9/d3/c9d394cf4cd721faffb215a9e7b8fde7/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/c9/d3/c9d394cf4cd721faffb215a9e7b8fde7/por-3.vtt",
+                "lang": "Portuguese - Portugu\u00c3\u00aas (Brasil)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/c9/d3/c9d394cf4cd721faffb215a9e7b8fde7/spa-5.vtt",
+                "lang": "Spanish - Espa\u00c3\u00b1ol (Espa\u00c3\u00b1a)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/c9/d3/c9d394cf4cd721faffb215a9e7b8fde7/spa-4.vtt",
+                "lang": "Spanish - Espa\u00c3\u00b1ol (LA)"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/e1/e14cf84733cffb4e8e82153ff2e5d211/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "7": {
         "intro": {
-            "start": 82,
-            "end": 171
+            "end": 171,
+            "start": 82
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Shining Star",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/356a57d96756828d51cad790204e3c522183031a78eb3aecb30a3bab422b146d32714e1f956b8a93afb658f39112d7bd95893a0fe2b00da2a8a0c1cbe122d8a47299a41c94f87ab38199c8affef8df9ef4b22bacd775d2f8243279cd93e3d4673cef1bc0eca746a8ec0e855fb10f43b8c13df4f17ee865fe3050f3dfdf08317d/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www029.vipanicdn.net/streamhls/b65ddcc85969e3bbcfd83c89d0388e2f/ep.7.1677677493.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=the-world-god-only-knows-episode-dub-7"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/356a57d96756828d51cad790204e3c522183031a78eb3aecb30a3bab422b146d32714e1f956b8a93afb658f39112d7bd95893a0fe2b00da2a8a0c1cbe122d8a47299a41c94f87ab38199c8affef8df9ef4b22bacd775d2f8243279cd93e3d4673cef1bc0eca746a8ec0e855fb10f43b8c13df4f17ee865fe3050f3dfdf08317d/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/cf/cf780fd77a1da827effc4365e34c37f1/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/4dfe868850a863e887c1af1f1b2b03e343ae0a4d4271741d1fd70f705e7a53470b39b290c32cc75436c98aa224f0dfa02de705bfa3969879a29b6271077a8e0ef8f6abc05231f7217abb2f0886a74d9242352f85357b4d02470a5cdf23e6305cd12b990eea26994190d1497d8618bcf87dfc728becd31f4012191fdae6e674f1/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/1e/fd/1efd430e5dd42ee7248d2aca31ad7bca/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/1e/fd/1efd430e5dd42ee7248d2aca31ad7bca/por-3.vtt",
-                            "lang": "Portuguese - Portugu\u00c3\u00aas (Brasil)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/1e/fd/1efd430e5dd42ee7248d2aca31ad7bca/spa-5.vtt",
-                            "lang": "Spanish - Espa\u00c3\u00b1ol (Espa\u00c3\u00b1a)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/1e/fd/1efd430e5dd42ee7248d2aca31ad7bca/spa-4.vtt",
-                            "lang": "Spanish - Espa\u00c3\u00b1ol (LA)"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/cf/cf780fd77a1da827effc4365e34c37f1/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/4dfe868850a863e887c1af1f1b2b03e343ae0a4d4271741d1fd70f705e7a53470b39b290c32cc75436c98aa224f0dfa02de705bfa3969879a29b6271077a8e0ef8f6abc05231f7217abb2f0886a74d9242352f85357b4d02470a5cdf23e6305cd12b990eea26994190d1497d8618bcf87dfc728becd31f4012191fdae6e674f1/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www010.vipanicdn.net/streamhls/4cb956a3ac203385686033c7c87797b0/ep.7.1677656710.m3u8"
@@ -470,60 +410,54 @@
             "DUBBED": "OTE3Njg=",
             "SUBBED": "MzI5Nzk="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/1e/fd/1efd430e5dd42ee7248d2aca31ad7bca/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/1e/fd/1efd430e5dd42ee7248d2aca31ad7bca/por-3.vtt",
+                "lang": "Portuguese - Portugu\u00c3\u00aas (Brasil)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/1e/fd/1efd430e5dd42ee7248d2aca31ad7bca/spa-5.vtt",
+                "lang": "Spanish - Espa\u00c3\u00b1ol (Espa\u00c3\u00b1a)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/1e/fd/1efd430e5dd42ee7248d2aca31ad7bca/spa-4.vtt",
+                "lang": "Spanish - Espa\u00c3\u00b1ol (LA)"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/cf/cf780fd77a1da827effc4365e34c37f1/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "8": {
         "intro": {
-            "start": 57,
-            "end": 146
+            "end": 146,
+            "start": 57
+        },
+        "outro": {
+            "end": 1400,
+            "start": 1311
         },
         "title": "Coupling With With With With",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/54b808a7c8b0f320f409b9a9a6420035e57a6bd4c08cc2bfda464bae63bdfb7f0c2465c8440be79025d8eebefb8e7d6fcb0a6b3e489b3c2957894658bc6f752a6a4b5bd74003972ee4b78265e8072e50cd4f2f76d6cd3730fef9ab542f036d172455cd12079c0d8407acb4bd14bc4d30c9ec300421e4f78d365072154e7dd0ae/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www030.vipanicdn.net/streamhls/b65ddcc85969e3bbcfd83c89d0388e2f/ep.8.1677675527.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=the-world-god-only-knows-episode-dub-8"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/54b808a7c8b0f320f409b9a9a6420035e57a6bd4c08cc2bfda464bae63bdfb7f0c2465c8440be79025d8eebefb8e7d6fcb0a6b3e489b3c2957894658bc6f752a6a4b5bd74003972ee4b78265e8072e50cd4f2f76d6cd3730fef9ab542f036d172455cd12079c0d8407acb4bd14bc4d30c9ec300421e4f78d365072154e7dd0ae/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/6c/6cccd86434b32a448f102317398c6889/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/22a5d3de1f3de17bd6eee6a693fa97328cf10e6160347cc7b0c516c5fe706dcd3cc0042999d72f4283995d80b20849f13920b41693d644015e41a661b3b24ef82556f3f2df2ea6ed54005ddd15002809287d81f297fa0b6e99a1e17fe1153af334a0e02bcc1e29232f8f1564895a0bac2bcfe5e4e1b93eea0c0a8e8fb3165e2e/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/7b/55/7b55eb5bd824edbbdb6a01556db52fe1/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/7b/55/7b55eb5bd824edbbdb6a01556db52fe1/por-3.vtt",
-                            "lang": "Portuguese - Portugu\u00c3\u00aas (Brasil)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/7b/55/7b55eb5bd824edbbdb6a01556db52fe1/spa-5.vtt",
-                            "lang": "Spanish - Espa\u00c3\u00b1ol (Espa\u00c3\u00b1a)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/7b/55/7b55eb5bd824edbbdb6a01556db52fe1/spa-4.vtt",
-                            "lang": "Spanish - Espa\u00c3\u00b1ol (LA)"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/6c/6cccd86434b32a448f102317398c6889/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/22a5d3de1f3de17bd6eee6a693fa97328cf10e6160347cc7b0c516c5fe706dcd3cc0042999d72f4283995d80b20849f13920b41693d644015e41a661b3b24ef82556f3f2df2ea6ed54005ddd15002809287d81f297fa0b6e99a1e17fe1153af334a0e02bcc1e29232f8f1564895a0bac2bcfe5e4e1b93eea0c0a8e8fb3165e2e/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www009.vipanicdn.net/streamhls/4cb956a3ac203385686033c7c87797b0/ep.8.1677615258.m3u8"
@@ -538,60 +472,54 @@
             "DUBBED": "OTE3Njk=",
             "SUBBED": "MzI5Nzg="
         },
-        "outro": {
-            "start": 1311,
-            "end": 1400
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/7b/55/7b55eb5bd824edbbdb6a01556db52fe1/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/7b/55/7b55eb5bd824edbbdb6a01556db52fe1/por-3.vtt",
+                "lang": "Portuguese - Portugu\u00c3\u00aas (Brasil)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/7b/55/7b55eb5bd824edbbdb6a01556db52fe1/spa-5.vtt",
+                "lang": "Spanish - Espa\u00c3\u00b1ol (Espa\u00c3\u00b1a)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/7b/55/7b55eb5bd824edbbdb6a01556db52fe1/spa-4.vtt",
+                "lang": "Spanish - Espa\u00c3\u00b1ol (LA)"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/6c/6cccd86434b32a448f102317398c6889/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "9": {
         "intro": {
-            "start": 30,
-            "end": 119
+            "end": 119,
+            "start": 30
+        },
+        "outro": {
+            "end": 1400,
+            "start": 1311
         },
         "title": "Inside and Outside the Big Wall",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/8001d5e38cadabe99c61b94010a4c54441036e9d14c1bee5e1e96acc0225048522100f0e09326caed561858280b3bc2f200024819ae4eab47565f403e6e84a7757fb31cccb41494f3dd3adf21b9ae729a7f118b74164fa2eee59b5251598b181b41926b0f25e9a69577f757fc997059b44499fefa5ac321ba8fd18ddbc63417a/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www001.vipanicdn.net/streamhls/b65ddcc85969e3bbcfd83c89d0388e2f/ep.9.1677677313.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=the-world-god-only-knows-episode-dub-9"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/8001d5e38cadabe99c61b94010a4c54441036e9d14c1bee5e1e96acc0225048522100f0e09326caed561858280b3bc2f200024819ae4eab47565f403e6e84a7757fb31cccb41494f3dd3adf21b9ae729a7f118b74164fa2eee59b5251598b181b41926b0f25e9a69577f757fc997059b44499fefa5ac321ba8fd18ddbc63417a/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/1a/1ac651982136b35f2870a6d5e6634914/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/e8c8e335b752e4f52a85fa26b6c1bdfe86119e555c89a491696f77e825aa800227672ce33d64e472743c17735d2f2879915b89293c98729bc839b00f9251f765191bcbead760670c0c2873b2a9df2ed124a791072505862a6675d1af045b185303c1c001c72e641ed023ccd7cea7b315f2427b31ca6bec022c4a89b81f5a21aa/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/6a/f6/6af6a4333ed2948418e76c68e0d50cdf/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/6a/f6/6af6a4333ed2948418e76c68e0d50cdf/por-3.vtt",
-                            "lang": "Portuguese - Portugu\u00c3\u00aas (Brasil)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/6a/f6/6af6a4333ed2948418e76c68e0d50cdf/spa-5.vtt",
-                            "lang": "Spanish - Espa\u00c3\u00b1ol (Espa\u00c3\u00b1a)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/6a/f6/6af6a4333ed2948418e76c68e0d50cdf/spa-4.vtt",
-                            "lang": "Spanish - Espa\u00c3\u00b1ol (LA)"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/1a/1ac651982136b35f2870a6d5e6634914/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/e8c8e335b752e4f52a85fa26b6c1bdfe86119e555c89a491696f77e825aa800227672ce33d64e472743c17735d2f2879915b89293c98729bc839b00f9251f765191bcbead760670c0c2873b2a9df2ed124a791072505862a6675d1af045b185303c1c001c72e641ed023ccd7cea7b315f2427b31ca6bec022c4a89b81f5a21aa/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www008.vipanicdn.net/streamhls/4cb956a3ac203385686033c7c87797b0/ep.9.1677614667.m3u8"
@@ -606,60 +534,54 @@
             "DUBBED": "OTE3NzA=",
             "SUBBED": "MzI5Nzc="
         },
-        "outro": {
-            "start": 1311,
-            "end": 1400
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/6a/f6/6af6a4333ed2948418e76c68e0d50cdf/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/6a/f6/6af6a4333ed2948418e76c68e0d50cdf/por-3.vtt",
+                "lang": "Portuguese - Portugu\u00c3\u00aas (Brasil)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/6a/f6/6af6a4333ed2948418e76c68e0d50cdf/spa-5.vtt",
+                "lang": "Spanish - Espa\u00c3\u00b1ol (Espa\u00c3\u00b1a)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/6a/f6/6af6a4333ed2948418e76c68e0d50cdf/spa-4.vtt",
+                "lang": "Spanish - Espa\u00c3\u00b1ol (LA)"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/1a/1ac651982136b35f2870a6d5e6634914/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "10": {
         "intro": {
-            "start": 24,
-            "end": 113
+            "end": 113,
+            "start": 24
+        },
+        "outro": {
+            "end": 1400,
+            "start": 1311
         },
         "title": "Inside of Me......",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/c49a07f92da6c72fd10366a2f16e08348ceea09ee83b42e2241e3399a2fe065479a8b0d012d25b281e928019d2254fc514cc20cdf74b748cddaf683a6662d21eb7ae9c657b08370f84704129078a11234619d17201a553c890d9507ea313d6f8bb818fe17fac7750ba1530f4362d8f817bec9f26d6a089da2b3297572c656f42/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www002.vipanicdn.net/streamhls/b65ddcc85969e3bbcfd83c89d0388e2f/ep.10.1677626234.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=the-world-god-only-knows-episode-dub-10"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/c49a07f92da6c72fd10366a2f16e08348ceea09ee83b42e2241e3399a2fe065479a8b0d012d25b281e928019d2254fc514cc20cdf74b748cddaf683a6662d21eb7ae9c657b08370f84704129078a11234619d17201a553c890d9507ea313d6f8bb818fe17fac7750ba1530f4362d8f817bec9f26d6a089da2b3297572c656f42/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/0c/0c876a8ceb74dc0726a0078540dfed2b/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/7fc4dee19eb3463a06777c78e3a74a8b893f58a4875ee608fefeb35ea9b7df6ea9a849477b1796aff0f77de040c7df764337b6f08403e3381dac6f5353f3d32ec9cada77f69fde9328b7215e3b46098e7dd522143578807264e6d27dee486783713c5b89efae7032f855aaff9431c1bcb81e14742892c4290e720eda9e573cce/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/77/16/7716751236dc7d708cd84a365ae2488c/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/77/16/7716751236dc7d708cd84a365ae2488c/por-3.vtt",
-                            "lang": "Portuguese - Portugu\u00c3\u00aas (Brasil)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/77/16/7716751236dc7d708cd84a365ae2488c/spa-5.vtt",
-                            "lang": "Spanish - Espa\u00c3\u00b1ol (Espa\u00c3\u00b1a)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/77/16/7716751236dc7d708cd84a365ae2488c/spa-4.vtt",
-                            "lang": "Spanish - Espa\u00c3\u00b1ol (LA)"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/0c/0c876a8ceb74dc0726a0078540dfed2b/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/7fc4dee19eb3463a06777c78e3a74a8b893f58a4875ee608fefeb35ea9b7df6ea9a849477b1796aff0f77de040c7df764337b6f08403e3381dac6f5353f3d32ec9cada77f69fde9328b7215e3b46098e7dd522143578807264e6d27dee486783713c5b89efae7032f855aaff9431c1bcb81e14742892c4290e720eda9e573cce/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www007.vipanicdn.net/streamhls/4cb956a3ac203385686033c7c87797b0/ep.10.1677657029.m3u8"
@@ -674,60 +596,54 @@
             "DUBBED": "OTE3NzE=",
             "SUBBED": "MzI5NzY="
         },
-        "outro": {
-            "start": 1311,
-            "end": 1400
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/77/16/7716751236dc7d708cd84a365ae2488c/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/77/16/7716751236dc7d708cd84a365ae2488c/por-3.vtt",
+                "lang": "Portuguese - Portugu\u00c3\u00aas (Brasil)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/77/16/7716751236dc7d708cd84a365ae2488c/spa-5.vtt",
+                "lang": "Spanish - Espa\u00c3\u00b1ol (Espa\u00c3\u00b1a)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/77/16/7716751236dc7d708cd84a365ae2488c/spa-4.vtt",
+                "lang": "Spanish - Espa\u00c3\u00b1ol (LA)"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/0c/0c876a8ceb74dc0726a0078540dfed2b/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "11": {
         "intro": {
-            "start": 53,
-            "end": 142
+            "end": 142,
+            "start": 53
+        },
+        "outro": {
+            "end": 1366,
+            "start": 1275
         },
         "title": "The Last Day",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/7aea2295e14bee8a139bef005bf2331d2c4c841d96028e3fb85004054cd694856aa5a33f56251c1419baf6115c12ec89f09398087be9376e5f65bd930128dc6b6e32c43c0f4e0efb927c2b6e322b3764bf4d3c931526235aa574aee49b39f88f95ad1db07c4f406d00e9e09a8dfb911e8416053fb3d138e39dee7e77c263870e/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www003.vipanicdn.net/streamhls/b65ddcc85969e3bbcfd83c89d0388e2f/ep.11.1677620488.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=the-world-god-only-knows-episode-dub-11"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/7aea2295e14bee8a139bef005bf2331d2c4c841d96028e3fb85004054cd694856aa5a33f56251c1419baf6115c12ec89f09398087be9376e5f65bd930128dc6b6e32c43c0f4e0efb927c2b6e322b3764bf4d3c931526235aa574aee49b39f88f95ad1db07c4f406d00e9e09a8dfb911e8416053fb3d138e39dee7e77c263870e/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/c8/c824b136d5234fd3a82801899ca8ef01/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/535239d79beee6f23d18c5568fbe876c967803b61ee339e4be98334777c381abb7d30838fbd98dbf3ce563ba1768ede6ac47761f739f0492e815796c5116a898acc45d1ba8f4d4cf4436b9df59444d0f3148ce768eb6db3a8e65c4dcd9acaa892c1c5ca89fcf4e29141e0c1c14cf2e1aa2682b63823c2513c8588c83377c6dba/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/86/0e/860e4ef91b22dfbaa8f328aa8c533b72/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/86/0e/860e4ef91b22dfbaa8f328aa8c533b72/por-3.vtt",
-                            "lang": "Portuguese - Portugu\u00c3\u00aas (Brasil)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/86/0e/860e4ef91b22dfbaa8f328aa8c533b72/spa-5.vtt",
-                            "lang": "Spanish - Espa\u00c3\u00b1ol (Espa\u00c3\u00b1a)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/86/0e/860e4ef91b22dfbaa8f328aa8c533b72/spa-4.vtt",
-                            "lang": "Spanish - Espa\u00c3\u00b1ol (LA)"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/c8/c824b136d5234fd3a82801899ca8ef01/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/535239d79beee6f23d18c5568fbe876c967803b61ee339e4be98334777c381abb7d30838fbd98dbf3ce563ba1768ede6ac47761f739f0492e815796c5116a898acc45d1ba8f4d4cf4436b9df59444d0f3148ce768eb6db3a8e65c4dcd9acaa892c1c5ca89fcf4e29141e0c1c14cf2e1aa2682b63823c2513c8588c83377c6dba/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www005.vipanicdn.net/streamhls/4cb956a3ac203385686033c7c87797b0/ep.11.1677659007.m3u8"
@@ -742,60 +658,54 @@
             "DUBBED": "OTE3NzI=",
             "SUBBED": "MzI5NzQ="
         },
-        "outro": {
-            "start": 1275,
-            "end": 1366
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/86/0e/860e4ef91b22dfbaa8f328aa8c533b72/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/86/0e/860e4ef91b22dfbaa8f328aa8c533b72/por-3.vtt",
+                "lang": "Portuguese - Portugu\u00c3\u00aas (Brasil)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/86/0e/860e4ef91b22dfbaa8f328aa8c533b72/spa-5.vtt",
+                "lang": "Spanish - Espa\u00c3\u00b1ol (Espa\u00c3\u00b1a)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/86/0e/860e4ef91b22dfbaa8f328aa8c533b72/spa-4.vtt",
+                "lang": "Spanish - Espa\u00c3\u00b1ol (LA)"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/c8/c824b136d5234fd3a82801899ca8ef01/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "12": {
         "intro": {
-            "start": 36,
-            "end": 125
+            "end": 125,
+            "start": 36
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "More Than a God, Less Than a Human",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/804af3a0921279272c0ac64d7c825318a290152ab66b94f5fd211be0eef05b19c21d24a80944a8d4b77b90ffec80ca0799835e724bee36a6db3e1ec44f75dd7de7082764399723ca70df3bd4c5fb8d544bedea68669b02cf9bbb8e024ee82e3d60e6c48f35fe750e70ef4a45cc08d27a92d291e74a1c7dc1a6004c7856201733/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www004.vipanicdn.net/streamhls/b65ddcc85969e3bbcfd83c89d0388e2f/ep.12.1677672173.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=the-world-god-only-knows-episode-dub-12"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/804af3a0921279272c0ac64d7c825318a290152ab66b94f5fd211be0eef05b19c21d24a80944a8d4b77b90ffec80ca0799835e724bee36a6db3e1ec44f75dd7de7082764399723ca70df3bd4c5fb8d544bedea68669b02cf9bbb8e024ee82e3d60e6c48f35fe750e70ef4a45cc08d27a92d291e74a1c7dc1a6004c7856201733/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/01/012e2f8775d78c704290f437e5f19598/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/1b3e26f03229f42f50f6825ad3a9cca77c6360209ea150aeda627bb5ddb45284a0cd435ec5c31764eb1db03d3371603cd6bf4aade6935684d3a8e1f8841371c501e144459d122473a3ec076d7f8ea5de8b8ae9be02dfc7d76348763e996037509972988096fae27e6117606c8c7d4f76c3d4ff8ddf70d349fc13bcb4583f7f78/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/d0/a1/d0a148b456c3348af8c26a10d1793afb/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/d0/a1/d0a148b456c3348af8c26a10d1793afb/por-3.vtt",
-                            "lang": "Portuguese - Portugu\u00c3\u00aas (Brasil)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/d0/a1/d0a148b456c3348af8c26a10d1793afb/spa-5.vtt",
-                            "lang": "Spanish - Espa\u00c3\u00b1ol (Espa\u00c3\u00b1a)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/d0/a1/d0a148b456c3348af8c26a10d1793afb/spa-4.vtt",
-                            "lang": "Spanish - Espa\u00c3\u00b1ol (LA)"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/01/012e2f8775d78c704290f437e5f19598/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/1b3e26f03229f42f50f6825ad3a9cca77c6360209ea150aeda627bb5ddb45284a0cd435ec5c31764eb1db03d3371603cd6bf4aade6935684d3a8e1f8841371c501e144459d122473a3ec076d7f8ea5de8b8ae9be02dfc7d76348763e996037509972988096fae27e6117606c8c7d4f76c3d4ff8ddf70d349fc13bcb4583f7f78/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www018.vipanicdn.net/streamhls/4cb956a3ac203385686033c7c87797b0/ep.12.1677628086.m3u8"
@@ -810,9 +720,27 @@
             "DUBBED": "OTE3NzM=",
             "SUBBED": "MzI5ODc="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/d0/a1/d0a148b456c3348af8c26a10d1793afb/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/d0/a1/d0a148b456c3348af8c26a10d1793afb/por-3.vtt",
+                "lang": "Portuguese - Portugu\u00c3\u00aas (Brasil)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/d0/a1/d0a148b456c3348af8c26a10d1793afb/spa-5.vtt",
+                "lang": "Spanish - Espa\u00c3\u00b1ol (Espa\u00c3\u00b1a)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/d0/a1/d0a148b456c3348af8c26a10d1793afb/spa-4.vtt",
+                "lang": "Spanish - Espa\u00c3\u00b1ol (LA)"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/01/012e2f8775d78c704290f437e5f19598/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

@@ -1,26 +1,24 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/ea1c40f442485cdfee60f4972cb638484b12821bc4a13516cfddab0c7b1550e34b1e58d6af144bce7c5697015110cf00b85ee59d07b5b23b292156e9c1fb10cada0dc8131a64db0bd21dec1a0b31dc988390ee79da501a7756541eb2b6bd01c0ec99e256264b3a6cd95f08229ee32f5bf6c59cd1b4a0929c7b6e9ee4cfa81494/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www020.vipanicdn.net/streamhls/ee841daffd2d80124c883f7ae81eaf80/ep.1.1677706367.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=gyakusatsu-kikan-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/ea1c40f442485cdfee60f4972cb638484b12821bc4a13516cfddab0c7b1550e34b1e58d6af144bce7c5697015110cf00b85ee59d07b5b23b292156e9c1fb10cada0dc8131a64db0bd21dec1a0b31dc988390ee79da501a7756541eb2b6bd01c0ec99e256264b3a6cd95f08229ee32f5bf6c59cd1b4a0929c7b6e9ee4cfa81494/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/a0/a07a0665e544792807f72dfbc8a62f4a/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
@@ -37,9 +35,11 @@
             "DUBBED": "MTUyNzE5",
             "SUBBED": "MTUyNzE4"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/a0/a07a0665e544792807f72dfbc8a62f4a/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

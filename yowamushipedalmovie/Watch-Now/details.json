@@ -1,30 +1,24 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/605100939ad984811c78a67edbe393caa4aaa92d67ea2f7c0ef7df5acd0b9d4028aab758f196753b6000813ac5a40bb85221428c8e0432d662a79ffbc3117964ca67b700dacd8efd24a426af028481b1c14555f9df69277ef188c16d2eada855af67a5c613800237d75ac490051974f533842a052c8e7995b29a1327e78421c7/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www001.vipanicdn.net/streamhls/e0cd4dc45cfd1ce63aa90be40f585e55/ep.1.1677667641.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=yowamushi-pedal-movie-episode-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/605100939ad984811c78a67edbe393caa4aaa92d67ea2f7c0ef7df5acd0b9d4028aab758f196753b6000813ac5a40bb85221428c8e0432d662a79ffbc3117964ca67b700dacd8efd24a426af028481b1c14555f9df69277ef188c16d2eada855af67a5c613800237d75ac490051974f533842a052c8e7995b29a1327e78421c7/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/b6/85/b6853a8aabdb37a0f445527a996471d8/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/37/37985abfbcd8f821d66a2be4a73ec83d/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -32,9 +26,15 @@
         "downloadLink": {
             "SUBBED": "NzE3MzA="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/b6/85/b6853a8aabdb37a0f445527a996471d8/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/37/37985abfbcd8f821d66a2be4a73ec83d/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

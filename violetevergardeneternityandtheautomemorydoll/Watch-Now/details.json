@@ -1,45 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/1ca188483d4e7c4b09b2370ada6050ccc70539f548fe5bb9e2b54dbdcdd265501bf3a60f4f5934738f369d87eb86d25200aaf222e34c0da42dd58e56341d4b22d3bcb118b1f2cb37cacebd75cfd6619157b761686d4e839e6ade8ca5dd32785f20bf24218a6882845752f6d7a8335e9a5134e64d3d6d42d63e973220a8f1ed4d/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www028.vipanicdn.net/streamhls/1366e202322d95d00114d36d4d8c4dc7/ep.1.1677705437.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=violet-evergarden-gaiden-eien-to-jidou-shuki-ningyou-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/1ca188483d4e7c4b09b2370ada6050ccc70539f548fe5bb9e2b54dbdcdd265501bf3a60f4f5934738f369d87eb86d25200aaf222e34c0da42dd58e56341d4b22d3bcb118b1f2cb37cacebd75cfd6619157b761686d4e839e6ade8ca5dd32785f20bf24218a6882845752f6d7a8335e9a5134e64d3d6d42d63e973220a8f1ed4d/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/4b/4b100697686cd29b5fa3cf8aac6f8e21/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/46ac6b619cb4b2afd57a14b6a94e75cecca27b0ebfadbb45d4fff857af1c86ef0ee1f6e2fae173109fe494e8d6219ac7fbc0e7ac595d9bd11bdb578a319bc595acf661c646a5f2534dee15a13678aeb226e8dcf520dd0218350341d356c28e57d7496262e641d35cf5fa9bc51cdafea0e1ba7e3eb73614761dac14e630ec66af/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/2f/4f/2f4f6d6a0c0e3fad00163a70ebad3a4d/2f4f6d6a0c0e3fad00163a70ebad3a4d.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/58/43/58433a494aae2c11a54bf6216c385fee/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/4b/4b100697686cd29b5fa3cf8aac6f8e21/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/46ac6b619cb4b2afd57a14b6a94e75cecca27b0ebfadbb45d4fff857af1c86ef0ee1f6e2fae173109fe494e8d6219ac7fbc0e7ac595d9bd11bdb578a319bc595acf661c646a5f2534dee15a13678aeb226e8dcf520dd0218350341d356c28e57d7496262e641d35cf5fa9bc51cdafea0e1ba7e3eb73614761dac14e630ec66af/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www008.vipanicdn.net/streamhls/7686fe3c58cfd589aa9ce0d69037e88c/ep.1.1677597744.m3u8"
@@ -54,9 +38,19 @@
             "DUBBED": "MTQ2OTM3",
             "SUBBED": "MTM3OTE3"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/2f/4f/2f4f6d6a0c0e3fad00163a70ebad3a4d/2f4f6d6a0c0e3fad00163a70ebad3a4d.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/58/43/58433a494aae2c11a54bf6216c385fee/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/4b/4b100697686cd29b5fa3cf8aac6f8e21/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

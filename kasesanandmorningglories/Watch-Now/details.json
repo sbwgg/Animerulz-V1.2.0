@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/76962a0de66e15358ccc65e209470e48720aa9d2f0f10fc4208d1f5dcdc8db8a17b83242e193dabf632fa2fed6a6243d770c62a3ea118076c1ae1a5bad5705a5a60a0518d7d62c338dafff070467e75da90566251c7c38e6608025ac87ef6daa8bff9aea4f72390a2f74c64235d8244bd92107dc509a686454c0ec962933c1f3/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www021.vipanicdn.net/streamhls/e08ffc0e1cc286b93688e95915dd2bb9/ep.1.1677700166.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=asagao-to-kase-san-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/76962a0de66e15358ccc65e209470e48720aa9d2f0f10fc4208d1f5dcdc8db8a17b83242e193dabf632fa2fed6a6243d770c62a3ea118076c1ae1a5bad5705a5a60a0518d7d62c338dafff070467e75da90566251c7c38e6608025ac87ef6daa8bff9aea4f72390a2f74c64235d8244bd92107dc509a686454c0ec962933c1f3/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/4f/4f2418bc90c2eac4fe7b36a8f83e7c09/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/a7bcd6e6779af90099730681e274c0893620f35eb6526252623f0fe93c983a93b0976dd8e03400db1c89038bb87a878ad84ac55f61dcddd97b2fde36dfc3374835624b825a1e73f255a8d3e60a7799faa18e7e5287cfbf1a4c2e1481a6edf67766f475921206de4c38dd21be41af16c3fe7a521ab509a8ebbfe684930d041271/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/19/c0/19c095718ca7b448e28d28f547e60676/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/4f/4f2418bc90c2eac4fe7b36a8f83e7c09/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/a7bcd6e6779af90099730681e274c0893620f35eb6526252623f0fe93c983a93b0976dd8e03400db1c89038bb87a878ad84ac55f61dcddd97b2fde36dfc3374835624b825a1e73f255a8d3e60a7799faa18e7e5287cfbf1a4c2e1481a6edf67766f475921206de4c38dd21be41af16c3fe7a521ab509a8ebbfe684930d041271/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www013.vipanicdn.net/streamhls/ace6294599aaea75393590d0f819dd72/ep.1.1677681008.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "MTQ0MjMw",
             "SUBBED": "MTA2MTIy"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/19/c0/19c095718ca7b448e28d28f547e60676/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/4f/4f2418bc90c2eac4fe7b36a8f83e7c09/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

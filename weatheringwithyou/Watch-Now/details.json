@@ -1,53 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/6946fab85caa166c1071ebf05437d63a6049e3c3b15e12610507699b02e15c66d7abe3c2e0f0140936078a338f20162534a91153b62465bd9ca80315487a4f4f88de4ac3014095d005398d980e01d94406a75f4c683537bcba48a577de2e49731c213e9f906250e43ede2b0f9550aba77c02c4918da09fa45aed93452b57b3b5/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www009.vipanicdn.net/streamhls/82a8a1792ef05b69fb5e5fc4c40a6c2c/ep.1.1677594855.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=tenki-no-ko-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/6946fab85caa166c1071ebf05437d63a6049e3c3b15e12610507699b02e15c66d7abe3c2e0f0140936078a338f20162534a91153b62465bd9ca80315487a4f4f88de4ac3014095d005398d980e01d94406a75f4c683537bcba48a577de2e49731c213e9f906250e43ede2b0f9550aba77c02c4918da09fa45aed93452b57b3b5/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/2d/2d2536de959a5b3470f0f552a76fdbee/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/04c62d67738da375aca8b1659516f077c74801fa368082aa2ebd5c4556d4a621e40149ff082d9d6b627f702d28718f4cefec91e79fa9d9f8e407df2c2424be0114f0b211b8e8eb14baff1d78eb556215114a397444824941bed9fc5f7e12ed38b17fff668113bf7e2be351ef365348a89ba0ec5cdbbc56fd9b916d6342e2f46b/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/ca/6e/ca6e95a207b37aa7dfff60a5fe12dd75/eng-3.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/ca/6e/ca6e95a207b37aa7dfff60a5fe12dd75/eng-4.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/ca/6e/ca6e95a207b37aa7dfff60a5fe12dd75/fre-6.vtt",
-                            "lang": "French - French Subs (SRT)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/ca/6e/ca6e95a207b37aa7dfff60a5fe12dd75/spa-5.vtt",
-                            "lang": "Spanish - Spanish Subs (SRT)"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/2d/2d2536de959a5b3470f0f552a76fdbee/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/04c62d67738da375aca8b1659516f077c74801fa368082aa2ebd5c4556d4a621e40149ff082d9d6b627f702d28718f4cefec91e79fa9d9f8e407df2c2424be0114f0b211b8e8eb14baff1d78eb556215114a397444824941bed9fc5f7e12ed38b17fff668113bf7e2be351ef365348a89ba0ec5cdbbc56fd9b916d6342e2f46b/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www018.vipanicdn.net/streamhls/064839fe5f2fb650fceda98c31367db9/ep.1.1677608399.m3u8"
@@ -62,9 +38,27 @@
             "DUBBED": "MTQzMjU4",
             "SUBBED": "MTM5MDA3"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/ca/6e/ca6e95a207b37aa7dfff60a5fe12dd75/eng-3.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/ca/6e/ca6e95a207b37aa7dfff60a5fe12dd75/eng-4.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/ca/6e/ca6e95a207b37aa7dfff60a5fe12dd75/fre-6.vtt",
+                "lang": "French - French Subs (SRT)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/ca/6e/ca6e95a207b37aa7dfff60a5fe12dd75/spa-5.vtt",
+                "lang": "Spanish - Spanish Subs (SRT)"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/2d/2d2536de959a5b3470f0f552a76fdbee/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

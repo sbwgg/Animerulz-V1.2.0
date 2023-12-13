@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "OVA",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/a776191d6694d454ad1fc243e2ce47e42acb0ddafebc680b454634f01849cd9d4c0b1b221d8dd6c945b3fd4f3ac98135fa804f52e25b42f48fd108279ac2ffb27a8f9ea3b2a69cfd800bb44aa0c55085dcf3f3ce36009e0aba59ea6676f6ab53d16e308879c252b07f4964750000f78a10fc5946287d6680bfa11c9db6a98316/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www044.vipanicdn.net/streamhls/11316e337b86c2b0b1615de79407b228/ep.1.1677860949.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=dorohedoro-ma-no-omake-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/a776191d6694d454ad1fc243e2ce47e42acb0ddafebc680b454634f01849cd9d4c0b1b221d8dd6c945b3fd4f3ac98135fa804f52e25b42f48fd108279ac2ffb27a8f9ea3b2a69cfd800bb44aa0c55085dcf3f3ce36009e0aba59ea6676f6ab53d16e308879c252b07f4964750000f78a10fc5946287d6680bfa11c9db6a98316/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/73/73d763e9317ac1a89a150fec9d986a37/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/1961b49802d1eed06928b9a258d537bab4709c9a6db8b81d01fa0f2e4519b4681fbfbc181394952660afa8c680092f296d728d389334a49e9d731fafedf5c533cf29961b4d655d057a8bca2bf3688abb8f9b5d2d6437b8d56f723ae15bd2740e454d9b6ee2a9497e4e2f8e4e4591ce06dad4596af7c4977284deac9aaf032d72/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/2d/37/2d37517cfece7e7c7b5a6a15de6a9df3/2d37517cfece7e7c7b5a6a15de6a9df3.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/73/73d763e9317ac1a89a150fec9d986a37/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/1961b49802d1eed06928b9a258d537bab4709c9a6db8b81d01fa0f2e4519b4681fbfbc181394952660afa8c680092f296d728d389334a49e9d731fafedf5c533cf29961b4d655d057a8bca2bf3688abb8f9b5d2d6437b8d56f723ae15bd2740e454d9b6ee2a9497e4e2f8e4e4591ce06dad4596af7c4977284deac9aaf032d72/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www023.vipanicdn.net/streamhls/96e166ecbd39fe7b80ba39e2ad5c2ded/ep.1.1677809992.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "MTQ2NDEz",
             "SUBBED": "MTQyNTUy"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/2d/37/2d37517cfece7e7c7b5a6a15de6a9df3/2d37517cfece7e7c7b5a6a15de6a9df3.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/73/73d763e9317ac1a89a150fec9d986a37/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

@@ -1,42 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/5efdda53d5b3bd7db33f4a6d0b17724effd8d88502b18fc29f02b609cc19f52f01f2ebaca906d1f23a9283c8b57170e0bb8a99dc7efa533e1c28b088228cbb089220f122791170051f18cfcfa5fd320a9ff8ee025ca670d1bf71b7951602a610f2dcea23ab1199b33194b3d2a5e66898a5da816960694187bd15c62539ce5c8e/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=bungaku-shoujo-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/5efdda53d5b3bd7db33f4a6d0b17724effd8d88502b18fc29f02b609cc19f52f01f2ebaca906d1f23a9283c8b57170e0bb8a99dc7efa533e1c28b088228cbb089220f122791170051f18cfcfa5fd320a9ff8ee025ca670d1bf71b7951602a610f2dcea23ab1199b33194b3d2a5e66898a5da816960694187bd15c62539ce5c8e/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/21/12/2112ce02fe8ca1283e6949de68be08cd/2112ce02fe8ca1283e6949de68be08cd.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/75/75ebc0d818707a3552091dc621da3658/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/764aad00f2d41f83f0fe2ebc8cbce287499c43881584bf84016fd5b0282387aa6a6dfbc602463d63defc930b5806053e09bfbb7672793c0c1167b57b4d72bc889d1d6b3577eb65cbfa9a7baa431d233949386474f0ebe9822e58448cffe9f1fb8e2f3ff978609853902b7552b68ed7726710056020c62f9f4c07516bb5d2cf6b/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/8c/83/8c836d81e56b7ec95d384a1326af4c62/8c836d81e56b7ec95d384a1326af4c62.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/75/75ebc0d818707a3552091dc621da3658/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/764aad00f2d41f83f0fe2ebc8cbce287499c43881584bf84016fd5b0282387aa6a6dfbc602463d63defc930b5806053e09bfbb7672793c0c1167b57b4d72bc889d1d6b3577eb65cbfa9a7baa431d233949386474f0ebe9822e58448cffe9f1fb8e2f3ff978609853902b7552b68ed7726710056020c62f9f4c07516bb5d2cf6b/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www030.vipanicdn.net/streamhls/30ae6bc01bd3fb971b9fd03f2e01d8b0/ep.1.1677661582.m3u8"
@@ -50,9 +34,15 @@
         "downloadLink": {
             "SUBBED": "NDMzNzk="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/8c/83/8c836d81e56b7ec95d384a1326af4c62/8c836d81e56b7ec95d384a1326af4c62.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/75/75ebc0d818707a3552091dc621da3658/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

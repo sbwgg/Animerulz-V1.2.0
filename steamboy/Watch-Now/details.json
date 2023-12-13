@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/4b0b21f7cf1cdbf18ed0cc5c9ea06a3450de3559fd71ffe402be338349e092323ed43874c80435d6ee26c6aa9cfc023b6be198baf3149807468c9d3e10c76c63f5b825d8781590305f3e5d99e081ecd9dab06c36e8ef29f62b86c2216289e94d032f6a57a7ffd51d9020da050da1be06fd0f7df86e4ce7202d55b289f498e822/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www026.vipanicdn.net/streamhls/5563ecd551774b49ebebc60d0afee431/ep.1.1677679180.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=steamboy-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/4b0b21f7cf1cdbf18ed0cc5c9ea06a3450de3559fd71ffe402be338349e092323ed43874c80435d6ee26c6aa9cfc023b6be198baf3149807468c9d3e10c76c63f5b825d8781590305f3e5d99e081ecd9dab06c36e8ef29f62b86c2216289e94d032f6a57a7ffd51d9020da050da1be06fd0f7df86e4ce7202d55b289f498e822/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/de/deb3e7a8f41e31cbad45e2abf3dfff4d/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/e5bc332396aa67e74d7a28237eea6894ab2924aa1c23fcbfac3e3ed6f083eff7011a9a65dc7966f615e1f02c02fd93f14d42bfd28633ef281ff9af8025e5471bfb4652958117a89f8029aac382f77ec690ad73387fc82ab7dca14724d02cc668891d3a228209e298f26457d18b1ede16dfa56ee6ceca8d2634a64927b411e884/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/5f/61/5f61051b2b5c04ec5e7c71f7a0352394/5f61051b2b5c04ec5e7c71f7a0352394.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/de/deb3e7a8f41e31cbad45e2abf3dfff4d/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/e5bc332396aa67e74d7a28237eea6894ab2924aa1c23fcbfac3e3ed6f083eff7011a9a65dc7966f615e1f02c02fd93f14d42bfd28633ef281ff9af8025e5471bfb4652958117a89f8029aac382f77ec690ad73387fc82ab7dca14724d02cc668891d3a228209e298f26457d18b1ede16dfa56ee6ceca8d2634a64927b411e884/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www022.vipanicdn.net/streamhls/8cfab7f66f80667d8fd045a9d3896e38/ep.1.1677663531.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "OTA2MjU=",
             "SUBBED": "NDA0MzE="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/5f/61/5f61051b2b5c04ec5e7c71f7a0352394/5f61051b2b5c04ec5e7c71f7a0352394.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/de/deb3e7a8f41e31cbad45e2abf3dfff4d/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

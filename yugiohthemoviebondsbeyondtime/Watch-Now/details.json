@@ -1,30 +1,24 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/172319359b11972ac20c7a8b73c1004c4d87ab5a985c8f01ee0e897da63dfeedd637b4dff7a43e76c9e4f371d6e365f35efff87e6ff356a1e78a70f4f70f533ad0eef6cbaf5a68a52ce71bef3ca897221e86021603b23bc1c7b38b7af0be24f013ac66960aa183a64f911224059576e96358016beabd566de95e5146dd01b769/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www038.vipanicdn.net/streamhls/e353c9b8798d09ce17955a9427b9e5b4/ep.1.1678017842.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=yu-gi-oh-3d-bonds-beyond-time-episode-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/172319359b11972ac20c7a8b73c1004c4d87ab5a985c8f01ee0e897da63dfeedd637b4dff7a43e76c9e4f371d6e365f35efff87e6ff356a1e78a70f4f70f533ad0eef6cbaf5a68a52ce71bef3ca897221e86021603b23bc1c7b38b7af0be24f013ac66960aa183a64f911224059576e96358016beabd566de95e5146dd01b769/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/bf/eb/bfeb2b685c2368aaae4db1e8aff03775/bfeb2b685c2368aaae4db1e8aff03775.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/a7/a7f48ce42368ee9f7bf467c6a1804acb/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -32,9 +26,15 @@
         "downloadLink": {
             "SUBBED": "NDAzMjc="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/bf/eb/bfeb2b685c2368aaae4db1e8aff03775/bfeb2b685c2368aaae4db1e8aff03775.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/a7/a7f48ce42368ee9f7bf467c6a1804acb/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

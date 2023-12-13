@@ -1,28 +1,18 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Episode 1",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/ef4864b31e56dcf2c7fb07265a5a45bdd182c6694837148fba9f6be35fc041de58b35d7969a349505c12ed1079c407e6d6267b457970050fba8456536195f69e0281475fe2c4c2d234488b8f0206660c21e8a7c80f10ab2022dc247af26fc647d1a2e5440903bc20f577982adbd48f04082e7905359f98dcfe05eca45d00ea66/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/dd/9f/dd9f8c28b6f28726fa9016a46399025c/dd9f8c28b6f28726fa9016a46399025c.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/95/79/9579ac9df5f5a924ae9884fe5cdca60e/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/db/db1f775ab2fd6c6b1de40bfe8a234f29/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/ef4864b31e56dcf2c7fb07265a5a45bdd182c6694837148fba9f6be35fc041de58b35d7969a349505c12ed1079c407e6d6267b457970050fba8456536195f69e0281475fe2c4c2d234488b8f0206660c21e8a7c80f10ab2022dc247af26fc647d1a2e5440903bc20f577982adbd48f04082e7905359f98dcfe05eca45d00ea66/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www047.vipanicdn.net/streamhls/bfbe02f9c7e151450453f6bcc411b340/ep.1.1687227350.m3u8"
@@ -36,9 +26,19 @@
         "downloadLink": {
             "SUBBED": "MjA2NTA2"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/dd/9f/dd9f8c28b6f28726fa9016a46399025c/dd9f8c28b6f28726fa9016a46399025c.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/95/79/9579ac9df5f5a924ae9884fe5cdca60e/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/db/db1f775ab2fd6c6b1de40bfe8a234f29/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

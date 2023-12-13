@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "OVA",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/2c4d1f65555ea9c0cd0ccfa8845de4cea0c7053a5bec0f6b18ea2cd15bc82b3e84eefd8bea88127d419405acbe6a151fe71fda718d4863e81555e5236634bb878c7e43d72b764bf6bd684905a2d3cac7a41c14220eab3f0ba2f7bfba343f9042f906a4f25f46fd02f3fb5c302055d55f84e1cbcd79634064c3ac8f0acba8c7fa/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www026.vipanicdn.net/streamhls/2c9b2a90d1034695ecea4dcb184f21dc/ep.1.1677697794.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=naruto-dai-katsugeki-yuki-hime-shinobu-houjou-dattebayo-konoha-no-sato-no-dai-undouaki-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/2c4d1f65555ea9c0cd0ccfa8845de4cea0c7053a5bec0f6b18ea2cd15bc82b3e84eefd8bea88127d419405acbe6a151fe71fda718d4863e81555e5236634bb878c7e43d72b764bf6bd684905a2d3cac7a41c14220eab3f0ba2f7bfba343f9042f906a4f25f46fd02f3fb5c302055d55f84e1cbcd79634064c3ac8f0acba8c7fa/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/00/000e5145f232d76b76cda2bc1c70c6a6/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/60740cdc05599faabf00c458d650c479543d16b9fcd0bb95b89d1b28b7263bc3121c62f6e2ed7d1f5cf9966db0f59746c9a7ab5227360bd40b1feb594c8dcd1e1eafb94d4fdb18f8f0ab71e6f2a08f244dbdf2274271f3c3f8a24ef72a84c71abec6e8b2d5931ec5dd061b9e07981ab9649b572423e07667c0bc6e646f9bbc1e/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/51/f7/51f7cc489f41c83cfae9d4e4a6183631/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/00/000e5145f232d76b76cda2bc1c70c6a6/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/60740cdc05599faabf00c458d650c479543d16b9fcd0bb95b89d1b28b7263bc3121c62f6e2ed7d1f5cf9966db0f59746c9a7ab5227360bd40b1feb594c8dcd1e1eafb94d4fdb18f8f0ab71e6f2a08f244dbdf2274271f3c3f8a24ef72a84c71abec6e8b2d5931ec5dd061b9e07981ab9649b572423e07667c0bc6e646f9bbc1e/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www025.vipanicdn.net/streamhls/71d933f0b74f1c8590041df7240231d3/ep.1.1677791151.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "MTIyNjM1",
             "SUBBED": "MTIyNjM0"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/51/f7/51f7cc489f41c83cfae9d4e4a6183631/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/00/000e5145f232d76b76cda2bc1c70c6a6/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

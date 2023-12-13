@@ -1,34 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/2d11e495eae76816694c4c7f59ac27ae143edb81560e83fcb056d2518fd5bedf2e637e4fb50445ac8a792aaf1c90ef5849348e0c1dff85840f6b3b1144e10f010b71e54a88ea8dd0bf2315bd19188dccd465b8591cf87fe900b7b333cd2405a67a7c060f3da8884ca6cda5b9f2e6ed3ea3bfbee9fbe3e3e5d727a148abab368c/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=one-piece-heart-of-gold-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/2d11e495eae76816694c4c7f59ac27ae143edb81560e83fcb056d2518fd5bedf2e637e4fb50445ac8a792aaf1c90ef5849348e0c1dff85840f6b3b1144e10f010b71e54a88ea8dd0bf2315bd19188dccd465b8591cf87fe900b7b333cd2405a67a7c060f3da8884ca6cda5b9f2e6ed3ea3bfbee9fbe3e3e5d727a148abab368c/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/0d/0daca4c6aa7c5b186c37e5c354dce62a/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/54e5e14ebcd89527c9fd92367871bdb82026f5956db1d574577983a163a88d208f1f3c03d4595c991628ab3c71b7f2e7d48da6cab354dd0305549595de6398ccb754acfa80d17f6545f9f1063bb751bd244173fd13dd2370a9fa4b9e2afc113a1279a37c8be0c35446715ba513196dd0427e53f0202cc7b1caea57a097b7a080/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/0d/0daca4c6aa7c5b186c37e5c354dce62a/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/54e5e14ebcd89527c9fd92367871bdb82026f5956db1d574577983a163a88d208f1f3c03d4595c991628ab3c71b7f2e7d48da6cab354dd0305549595de6398ccb754acfa80d17f6545f9f1063bb751bd244173fd13dd2370a9fa4b9e2afc113a1279a37c8be0c35446715ba513196dd0427e53f0202cc7b1caea57a097b7a080/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www004.vipanicdn.net/streamhls/a2e080a135fe7ad4431afb41eff82e71/ep.1.1677597175.m3u8"
@@ -42,9 +34,11 @@
         "downloadLink": {
             "SUBBED": "NzMyNjM="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/0d/0daca4c6aa7c5b186c37e5c354dce62a/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

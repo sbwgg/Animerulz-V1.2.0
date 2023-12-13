@@ -1,46 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Recap",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/4ec4d4e3929ccdc99eef6b3e365ad4abc11e5dfaa489b20678b38e22ddd39ffb6eff53c04c386ea164245161171fb1398c930f443eb477b837c82d664c292645a4125824a2167b5c0f85ad5921b35c831d297f2166ec6fcb1b2ff709bfef995da80c82bdadaadc496fe273a5f3c46413cd60e7416a68ed91c1268583df15645c/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=ai-mai-mi-mousou-catastrophe-special-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/4ec4d4e3929ccdc99eef6b3e365ad4abc11e5dfaa489b20678b38e22ddd39ffb6eff53c04c386ea164245161171fb1398c930f443eb477b837c82d664c292645a4125824a2167b5c0f85ad5921b35c831d297f2166ec6fcb1b2ff709bfef995da80c82bdadaadc496fe273a5f3c46413cd60e7416a68ed91c1268583df15645c/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/c8/c8b4e4c4e08475ec59aa42f69fd24cc1/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/009380aa936cf8e0d32a8f1130bb3f6fdbe54855ec9e653d42645a6633a9f63e2491a5b218fb2291d31739df44357b961f29ca02cf626b8578aa3763fd3e2c60467c55a8432428b51378b86c62da9bb1dc1fe7f63db815416670a66742b8a76ac5f96398e0dfa49a577d1aebf1d54726def1c841a3ba93ec7dfec2725bf0cd5f/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/6b/a8/6ba8e15fdda5417878ffbd7f5c2ee8cc/eng-0.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/6b/a8/6ba8e15fdda5417878ffbd7f5c2ee8cc/por-2.vtt",
-                            "lang": "Portuguese"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/6b/a8/6ba8e15fdda5417878ffbd7f5c2ee8cc/spa-1.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/c8/c8b4e4c4e08475ec59aa42f69fd24cc1/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/009380aa936cf8e0d32a8f1130bb3f6fdbe54855ec9e653d42645a6633a9f63e2491a5b218fb2291d31739df44357b961f29ca02cf626b8578aa3763fd3e2c60467c55a8432428b51378b86c62da9bb1dc1fe7f63db815416670a66742b8a76ac5f96398e0dfa49a577d1aebf1d54726def1c841a3ba93ec7dfec2725bf0cd5f/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www001.vipanicdn.net/streamhls/7974afd5637f29a1db87728a9ac261ec/ep.1.1677665318.m3u8"
@@ -54,9 +34,23 @@
         "downloadLink": {
             "SUBBED": "NTQwMDA="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/6b/a8/6ba8e15fdda5417878ffbd7f5c2ee8cc/eng-0.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/6b/a8/6ba8e15fdda5417878ffbd7f5c2ee8cc/por-2.vtt",
+                "lang": "Portuguese"
+            },
+            {
+                "url": "https://ccb.megaresources.co/6b/a8/6ba8e15fdda5417878ffbd7f5c2ee8cc/spa-1.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/c8/c8b4e4c4e08475ec59aa42f69fd24cc1/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

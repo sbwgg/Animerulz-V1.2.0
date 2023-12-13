@@ -1,49 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/4dbba555075b4d0b9b1a78136e4838b2f3a88119475798628a30b7d3907523f599b10c566600683179ffddf26b5fdea9442c9de0d7e556aca78160c523ee95dc8bb54d367f989ca7e9acab476cd01450021c833b07439aa0c558688af31154774b7231d98cabac89dd99b062b04d8a3cd671948f8e876a2412ecbd031d23cebd/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www018.vipanicdn.net/streamhls/86149c1f804b6f2370aa7db36dd2d6bf/ep.1.1677628211.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=ghost-in-the-shell-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/4dbba555075b4d0b9b1a78136e4838b2f3a88119475798628a30b7d3907523f599b10c566600683179ffddf26b5fdea9442c9de0d7e556aca78160c523ee95dc8bb54d367f989ca7e9acab476cd01450021c833b07439aa0c558688af31154774b7231d98cabac89dd99b062b04d8a3cd671948f8e876a2412ecbd031d23cebd/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/46/46b01654d464e56ad95f44f95d8484e3/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/22f0942d73f02be1a8c7a002b4e7ec80ee934843e29e734717c69a8a1db2331596a4cd57c8424f9f710339a558ba244f1d8d2ba41204fa333fe57be90e05635bf627fac566aee07c833926c7f162062ac796f05907245648ada14614cdb09080755e4569f716f457042930b692e23409ae4f58e97081aac5c0a5ad24fbf30943/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/b9/dc/b9dc1b8cb61daf6b621df8876497c2b2/eng-3.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b9/dc/b9dc1b8cb61daf6b621df8876497c2b2/eng-4.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b9/dc/b9dc1b8cb61daf6b621df8876497c2b2/eng-5.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/46/46b01654d464e56ad95f44f95d8484e3/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/22f0942d73f02be1a8c7a002b4e7ec80ee934843e29e734717c69a8a1db2331596a4cd57c8424f9f710339a558ba244f1d8d2ba41204fa333fe57be90e05635bf627fac566aee07c833926c7f162062ac796f05907245648ada14614cdb09080755e4569f716f457042930b692e23409ae4f58e97081aac5c0a5ad24fbf30943/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www008.vipanicdn.net/streamhls/70f95a9f00c4cc95c62d9aaabffeda62/ep.1.1677602206.m3u8"
@@ -58,9 +38,23 @@
             "DUBBED": "MTA3MTc3",
             "SUBBED": "NDA3MTc="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/b9/dc/b9dc1b8cb61daf6b621df8876497c2b2/eng-3.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/b9/dc/b9dc1b8cb61daf6b621df8876497c2b2/eng-4.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/b9/dc/b9dc1b8cb61daf6b621df8876497c2b2/eng-5.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/46/46b01654d464e56ad95f44f95d8484e3/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

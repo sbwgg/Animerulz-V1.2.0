@@ -1,50 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/7fe4685fba2b2708ec2f27d172acf2276ce969568f7c97e4ee95edfde0adfa68ec5ddd1ec507bdf8a30f7e9dad291aaf35bc7ea0fdccca668a7faa00462625e4f721f97c171462e123aecea19a749c3278464954666da92ad927c78d3d93798f1270e759281bc9b651e024ac710a65ffd45d27c425efc07c2bb8fab294891e6e/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=pokemon-movie-19-volcanion-to-karakuri-no-magiana-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/7fe4685fba2b2708ec2f27d172acf2276ce969568f7c97e4ee95edfde0adfa68ec5ddd1ec507bdf8a30f7e9dad291aaf35bc7ea0fdccca668a7faa00462625e4f721f97c171462e123aecea19a749c3278464954666da92ad927c78d3d93798f1270e759281bc9b651e024ac710a65ffd45d27c425efc07c2bb8fab294891e6e/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/bb/bbea46cf363d5ab898b4e9c71bba1ce3/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/6c5e37e9898930471565987c7fd8345f9ee3c3d5744f2a69677789accea27711c22e641c1b8985ee814227583e12de919431df4b2a91c93ecfebf3caa55adb244ab08f2e83eee8bdf0e85af7eb4ea485ef947b023a5a9418be6759b60f0e8ed8324c3564e5343edf81b4031fa4e0f7bb76c9fde1536cfbb235b08c8f6083fedd/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/b0/13/b013822e2189fca65abf1a2eebb358eb/eng-11.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b0/13/b013822e2189fca65abf1a2eebb358eb/fre-12.vtt",
-                            "lang": "French"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b0/13/b013822e2189fca65abf1a2eebb358eb/por-9.vtt",
-                            "lang": "Portuguese - Portuguese (Brazil)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b0/13/b013822e2189fca65abf1a2eebb358eb/spa-10.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/bb/bbea46cf363d5ab898b4e9c71bba1ce3/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/6c5e37e9898930471565987c7fd8345f9ee3c3d5744f2a69677789accea27711c22e641c1b8985ee814227583e12de919431df4b2a91c93ecfebf3caa55adb244ab08f2e83eee8bdf0e85af7eb4ea485ef947b023a5a9418be6759b60f0e8ed8324c3564e5343edf81b4031fa4e0f7bb76c9fde1536cfbb235b08c8f6083fedd/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www024.vipanicdn.net/streamhls/87fd29b85338605d7643b0b2781817c6/ep.1.1677684627.m3u8"
@@ -58,9 +34,27 @@
         "downloadLink": {
             "SUBBED": "MTAxMjcz"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/b0/13/b013822e2189fca65abf1a2eebb358eb/eng-11.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/b0/13/b013822e2189fca65abf1a2eebb358eb/fre-12.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/b0/13/b013822e2189fca65abf1a2eebb358eb/por-9.vtt",
+                "lang": "Portuguese - Portuguese (Brazil)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/b0/13/b013822e2189fca65abf1a2eebb358eb/spa-10.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/bb/bbea46cf363d5ab898b4e9c71bba1ce3/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

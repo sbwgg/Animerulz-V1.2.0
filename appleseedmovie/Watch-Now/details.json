@@ -1,50 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/77a789d1406a9ad078fcd19b1409955871048338d93614ec8e18cec22bd0d87150bc0ca6e4db3b7fd4fbe548451fb6bf65d8bad4c6563655c90b8b9fa0ee1864da7b60d5ad6416307e9c6a8a7073231b622ff8ce6147b343a34900ddf2196c1a808dcf53d4ecbbdf4eafbf1a5f27b147/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=appleseed-xiii-movie-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/77a789d1406a9ad078fcd19b1409955871048338d93614ec8e18cec22bd0d87150bc0ca6e4db3b7fd4fbe548451fb6bf65d8bad4c6563655c90b8b9fa0ee1864da7b60d5ad6416307e9c6a8a7073231b622ff8ce6147b343a34900ddf2196c1a808dcf53d4ecbbdf4eafbf1a5f27b147/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/37/375e1ff61bd4dbaaf0b295ee89fa4199/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/0ead9eff248141c209f10ff6f6e578460377391c0633c8b3584d5423178dbfad6efd6186a5072c6a39bc6316f7f813fc77fb9caff9ba1f67212686609b6d2bca855ad37e0cc5eb66ac429b3d2a42d114c93fcda0656751a2d1940cb852054ee39a6923121ca56bcc2906f47c9945fb60/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/89/7a/897a6cbedee3d4f99a609deb5b64a14c/eng-5.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/89/7a/897a6cbedee3d4f99a609deb5b64a14c/eng-6.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/89/7a/897a6cbedee3d4f99a609deb5b64a14c/eng-7.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/89/7a/897a6cbedee3d4f99a609deb5b64a14c/eng-8.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/37/375e1ff61bd4dbaaf0b295ee89fa4199/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/0ead9eff248141c209f10ff6f6e578460377391c0633c8b3584d5423178dbfad6efd6186a5072c6a39bc6316f7f813fc77fb9caff9ba1f67212686609b6d2bca855ad37e0cc5eb66ac429b3d2a42d114c93fcda0656751a2d1940cb852054ee39a6923121ca56bcc2906f47c9945fb60/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www002.vipanicdn.net/streamhls/cef196b64e9ffc4a52e931639cfceb8d/ep.1.1677665198.m3u8"
@@ -58,9 +34,27 @@
         "downloadLink": {
             "SUBBED": "NDM2ODE="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/89/7a/897a6cbedee3d4f99a609deb5b64a14c/eng-5.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/89/7a/897a6cbedee3d4f99a609deb5b64a14c/eng-6.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/89/7a/897a6cbedee3d4f99a609deb5b64a14c/eng-7.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/89/7a/897a6cbedee3d4f99a609deb5b64a14c/eng-8.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/37/375e1ff61bd4dbaaf0b295ee89fa4199/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

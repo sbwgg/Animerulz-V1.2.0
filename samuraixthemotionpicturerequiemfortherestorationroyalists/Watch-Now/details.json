@@ -1,38 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/3becfb8dc07e82dccb13fc17c551930abfbf7dafa893004edf566733b91a130c58cb43e3136bf6328cbe381b87cade2ef688fbb685621a6e3433110285a5a60e26e6606d8b08330634f6b8f8689d0942feb53ee8904aaa974e0a71294fd4819d15092869773dc1f38fc1b5a0eaf9601a9703085f4cf3174a107879d139522d26/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=rurouni-kenshin-ishin-shishi-no-requiem-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/3becfb8dc07e82dccb13fc17c551930abfbf7dafa893004edf566733b91a130c58cb43e3136bf6328cbe381b87cade2ef688fbb685621a6e3433110285a5a60e26e6606d8b08330634f6b8f8689d0942feb53ee8904aaa974e0a71294fd4819d15092869773dc1f38fc1b5a0eaf9601a9703085f4cf3174a107879d139522d26/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/ba/ba04e7fecfe1f660733fc685b0d88809/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/6f970113999241befd8150b00d359622ba3b95ffe39206a5d68a1efee8c4955d7c6734a4016ca49ee9600f5a6c26c5003068bc00268d1e274e3c9d51d6a53ba79f19ca4284a1b425a09fdd73288f0928bd4a101e2716d3792d5c87ebfe23528c92d47c77bcf60e7a74aa2f301b6d7b20e4fe549b008b15a2192c580dd4397d57/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/12/8e/128ed7e36d12dbf5a107be0f54588d84/128ed7e36d12dbf5a107be0f54588d84.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/ba/ba04e7fecfe1f660733fc685b0d88809/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/6f970113999241befd8150b00d359622ba3b95ffe39206a5d68a1efee8c4955d7c6734a4016ca49ee9600f5a6c26c5003068bc00268d1e274e3c9d51d6a53ba79f19ca4284a1b425a09fdd73288f0928bd4a101e2716d3792d5c87ebfe23528c92d47c77bcf60e7a74aa2f301b6d7b20e4fe549b008b15a2192c580dd4397d57/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www012.vipanicdn.net/streamhls/b6f702ff1a5039177fd394a8d2da2612/ep.1.1677662771.m3u8"
@@ -46,9 +34,15 @@
         "downloadLink": {
             "SUBBED": "NDA0NTE="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/12/8e/128ed7e36d12dbf5a107be0f54588d84/128ed7e36d12dbf5a107be0f54588d84.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/ba/ba04e7fecfe1f660733fc685b0d88809/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

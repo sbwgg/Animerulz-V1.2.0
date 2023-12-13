@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/50cd26d447387f1936a59cc8499d90a3d227f39267a61039ec91910f3a9788ebf06eeb8f05d6523d37e6f8200907ad8b8390f239c3a1237703589ea3b525c88c410886279e4eec907edea4dfc6fca405a5143a20237acf56f82902ee10f6b38799b2686555cd7f48d1febc6fbcd55b5c6c2b8550c56ebbe7cb7796393a59fa83/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www012.vipanicdn.net/streamhls/5ae1879682bff2f14f69996e0a58a7f2/ep.1.1677676572.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=koukyoushihen-eureka-seven-hi-evolution-1-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/50cd26d447387f1936a59cc8499d90a3d227f39267a61039ec91910f3a9788ebf06eeb8f05d6523d37e6f8200907ad8b8390f239c3a1237703589ea3b525c88c410886279e4eec907edea4dfc6fca405a5143a20237acf56f82902ee10f6b38799b2686555cd7f48d1febc6fbcd55b5c6c2b8550c56ebbe7cb7796393a59fa83/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/5d/5dd4486b9c7675cf69b3c922b1cdfdb3/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/0fa1bc5ef0d3d6c16c0acd1275231c12a41f947594b37e636a280889fa73ea4f14dbff259be89b6e478375dd07ca482e84774a08892def9a8cf1b54d456dc650e1f04e28472536d95ee01d09f0c07ee092ef4deda6715156672bd14085a5aa65dba418308af0f447ee297c2e8aade5c66873978a20618a36a49f860c696174a4/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/ef/29/ef29a727cf854acf9774b833577476bd/ef29a727cf854acf9774b833577476bd.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/5d/5dd4486b9c7675cf69b3c922b1cdfdb3/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/0fa1bc5ef0d3d6c16c0acd1275231c12a41f947594b37e636a280889fa73ea4f14dbff259be89b6e478375dd07ca482e84774a08892def9a8cf1b54d456dc650e1f04e28472536d95ee01d09f0c07ee092ef4deda6715156672bd14085a5aa65dba418308af0f447ee297c2e8aade5c66873978a20618a36a49f860c696174a4/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www026.vipanicdn.net/streamhls/4924d6d63fe492ffe099f80df46e7e57/ep.1.1677689605.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "MTA4NjQx",
             "SUBBED": "MTA4NjI1"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/ef/29/ef29a727cf854acf9774b833577476bd/ef29a727cf854acf9774b833577476bd.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/5d/5dd4486b9c7675cf69b3c922b1cdfdb3/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

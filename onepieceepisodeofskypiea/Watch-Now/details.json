@@ -1,37 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Special",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/b89a8defc2b722770ab465f5955175bd22c9091ccb90fb1a12e60d2dffc577c0310f734d7cb9134be65ff6e3944f923661ba8637c3cad8601682dd9b7bcc3c6b8baaf254bb62c1f8d42ad1f5018c6405378412d3701e87e8117cf9f3db54f6ac675aa4fa7f674b08f33b86b3e1bb68e66df4bb20f4144b9b7b7532683861b05c/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www043.vipanicdn.net/streamhls/4df4fe3d9f66c73e8d8663d5326e7157/ep.1.1692897894.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=one-piece-episode-of-sorajima-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/b89a8defc2b722770ab465f5955175bd22c9091ccb90fb1a12e60d2dffc577c0310f734d7cb9134be65ff6e3944f923661ba8637c3cad8601682dd9b7bcc3c6b8baaf254bb62c1f8d42ad1f5018c6405378412d3701e87e8117cf9f3db54f6ac675aa4fa7f674b08f33b86b3e1bb68e66df4bb20f4144b9b7b7532683861b05c/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/51/517ce0adb70a1e38eeb6c64948afdc93/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/2b172e0ba14c7f3e4c86dc34f258efde4d1189a3ed7aec7513822cb27b4f341bc835b4676c89daabc978b0ee32632bf75270cb969304677af0b2c70e219248e09c006e4c26946b479a7aa8c314337165943941e48eb9a4c4358dd039fa3d94c112ab520942b664d22cac1a925f35051b046d0083b54a27f0d58e7d236e2e769c/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/51/517ce0adb70a1e38eeb6c64948afdc93/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/2b172e0ba14c7f3e4c86dc34f258efde4d1189a3ed7aec7513822cb27b4f341bc835b4676c89daabc978b0ee32632bf75270cb969304677af0b2c70e219248e09c006e4c26946b479a7aa8c314337165943941e48eb9a4c4358dd039fa3d94c112ab520942b664d22cac1a925f35051b046d0083b54a27f0d58e7d236e2e769c/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www046.vipanicdn.net/streamhls/49d7ca1a3135613dca655e7aaa789afa/ep.1.1692897715.m3u8"
@@ -46,9 +38,11 @@
             "DUBBED": "MjEwNjUy",
             "SUBBED": "MTA5NjE1"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/51/517ce0adb70a1e38eeb6c64948afdc93/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

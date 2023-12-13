@@ -1,30 +1,24 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/d65e3e1b677f3fb8ea5aa2377f11ba129bdf9884904037a199e89941289fe49b404c73c519bce1f502b52507047b9176906ca907c6d62e84620d57d3d2351103c1ae628b0643d0071bd0edabc44eaeb98f177372ef9f0e1b28b502b655a80cddd4d99d61b87b44a2da8b3d29d4978b9ed1ac06dde01e5e1c4eb7eb834a9ef3c8/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www006.vipanicdn.net/streamhls/cfe020a11ee1491583324528344c356b/ep.1.1677599679.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=sasaki-to-miyano-koi-ni-kizuku-mae-no-chotto-shita-hanashi-episode-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/d65e3e1b677f3fb8ea5aa2377f11ba129bdf9884904037a199e89941289fe49b404c73c519bce1f502b52507047b9176906ca907c6d62e84620d57d3d2351103c1ae628b0643d0071bd0edabc44eaeb98f177372ef9f0e1b28b502b655a80cddd4d99d61b87b44a2da8b3d29d4978b9ed1ac06dde01e5e1c4eb7eb834a9ef3c8/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/94/61/94614f036854decd0754350f5b473f36/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/84/84c79fab5b995ad31de4c8c839c0da94/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -32,9 +26,15 @@
         "downloadLink": {
             "SUBBED": "MTg5NjM1"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/94/61/94614f036854decd0754350f5b473f36/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/84/84c79fab5b995ad31de4c8c839c0da94/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

@@ -1,26 +1,24 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/f79e2be00acb74de64506ad205ea7ff9bca21aa455d55d5ae2ac174edfe54e05b8edd9c34840782e4a362cb4db6b6aff816ef0239f59d11497b830a587a5624722900ab806fed68a8792bf8a2046d2eacc28ff0569da7d178a146e436fd186c0db427a885b7768b325dcae4f5e241c07124cd1ffddd765363cb08dd1ab80a966/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www039.vipanicdn.net/streamhls/7bfae4b34fe2564a3abf453f5df89584/ep.1.1677826573.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=chirin-no-suzu-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/f79e2be00acb74de64506ad205ea7ff9bca21aa455d55d5ae2ac174edfe54e05b8edd9c34840782e4a362cb4db6b6aff816ef0239f59d11497b830a587a5624722900ab806fed68a8792bf8a2046d2eacc28ff0569da7d178a146e436fd186c0db427a885b7768b325dcae4f5e241c07124cd1ffddd765363cb08dd1ab80a966/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/d5/d52d67520fb19d5c43c9f327f63741a2/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -28,9 +26,11 @@
         "downloadLink": {
             "DUBBED": "MTcyNDQ4"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/d5/d52d67520fb19d5c43c9f327f63741a2/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

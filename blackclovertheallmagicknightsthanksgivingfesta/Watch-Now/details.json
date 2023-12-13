@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/69d0fe29f9a5562811a85055749e054ca660664a6da565b70ffd9004f30ce339e6019f11d5b878941b1a36eb398e8b1809475d5680cd94b3e1b1706630029f8c01a25a9b3817fc11971e397d57aee56de45e61a8c9d6146723944aeb233c87f5f0f48b668ca983cf4d7532a206cc11932e57c439ae316f4e37884f0495d8b188/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www004.vipanicdn.net/streamhls/0608ea9e86e6aadce2f2b6b28472af43/ep.1.1677605099.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=black-clover-jump-festa-2018-special-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/69d0fe29f9a5562811a85055749e054ca660664a6da565b70ffd9004f30ce339e6019f11d5b878941b1a36eb398e8b1809475d5680cd94b3e1b1706630029f8c01a25a9b3817fc11971e397d57aee56de45e61a8c9d6146723944aeb233c87f5f0f48b668ca983cf4d7532a206cc11932e57c439ae316f4e37884f0495d8b188/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/23/2374cc9294cebc4f4fb95e7454337424/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/d48a8d967d7c4bf0bfdbbfbbcf23ad60ccb2fd6be8dfb170b0744b652cbc8c3c746bda166348727ee8b13afeb5f686b91add6ea1325f42f421902aeff92923cc68e270d58b7466288ee7b9ac5910df496fdde41b23d300b1eea3c0f5e43e51381e1170a057a331e622c1cb048d3798fbc8ad8eb07f8a651c9053e6908c145480/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/27/0a/270a3243711524150306feff15e2bd7e/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/23/2374cc9294cebc4f4fb95e7454337424/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/d48a8d967d7c4bf0bfdbbfbbcf23ad60ccb2fd6be8dfb170b0744b652cbc8c3c746bda166348727ee8b13afeb5f686b91add6ea1325f42f421902aeff92923cc68e270d58b7466288ee7b9ac5910df496fdde41b23d300b1eea3c0f5e43e51381e1170a057a331e622c1cb048d3798fbc8ad8eb07f8a651c9053e6908c145480/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www009.vipanicdn.net/streamhls/d645d2ad9a9dcb7ecf56d53af32a2d77/ep.1.1677608823.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "MTEyMjAz",
             "SUBBED": "MTUwMDk4"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/27/0a/270a3243711524150306feff15e2bd7e/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/23/2374cc9294cebc4f4fb95e7454337424/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

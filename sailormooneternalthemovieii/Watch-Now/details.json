@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/f615263e27907a916b80be44d5b0b7900313d3f0f7a16024c24e1997a2c3355523790d837d44783eb3fcae7d80b437a518f6f070525e08a0f9d0fbd22ff52eedfb1faf980fb7c56a7e9fbd08ceac0b6d7580d0cd13fd89b1e07c412d061ca59e079a67df02e9df9a4a5b7ce133321fa8a88906d7ae52d3b425e94c36a2330434/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www044.vipanicdn.net/streamhls/d9bab875d076431a81d90c08ff53ce35/ep.1.1677855223.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=bishoujo-senshi-sailor-moon-eternal-movie-2-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/f615263e27907a916b80be44d5b0b7900313d3f0f7a16024c24e1997a2c3355523790d837d44783eb3fcae7d80b437a518f6f070525e08a0f9d0fbd22ff52eedfb1faf980fb7c56a7e9fbd08ceac0b6d7580d0cd13fd89b1e07c412d061ca59e079a67df02e9df9a4a5b7ce133321fa8a88906d7ae52d3b425e94c36a2330434/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/fa/fa89216db606736fa07328dfd82837d7/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/ce8282f4756848086beb903dd4d46265ac9d439a8e86c3164ee545919412684a79b867b77185432b3eb9dd0db5be99625668075df5cd15b4b412679e96f97d807d94b5fef53f7f2e98ab333519a7ac13985d9dd3d47eb03404e7298e6b0eb23a9a1e52486f97ec66aa4a02fde4456a739b27ff689cae2ab90708fa2251b92e13/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/fd/ea/fdea2a486a1fd33d42d19e48b64ea5f6/fdea2a486a1fd33d42d19e48b64ea5f6.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/fa/fa89216db606736fa07328dfd82837d7/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/ce8282f4756848086beb903dd4d46265ac9d439a8e86c3164ee545919412684a79b867b77185432b3eb9dd0db5be99625668075df5cd15b4b412679e96f97d807d94b5fef53f7f2e98ab333519a7ac13985d9dd3d47eb03404e7298e6b0eb23a9a1e52486f97ec66aa4a02fde4456a739b27ff689cae2ab90708fa2251b92e13/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www041.vipanicdn.net/streamhls/015e6b9b62b97567cac499f042976186/ep.1.1677854544.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "MTYyNDUz",
             "SUBBED": "MTYyNDUw"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/fd/ea/fdea2a486a1fd33d42d19e48b64ea5f6/fdea2a486a1fd33d42d19e48b64ea5f6.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/fa/fa89216db606736fa07328dfd82837d7/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

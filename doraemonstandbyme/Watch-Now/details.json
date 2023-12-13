@@ -1,45 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/9eb9e923d135176a93d2e06474908137e8689b98861655ffeabad399f479a1132795d8d7aa6c759373887687ef800fe84d68326f837e3059bc6fdce624e079cdb19907bae153cd2f1e285cce586385bb3cc17b6b166e67590cca6f1ddf6f37f77e5c5fb212f5b2ccdf9a5eaace2d141e3ad872db7187e5a1a9f24f2924f6ca0f/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www043.vipanicdn.net/streamhls/74cd67a36eb3758c1dbbfe16716ad1d6/ep.1.1677845276.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=stand-by-me-doraemon-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/9eb9e923d135176a93d2e06474908137e8689b98861655ffeabad399f479a1132795d8d7aa6c759373887687ef800fe84d68326f837e3059bc6fdce624e079cdb19907bae153cd2f1e285cce586385bb3cc17b6b166e67590cca6f1ddf6f37f77e5c5fb212f5b2ccdf9a5eaace2d141e3ad872db7187e5a1a9f24f2924f6ca0f/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/be/be3c60589bbd7f9f710486239fb152f3/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/a89340e41724bd15b79bbc82d621ae9a137cb180b0fd8680908cf35a5fe8ec47c74499210404ccba1bf005ce98312cde059d01d4f4f29b84e0da52a2b55348631721499bd42b1dbce6d99eb2707dc2066b4d9f92a16fd5f0671be4a62a9b1e6ecbcdd1b5903c6f42cc7d5bf4a76dbca1d186eec853ba681aa3966ef49fb745bd/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/58/95/589585889c5be40244aa5fbd457038b3/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/58/95/589585889c5be40244aa5fbd457038b3/por-3.vtt",
-                            "lang": "Portuguese"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/be/be3c60589bbd7f9f710486239fb152f3/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/a89340e41724bd15b79bbc82d621ae9a137cb180b0fd8680908cf35a5fe8ec47c74499210404ccba1bf005ce98312cde059d01d4f4f29b84e0da52a2b55348631721499bd42b1dbce6d99eb2707dc2066b4d9f92a16fd5f0671be4a62a9b1e6ecbcdd1b5903c6f42cc7d5bf4a76dbca1d186eec853ba681aa3966ef49fb745bd/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www029.vipanicdn.net/streamhls/37e0f351a2082f8bbfe5e5aaba79315e/ep.1.1677689123.m3u8"
@@ -54,9 +38,19 @@
             "DUBBED": "MTc2ODMy",
             "SUBBED": "MTEzMTI4"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/58/95/589585889c5be40244aa5fbd457038b3/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/58/95/589585889c5be40244aa5fbd457038b3/por-3.vtt",
+                "lang": "Portuguese"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/be/be3c60589bbd7f9f710486239fb152f3/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

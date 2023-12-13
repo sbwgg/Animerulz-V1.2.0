@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/ec4280624fa7a72e19ed8fd956ee26c4505a4cc1f90433f8eeafeb7a379796c8931b37fb1d828f33f961536a76d27e486a34bf444830c2cabf9d69841c75b4d03632f960a98eac8a4b177554eb8a774e073d730ab11c9e1e1443395e766721c174bfb0f29da43cbec8049f3ebb536254/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www015.vipanicdn.net/streamhls/7bf5150b80e77be7c9735fa86024f525/ep.1.1677631705.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=hajime-no-ippo-champion-road-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/ec4280624fa7a72e19ed8fd956ee26c4505a4cc1f90433f8eeafeb7a379796c8931b37fb1d828f33f961536a76d27e486a34bf444830c2cabf9d69841c75b4d03632f960a98eac8a4b177554eb8a774e073d730ab11c9e1e1443395e766721c174bfb0f29da43cbec8049f3ebb536254/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/c2/c2d06fb2d415e1e8a3aef673be5a2441/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/f0baae60370db1ff5860e0fe66779a1e1b48eae24336a7d979d8b21afa24f95a4e6e38c4d953a6994846e45441f63680d2d1cfc9c0dd51fe9e86510335c177f91baaaf7685b0f4bc73a9bcbefb8cf7ee16fc44912f9590874c16e393ed1a695f42b9ce8a7849591fb9f27392777a50a7/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/bf/7a/bf7aab344e579a9afb5407d136f990f0/bf7aab344e579a9afb5407d136f990f0.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/c2/c2d06fb2d415e1e8a3aef673be5a2441/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/f0baae60370db1ff5860e0fe66779a1e1b48eae24336a7d979d8b21afa24f95a4e6e38c4d953a6994846e45441f63680d2d1cfc9c0dd51fe9e86510335c177f91baaaf7685b0f4bc73a9bcbefb8cf7ee16fc44912f9590874c16e393ed1a695f42b9ce8a7849591fb9f27392777a50a7/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www009.vipanicdn.net/streamhls/1bcef95f315c680480ad15a1b4a79a5c/ep.1.1677607676.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "MTcxMTk0",
             "SUBBED": "NDA2ODg="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/bf/7a/bf7aab344e579a9afb5407d136f990f0/bf7aab344e579a9afb5407d136f990f0.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/c2/c2d06fb2d415e1e8a3aef673be5a2441/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

@@ -1,42 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/0717dab64db2e2c0ce4dfdadbef7a67504ee273cee51a41d6646d6f42cf1a7a21549316eaeb82a4b2eb7e1cbe85e5a4b55b699660811b3287b787655fd48bb73c7f554fb00160409a9e29084a145f9702f9b3d6724869cc5270da5cf265640da74b4282d672aa7d0a659bf739f53a1c10a96d670d669123041d817bcff3a8acd/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=armitage-dual-matrix-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/0717dab64db2e2c0ce4dfdadbef7a67504ee273cee51a41d6646d6f42cf1a7a21549316eaeb82a4b2eb7e1cbe85e5a4b55b699660811b3287b787655fd48bb73c7f554fb00160409a9e29084a145f9702f9b3d6724869cc5270da5cf265640da74b4282d672aa7d0a659bf739f53a1c10a96d670d669123041d817bcff3a8acd/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/4c/e1/4ce1f4ae8addca88509cb0b73a8b4bdc/4ce1f4ae8addca88509cb0b73a8b4bdc.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/6b/6bf8de675ed23c9a19ffd99b239fe1ab/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/b977aa6650657a9fb152f97dc38ea9ab549603ed846b8ed30666849e80a8646d9c896798c62e288dbe7588e8cadeff6d6bf8c59ed7cbd981a2e847538679c24c6d4cb6f374762dc430841e84378b7a60b940b56deb57be1e526177d2127d9216de3ebe4d4cfb70f8c24db8d9956cfd17abc9cd182f3e49327cbeec1ad176decc/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/72/11/72112521690242e0386a1bf0c72800d7/72112521690242e0386a1bf0c72800d7.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/6b/6bf8de675ed23c9a19ffd99b239fe1ab/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/b977aa6650657a9fb152f97dc38ea9ab549603ed846b8ed30666849e80a8646d9c896798c62e288dbe7588e8cadeff6d6bf8c59ed7cbd981a2e847538679c24c6d4cb6f374762dc430841e84378b7a60b940b56deb57be1e526177d2127d9216de3ebe4d4cfb70f8c24db8d9956cfd17abc9cd182f3e49327cbeec1ad176decc/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www030.vipanicdn.net/streamhls/9243fc4e8a450f62e85960eca5622a78/ep.1.1677660158.m3u8"
@@ -50,9 +34,15 @@
         "downloadLink": {
             "SUBBED": "NDA0MDk="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/72/11/72112521690242e0386a1bf0c72800d7/72112521690242e0386a1bf0c72800d7.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/6b/6bf8de675ed23c9a19ffd99b239fe1ab/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

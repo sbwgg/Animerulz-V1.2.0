@@ -1,45 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/78458f4dd3590c041730569ee63ae06064539beed65c790d2992a2da53c9c4db9d4729b16dc58bda160c25290825ed6f87cd70da15d09cd99d1cdc988bc7e772d1cb16d6991a8f2af7db0d643411c6c8257e0e49293922eb007621772aa89ea0d25618ae5aadec8eb0a647243a557e8263a2cb97ce2858d7fb68f15148453229/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www038.vipanicdn.net/streamhls/a72e8843fee21f627f81fa23c299a252/ep.1.1677826836.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=garo-movie-divine-flame-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/78458f4dd3590c041730569ee63ae06064539beed65c790d2992a2da53c9c4db9d4729b16dc58bda160c25290825ed6f87cd70da15d09cd99d1cdc988bc7e772d1cb16d6991a8f2af7db0d643411c6c8257e0e49293922eb007621772aa89ea0d25618ae5aadec8eb0a647243a557e8263a2cb97ce2858d7fb68f15148453229/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/0e/36/0e36aa1b3ec3c5b12926264c95687c46/0e36aa1b3ec3c5b12926264c95687c46.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/b6/b6ed9afa8c553c5c8fa49432e9c2ecc9/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/1a6e09de7a2d5a765d8db1786882333d7347d8740d7ab1b1b5b0b05f3603369d89bd16999d03468a29e45a3e838ee3f5ca65c3a01fe09043af3b03a1da74bc43869ea3f97c8c40b797a37711e8f7b7eb67670fc63a7e9543bf839d4be383905148ea9efdb515b42922e60bdb4f7aa305e768885b968ff4bd22aeb7bb81c73e53/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/f7/a5/f7a5d1cdebd409e2b2088ad2c22775bb/f7a5d1cdebd409e2b2088ad2c22775bb.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/b6/b6ed9afa8c553c5c8fa49432e9c2ecc9/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/1a6e09de7a2d5a765d8db1786882333d7347d8740d7ab1b1b5b0b05f3603369d89bd16999d03468a29e45a3e838ee3f5ca65c3a01fe09043af3b03a1da74bc43869ea3f97c8c40b797a37711e8f7b7eb67670fc63a7e9543bf839d4be383905148ea9efdb515b42922e60bdb4f7aa305e768885b968ff4bd22aeb7bb81c73e53/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www004.vipanicdn.net/streamhls/b29fc84a91f39b002ae7b5d3ee08ca1e/ep.1.1677671940.m3u8"
@@ -54,9 +38,15 @@
             "DUBBED": "MTY2NDA3",
             "SUBBED": "OTE0MTM="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/f7/a5/f7a5d1cdebd409e2b2088ad2c22775bb/f7a5d1cdebd409e2b2088ad2c22775bb.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/b6/b6ed9afa8c553c5c8fa49432e9c2ecc9/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

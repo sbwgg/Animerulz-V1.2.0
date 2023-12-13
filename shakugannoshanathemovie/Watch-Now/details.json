@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/846c2eb6fb6f390cc487adac464cfe227538489436ea8a36e5eabdd3c430d20508cb52bba185d8473f01bba523dc129c937cf0b594f79b65a17d9a48efcaefa4efb5f7ad51d1dc64edfde2e420151aa2d215219fc48d90541444c84a37522488594457e45afd700ee2a8ab1e0d56de505f708df18000b802a93c00e4d4853b5f/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www016.vipanicdn.net/streamhls/a35406db3a9b09dac767ace6235a4252/ep.1.1677671508.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=shakugan-no-shana-movie-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/846c2eb6fb6f390cc487adac464cfe227538489436ea8a36e5eabdd3c430d20508cb52bba185d8473f01bba523dc129c937cf0b594f79b65a17d9a48efcaefa4efb5f7ad51d1dc64edfde2e420151aa2d215219fc48d90541444c84a37522488594457e45afd700ee2a8ab1e0d56de505f708df18000b802a93c00e4d4853b5f/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/e5/e5c561727ebbed2d3d899fc10bdc2ea0/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/e437e7c0bbe215571b0175b1c99e869639cc93a5acc4db4af5a47344a6d611b956129bb26a4e7aeac9164eb10d90d19c5935420ec0e64965c4ec2761f82c9e3c361755fc9b94b664584738c983ab255baa994c7adf9f6a3d08107631ce8763e4300b2cc109afc568188c124cc3e8e8e3aaf6c1a16bb69bfdb3e4ab39af388342/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/8b/ea/8beaf3fb9a1ad4c1a001a8ddba2f39dc/8beaf3fb9a1ad4c1a001a8ddba2f39dc.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/e5/e5c561727ebbed2d3d899fc10bdc2ea0/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/e437e7c0bbe215571b0175b1c99e869639cc93a5acc4db4af5a47344a6d611b956129bb26a4e7aeac9164eb10d90d19c5935420ec0e64965c4ec2761f82c9e3c361755fc9b94b664584738c983ab255baa994c7adf9f6a3d08107631ce8763e4300b2cc109afc568188c124cc3e8e8e3aaf6c1a16bb69bfdb3e4ab39af388342/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www002.vipanicdn.net/streamhls/180050869029ea4392273645619e8945/ep.1.1677663673.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "ODc5MTU=",
             "SUBBED": "Mzc3MTE="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/8b/ea/8beaf3fb9a1ad4c1a001a8ddba2f39dc/8beaf3fb9a1ad4c1a001a8ddba2f39dc.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/e5/e5c561727ebbed2d3d899fc10bdc2ea0/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

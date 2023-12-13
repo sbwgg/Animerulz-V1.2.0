@@ -1,26 +1,24 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Episode 1",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/3243b7c2e7b91ed2f7ec892aabcf46fe8a5250ef74afae466b90881c40af1c2e1be416e19eddb7243cd1a5c3b63f1f110c10193a7c020816d209bafc2e4e9edfbd42715a62cc87924cd0c9c7134c0287f82cb96d10bc9c45d38a3a4a8a42df7190701bc295600aa891f1277adc1f380d40f534344c1276e410d8bf816d9e10e6/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www034.vipanicdn.net/streamhls/0931e94f9fe9cff471ebdd967c5b45ff/ep.1.1677827161.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=charlotte-special-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/3243b7c2e7b91ed2f7ec892aabcf46fe8a5250ef74afae466b90881c40af1c2e1be416e19eddb7243cd1a5c3b63f1f110c10193a7c020816d209bafc2e4e9edfbd42715a62cc87924cd0c9c7134c0287f82cb96d10bc9c45d38a3a4a8a42df7190701bc295600aa891f1277adc1f380d40f534344c1276e410d8bf816d9e10e6/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/ce/ce7e196a471c1219fd5b923ef4163390/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
@@ -37,9 +35,11 @@
             "DUBBED": "MTY0Nzgz",
             "SUBBED": "NzEzMjc="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/ce/ce7e196a471c1219fd5b923ef4163390/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

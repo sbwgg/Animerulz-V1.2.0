@@ -1,45 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/1d7d0385f252a0576a63add31c01846b7d4c35a1a2f94efd5ca80d170d061abed36f16fa5a01babad377a76d8a75d3983f6c015e09ae090e53513b649454b0e059fc71c2408bf19c8bfe64bbb6bfa22e02b81d0372995a82c4872c5f54bb6a2e53de24a152e67e732431cf8f94ff821fc1249b87028bc52d4db0151f883d4f66/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www009.vipanicdn.net/streamhls/c2376fd002b1f9fd685b5dbe12fcbeba/ep.1.1677620882.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=luo-xiao-hei-zhan-ji-movie-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/1d7d0385f252a0576a63add31c01846b7d4c35a1a2f94efd5ca80d170d061abed36f16fa5a01babad377a76d8a75d3983f6c015e09ae090e53513b649454b0e059fc71c2408bf19c8bfe64bbb6bfa22e02b81d0372995a82c4872c5f54bb6a2e53de24a152e67e732431cf8f94ff821fc1249b87028bc52d4db0151f883d4f66/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/3b/e1/3be14a9379aba0754b9d52a5f9b063fa/3be14a9379aba0754b9d52a5f9b063fa.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/be/be53030f3a63b149af387620c96495db/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/00f16e0142609deea36def3e9f749664c4531137895cd8dcab91a8c525ea9770109de780eb89ebe4ba0e06fb4c6ee1425591b2ecafae4e2af9e7b8d55f5634284f83fa409fc73654f19af84ee1171c14cc935bf08809e89fa613500f902153db20e7e86d5fc976fac1f4ca12e75af727135026ca9816381026c8dd69c50dc6eb/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/dc/65/dc65305488a63d45e6b855eded72c4b7/dc65305488a63d45e6b855eded72c4b7.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/be/be53030f3a63b149af387620c96495db/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/00f16e0142609deea36def3e9f749664c4531137895cd8dcab91a8c525ea9770109de780eb89ebe4ba0e06fb4c6ee1425591b2ecafae4e2af9e7b8d55f5634284f83fa409fc73654f19af84ee1171c14cc935bf08809e89fa613500f902153db20e7e86d5fc976fac1f4ca12e75af727135026ca9816381026c8dd69c50dc6eb/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www002.vipanicdn.net/streamhls/33a3a4ee375f92057008bd792cdd1266/ep.1.1677616639.m3u8"
@@ -54,9 +38,15 @@
             "DUBBED": "MTYxNzM4",
             "SUBBED": "MTQ2ODgx"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/dc/65/dc65305488a63d45e6b855eded72c4b7/dc65305488a63d45e6b855eded72c4b7.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/be/be53030f3a63b149af387620c96495db/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

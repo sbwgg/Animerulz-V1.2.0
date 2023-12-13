@@ -1,38 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/95a68a19907b8e7483ac4e4a05c4833dcbe8475f8f2259d6673496fad2937c6ee0f211865ca81c4dbdcd615e1605cc340fd9e9eecc80a46f5fac11cdaccf8b1294919adc433040abb0e9c4f1860816a4d724027381c09374bb817003629f8df89731bbbecf7a84ff52de06456430b0aa935825200c13e91beb81608dd8d5eff5/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=berserk-golden-age-arc-ii---the-battle-for-doldrey-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/95a68a19907b8e7483ac4e4a05c4833dcbe8475f8f2259d6673496fad2937c6ee0f211865ca81c4dbdcd615e1605cc340fd9e9eecc80a46f5fac11cdaccf8b1294919adc433040abb0e9c4f1860816a4d724027381c09374bb817003629f8df89731bbbecf7a84ff52de06456430b0aa935825200c13e91beb81608dd8d5eff5/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/05/05f9d3c36d4373208ec3aeaf74959ecd/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/3a1f4755e3f0c3164e1d15805e43bb5d991520aa439732dd8b5de35cf3d0861be83f918c9d4cf2d1459511801fb2c20a5ee02efc3abcd21a4b637dbd7f9ae0b228874caf7210369cedc4fa3d356ea71f7f4d5a8ff06fd12789fbcc1bb9237a874b7cd85a1d84c67032288fab8ada6de40e2a6fef52ad9ae54eddce125af43d2f/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/99/8c/998cc190f38ee903749e987f3863e93d/998cc190f38ee903749e987f3863e93d.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/05/05f9d3c36d4373208ec3aeaf74959ecd/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/3a1f4755e3f0c3164e1d15805e43bb5d991520aa439732dd8b5de35cf3d0861be83f918c9d4cf2d1459511801fb2c20a5ee02efc3abcd21a4b637dbd7f9ae0b228874caf7210369cedc4fa3d356ea71f7f4d5a8ff06fd12789fbcc1bb9237a874b7cd85a1d84c67032288fab8ada6de40e2a6fef52ad9ae54eddce125af43d2f/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www002.vipanicdn.net/streamhls/2826a3b2e48c17e795e0089882022496/ep.1.1677603999.m3u8"
@@ -46,9 +34,15 @@
         "downloadLink": {
             "SUBBED": "NTgyNjE="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/99/8c/998cc190f38ee903749e987f3863e93d/998cc190f38ee903749e987f3863e93d.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/05/05f9d3c36d4373208ec3aeaf74959ecd/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

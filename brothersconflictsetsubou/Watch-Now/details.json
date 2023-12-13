@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Special",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/e9c3533408ecbcd2e11a0951547e6d1f12ad438ce11bc83c4a00e27e13a06ba575d7e02d245f58b4bf316e62a1534a2aa7f9beaf88326c0525e176c5262ca7c19788efd6cde6ee39245c87f3b828c60554aa83c64e5560dd7c778db5ecd4821b64edbb7d70b1a030d52d1f320cddf4ee772e0d630db2aa7a8491b86972a011ec/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www033.vipanicdn.net/streamhls/dc2f490772411c61076cd74b690a6071/ep.1.1677825310.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=brothers-conflict-setsubou-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/e9c3533408ecbcd2e11a0951547e6d1f12ad438ce11bc83c4a00e27e13a06ba575d7e02d245f58b4bf316e62a1534a2aa7f9beaf88326c0525e176c5262ca7c19788efd6cde6ee39245c87f3b828c60554aa83c64e5560dd7c778db5ecd4821b64edbb7d70b1a030d52d1f320cddf4ee772e0d630db2aa7a8491b86972a011ec/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/57/57e77c8b73b09a1a7a2c0f3beee60c2e/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/5763fc953bf8e096d38d582ffae901285c72768b5565a55a1e7aeaaf4a8ffb0e4c8cde31da47287e17f98bf93981d50527c217c3b4d0d80f0f05dcff3e85801704f237bf8daad3636bc94f3003d83c73ea97691072f2ad2a74585b9235a33743d77a60e0ca45ed9e75e0bc8172a38684dad9f0b508eab9b5a7241e41c32b426e/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/d9/3f/d93fd9eadda489ab2bac74bf4e5750f9/eng-3.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/57/57e77c8b73b09a1a7a2c0f3beee60c2e/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/5763fc953bf8e096d38d582ffae901285c72768b5565a55a1e7aeaaf4a8ffb0e4c8cde31da47287e17f98bf93981d50527c217c3b4d0d80f0f05dcff3e85801704f237bf8daad3636bc94f3003d83c73ea97691072f2ad2a74585b9235a33743d77a60e0ca45ed9e75e0bc8172a38684dad9f0b508eab9b5a7241e41c32b426e/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www002.vipanicdn.net/streamhls/785c41ce14eaf8ee0173a5ee522666b0/ep.1.1677607824.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "MTcxNzIy",
             "SUBBED": "MTcxNzIx"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/d9/3f/d93fd9eadda489ab2bac74bf4e5750f9/eng-3.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/57/57e77c8b73b09a1a7a2c0f3beee60c2e/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

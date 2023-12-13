@@ -1,38 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/ac74e3d581516ddcbb65f636edbf3097601d7296adb447e86433fd907fa6ee2a8a44b71b0052e8201c22f1d24e793a71efc31422814337277db74c387132350ca94bdd2c6874e9d70a7ba080433b0ee2c40b42e727d92f4b18e7d2b51b12c7a984a2d1f861db0ea9a2a2c4cf000c1708e04d8c17c8b70c70afb1134902d01ea9/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=lupin-iii-hemingway-papers-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/ac74e3d581516ddcbb65f636edbf3097601d7296adb447e86433fd907fa6ee2a8a44b71b0052e8201c22f1d24e793a71efc31422814337277db74c387132350ca94bdd2c6874e9d70a7ba080433b0ee2c40b42e727d92f4b18e7d2b51b12c7a984a2d1f861db0ea9a2a2c4cf000c1708e04d8c17c8b70c70afb1134902d01ea9/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/37/3729c07cfbcbe0127bddfa14cd4f0430/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/e6f7cd1051e486085d2e25630ca1a68ef8c050263dfde84929f50b839d0c1694a6b469256ac1be6236f4f5d5c6fe55408bf2174d10de7cb7e7b431b8fd87854a52bdea6a960c1a21269e3ef0bbf92406108fcf2d577efe1b52aa53fc6e9ba5a6407e71983ed56d7d3c9be1b730ae08f9057443f2bb75649db6a65a5260fb9eea/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/e0/5d/e05dab31aa4fe0c0a9d1ab27af04f89c/e05dab31aa4fe0c0a9d1ab27af04f89c.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/37/3729c07cfbcbe0127bddfa14cd4f0430/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/e6f7cd1051e486085d2e25630ca1a68ef8c050263dfde84929f50b839d0c1694a6b469256ac1be6236f4f5d5c6fe55408bf2174d10de7cb7e7b431b8fd87854a52bdea6a960c1a21269e3ef0bbf92406108fcf2d577efe1b52aa53fc6e9ba5a6407e71983ed56d7d3c9be1b730ae08f9057443f2bb75649db6a65a5260fb9eea/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www017.vipanicdn.net/streamhls/bdd0280ce4aad8702b103533e91eeeb3/ep.1.1677661158.m3u8"
@@ -46,9 +34,15 @@
         "downloadLink": {
             "SUBBED": "NDA2MzY="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/e0/5d/e05dab31aa4fe0c0a9d1ab27af04f89c/e05dab31aa4fe0c0a9d1ab27af04f89c.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/37/3729c07cfbcbe0127bddfa14cd4f0430/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

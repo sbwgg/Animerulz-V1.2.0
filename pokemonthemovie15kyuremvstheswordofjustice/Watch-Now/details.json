@@ -1,54 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/209633f55d3a818573a769a6b0472d7d0c9e549b3e8e1659aaff7101c5ddfbfc8cbd9f023d431fef74324018f91cf32f0281d8f2573b7f9ac3045b0037fc7135358b36ba7574654703c7ec1effe0b04dd0617862578f51c3e4671ec82233e3bb4d2ca847ec242f3f37ee64845f6776123dd02d0e8e8543acc7aacd86671f0d91/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=pokemon-movie-15-kyurem-vs-seikenshi-keldeo-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/209633f55d3a818573a769a6b0472d7d0c9e549b3e8e1659aaff7101c5ddfbfc8cbd9f023d431fef74324018f91cf32f0281d8f2573b7f9ac3045b0037fc7135358b36ba7574654703c7ec1effe0b04dd0617862578f51c3e4671ec82233e3bb4d2ca847ec242f3f37ee64845f6776123dd02d0e8e8543acc7aacd86671f0d91/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/c4/c423e3015a68ff9f5713f400c6a0f66b/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/79a99b2860a8f29cd1db543474f9174ab97470f40566d5858c5614859cc7d7982dbfb3845d595a7d7afd772a0a113986dc95822adfb8d299b0e542a7b1e941c1afb6d97c0dc2b497c8b684b956135eee2c252b6f5f704d8ce7a8d8550c9e451f74ffb516a5b0f0b7d09f348ac2e74f9c044db9a7420ac54279a2efd125289c84/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/ed/51/ed51a354a18df2dd8440f858fedf5c8e/eng-13.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/ed/51/ed51a354a18df2dd8440f858fedf5c8e/por-9.vtt",
-                            "lang": "Portuguese - Portuguese (Brasil)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/ed/51/ed51a354a18df2dd8440f858fedf5c8e/por-10.vtt",
-                            "lang": "Portuguese - Portuguese (Portugal)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/ed/51/ed51a354a18df2dd8440f858fedf5c8e/spa-12.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/ed/51/ed51a354a18df2dd8440f858fedf5c8e/spa-11.vtt",
-                            "lang": "Spanish - Castilian"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/c4/c423e3015a68ff9f5713f400c6a0f66b/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/79a99b2860a8f29cd1db543474f9174ab97470f40566d5858c5614859cc7d7982dbfb3845d595a7d7afd772a0a113986dc95822adfb8d299b0e542a7b1e941c1afb6d97c0dc2b497c8b684b956135eee2c252b6f5f704d8ce7a8d8550c9e451f74ffb516a5b0f0b7d09f348ac2e74f9c044db9a7420ac54279a2efd125289c84/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www003.vipanicdn.net/streamhls/70341396595b8133a79a5682c9d15f48/ep.1.1677618962.m3u8"
@@ -62,9 +34,31 @@
         "downloadLink": {
             "SUBBED": "NDA1MzI="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/ed/51/ed51a354a18df2dd8440f858fedf5c8e/eng-13.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/ed/51/ed51a354a18df2dd8440f858fedf5c8e/por-9.vtt",
+                "lang": "Portuguese - Portuguese (Brasil)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/ed/51/ed51a354a18df2dd8440f858fedf5c8e/por-10.vtt",
+                "lang": "Portuguese - Portuguese (Portugal)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/ed/51/ed51a354a18df2dd8440f858fedf5c8e/spa-12.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/ed/51/ed51a354a18df2dd8440f858fedf5c8e/spa-11.vtt",
+                "lang": "Spanish - Castilian"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/c4/c423e3015a68ff9f5713f400c6a0f66b/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

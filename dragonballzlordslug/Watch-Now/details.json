@@ -1,38 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/94e1e11e7ec976caf17c034d9a9b04a6c6fd815053032ae7314f7093a84cebb749c1d4fd61bf8658b02a028599bbde86aca413e5c3a98799a5a70fa6368dfa2b3f9af3ee9562ea6c16b8d600004f20a1faee2cd683f65140fba3cbbd611659a391371c28b9c6ff4510cf2beab31b21f9a156acc2295b2269feeb846d3a8a7580/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=dragon-ball-z-movie-4-lord-slug-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/94e1e11e7ec976caf17c034d9a9b04a6c6fd815053032ae7314f7093a84cebb749c1d4fd61bf8658b02a028599bbde86aca413e5c3a98799a5a70fa6368dfa2b3f9af3ee9562ea6c16b8d600004f20a1faee2cd683f65140fba3cbbd611659a391371c28b9c6ff4510cf2beab31b21f9a156acc2295b2269feeb846d3a8a7580/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/db/db53e8f4073274bd804c4c7c77a79ba2/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/16982f1a6a8c5478f59e3fa8c37faa01c57f6d84e3bdb62a52c9c46339ee470ad86f461220ee51f568a6ce472a7d0add76b7f7aed915e06180a2af97dfc4b9a3af1bb52938616ab356efb76ae81c0d5c4c1c1985416a72e6f973000fb80e9f7d538bc6129612d340171aa9e1d78d2be6ea67d29dfb409e5eff52c0181b1d3338/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/06/65/0665d7ed2656943d9f7d3dc7cbc1109c/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/db/db53e8f4073274bd804c4c7c77a79ba2/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/16982f1a6a8c5478f59e3fa8c37faa01c57f6d84e3bdb62a52c9c46339ee470ad86f461220ee51f568a6ce472a7d0add76b7f7aed915e06180a2af97dfc4b9a3af1bb52938616ab356efb76ae81c0d5c4c1c1985416a72e6f973000fb80e9f7d538bc6129612d340171aa9e1d78d2be6ea67d29dfb409e5eff52c0181b1d3338/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www011.vipanicdn.net/streamhls/f15e1b478141fdac2e9d2625511c638d/ep.1.1677663029.m3u8"
@@ -46,9 +34,15 @@
         "downloadLink": {
             "SUBBED": "NDA3MjA="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/06/65/0665d7ed2656943d9f7d3dc7cbc1109c/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/db/db53e8f4073274bd804c4c7c77a79ba2/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

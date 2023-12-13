@@ -1,44 +1,18 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/5cdcfd9211f76eec471d122709f35dc38c31b3e677dffbe2e161bd320c20f04957dc5ab4da4a7c5a9793bfb4d1175bdc1ae2b7335f42e20dfef11a85749c19b31eeb5bb81e662adfda5acbb9196866002e879d960e580d81ba2e13500eb3ec612d6551b74e7a7249c7a8088ee9d0caa5e2434ec744374226043535f6445d9b96/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/38/c9/38c94fd1d0d998087cc49de0334f5462/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/38/c9/38c94fd1d0d998087cc49de0334f5462/ita-3.vtt",
-                            "lang": "Italian - Italiano"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/38/c9/38c94fd1d0d998087cc49de0334f5462/por-6.vtt",
-                            "lang": "Portuguese - Portugues(Brasil)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/38/c9/38c94fd1d0d998087cc49de0334f5462/rus-7.vtt",
-                            "lang": "Russian"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/38/c9/38c94fd1d0d998087cc49de0334f5462/spa-5.vtt",
-                            "lang": "Spanish - Espanol"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/38/c9/38c94fd1d0d998087cc49de0334f5462/spa-4.vtt",
-                            "lang": "Spanish - Espanol(Espana)"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/f8/f813584df2afb494ffa717184a762471/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/5cdcfd9211f76eec471d122709f35dc38c31b3e677dffbe2e161bd320c20f04957dc5ab4da4a7c5a9793bfb4d1175bdc1ae2b7335f42e20dfef11a85749c19b31eeb5bb81e662adfda5acbb9196866002e879d960e580d81ba2e13500eb3ec612d6551b74e7a7249c7a8088ee9d0caa5e2434ec744374226043535f6445d9b96/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www015.vipanicdn.net/streamhls/480d9635d9d5104a3237bfded382d8f7/ep.1.1677627410.m3u8"
@@ -52,9 +26,35 @@
         "downloadLink": {
             "SUBBED": "MTM1NTU0"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/38/c9/38c94fd1d0d998087cc49de0334f5462/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/38/c9/38c94fd1d0d998087cc49de0334f5462/ita-3.vtt",
+                "lang": "Italian - Italiano"
+            },
+            {
+                "url": "https://ccb.megaresources.co/38/c9/38c94fd1d0d998087cc49de0334f5462/por-6.vtt",
+                "lang": "Portuguese - Portugues(Brasil)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/38/c9/38c94fd1d0d998087cc49de0334f5462/rus-7.vtt",
+                "lang": "Russian"
+            },
+            {
+                "url": "https://ccb.megaresources.co/38/c9/38c94fd1d0d998087cc49de0334f5462/spa-5.vtt",
+                "lang": "Spanish - Espanol"
+            },
+            {
+                "url": "https://ccb.megaresources.co/38/c9/38c94fd1d0d998087cc49de0334f5462/spa-4.vtt",
+                "lang": "Spanish - Espanol(Espana)"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/f8/f813584df2afb494ffa717184a762471/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

@@ -1,50 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/7c3fa41ef9ecb12064794321efb1f9e613bfadbc6a177440b4cbd702a3f78d43be03c0ff59daa72d479dd15b2c3f28430f5e1e5d33cb8700c5634c3a1206635f6a180864885e3986d326781b849d6230d8c640f07d094abb9d05205a10dbd3111f87caea477b6b1e9a0e0e64c51fe09de4fa85c8e23e8ef7ef2897759cf04414/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=pokemon-movie-14-victini-to-kuroki-eiyuu-zekrom-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/7c3fa41ef9ecb12064794321efb1f9e613bfadbc6a177440b4cbd702a3f78d43be03c0ff59daa72d479dd15b2c3f28430f5e1e5d33cb8700c5634c3a1206635f6a180864885e3986d326781b849d6230d8c640f07d094abb9d05205a10dbd3111f87caea477b6b1e9a0e0e64c51fe09de4fa85c8e23e8ef7ef2897759cf04414/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/84/8423f651934672d5ef56e2cef14f74a0/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/c772e62c86dad41d3e58a02e07f99c4bf347584e50172b481544964f3be033961b2f45eb390e3d412ddfb18452a399e1427355d09ed4bf0826afeccbed4627c1764013986010ea467cc0a6a75f7531c6be2c5cbf195f67a877507dc05bee68eeb424ecd1d9e66f303f6f7ade4f3ac590fb4fd0ec48bca3621d89f9f2f033ab83/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/75/a2/75a2102f15bb403322f7aca2cc887851/eng-11.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/75/a2/75a2102f15bb403322f7aca2cc887851/fre-12.vtt",
-                            "lang": "French"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/75/a2/75a2102f15bb403322f7aca2cc887851/por-9.vtt",
-                            "lang": "Portuguese - Portuguese (Brazil)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/75/a2/75a2102f15bb403322f7aca2cc887851/spa-10.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/84/8423f651934672d5ef56e2cef14f74a0/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/c772e62c86dad41d3e58a02e07f99c4bf347584e50172b481544964f3be033961b2f45eb390e3d412ddfb18452a399e1427355d09ed4bf0826afeccbed4627c1764013986010ea467cc0a6a75f7531c6be2c5cbf195f67a877507dc05bee68eeb424ecd1d9e66f303f6f7ade4f3ac590fb4fd0ec48bca3621d89f9f2f033ab83/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www001.vipanicdn.net/streamhls/e8795f881a618041cceb3fdaaf583713/ep.1.1677660941.m3u8"
@@ -58,9 +34,27 @@
         "downloadLink": {
             "SUBBED": "NDA1MzA="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/75/a2/75a2102f15bb403322f7aca2cc887851/eng-11.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/75/a2/75a2102f15bb403322f7aca2cc887851/fre-12.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/75/a2/75a2102f15bb403322f7aca2cc887851/por-9.vtt",
+                "lang": "Portuguese - Portuguese (Brazil)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/75/a2/75a2102f15bb403322f7aca2cc887851/spa-10.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/84/8423f651934672d5ef56e2cef14f74a0/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

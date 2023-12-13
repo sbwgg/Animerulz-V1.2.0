@@ -1,42 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/4fd7735ceda67dd4f8273141f41db0bb9b1664223f1e131d34ef650388b89497633206107c994dfba83cc196f6b483a196a85bb4ec151b6635d414e411c864ab0de7fc9e3855b57fe814ff0772b4834391b4db96803b73ac9f9c0ff097d52ba433942cf4814ea0f8251b9684df48dd68fc8c81a23391eec45fc2f82964c21a50/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=sora-no-aosa-wo-shiru-hito-yo-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/4fd7735ceda67dd4f8273141f41db0bb9b1664223f1e131d34ef650388b89497633206107c994dfba83cc196f6b483a196a85bb4ec151b6635d414e411c864ab0de7fc9e3855b57fe814ff0772b4834391b4db96803b73ac9f9c0ff097d52ba433942cf4814ea0f8251b9684df48dd68fc8c81a23391eec45fc2f82964c21a50/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/14/14ddc1fe7d438f12d668e1ad788c0fe1/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/2df4a8b4d85ebd57b23a3e9ff918ec1860b319e9699ebb427447d8aefe1aa77e697b4dde00b430d8a6085f300ee130f38984d2eaf8cdd288441913bfc04404a7f199c91e6de8cfd3796c2801dc76768501d71b0af7539705d7037f316556cc796a70941fcd472aaa035409ae95ff3770b27b80bee7a35b2bd097eaab1b4ff72a/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/2b/3c/2b3cccc14f3aff4648541f29b40cc08c/2b3cccc14f3aff4648541f29b40cc08c.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/8e/4a/8e4a683b3647ff52a13ba19cf89de748/eng-0.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/14/14ddc1fe7d438f12d668e1ad788c0fe1/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/2df4a8b4d85ebd57b23a3e9ff918ec1860b319e9699ebb427447d8aefe1aa77e697b4dde00b430d8a6085f300ee130f38984d2eaf8cdd288441913bfc04404a7f199c91e6de8cfd3796c2801dc76768501d71b0af7539705d7037f316556cc796a70941fcd472aaa035409ae95ff3770b27b80bee7a35b2bd097eaab1b4ff72a/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www002.vipanicdn.net/streamhls/f5fe328f8315c833dc5340ebbf7f19e2/ep.1.1677604648.m3u8"
@@ -50,9 +34,19 @@
         "downloadLink": {
             "SUBBED": "MTQwOTcx"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/2b/3c/2b3cccc14f3aff4648541f29b40cc08c/2b3cccc14f3aff4648541f29b40cc08c.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/8e/4a/8e4a683b3647ff52a13ba19cf89de748/eng-0.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/14/14ddc1fe7d438f12d668e1ad788c0fe1/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

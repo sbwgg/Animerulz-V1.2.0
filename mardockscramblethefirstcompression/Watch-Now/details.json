@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/d540b3cfe699e1c87df3908f7321a0dfeea5f632cfb6e4b00b237df795402d1f7dee535f71a5fd95963ee6eb5fc7bfe015ee201b7e8c11950dd538b8cb5daccd583e6fa2c640bc575f080795bb2ea1e119eccd6f68ea5e2a771bb016aa09f0ed52335341752c6e7e06ba8e39d03ae68656430e9291d8178cd7808ba70b4e6e69/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www020.vipanicdn.net/streamhls/f1ec0c59da176e8829e8e84ef6715d26/ep.1.1677685901.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=mardock-scramble-the-first-compression-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/d540b3cfe699e1c87df3908f7321a0dfeea5f632cfb6e4b00b237df795402d1f7dee535f71a5fd95963ee6eb5fc7bfe015ee201b7e8c11950dd538b8cb5daccd583e6fa2c640bc575f080795bb2ea1e119eccd6f68ea5e2a771bb016aa09f0ed52335341752c6e7e06ba8e39d03ae68656430e9291d8178cd7808ba70b4e6e69/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/f6/f667e9bb9789bb2a0123260f69ad74b2/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/35f79fdebfcc4dabb9c76e0ebcfdd97ad3276e1d71e9a467dae168b5c63ad0e4a1ce272fffa88ec4490b5f6de53b3fc6d675de0c7997fb4ecbdfd1375057beeaf6d5bfd2d206d3a549ab741711a2d6e1751411ca641df083ca622315b9e404905cc90301f42794cd642b29e1d35b6e56cc74284730627f2cad418da0b49ae51e/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/1e/dd/1edda43b092c11b12c265b6967fdef23/eng-3.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/f6/f667e9bb9789bb2a0123260f69ad74b2/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/35f79fdebfcc4dabb9c76e0ebcfdd97ad3276e1d71e9a467dae168b5c63ad0e4a1ce272fffa88ec4490b5f6de53b3fc6d675de0c7997fb4ecbdfd1375057beeaf6d5bfd2d206d3a549ab741711a2d6e1751411ca641df083ca622315b9e404905cc90301f42794cd642b29e1d35b6e56cc74284730627f2cad418da0b49ae51e/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www016.vipanicdn.net/streamhls/6747674ce079aa9a7ec2fdce68674894/ep.1.1677659584.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "MTA5MzM5",
             "SUBBED": "NDA2MDU="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/1e/dd/1edda43b092c11b12c265b6967fdef23/eng-3.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/f6/f667e9bb9789bb2a0123260f69ad74b2/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

@@ -1,38 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/a1510a49d8639e51adb1d4bd8b8f220911439c278f7337e07b21d1de3568a468c0690c6b35c5c3ffd1f028899be7819c7e7d88567ca501e3114143091808a67d06cdfc59536c0eb142644e662394a1d22d984588045c4db44a7a3d0b7679f4ce10673e14ce2dd1350c88a345754a283a37e94ea2f64ccf89180dc9d914c77432/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=inuyasha-movie-3-swords-of-an-honorable-ruler-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/a1510a49d8639e51adb1d4bd8b8f220911439c278f7337e07b21d1de3568a468c0690c6b35c5c3ffd1f028899be7819c7e7d88567ca501e3114143091808a67d06cdfc59536c0eb142644e662394a1d22d984588045c4db44a7a3d0b7679f4ce10673e14ce2dd1350c88a345754a283a37e94ea2f64ccf89180dc9d914c77432/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/f0/f006b2e44ec0958e516d3f09ff8f283a/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/c8db1e7c673f76c7a69510fbca2c444c2965530c045ad2db2e6ad4ff569fe5e11bb696cf24f7e699d3175d3ed201eb07b47b96243242fa59a706389b825296bba85469217b7fb3713601ef48b974429a8480c9bd15190009a3a1fbef4292afa67049fbaf0fe61b0578ef6909d42fe1f04921c5c953843b89e94755cce5d2bb5a/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/64/ec/64ec46cb611bf3b6d26a345b669b27b7/eng-3.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/f0/f006b2e44ec0958e516d3f09ff8f283a/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/c8db1e7c673f76c7a69510fbca2c444c2965530c045ad2db2e6ad4ff569fe5e11bb696cf24f7e699d3175d3ed201eb07b47b96243242fa59a706389b825296bba85469217b7fb3713601ef48b974429a8480c9bd15190009a3a1fbef4292afa67049fbaf0fe61b0578ef6909d42fe1f04921c5c953843b89e94755cce5d2bb5a/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www029.vipanicdn.net/streamhls/1e88e78a4682c6eb28b09383c2b8a97a/ep.1.1677662746.m3u8"
@@ -46,9 +34,15 @@
         "downloadLink": {
             "SUBBED": "NDA2Nzg="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/64/ec/64ec46cb611bf3b6d26a345b669b27b7/eng-3.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/f0/f006b2e44ec0958e516d3f09ff8f283a/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

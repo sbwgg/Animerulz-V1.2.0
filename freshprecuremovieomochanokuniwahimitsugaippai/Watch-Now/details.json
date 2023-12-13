@@ -1,46 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/7e16744ca35ede08ef340035f092b34e66223ae960ce50c0761b089f0f0f4fc016f2b56408e8d5866828e2eb97e22391fa1d5c9bfb740211774e4b571e501c8f30bd08b0db76adcc7771d50130cc05006eff16f445cb2af6034564c5a3e7535a5ec5b396ae07cd39a2b282e0706b8aa6/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=fresh-precure-movie-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/7e16744ca35ede08ef340035f092b34e66223ae960ce50c0761b089f0f0f4fc016f2b56408e8d5866828e2eb97e22391fa1d5c9bfb740211774e4b571e501c8f30bd08b0db76adcc7771d50130cc05006eff16f445cb2af6034564c5a3e7535a5ec5b396ae07cd39a2b282e0706b8aa6/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/96/964fafe6ac1136986620c088fbb08931/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/c1ac4b89dca7dfe2372ffe7eefa949af06fc2698e4d53f616e8390829d728a399c039c52ca78ef5dbbbdc0a8a8cdd35a797aeb9649f6147a27ca9dfea8d7f1db2ea91f25526df2af21e959348265df0c6f6ed8f70cf65ea105f846eb1a576ee6d4d551cbc6db5d575e4be57a81ae83ba/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/1d/02/1d02b652f1479dc1db5ad9336badd438/eng-3.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/16/f7/16f7f200dd77e6bd91ffd1a301714c1a/eng-3.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/16/f7/16f7f200dd77e6bd91ffd1a301714c1a/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/96/964fafe6ac1136986620c088fbb08931/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/c1ac4b89dca7dfe2372ffe7eefa949af06fc2698e4d53f616e8390829d728a399c039c52ca78ef5dbbbdc0a8a8cdd35a797aeb9649f6147a27ca9dfea8d7f1db2ea91f25526df2af21e959348265df0c6f6ed8f70cf65ea105f846eb1a576ee6d4d551cbc6db5d575e4be57a81ae83ba/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www027.vipanicdn.net/streamhls/3d6c6797f64749269b7d9fb8cd47d2fd/ep.1.1677676052.m3u8"
@@ -54,9 +34,23 @@
         "downloadLink": {
             "SUBBED": "NDEwNjY="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/1d/02/1d02b652f1479dc1db5ad9336badd438/eng-3.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/16/f7/16f7f200dd77e6bd91ffd1a301714c1a/eng-3.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/16/f7/16f7f200dd77e6bd91ffd1a301714c1a/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/96/964fafe6ac1136986620c088fbb08931/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

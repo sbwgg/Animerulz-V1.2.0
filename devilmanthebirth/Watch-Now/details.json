@@ -1,38 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/f68f22171d94d2452b3169755544c3e3b78c3f4151ea781965c2217e1fdc50d20004fc87e4df19038323c1a2fa5de3bef0bd261f00a41c3e3220e02dec0e7cd344d558e3ace25ec7d1e9584ae1028ee52b3416a72c4a90aa9400d701a00bf14aa1618824287ffb4aebd72caf1cbb9402858a6007b6233577cc1aa8b198fe728b/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=devilman-tanjou-hen-dub-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/f68f22171d94d2452b3169755544c3e3b78c3f4151ea781965c2217e1fdc50d20004fc87e4df19038323c1a2fa5de3bef0bd261f00a41c3e3220e02dec0e7cd344d558e3ace25ec7d1e9584ae1028ee52b3416a72c4a90aa9400d701a00bf14aa1618824287ffb4aebd72caf1cbb9402858a6007b6233577cc1aa8b198fe728b/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/73/73b5729f634cb590fc4b9003d41b6cea/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/72f1543f2e4f19e83daa39361b1a20e884cd6f3c4d0ea051006dd2479f7f83c008f6a4882635900f6eb0ae67fdff0d13749aac7a2aa8818edefcdf87d152877bd9f7a0a3ad4d845e483520076dbffdb83ef17acdaa8f8aa7829b219a863ff51b943aef8e0ffe3b9f55fbe5e24deb8244f454bfcec1c6f393e1a526f0b560d952/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/a1/a8/a1a8fbed0f62078d1d903fdc1a4db1d2/a1a8fbed0f62078d1d903fdc1a4db1d2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/73/73b5729f634cb590fc4b9003d41b6cea/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/72f1543f2e4f19e83daa39361b1a20e884cd6f3c4d0ea051006dd2479f7f83c008f6a4882635900f6eb0ae67fdff0d13749aac7a2aa8818edefcdf87d152877bd9f7a0a3ad4d845e483520076dbffdb83ef17acdaa8f8aa7829b219a863ff51b943aef8e0ffe3b9f55fbe5e24deb8244f454bfcec1c6f393e1a526f0b560d952/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www030.vipanicdn.net/streamhls/5b20b5f51482c4a13ef7231729673350/ep.1.1677697010.m3u8"
@@ -46,9 +34,15 @@
         "downloadLink": {
             "SUBBED": "MTM4OTI5"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/a1/a8/a1a8fbed0f62078d1d903fdc1a4db1d2/a1a8fbed0f62078d1d903fdc1a4db1d2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/73/73b5729f634cb590fc4b9003d41b6cea/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

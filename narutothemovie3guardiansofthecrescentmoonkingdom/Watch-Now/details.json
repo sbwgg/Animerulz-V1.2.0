@@ -1,38 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/ccc60ab5046823e0ade552c10cd60ca85a9910ed131de563e32a3d64cac8bac6066541559c6dd803b9dcad3b2a7c2d6883f622a5ef6d6fdb42134189c4f0c6cd5c4e1fa253b0b22fb3544e80cd68870446bb0c0cc39eea380ede1faf7790d31d8d610edfdc8fe58779ed68e24215eaf5738de3aa9db8cad2c4365d0f7a9eea96/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=naruto-movie-3-dai-koufun-mikazukijima-no-animal-panic-datte-ba-yo-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/ccc60ab5046823e0ade552c10cd60ca85a9910ed131de563e32a3d64cac8bac6066541559c6dd803b9dcad3b2a7c2d6883f622a5ef6d6fdb42134189c4f0c6cd5c4e1fa253b0b22fb3544e80cd68870446bb0c0cc39eea380ede1faf7790d31d8d610edfdc8fe58779ed68e24215eaf5738de3aa9db8cad2c4365d0f7a9eea96/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/4c/4c37e01bfba3845e2380e06a91c711f3/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/649a3458d918ca452c33fb662f5d7947e284e3df502f0fd9eea15a2db038f019f29d6793b1f38ef3cc4e7f01bafe502aa5a98da34da2a739e4a5afe13e25d19ae613dba799dae95ece16c79a05363de43bedf916c55105b8725db77b230749c9af2ebecae5d6c5b79c39750df9b214cd6126d3eea387e4cc92623c132d1bb375/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/7a/c7/7ac7b2a9ca5063a7bc2c9387d216ce6a/eng-3.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/4c/4c37e01bfba3845e2380e06a91c711f3/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/649a3458d918ca452c33fb662f5d7947e284e3df502f0fd9eea15a2db038f019f29d6793b1f38ef3cc4e7f01bafe502aa5a98da34da2a739e4a5afe13e25d19ae613dba799dae95ece16c79a05363de43bedf916c55105b8725db77b230749c9af2ebecae5d6c5b79c39750df9b214cd6126d3eea387e4cc92623c132d1bb375/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www026.vipanicdn.net/streamhls/7c305b4e7d7d865a044fd7537cc762a4/ep.1.1677662864.m3u8"
@@ -46,9 +34,15 @@
         "downloadLink": {
             "SUBBED": "NDA1ODU="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/7a/c7/7ac7b2a9ca5063a7bc2c9387d216ce6a/eng-3.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/4c/4c37e01bfba3845e2380e06a91c711f3/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

@@ -1,38 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/db9955cd58345af2cfcce46437c54550335ee7947b8d11230becd0df47549d6ae5a386e119a297b020144ad9cee26be96209f9bf23d4a966f290f88cb650f03b92a12e3a791442a8cb9a835120ae5f63880a3c90aed175bdddd03c51b51a9185ae6c088f2d77dae3dc341e44c112a6a295250fb318fb2ee3f5551c1df8338c8c/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=naruto-movie-2-dai-gekitotsu-maboroshi-no-chitei-iseki-datte-ba-yo-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/db9955cd58345af2cfcce46437c54550335ee7947b8d11230becd0df47549d6ae5a386e119a297b020144ad9cee26be96209f9bf23d4a966f290f88cb650f03b92a12e3a791442a8cb9a835120ae5f63880a3c90aed175bdddd03c51b51a9185ae6c088f2d77dae3dc341e44c112a6a295250fb318fb2ee3f5551c1df8338c8c/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/b6/b6d664d08ea19d1d85ba11cbe081a22b/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/20bc524e32c867e18f1e74c097dfb74c6f5300e6404d48104da89c561fff771940c7655d9f31546b9b479c5265632c9fe10483c79203935cb29d5ce0d7832622db7caa40859df6c38d34711d760a0e78dc637eac3182671c576b121f9e68b8beb92d35962e7c4e24ab083406cebe723ca8707ad864ba7d5c20b26e9603d72a88/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/80/70/8070d19c0d0bb52a726140df0a3aeaf7/eng-3.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/b6/b6d664d08ea19d1d85ba11cbe081a22b/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/20bc524e32c867e18f1e74c097dfb74c6f5300e6404d48104da89c561fff771940c7655d9f31546b9b479c5265632c9fe10483c79203935cb29d5ce0d7832622db7caa40859df6c38d34711d760a0e78dc637eac3182671c576b121f9e68b8beb92d35962e7c4e24ab083406cebe723ca8707ad864ba7d5c20b26e9603d72a88/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www025.vipanicdn.net/streamhls/eeb73cc3403fec2541c6e22c7d2d2502/ep.1.1677691749.m3u8"
@@ -46,9 +34,15 @@
         "downloadLink": {
             "SUBBED": "NDA1ODQ="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/80/70/8070d19c0d0bb52a726140df0a3aeaf7/eng-3.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/b6/b6d664d08ea19d1d85ba11cbe081a22b/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

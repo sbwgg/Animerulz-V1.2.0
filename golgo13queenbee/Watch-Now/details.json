@@ -1,45 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/9f31963a5088156a72353722b4a041533618b378eebe9e93d359a0192187ecf68051caecea95310f0f43b0670c76b7ed054d7089f656178723a1cdf2c6a88b4ffed8a47f2d497c736f1c660d523a04e398c3523b352be633ad4679a24ed1ca952ad0688cdeda3117e42167cd5bca2a0364a82ab9968b9ad1f6bcd5bc480d82ca/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www026.vipanicdn.net/streamhls/84b22e91860b68072f7b5e31f9210aca/ep.1.1677688939.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=golgo-13-queen-bee-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/9f31963a5088156a72353722b4a041533618b378eebe9e93d359a0192187ecf68051caecea95310f0f43b0670c76b7ed054d7089f656178723a1cdf2c6a88b4ffed8a47f2d497c736f1c660d523a04e398c3523b352be633ad4679a24ed1ca952ad0688cdeda3117e42167cd5bca2a0364a82ab9968b9ad1f6bcd5bc480d82ca/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/2d/5e/2d5ecc25a013485e6c8c754669394d7d/2d5ecc25a013485e6c8c754669394d7d.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/fb/fb2817a3cd9c713ef4cb5997c7a3f7a8/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/540abf3d18a963d866a7cb28067d3a595c8b5077f6cf04e32eb63e2fb68c76cf0894b9f8e46b1239a90b82b7fde8b63f8bf48c01342e6ca4dc5f073ce538893b8e3400e5a46d7107bda148a7b16b6b1fde7232635a3fdf7f9dd0e430983a708772de5f7252fa12de197571eccba5236f596acadb57faf0c72d90efb3c676fd96/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/d8/04/d8041cc787224e6a2c70f4c26d42f092/d8041cc787224e6a2c70f4c26d42f092.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/fb/fb2817a3cd9c713ef4cb5997c7a3f7a8/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/540abf3d18a963d866a7cb28067d3a595c8b5077f6cf04e32eb63e2fb68c76cf0894b9f8e46b1239a90b82b7fde8b63f8bf48c01342e6ca4dc5f073ce538893b8e3400e5a46d7107bda148a7b16b6b1fde7232635a3fdf7f9dd0e430983a708772de5f7252fa12de197571eccba5236f596acadb57faf0c72d90efb3c676fd96/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www002.vipanicdn.net/streamhls/287b9831bd83740bb8752b7119d6b35d/ep.1.1677684970.m3u8"
@@ -54,9 +38,15 @@
             "DUBBED": "MTA3MTg1",
             "SUBBED": "MTE0MDMx"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/d8/04/d8041cc787224e6a2c70f4c26d42f092/d8041cc787224e6a2c70f4c26d42f092.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/fb/fb2817a3cd9c713ef4cb5997c7a3f7a8/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

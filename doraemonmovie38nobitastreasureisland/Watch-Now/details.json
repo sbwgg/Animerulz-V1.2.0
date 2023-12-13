@@ -1,32 +1,18 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/7074c04595858b9063c66b5bf8990e2579ef54883ea09d191cc6a3b088b84a0d190cd44a3d0ce1d18cad4cc75b869509ab1c9d8363bc754203a9424fd56c73f5051cd3dcfff7a5a64ef1c8e1599382de97611cc95e6156cffb1502925a402d064106eab52a3f7044ed09f03b47aef69976a1dbf72769afea49031335c19549ed/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/18/75/187525b0a8312354b18b82cec39841be/187525b0a8312354b18b82cec39841be.vtt",
-                            "lang": "Chinese"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/d5/1e/d51ebfaf1dc4a729b120c451a84ab2bb/d51ebfaf1dc4a729b120c451a84ab2bb.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/6a/de/6adefc195f28635513e01c41951605c5/6adefc195f28635513e01c41951605c5.vtt",
-                            "lang": "Malay"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/93/937551fda7a738186ba901903133629d/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/7074c04595858b9063c66b5bf8990e2579ef54883ea09d191cc6a3b088b84a0d190cd44a3d0ce1d18cad4cc75b869509ab1c9d8363bc754203a9424fd56c73f5051cd3dcfff7a5a64ef1c8e1599382de97611cc95e6156cffb1502925a402d064106eab52a3f7044ed09f03b47aef69976a1dbf72769afea49031335c19549ed/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www022.vipanicdn.net/streamhls/dcf8bb765e99c3cbd0fff24235b4bc61/ep.1.1677626891.m3u8"
@@ -40,9 +26,23 @@
         "downloadLink": {
             "SUBBED": "MTI4NDUx"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/18/75/187525b0a8312354b18b82cec39841be/187525b0a8312354b18b82cec39841be.vtt",
+                "lang": "Chinese"
+            },
+            {
+                "url": "https://ccb.megaresources.co/d5/1e/d51ebfaf1dc4a729b120c451a84ab2bb/d51ebfaf1dc4a729b120c451a84ab2bb.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/6a/de/6adefc195f28635513e01c41951605c5/6adefc195f28635513e01c41951605c5.vtt",
+                "lang": "Malay"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/93/937551fda7a738186ba901903133629d/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

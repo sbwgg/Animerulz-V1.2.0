@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/d03e41025761e56208523017153b62e53180397326ecd5d93dbe382b7b9b2efe73f61d67d80899a339632dc221a4ccd7dac11e2b3f8176b540e4d12daa68845d30ae19ed822f0ba8f7b9b43afa210735ba2c225c047c514ccc0d19e4eca0f7b85492d7301f159da0d4779adb3e7d33afb978399999266eb9292a08bfc86fec93/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www013.vipanicdn.net/streamhls/5d6d52c9b8c7b025e8cb205d49d21118/ep.1.1677669828.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=sailor-moon-r-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/d03e41025761e56208523017153b62e53180397326ecd5d93dbe382b7b9b2efe73f61d67d80899a339632dc221a4ccd7dac11e2b3f8176b540e4d12daa68845d30ae19ed822f0ba8f7b9b43afa210735ba2c225c047c514ccc0d19e4eca0f7b85492d7301f159da0d4779adb3e7d33afb978399999266eb9292a08bfc86fec93/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/1f/1f5efce7aab04e581f710678c1bfb0c9/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/1dd6ba81cfb3ebc7a666693a53ae72749cf43a300af066454d91bf36b527d18c23b4e723a7cf15f23ad450a0e168c41947f9146a6e57607fa311a83dfbad65ccd1307083d8e1aaab0c3e7af45991d59b91ea3d3d6c4c1f3a31e32e7e0cbf94f1eff37b2fb6645913532cede2b53c64581e769b058d2feecde3224ebb0dca1347/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/4b/21/4b2146c51556ca0edac974c7cf899186/4b2146c51556ca0edac974c7cf899186.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/1f/1f5efce7aab04e581f710678c1bfb0c9/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/1dd6ba81cfb3ebc7a666693a53ae72749cf43a300af066454d91bf36b527d18c23b4e723a7cf15f23ad450a0e168c41947f9146a6e57607fa311a83dfbad65ccd1307083d8e1aaab0c3e7af45991d59b91ea3d3d6c4c1f3a31e32e7e0cbf94f1eff37b2fb6645913532cede2b53c64581e769b058d2feecde3224ebb0dca1347/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www015.vipanicdn.net/streamhls/758ea69babdc53bedba6bda59e9f6ca7/ep.1.1677636870.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "ODAyMDI=",
             "SUBBED": "NDY1NDQ="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/4b/21/4b2146c51556ca0edac974c7cf899186/4b2146c51556ca0edac974c7cf899186.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/1f/1f5efce7aab04e581f710678c1bfb0c9/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

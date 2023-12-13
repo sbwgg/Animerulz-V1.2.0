@@ -1,38 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/030333b8fe2d63f1cc84e18a9399a2249f06fea436184ad9595563733414e1caecca109589d831e7e9ef7c0b49907dabb8433abe93881a53c7cdfd3ce664af99d6216cc24a330f9f5766531ae4d0d740293ed2c24cbe75c40aa32e90054c01bb928331a2a532e3b4c6714ee52efe6853f6346316637c0c471852ac8272563d74/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=mahou-shoujo-madoka-magica-movie-3-rebellion-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/030333b8fe2d63f1cc84e18a9399a2249f06fea436184ad9595563733414e1caecca109589d831e7e9ef7c0b49907dabb8433abe93881a53c7cdfd3ce664af99d6216cc24a330f9f5766531ae4d0d740293ed2c24cbe75c40aa32e90054c01bb928331a2a532e3b4c6714ee52efe6853f6346316637c0c471852ac8272563d74/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/3b/3bd37ddfc1cfb22a1ffba70b78788737/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/bc9f03a53f78b5009190d58cc2f195c41eec19f1de3a333552c2c3ba90ce64bd6fda4ec5a85f804862b715772fbc0ff5a39d368cc84ae6415b864701c86bdd089a125a9555782f48e648d988e269fe391513661ddc4d0b564e1ac28d5ca07c2a0337e6a7b044268ae9bcfe6829f82275d3c66aaf5a48a693cbc2aac8ae590b6c/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/81/be/81be891710eacf5be77782ff17a272d5/81be891710eacf5be77782ff17a272d5.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/3b/3bd37ddfc1cfb22a1ffba70b78788737/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/bc9f03a53f78b5009190d58cc2f195c41eec19f1de3a333552c2c3ba90ce64bd6fda4ec5a85f804862b715772fbc0ff5a39d368cc84ae6415b864701c86bdd089a125a9555782f48e648d988e269fe391513661ddc4d0b564e1ac28d5ca07c2a0337e6a7b044268ae9bcfe6829f82275d3c66aaf5a48a693cbc2aac8ae590b6c/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www028.vipanicdn.net/streamhls/fe5ddd8d212fddc163cf08d214bbf54d/ep.1.1677663461.m3u8"
@@ -46,9 +34,15 @@
         "downloadLink": {
             "SUBBED": "NDI3NDc="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/81/be/81be891710eacf5be77782ff17a272d5/81be891710eacf5be77782ff17a272d5.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/3b/3bd37ddfc1cfb22a1ffba70b78788737/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

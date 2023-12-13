@@ -1,42 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/b3a02595ad23005aadc46adfddf6d6e4499770043c60286e206bd019c918fa1b00d1d24566e57c977dbd2c1acdcd7e5e35d1577716b549507f3c726dca9ca6ab930642da0404852314060caa69d993afe063c1f76ffb6d928c116fcc83a0de5d9a96db1bf515e6e6dd4327e05be5038cb97a322aa7f6f28d137f13249e4b7fac/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=escaflowne-the-movie-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/b3a02595ad23005aadc46adfddf6d6e4499770043c60286e206bd019c918fa1b00d1d24566e57c977dbd2c1acdcd7e5e35d1577716b549507f3c726dca9ca6ab930642da0404852314060caa69d993afe063c1f76ffb6d928c116fcc83a0de5d9a96db1bf515e6e6dd4327e05be5038cb97a322aa7f6f28d137f13249e4b7fac/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/61/61d347b32f02a8074f7a695522e63da3/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/8310742cacc5bcbf708d5ab17279927fa0bab56489d3ea74aa4bf080717657743115f6550aa3a61758aa84e276a5abbc93ec247af32df0372e60040cdbf273b58064f19ea8ead90f1d0e9eb1715b58aeb93744c80a236c3bf5e3b23eb60c41e94c925abc67065284fdf7bbd0315bc984ce5f0e3d7c9d711c1fca71c8162ea5af/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/b5/6e/b56e3043666f4cdd7aabe6db6ecfcaf0/b56e3043666f4cdd7aabe6db6ecfcaf0.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/2d/d0/2dd0854ed5b9c4fdcb2fd5cb79018f4e/jpn-5.vtt",
-                            "lang": "Japanese - English Dialogue (niizk/R1)"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/61/61d347b32f02a8074f7a695522e63da3/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/8310742cacc5bcbf708d5ab17279927fa0bab56489d3ea74aa4bf080717657743115f6550aa3a61758aa84e276a5abbc93ec247af32df0372e60040cdbf273b58064f19ea8ead90f1d0e9eb1715b58aeb93744c80a236c3bf5e3b23eb60c41e94c925abc67065284fdf7bbd0315bc984ce5f0e3d7c9d711c1fca71c8162ea5af/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www023.vipanicdn.net/streamhls/07c03c2ac8f0f2014f05e6d348a20f5e/ep.1.1677687292.m3u8"
@@ -50,9 +34,19 @@
         "downloadLink": {
             "SUBBED": "NDA3NjI="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/b5/6e/b56e3043666f4cdd7aabe6db6ecfcaf0/b56e3043666f4cdd7aabe6db6ecfcaf0.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/2d/d0/2dd0854ed5b9c4fdcb2fd5cb79018f4e/jpn-5.vtt",
+                "lang": "Japanese - English Dialogue (niizk/R1)"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/61/61d347b32f02a8074f7a695522e63da3/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

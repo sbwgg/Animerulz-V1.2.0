@@ -1,45 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/671c84e486d68d6566de5f70e6db0f1eca964247cdda7522ead096deb0b422b4a7656678219460e5b095ad83ce1e42359d4c7a3bceca00dde091afeacdec5a881693deca4c7f005c7bcb408079a6ab26cfe7b8a49e21691e8623f1c6ace3b83c3643bcd1fd799cd62f0971497356ff23b1da53e93701eae1c3e19def78aaa4dd/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www030.vipanicdn.net/streamhls/6d9005158c9af307080db73ab74e13b4/ep.1.1677683327.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=gall-force-2-destruction-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/671c84e486d68d6566de5f70e6db0f1eca964247cdda7522ead096deb0b422b4a7656678219460e5b095ad83ce1e42359d4c7a3bceca00dde091afeacdec5a881693deca4c7f005c7bcb408079a6ab26cfe7b8a49e21691e8623f1c6ace3b83c3643bcd1fd799cd62f0971497356ff23b1da53e93701eae1c3e19def78aaa4dd/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/49/41/4941a0a1172ade4a75ffc3f4ac60137a/4941a0a1172ade4a75ffc3f4ac60137a.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/0d/0d0ecd12ceac41f295a81dc56f0feeda/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/dd3fc649b99181f9d60485f311ea03f12f0e2ac239085c5297b1327695319e6c59b69cf7eb02a327f12df5c7ad5cfef027029ad948987693ba2db7a25e8d708688942d723e0aeaee9700f9cbb58deabda8dd07cbc3b338dd1cbd0b983c5bf97c5662948284524889185e19a67e3eacaa940424847c789c9b2d380fc556a4c5e4/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/ab/36/ab3613355e394059b6fac8a515e33aec/ab3613355e394059b6fac8a515e33aec.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/0d/0d0ecd12ceac41f295a81dc56f0feeda/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/dd3fc649b99181f9d60485f311ea03f12f0e2ac239085c5297b1327695319e6c59b69cf7eb02a327f12df5c7ad5cfef027029ad948987693ba2db7a25e8d708688942d723e0aeaee9700f9cbb58deabda8dd07cbc3b338dd1cbd0b983c5bf97c5662948284524889185e19a67e3eacaa940424847c789c9b2d380fc556a4c5e4/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www017.vipanicdn.net/streamhls/552ae2f9749d606a1e32a671267a7e71/ep.1.1677702376.m3u8"
@@ -54,9 +38,15 @@
             "DUBBED": "MTA3MDA5",
             "SUBBED": "MTQxNjc2"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/ab/36/ab3613355e394059b6fac8a515e33aec/ab3613355e394059b6fac8a515e33aec.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/0d/0d0ecd12ceac41f295a81dc56f0feeda/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

@@ -1,24 +1,18 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "High School DxD BorN: Yomigaeranai Fushichou",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/588ff767d7ae8c274a4ee3fc89d3ca84ef48a93fef7a63e3230c49f2b279939a5c2fd83e5d4a44c265e18c1c1c6d140843d49083a1930e73e433bee46ff84033f609e17d9d63221b744d3e3d44e98c26968b1793d359beb06761d699490792af087daac2bd7b52fda29d1d45bb90abe20c4067df503934ef5f98d23256dbe1a7/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/e8/dc/e8dc10b83da50818f7ec7cb166300c77/e8dc10b83da50818f7ec7cb166300c77.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/7f/7f5336decba3ca72edc080ce54f340d2/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/588ff767d7ae8c274a4ee3fc89d3ca84ef48a93fef7a63e3230c49f2b279939a5c2fd83e5d4a44c265e18c1c1c6d140843d49083a1930e73e433bee46ff84033f609e17d9d63221b744d3e3d44e98c26968b1793d359beb06761d699490792af087daac2bd7b52fda29d1d45bb90abe20c4067df503934ef5f98d23256dbe1a7/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www021.vipanicdn.net/streamhls/e5dca56eeaf099540d4e54bea37d5db4/ep.1.1677665387.m3u8"
@@ -32,9 +26,15 @@
         "downloadLink": {
             "SUBBED": "NzAxMzA="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/e8/dc/e8dc10b83da50818f7ec7cb166300c77/e8dc10b83da50818f7ec7cb166300c77.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/7f/7f5336decba3ca72edc080ce54f340d2/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

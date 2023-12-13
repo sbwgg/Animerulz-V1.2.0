@@ -1,38 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/d9dff1f8169c82576ab415ab2a36b8bf639b4e7e40411ddef6fe190231aa4e1d547781fde0e00ae9ef05cb74bb9d49d1e49c005b218e0cb913d5ddf815573b690729a4ac8e112a6df52aca26755e6b273b01a7e399356a54b286a9acb0789b49ff1378c4d5e095067738084b7d1139e049665c916174c727adbfe77d7762063a/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=mobile-suit-gundam-f91-dub-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/d9dff1f8169c82576ab415ab2a36b8bf639b4e7e40411ddef6fe190231aa4e1d547781fde0e00ae9ef05cb74bb9d49d1e49c005b218e0cb913d5ddf815573b690729a4ac8e112a6df52aca26755e6b273b01a7e399356a54b286a9acb0789b49ff1378c4d5e095067738084b7d1139e049665c916174c727adbfe77d7762063a/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/4b/4b4034e65a21338dc45ab64486d25f3a/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/77c661ba9fb58c630e8f1e6fa23f43252590e6652fa168d1535463b51e29a62d8fb23776bc234ab75172190744776f9629f61b38ed660fe991849ae1c031f559afc1933067d8ef23f2ec1d707e8fe585b8eb67e09511b226adec41c1ea05ee275160ce00c2daf142e62c82d3302bfa1e9448ce474d82020cd6ea94239da3c594/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/6c/f6/6cf6dd302e0f4b64aa58df6b0082214c/6cf6dd302e0f4b64aa58df6b0082214c.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/4b/4b4034e65a21338dc45ab64486d25f3a/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/77c661ba9fb58c630e8f1e6fa23f43252590e6652fa168d1535463b51e29a62d8fb23776bc234ab75172190744776f9629f61b38ed660fe991849ae1c031f559afc1933067d8ef23f2ec1d707e8fe585b8eb67e09511b226adec41c1ea05ee275160ce00c2daf142e62c82d3302bfa1e9448ce474d82020cd6ea94239da3c594/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www007.vipanicdn.net/streamhls/49097468b1e5e26072527faf6dbfada5/ep.1.1677677387.m3u8"
@@ -46,9 +34,15 @@
         "downloadLink": {
             "SUBBED": "MTAxOTQ2"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/6c/f6/6cf6dd302e0f4b64aa58df6b0082214c/6cf6dd302e0f4b64aa58df6b0082214c.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/4b/4b4034e65a21338dc45ab64486d25f3a/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

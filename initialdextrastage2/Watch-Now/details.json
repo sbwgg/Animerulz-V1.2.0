@@ -1,24 +1,18 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Initial D: Extra Stage 2",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/b4e28a3f074c3a6d532a898253a4e77c514bd588392b95de8054d5474a81e7e7119f742ce2f77ee0d039f7bd866904d4957f1b0604912f8f305b7bfd5454f05f3ab1bce6379942626a5dcf275528f25e8fb55ea3ca4f9e09ecbc00d314b0cfcc6199d58386374b71011414a0fccaa58649670354897dcc9e6485299b9ca9c91e/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/db/ee/dbee6f6a65ec259f05f55a3d6ca2932b/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/18/1884523ee1cd3952332d1715f17af2a2/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/b4e28a3f074c3a6d532a898253a4e77c514bd588392b95de8054d5474a81e7e7119f742ce2f77ee0d039f7bd866904d4957f1b0604912f8f305b7bfd5454f05f3ab1bce6379942626a5dcf275528f25e8fb55ea3ca4f9e09ecbc00d314b0cfcc6199d58386374b71011414a0fccaa58649670354897dcc9e6485299b9ca9c91e/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www030.vipanicdn.net/streamhls/ec966a7df4730f167461ea395881f06d/ep.1.1677653966.m3u8"
@@ -32,9 +26,15 @@
         "downloadLink": {
             "SUBBED": "MjAxNTk="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/db/ee/dbee6f6a65ec259f05f55a3d6ca2932b/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/18/1884523ee1cd3952332d1715f17af2a2/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

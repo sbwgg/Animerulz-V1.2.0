@@ -1,32 +1,18 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Suruga Devil",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/68c00bbbf3cd6d30f4335bb4d600aa974b83f5d7687d70745413277eaad92a27e9a2d9f86789771d0d11e00c662a6f0b81ebf1d0d84787c1e968b8c23859eb202a368987b1e5918327dee3be1f08629a1ef7bc7a840eddffb0f3d5de348338cbd66a3b89bc5a1417f1e8480b3e40ac2c6f0f95f7de90809e38a2e8eaa888590f/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/11/3e/113e910597ede0cb4921efca0fa0dc12/eng-0.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/11/3e/113e910597ede0cb4921efca0fa0dc12/por-1.vtt",
-                            "lang": "Portuguese"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/11/3e/113e910597ede0cb4921efca0fa0dc12/spa-2.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/d3/d358f1cae911d2d084713e4faec1c00c/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/68c00bbbf3cd6d30f4335bb4d600aa974b83f5d7687d70745413277eaad92a27e9a2d9f86789771d0d11e00c662a6f0b81ebf1d0d84787c1e968b8c23859eb202a368987b1e5918327dee3be1f08629a1ef7bc7a840eddffb0f3d5de348338cbd66a3b89bc5a1417f1e8480b3e40ac2c6f0f95f7de90809e38a2e8eaa888590f/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www004.vipanicdn.net/streamhls/a39d1e761295db2beb58a674e7bfddd6/ep.1.1677661677.m3u8"
@@ -40,9 +26,23 @@
         "downloadLink": {
             "SUBBED": "NDU4NzM="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/11/3e/113e910597ede0cb4921efca0fa0dc12/eng-0.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/11/3e/113e910597ede0cb4921efca0fa0dc12/por-1.vtt",
+                "lang": "Portuguese"
+            },
+            {
+                "url": "https://ccb.megaresources.co/11/3e/113e910597ede0cb4921efca0fa0dc12/spa-2.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/d3/d358f1cae911d2d084713e4faec1c00c/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

@@ -1,38 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/266116af567c6f45643a5470a5c53f75816f44cc24062b7123ff66db5c0f77a369ccff33c2b19c1f650753e255017185fd0aaf46d2d22ed2a194c2de7b610a0350329bb972226dba4bd22c0ed2b640f18e8d2836081f650f6cd84b347fbc47c11aa9912cb44e3fbac8991bfd44fab13e75d818de6458c55eee4d95d711d9f84c/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=hakuouki-movie-2-shikon-soukyuu-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/266116af567c6f45643a5470a5c53f75816f44cc24062b7123ff66db5c0f77a369ccff33c2b19c1f650753e255017185fd0aaf46d2d22ed2a194c2de7b610a0350329bb972226dba4bd22c0ed2b640f18e8d2836081f650f6cd84b347fbc47c11aa9912cb44e3fbac8991bfd44fab13e75d818de6458c55eee4d95d711d9f84c/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/67/6787cd647e818ad03dc059eff479bccb/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/ae93c44ba44c631c3252709d2f492a53be584cfc48bdd227b34e0e1dfe1431f1534e51fc4bf840d6383ce1149d3379285c5346d2ed9706475a7a4d69f2985a68fc6a24675a30af379655bbdd5d5cab5993d87fdae751bf0ab810a9a8ca2823adf9332ae28def2213ee8f0e62a9d5135f52657a7118276c8b879972c336923738/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/80/19/8019fbd8d4b228b23ad274fd21e90617/8019fbd8d4b228b23ad274fd21e90617.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/67/6787cd647e818ad03dc059eff479bccb/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/ae93c44ba44c631c3252709d2f492a53be584cfc48bdd227b34e0e1dfe1431f1534e51fc4bf840d6383ce1149d3379285c5346d2ed9706475a7a4d69f2985a68fc6a24675a30af379655bbdd5d5cab5993d87fdae751bf0ab810a9a8ca2823adf9332ae28def2213ee8f0e62a9d5135f52657a7118276c8b879972c336923738/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www019.vipanicdn.net/streamhls/3b1154de40929db55a41b966069ceb4c/ep.1.1677664390.m3u8"
@@ -46,9 +34,15 @@
         "downloadLink": {
             "SUBBED": "NDkyMTg="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/80/19/8019fbd8d4b228b23ad274fd21e90617/8019fbd8d4b228b23ad274fd21e90617.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/67/6787cd647e818ad03dc059eff479bccb/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

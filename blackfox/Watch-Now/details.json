@@ -1,36 +1,18 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/9291b6c79f89eaa3ba0ada76e9248c8314baa85ee4ae9f1eab25a2aecfa6954ad1067c6997b74d373bca7a910567031e04a6095c62cae1ed3f5f703e9800e5c210e54dc96aff3230f757ee46e63eb94884d0e4248435e46b64119fe963d271310f74f2c9bcbd80f55b3a652138917489aeca7465153fb7d40cb881a5ee731ca6/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/08/7a/087aa61d8d26267215438afe0965bdb5/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/08/7a/087aa61d8d26267215438afe0965bdb5/por-5.vtt",
-                            "lang": "Portuguese - Portugues(Brasil)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/08/7a/087aa61d8d26267215438afe0965bdb5/spa-4.vtt",
-                            "lang": "Spanish - Espanol"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/08/7a/087aa61d8d26267215438afe0965bdb5/spa-3.vtt",
-                            "lang": "Spanish - Espanol(Espana)"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/be/be0c805a1517ab389ad93424a9bd5859/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/9291b6c79f89eaa3ba0ada76e9248c8314baa85ee4ae9f1eab25a2aecfa6954ad1067c6997b74d373bca7a910567031e04a6095c62cae1ed3f5f703e9800e5c210e54dc96aff3230f757ee46e63eb94884d0e4248435e46b64119fe963d271310f74f2c9bcbd80f55b3a652138917489aeca7465153fb7d40cb881a5ee731ca6/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www021.vipanicdn.net/streamhls/545b94389d68167093b88619b9ab0c8d/ep.1.1677695226.m3u8"
@@ -44,9 +26,27 @@
         "downloadLink": {
             "SUBBED": "MTMwNjcw"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/08/7a/087aa61d8d26267215438afe0965bdb5/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/08/7a/087aa61d8d26267215438afe0965bdb5/por-5.vtt",
+                "lang": "Portuguese - Portugues(Brasil)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/08/7a/087aa61d8d26267215438afe0965bdb5/spa-4.vtt",
+                "lang": "Spanish - Espanol"
+            },
+            {
+                "url": "https://ccb.megaresources.co/08/7a/087aa61d8d26267215438afe0965bdb5/spa-3.vtt",
+                "lang": "Spanish - Espanol(Espana)"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/be/be0c805a1517ab389ad93424a9bd5859/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

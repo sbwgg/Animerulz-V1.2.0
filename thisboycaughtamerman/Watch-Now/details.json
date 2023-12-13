@@ -1,34 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "OVA",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/f9ddf1cc45530c7144cd1a2fd77a5979e613ebf8d3d8a10fa2a938a2748411f754f201b881fbf7ad4c4db34ec64f6d247bbf692d14c70e352174cc84b01d91f1b273f916fc55107afcc82f2789860d57b4e7c52a638ee044cbff9f05aaabf13bb24169a98051094101a5ded3f103d0de81ff91b343e56e356561d6ebaecc3af3/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=kono-danshi-ningyo-hiroimashita-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/f9ddf1cc45530c7144cd1a2fd77a5979e613ebf8d3d8a10fa2a938a2748411f754f201b881fbf7ad4c4db34ec64f6d247bbf692d14c70e352174cc84b01d91f1b273f916fc55107afcc82f2789860d57b4e7c52a638ee044cbff9f05aaabf13bb24169a98051094101a5ded3f103d0de81ff91b343e56e356561d6ebaecc3af3/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/45/45fba7fe93fbec35c1a255b0439d86dc/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/981547fb7ead1ce97e444f82af58662ddbb721222e3f73966341d5cac670c6f2097c29748f9b3f6b255bda26c8d1b470513da2f150d3338f2acae137d6579756e92af653864b1c3064b94a92e694cd4fe068657b71edb5b4e6782d91987e522f851e3bd1845a608008d4088ed65d812cf8207589d1921bdc812d19186041b307/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/45/45fba7fe93fbec35c1a255b0439d86dc/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/981547fb7ead1ce97e444f82af58662ddbb721222e3f73966341d5cac670c6f2097c29748f9b3f6b255bda26c8d1b470513da2f150d3338f2acae137d6579756e92af653864b1c3064b94a92e694cd4fe068657b71edb5b4e6782d91987e522f851e3bd1845a608008d4088ed65d812cf8207589d1921bdc812d19186041b307/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www018.vipanicdn.net/streamhls/551c40da19fa63ca8605cda5ce4177ec/ep.1.1677621433.m3u8"
@@ -42,9 +34,11 @@
         "downloadLink": {
             "SUBBED": "MTY2OTY3"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/45/45fba7fe93fbec35c1a255b0439d86dc/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

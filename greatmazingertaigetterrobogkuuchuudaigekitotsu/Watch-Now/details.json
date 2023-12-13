@@ -1,46 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/c606a55f78d91eb7566c73ed992002bb5de249ff8cba865be13c268f8783410a79d4972395fb46e58d48a0a0b808c79345aa92af632c885db67ba8f2fce907518f42d217ba68429a5857008d51885046490fee6623944623f46cf3856cef66d5f48fb757e43b7e84c1ef2f89ed7e28e72139da69e82882dc0965ef13be894702/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=great-mazinger-tai-getter-robo-g-kuuchuu-daigekitotsu-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/c606a55f78d91eb7566c73ed992002bb5de249ff8cba865be13c268f8783410a79d4972395fb46e58d48a0a0b808c79345aa92af632c885db67ba8f2fce907518f42d217ba68429a5857008d51885046490fee6623944623f46cf3856cef66d5f48fb757e43b7e84c1ef2f89ed7e28e72139da69e82882dc0965ef13be894702/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/a1/a161cb9d97d515e54aa069253c119dd1/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/cdc696f59ff14324ed5ec55f0ff46f70f93abb6aaa093dea871795ead16453a4dbd460f24fda9caef37b836476bc60f20f46ab573375bea6d4a7c3293522a1e1aa5dad2bcbf7ce6665c40ca9ec6e621817c5fa2971328acb592ecd8c2b0b1486b16df74eacd70ac604ab1b5409249b0aab3494da0b8ada6fa0d65d4c7c8efcca/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/93/08/9308f9401760ad725ef1dc12ea1d4116/eng-8.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/93/08/9308f9401760ad725ef1dc12ea1d4116/ita-6.vtt",
-                            "lang": "Italian - Cartelli"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/93/08/9308f9401760ad725ef1dc12ea1d4116/ita-7.vtt",
-                            "lang": "Italian - Italiano (dialoghi)"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/a1/a161cb9d97d515e54aa069253c119dd1/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/cdc696f59ff14324ed5ec55f0ff46f70f93abb6aaa093dea871795ead16453a4dbd460f24fda9caef37b836476bc60f20f46ab573375bea6d4a7c3293522a1e1aa5dad2bcbf7ce6665c40ca9ec6e621817c5fa2971328acb592ecd8c2b0b1486b16df74eacd70ac604ab1b5409249b0aab3494da0b8ada6fa0d65d4c7c8efcca/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www040.vipanicdn.net/streamhls/253c7ab01329428f42fbcb4a384986ab/ep.1.1677836552.m3u8"
@@ -54,9 +34,23 @@
         "downloadLink": {
             "SUBBED": "MTYyMDg5"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/93/08/9308f9401760ad725ef1dc12ea1d4116/eng-8.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/93/08/9308f9401760ad725ef1dc12ea1d4116/ita-6.vtt",
+                "lang": "Italian - Cartelli"
+            },
+            {
+                "url": "https://ccb.megaresources.co/93/08/9308f9401760ad725ef1dc12ea1d4116/ita-7.vtt",
+                "lang": "Italian - Italiano (dialoghi)"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/a1/a161cb9d97d515e54aa069253c119dd1/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

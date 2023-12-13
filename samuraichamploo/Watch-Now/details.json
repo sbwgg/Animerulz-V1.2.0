@@ -1,63 +1,35 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 90
+            "end": 90,
+            "start": 0
+        },
+        "outro": {
+            "end": 1397,
+            "start": 1291
         },
         "title": "Tempestuous Temperaments",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/6235a562ecf974b1ddb153018bf9cbf3cf07e9125758507fc9a348a73d188403a5449002099e77ad15355a1e58cea5c842378e361de48956f8366527ef83788b97f27aa6e530c17d1f7fe64873ef42c5809b27f23e64ba9b9982855b2b236c8a92d84f1b581e4eb3dece625f61d5ac29b59902493cebee234363f82a1e35c2ed/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www007.vipanicdn.net/streamhls/9623e54af4ffd5149c3533f8e5894e3d/ep.1.1677606999.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/6235a562ecf974b1ddb153018bf9cbf3cf07e9125758507fc9a348a73d188403a5449002099e77ad15355a1e58cea5c842378e361de48956f8366527ef83788b97f27aa6e530c17d1f7fe64873ef42c5809b27f23e64ba9b9982855b2b236c8a92d84f1b581e4eb3dece625f61d5ac29b59902493cebee234363f82a1e35c2ed/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/88/88179c81e744c460a5d72e5f607a105f/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/5a2823379c82b2615e399cb938eaf32d541d2268a225585023946a92fc49e5cfd5212e14d771b48938f7f3253a1f38b9da6cfec7862bc04d5ed2fd6f35f9942f719411b206e76216f666444c0513803042b7cdf533fbec940b7ff4675648aef48ce6daeb9821f05330290d17c15e320934b0c2ef00d2ed9e36783f7e342834ab/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www007.vipanicdn.net/streamhls/19fe3161a57b889291307a1643901795/ep.1.1677601157.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/5a2823379c82b2615e399cb938eaf32d541d2268a225585023946a92fc49e5cfd5212e14d771b48938f7f3253a1f38b9da6cfec7862bc04d5ed2fd6f35f9942f719411b206e76216f666444c0513803042b7cdf533fbec940b7ff4675648aef48ce6daeb9821f05330290d17c15e320934b0c2ef00d2ed9e36783f7e342834ab/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/3f/26/3f26e312ce88932da982a25068aba3f5/eng-5.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/3f/26/3f26e312ce88932da982a25068aba3f5/fre-7.vtt",
-                            "lang": "French - French [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/3f/26/3f26e312ce88932da982a25068aba3f5/jpn-9.vtt",
-                            "lang": "Japanese - Japanese [SDH]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/3f/26/3f26e312ce88932da982a25068aba3f5/por-8.vtt",
-                            "lang": "Portuguese - Portuguese [Full]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/3f/26/3f26e312ce88932da982a25068aba3f5/spa-6.vtt",
-                            "lang": "Spanish - Castilian [Full]"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/88/88179c81e744c460a5d72e5f607a105f/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -66,70 +38,64 @@
             "DUBBED": "ODYwNzY=",
             "SUBBED": "MjA2MTY="
         },
-        "outro": {
-            "start": 1291,
-            "end": 1397
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/3f/26/3f26e312ce88932da982a25068aba3f5/eng-5.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/3f/26/3f26e312ce88932da982a25068aba3f5/fre-7.vtt",
+                "lang": "French - French [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/3f/26/3f26e312ce88932da982a25068aba3f5/jpn-9.vtt",
+                "lang": "Japanese - Japanese [SDH]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/3f/26/3f26e312ce88932da982a25068aba3f5/por-8.vtt",
+                "lang": "Portuguese - Portuguese [Full]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/3f/26/3f26e312ce88932da982a25068aba3f5/spa-6.vtt",
+                "lang": "Spanish - Castilian [Full]"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/88/88179c81e744c460a5d72e5f607a105f/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "2": {
         "intro": {
-            "start": 0,
-            "end": 90
+            "end": 90,
+            "start": 0
+        },
+        "outro": {
+            "end": 1397,
+            "start": 1291
         },
         "title": "Redeye Reprisal",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/adcdc92f7ecca9a55ba70dcd65ec26b63a69251af6690b7fc0b5c895f7f0abbc9d97a880c93fd4fc63b13d6bc0c6b6d1b524f144295e2f0608b408de098f2eb5dbd410b826777ee030c99693966b48a3d350545f77c98039a2e0a5838a95ef1ef2dc227433cac8789189bf39206fab37d9e46aaa64c447885879d66db303293c/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www008.vipanicdn.net/streamhls/9623e54af4ffd5149c3533f8e5894e3d/ep.2.1677612780.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-dub-2"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/adcdc92f7ecca9a55ba70dcd65ec26b63a69251af6690b7fc0b5c895f7f0abbc9d97a880c93fd4fc63b13d6bc0c6b6d1b524f144295e2f0608b408de098f2eb5dbd410b826777ee030c99693966b48a3d350545f77c98039a2e0a5838a95ef1ef2dc227433cac8789189bf39206fab37d9e46aaa64c447885879d66db303293c/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/2f/2f7c97dcfe277544a87adcb323690caa/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/927a20f453ddc4b94c71f6f7a65a3f85795764e21e0a414f366e86a65cb16a7643dce1f61e8f4d0c39b6d17a042ab80655eaaad6b09d321c9687afb17e412c2714dc35672f38b9a5e2ab6470aa97a7f535886c75624f9ba47dcebe36eca0e7c991be3d9228ed0d9629c0618dd5c35227928bbab2c76367414ddae230178996ab/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www009.vipanicdn.net/streamhls/19fe3161a57b889291307a1643901795/ep.2.1677603086.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-2"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/927a20f453ddc4b94c71f6f7a65a3f85795764e21e0a414f366e86a65cb16a7643dce1f61e8f4d0c39b6d17a042ab80655eaaad6b09d321c9687afb17e412c2714dc35672f38b9a5e2ab6470aa97a7f535886c75624f9ba47dcebe36eca0e7c991be3d9228ed0d9629c0618dd5c35227928bbab2c76367414ddae230178996ab/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/b0/98/b098239d54e7d7c26562fd796ab6d253/eng-5.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b0/98/b098239d54e7d7c26562fd796ab6d253/fre-7.vtt",
-                            "lang": "French - French [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b0/98/b098239d54e7d7c26562fd796ab6d253/jpn-9.vtt",
-                            "lang": "Japanese - Japanese [SDH]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b0/98/b098239d54e7d7c26562fd796ab6d253/por-8.vtt",
-                            "lang": "Portuguese - Portuguese [Full]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/b0/98/b098239d54e7d7c26562fd796ab6d253/spa-6.vtt",
-                            "lang": "Spanish - Castilian [Full]"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/2f/2f7c97dcfe277544a87adcb323690caa/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -138,74 +104,64 @@
             "DUBBED": "ODYwNzc=",
             "SUBBED": "MjA2MTg="
         },
-        "outro": {
-            "start": 1291,
-            "end": 1397
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/b0/98/b098239d54e7d7c26562fd796ab6d253/eng-5.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/b0/98/b098239d54e7d7c26562fd796ab6d253/fre-7.vtt",
+                "lang": "French - French [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/b0/98/b098239d54e7d7c26562fd796ab6d253/jpn-9.vtt",
+                "lang": "Japanese - Japanese [SDH]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/b0/98/b098239d54e7d7c26562fd796ab6d253/por-8.vtt",
+                "lang": "Portuguese - Portuguese [Full]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/b0/98/b098239d54e7d7c26562fd796ab6d253/spa-6.vtt",
+                "lang": "Spanish - Castilian [Full]"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/2f/2f7c97dcfe277544a87adcb323690caa/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "3": {
         "intro": {
-            "start": 0,
-            "end": 90
+            "end": 90,
+            "start": 0
+        },
+        "outro": {
+            "end": 1397,
+            "start": 1291
         },
         "title": "Hellhounds for Hire (Part 1)",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/7b512f6ca0fb515d5ced5065806cb439eeaf6de1a6252bc77fdc08b80cc95acb2ac16df506e23636978165d24b9b019e6e75b0d576e75a4e4a9e4eee89e2d78dbbb0a511340c0cd57b849710230f25d484934f00ac6f40f9a65cc902adf47011c7fc43bf98b1a21c0c410431492db12b8cd214f54db24cf10f8570365f932c05/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www009.vipanicdn.net/streamhls/9623e54af4ffd5149c3533f8e5894e3d/ep.3.1677614648.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-dub-3"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/7b512f6ca0fb515d5ced5065806cb439eeaf6de1a6252bc77fdc08b80cc95acb2ac16df506e23636978165d24b9b019e6e75b0d576e75a4e4a9e4eee89e2d78dbbb0a511340c0cd57b849710230f25d484934f00ac6f40f9a65cc902adf47011c7fc43bf98b1a21c0c410431492db12b8cd214f54db24cf10f8570365f932c05/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/47/476b27aba5a6e9502645f84e33b15cea/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/f6cde3949e6e59efb4fcb7f1c6641c94ddfc8a7acce74a4baf4bcce93c14216ca3c5d72a790f1ad328c1d7e7132208e9be168e8127727fb32eff21400c898d40edacbce7e8cf2380c001bedef1a5a8322c09bdbb67a731587f97ddde0022c0640cb99e31d96e1be23c38824f76dbdda98f2eaf31ea19f066f62f1d8ca57d5b3d/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www011.vipanicdn.net/streamhls/19fe3161a57b889291307a1643901795/ep.3.1677655704.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-3"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/f6cde3949e6e59efb4fcb7f1c6641c94ddfc8a7acce74a4baf4bcce93c14216ca3c5d72a790f1ad328c1d7e7132208e9be168e8127727fb32eff21400c898d40edacbce7e8cf2380c001bedef1a5a8322c09bdbb67a731587f97ddde0022c0640cb99e31d96e1be23c38824f76dbdda98f2eaf31ea19f066f62f1d8ca57d5b3d/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/31/a4/31a49c3371dd4273409a7579b69c261e/eng-5.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/31/a4/31a49c3371dd4273409a7579b69c261e/fre-8.vtt",
-                            "lang": "French - French [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/31/a4/31a49c3371dd4273409a7579b69c261e/jpn-10.vtt",
-                            "lang": "Japanese - Japanese [SDH]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/31/a4/31a49c3371dd4273409a7579b69c261e/por-9.vtt",
-                            "lang": "Portuguese - Portuguese [Full]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/31/a4/31a49c3371dd4273409a7579b69c261e/spa-6.vtt",
-                            "lang": "Spanish - Castilian [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/31/a4/31a49c3371dd4273409a7579b69c261e/spa-7.vtt",
-                            "lang": "Spanish - Castilian [Full]"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/47/476b27aba5a6e9502645f84e33b15cea/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -214,74 +170,68 @@
             "DUBBED": "ODYwNzg=",
             "SUBBED": "MjA2MjA="
         },
-        "outro": {
-            "start": 1291,
-            "end": 1397
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/31/a4/31a49c3371dd4273409a7579b69c261e/eng-5.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/31/a4/31a49c3371dd4273409a7579b69c261e/fre-8.vtt",
+                "lang": "French - French [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/31/a4/31a49c3371dd4273409a7579b69c261e/jpn-10.vtt",
+                "lang": "Japanese - Japanese [SDH]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/31/a4/31a49c3371dd4273409a7579b69c261e/por-9.vtt",
+                "lang": "Portuguese - Portuguese [Full]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/31/a4/31a49c3371dd4273409a7579b69c261e/spa-6.vtt",
+                "lang": "Spanish - Castilian [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/31/a4/31a49c3371dd4273409a7579b69c261e/spa-7.vtt",
+                "lang": "Spanish - Castilian [Full]"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/47/476b27aba5a6e9502645f84e33b15cea/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "4": {
         "intro": {
-            "start": 0,
-            "end": 92
+            "end": 92,
+            "start": 0
+        },
+        "outro": {
+            "end": 1381,
+            "start": 1275
         },
         "title": "Hellhounds for Hire (Part 2)",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/fdf5cb1d44562484d6cf5329413dd559ab66606a5159c66e601252d2a82d0b0ccd10b79a83ee4375a1efe05d20bd8b9e1ea91edbdcccf8df6b6895f0630239346cb13278b245df515b9d150891b168290b3f5d81fa71ecabc006ef4618cf6b03e835567817b122ed985e34a2eef555ba752707bcc27c8dcba276693709f4dbfd/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www010.vipanicdn.net/streamhls/9623e54af4ffd5149c3533f8e5894e3d/ep.4.1677668669.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-dub-4"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/fdf5cb1d44562484d6cf5329413dd559ab66606a5159c66e601252d2a82d0b0ccd10b79a83ee4375a1efe05d20bd8b9e1ea91edbdcccf8df6b6895f0630239346cb13278b245df515b9d150891b168290b3f5d81fa71ecabc006ef4618cf6b03e835567817b122ed985e34a2eef555ba752707bcc27c8dcba276693709f4dbfd/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/ec/ec25950b7cbe3f858cefecb564f86ec4/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/f9844bdee6b384042d8486ade92200144670941ca16c2e12e241f025dc2ca655f20ee9df9c00f42a8237cbf8477f8edcd01fb22cfb2ecbacf6f5b042dffcb9aab04e94a448f08427fd4c7506ffdbc1d4863ebfae5879b83e0dbf1f99c7f81c04a6ebc83131b75749710db562f651c55dcbe4ec2f18bc726a525315ddb4d08d46/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www015.vipanicdn.net/streamhls/19fe3161a57b889291307a1643901795/ep.4.1677624159.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-4"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/f9844bdee6b384042d8486ade92200144670941ca16c2e12e241f025dc2ca655f20ee9df9c00f42a8237cbf8477f8edcd01fb22cfb2ecbacf6f5b042dffcb9aab04e94a448f08427fd4c7506ffdbc1d4863ebfae5879b83e0dbf1f99c7f81c04a6ebc83131b75749710db562f651c55dcbe4ec2f18bc726a525315ddb4d08d46/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/73/d0/73d07c3778fdc470e823856e71c83c12/eng-5.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/73/d0/73d07c3778fdc470e823856e71c83c12/fre-8.vtt",
-                            "lang": "French - French [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/73/d0/73d07c3778fdc470e823856e71c83c12/jpn-10.vtt",
-                            "lang": "Japanese - Japanese [SDH]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/73/d0/73d07c3778fdc470e823856e71c83c12/por-9.vtt",
-                            "lang": "Portuguese - Portuguese [Full]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/73/d0/73d07c3778fdc470e823856e71c83c12/spa-6.vtt",
-                            "lang": "Spanish - Castilian [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/73/d0/73d07c3778fdc470e823856e71c83c12/spa-7.vtt",
-                            "lang": "Spanish - Castilian [Full]"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/ec/ec25950b7cbe3f858cefecb564f86ec4/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -290,74 +240,68 @@
             "DUBBED": "ODYwNzk=",
             "SUBBED": "MjA2MjQ="
         },
-        "outro": {
-            "start": 1275,
-            "end": 1381
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/73/d0/73d07c3778fdc470e823856e71c83c12/eng-5.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/73/d0/73d07c3778fdc470e823856e71c83c12/fre-8.vtt",
+                "lang": "French - French [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/73/d0/73d07c3778fdc470e823856e71c83c12/jpn-10.vtt",
+                "lang": "Japanese - Japanese [SDH]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/73/d0/73d07c3778fdc470e823856e71c83c12/por-9.vtt",
+                "lang": "Portuguese - Portuguese [Full]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/73/d0/73d07c3778fdc470e823856e71c83c12/spa-6.vtt",
+                "lang": "Spanish - Castilian [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/73/d0/73d07c3778fdc470e823856e71c83c12/spa-7.vtt",
+                "lang": "Spanish - Castilian [Full]"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/ec/ec25950b7cbe3f858cefecb564f86ec4/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "5": {
         "intro": {
-            "start": 0,
-            "end": 89
+            "end": 89,
+            "start": 0
+        },
+        "outro": {
+            "end": 1399,
+            "start": 1293
         },
         "title": "Artistic Anarchy",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/e1e1f7b3d262a443c6580203aa0fef331b1a12b1bdadc8f799add911ce96e7f73a4c42c60080e684099bb320094ccf3888561b2bcf18db8e140249e518b6ead75a86c2a576a9c172045cfd9a7ee313632b8f3dc6e1b458d730018a0933c83441ebd0e9f447ec2435273d939c3f81104effbdc4c02bb6732c73a148a334b47415/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www011.vipanicdn.net/streamhls/9623e54af4ffd5149c3533f8e5894e3d/ep.5.1677678855.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-dub-5"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/e1e1f7b3d262a443c6580203aa0fef331b1a12b1bdadc8f799add911ce96e7f73a4c42c60080e684099bb320094ccf3888561b2bcf18db8e140249e518b6ead75a86c2a576a9c172045cfd9a7ee313632b8f3dc6e1b458d730018a0933c83441ebd0e9f447ec2435273d939c3f81104effbdc4c02bb6732c73a148a334b47415/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/41/4195ea1123ba0d9e634118630ee38d44/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/662b43d30b383db42bd32a875c7633574c34ad741bbaae3d7852bf9054f46d8f6476274fc7fc00af2a9e2300577f1f4dd3903b068d124052a02df9b97fae3fbd1883994dbcaddbd0f6c9e63d6f232ea504b7af54cd1705645ce34f39795782c9854a3a87d0d9ab8c75e7d0e99f229f818bb176b2a1b06d92d7a8478761faf101/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www018.vipanicdn.net/streamhls/19fe3161a57b889291307a1643901795/ep.5.1677620688.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-5"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/662b43d30b383db42bd32a875c7633574c34ad741bbaae3d7852bf9054f46d8f6476274fc7fc00af2a9e2300577f1f4dd3903b068d124052a02df9b97fae3fbd1883994dbcaddbd0f6c9e63d6f232ea504b7af54cd1705645ce34f39795782c9854a3a87d0d9ab8c75e7d0e99f229f818bb176b2a1b06d92d7a8478761faf101/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/e1/5d/e15d79816ae22e3d3989a4a8f83f0c1a/eng-5.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/e1/5d/e15d79816ae22e3d3989a4a8f83f0c1a/fre-8.vtt",
-                            "lang": "French - French [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/e1/5d/e15d79816ae22e3d3989a4a8f83f0c1a/jpn-10.vtt",
-                            "lang": "Japanese - Japanese [SDH]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/e1/5d/e15d79816ae22e3d3989a4a8f83f0c1a/por-9.vtt",
-                            "lang": "Portuguese - Portuguese [Full]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/e1/5d/e15d79816ae22e3d3989a4a8f83f0c1a/spa-6.vtt",
-                            "lang": "Spanish - Castilian [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/e1/5d/e15d79816ae22e3d3989a4a8f83f0c1a/spa-7.vtt",
-                            "lang": "Spanish - Castilian [Full]"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/41/4195ea1123ba0d9e634118630ee38d44/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -366,74 +310,68 @@
             "DUBBED": "ODYwODA=",
             "SUBBED": "MjA2Mjc="
         },
-        "outro": {
-            "start": 1293,
-            "end": 1399
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/e1/5d/e15d79816ae22e3d3989a4a8f83f0c1a/eng-5.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/e1/5d/e15d79816ae22e3d3989a4a8f83f0c1a/fre-8.vtt",
+                "lang": "French - French [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/e1/5d/e15d79816ae22e3d3989a4a8f83f0c1a/jpn-10.vtt",
+                "lang": "Japanese - Japanese [SDH]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/e1/5d/e15d79816ae22e3d3989a4a8f83f0c1a/por-9.vtt",
+                "lang": "Portuguese - Portuguese [Full]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/e1/5d/e15d79816ae22e3d3989a4a8f83f0c1a/spa-6.vtt",
+                "lang": "Spanish - Castilian [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/e1/5d/e15d79816ae22e3d3989a4a8f83f0c1a/spa-7.vtt",
+                "lang": "Spanish - Castilian [Full]"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/41/4195ea1123ba0d9e634118630ee38d44/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "6": {
         "intro": {
-            "start": 0,
-            "end": 89
+            "end": 89,
+            "start": 0
+        },
+        "outro": {
+            "end": 1395,
+            "start": 1289
         },
         "title": "Stranger Searching",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/2bd0ed855dc069a80bc19b381cdbde2c50c4f83fb2c50296756b29f9df745ecdfdd2efcdf53bed62063344ce51cff11cb7fd101bd1a3a28bfbd67d86d46e61c9993671b5e2a23e8c146dd83322e9166ce0c17838d399ad0accbc4496abd7d124a77e13460a57fef86b2c98b21d1b491d402cab783dc95c53e4bdc2216512fbcd/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www012.vipanicdn.net/streamhls/9623e54af4ffd5149c3533f8e5894e3d/ep.6.1677627175.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-dub-6"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/2bd0ed855dc069a80bc19b381cdbde2c50c4f83fb2c50296756b29f9df745ecdfdd2efcdf53bed62063344ce51cff11cb7fd101bd1a3a28bfbd67d86d46e61c9993671b5e2a23e8c146dd83322e9166ce0c17838d399ad0accbc4496abd7d124a77e13460a57fef86b2c98b21d1b491d402cab783dc95c53e4bdc2216512fbcd/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/05/05a10060f553e2a7a5fab058f316d671/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/9c349fc4c59c7778e20c799ba2ac4966a368bc72731e88d1803899f053761644e9d621734dd37c4f5d8e15aec17cb34cc1e924a30fc52834e59f65a35ef08c436def8017e9eaf53018f1e839e9b88fa9a37f2f141342d1964d64b4ef4ebc4d3eb921b2d3e7fb791dcdd08b695cb76e1b2c4f279a4c0dc1d6d3ca7601bdbbd1b9/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www021.vipanicdn.net/streamhls/19fe3161a57b889291307a1643901795/ep.6.1677654398.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-6"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/9c349fc4c59c7778e20c799ba2ac4966a368bc72731e88d1803899f053761644e9d621734dd37c4f5d8e15aec17cb34cc1e924a30fc52834e59f65a35ef08c436def8017e9eaf53018f1e839e9b88fa9a37f2f141342d1964d64b4ef4ebc4d3eb921b2d3e7fb791dcdd08b695cb76e1b2c4f279a4c0dc1d6d3ca7601bdbbd1b9/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/42/bb/42bbaa5da77dffc45ac35a0b6d22adfc/eng-5.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/42/bb/42bbaa5da77dffc45ac35a0b6d22adfc/fre-8.vtt",
-                            "lang": "French - French [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/42/bb/42bbaa5da77dffc45ac35a0b6d22adfc/jpn-10.vtt",
-                            "lang": "Japanese - Japanese [SDH]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/42/bb/42bbaa5da77dffc45ac35a0b6d22adfc/por-9.vtt",
-                            "lang": "Portuguese - Portuguese [Full]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/42/bb/42bbaa5da77dffc45ac35a0b6d22adfc/spa-6.vtt",
-                            "lang": "Spanish - Castilian [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/42/bb/42bbaa5da77dffc45ac35a0b6d22adfc/spa-7.vtt",
-                            "lang": "Spanish - Castilian [Full]"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/05/05a10060f553e2a7a5fab058f316d671/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -442,74 +380,68 @@
             "DUBBED": "ODYwODE=",
             "SUBBED": "MjA2MzA="
         },
-        "outro": {
-            "start": 1289,
-            "end": 1395
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/42/bb/42bbaa5da77dffc45ac35a0b6d22adfc/eng-5.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/42/bb/42bbaa5da77dffc45ac35a0b6d22adfc/fre-8.vtt",
+                "lang": "French - French [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/42/bb/42bbaa5da77dffc45ac35a0b6d22adfc/jpn-10.vtt",
+                "lang": "Japanese - Japanese [SDH]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/42/bb/42bbaa5da77dffc45ac35a0b6d22adfc/por-9.vtt",
+                "lang": "Portuguese - Portuguese [Full]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/42/bb/42bbaa5da77dffc45ac35a0b6d22adfc/spa-6.vtt",
+                "lang": "Spanish - Castilian [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/42/bb/42bbaa5da77dffc45ac35a0b6d22adfc/spa-7.vtt",
+                "lang": "Spanish - Castilian [Full]"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/05/05a10060f553e2a7a5fab058f316d671/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "7": {
         "intro": {
-            "start": 0,
-            "end": 90
+            "end": 90,
+            "start": 0
+        },
+        "outro": {
+            "end": 1396,
+            "start": 1290
         },
         "title": "A Risky Racket",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/6be925223c5451112224c170839e775dbc61cc5cbe24f92443926731de349c46c27a955e361e3cacbeab76a824438e12f025537e9b458ae1d5b19656ca7d0bce31561f74c86d3167941780247067406df5e3560249b4b9c8e0548a60daee02654849f9cb5e8137963b0a24179e64e9d214e70daa95da89da36c7ada76fadc9c4/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www013.vipanicdn.net/streamhls/9623e54af4ffd5149c3533f8e5894e3d/ep.7.1677672192.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-dub-7"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/6be925223c5451112224c170839e775dbc61cc5cbe24f92443926731de349c46c27a955e361e3cacbeab76a824438e12f025537e9b458ae1d5b19656ca7d0bce31561f74c86d3167941780247067406df5e3560249b4b9c8e0548a60daee02654849f9cb5e8137963b0a24179e64e9d214e70daa95da89da36c7ada76fadc9c4/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/e2/e2ac5ac15f8867ebe2ff2194b3b0ec0f/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/b1cf5ee81ea229025dc2d2947754b10ed842a859cc93cbf9cd5c5e00b70a7043f25143b18934d71ca18225874da594441f70715914e823120ea54e14270f3cf8e2c81cfff55c92da2c1a601a4baa02100b5559fb1f231efd0b5f2fb21d1b46d8860d31746b07c970488c1d085788dacdd39f762d86077ee284130abc41591bbe/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www023.vipanicdn.net/streamhls/19fe3161a57b889291307a1643901795/ep.7.1677670183.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-7"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/b1cf5ee81ea229025dc2d2947754b10ed842a859cc93cbf9cd5c5e00b70a7043f25143b18934d71ca18225874da594441f70715914e823120ea54e14270f3cf8e2c81cfff55c92da2c1a601a4baa02100b5559fb1f231efd0b5f2fb21d1b46d8860d31746b07c970488c1d085788dacdd39f762d86077ee284130abc41591bbe/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/dc/f0/dcf0cbbce5ca981b3ce15440ab800802/eng-5.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/dc/f0/dcf0cbbce5ca981b3ce15440ab800802/fre-8.vtt",
-                            "lang": "French - French [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/dc/f0/dcf0cbbce5ca981b3ce15440ab800802/jpn-10.vtt",
-                            "lang": "Japanese - Japanese [SDH]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/dc/f0/dcf0cbbce5ca981b3ce15440ab800802/por-9.vtt",
-                            "lang": "Portuguese - Portuguese [Full]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/dc/f0/dcf0cbbce5ca981b3ce15440ab800802/spa-6.vtt",
-                            "lang": "Spanish - Castilian [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/dc/f0/dcf0cbbce5ca981b3ce15440ab800802/spa-7.vtt",
-                            "lang": "Spanish - Castilian [Full]"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/e2/e2ac5ac15f8867ebe2ff2194b3b0ec0f/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -518,74 +450,68 @@
             "DUBBED": "ODYwODI=",
             "SUBBED": "MjA2MzI="
         },
-        "outro": {
-            "start": 1290,
-            "end": 1396
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/dc/f0/dcf0cbbce5ca981b3ce15440ab800802/eng-5.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/dc/f0/dcf0cbbce5ca981b3ce15440ab800802/fre-8.vtt",
+                "lang": "French - French [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/dc/f0/dcf0cbbce5ca981b3ce15440ab800802/jpn-10.vtt",
+                "lang": "Japanese - Japanese [SDH]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/dc/f0/dcf0cbbce5ca981b3ce15440ab800802/por-9.vtt",
+                "lang": "Portuguese - Portuguese [Full]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/dc/f0/dcf0cbbce5ca981b3ce15440ab800802/spa-6.vtt",
+                "lang": "Spanish - Castilian [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/dc/f0/dcf0cbbce5ca981b3ce15440ab800802/spa-7.vtt",
+                "lang": "Spanish - Castilian [Full]"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/e2/e2ac5ac15f8867ebe2ff2194b3b0ec0f/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "8": {
         "intro": {
-            "start": 0,
-            "end": 90
+            "end": 90,
+            "start": 0
+        },
+        "outro": {
+            "end": 1395,
+            "start": 1289
         },
         "title": "The Art of Altercation",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/239573b55adfbbec866d9bdd99781fd5e59aeeacec3671ddd934691ae91cec9ee51c21418fe700b145c194f508221b227fe40ce0de6364994e847f0347dc955ce92e71e1b8915b55aafc1cc3c93d7b2c86531c9c4012cb13e7018e992a3753db7d4687b7a7d850c335c8b50a1a62ff479f8dc0ba84815ac5e142e453520c7d02/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www014.vipanicdn.net/streamhls/9623e54af4ffd5149c3533f8e5894e3d/ep.8.1677629951.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-dub-8"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/239573b55adfbbec866d9bdd99781fd5e59aeeacec3671ddd934691ae91cec9ee51c21418fe700b145c194f508221b227fe40ce0de6364994e847f0347dc955ce92e71e1b8915b55aafc1cc3c93d7b2c86531c9c4012cb13e7018e992a3753db7d4687b7a7d850c335c8b50a1a62ff479f8dc0ba84815ac5e142e453520c7d02/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/b2/b2a0f4be801f1c6147d1c396eedf7970/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/e0c242e383ed2a4a1f120ffae804bc4fac516a97f969d8201c8fa246dde08922140cafa690cebdd1d08bb167d0ae2b1a572cdcf61c943aa680171561a54b880c3d0d480559c02cee6e5568e2710a3585edbfde872f965cfd54bb09ea25e8d9eae0fa8b7c157c5b7e7a78901bab103ef9772622353ee6e503884330f7875ae6a7/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www026.vipanicdn.net/streamhls/19fe3161a57b889291307a1643901795/ep.8.1677656229.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-8"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/e0c242e383ed2a4a1f120ffae804bc4fac516a97f969d8201c8fa246dde08922140cafa690cebdd1d08bb167d0ae2b1a572cdcf61c943aa680171561a54b880c3d0d480559c02cee6e5568e2710a3585edbfde872f965cfd54bb09ea25e8d9eae0fa8b7c157c5b7e7a78901bab103ef9772622353ee6e503884330f7875ae6a7/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/c5/5b/c55b198decfd4084f58a28c24b4e6798/eng-5.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/c5/5b/c55b198decfd4084f58a28c24b4e6798/fre-8.vtt",
-                            "lang": "French - French [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/c5/5b/c55b198decfd4084f58a28c24b4e6798/jpn-10.vtt",
-                            "lang": "Japanese - Japanese [SDH]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/c5/5b/c55b198decfd4084f58a28c24b4e6798/por-9.vtt",
-                            "lang": "Portuguese - Portuguese [Full]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/c5/5b/c55b198decfd4084f58a28c24b4e6798/spa-6.vtt",
-                            "lang": "Spanish - Castilian [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/c5/5b/c55b198decfd4084f58a28c24b4e6798/spa-7.vtt",
-                            "lang": "Spanish - Castilian [Full]"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/b2/b2a0f4be801f1c6147d1c396eedf7970/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -594,74 +520,68 @@
             "DUBBED": "ODYwODM=",
             "SUBBED": "MjA2MzU="
         },
-        "outro": {
-            "start": 1289,
-            "end": 1395
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/c5/5b/c55b198decfd4084f58a28c24b4e6798/eng-5.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/c5/5b/c55b198decfd4084f58a28c24b4e6798/fre-8.vtt",
+                "lang": "French - French [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/c5/5b/c55b198decfd4084f58a28c24b4e6798/jpn-10.vtt",
+                "lang": "Japanese - Japanese [SDH]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/c5/5b/c55b198decfd4084f58a28c24b4e6798/por-9.vtt",
+                "lang": "Portuguese - Portuguese [Full]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/c5/5b/c55b198decfd4084f58a28c24b4e6798/spa-6.vtt",
+                "lang": "Spanish - Castilian [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/c5/5b/c55b198decfd4084f58a28c24b4e6798/spa-7.vtt",
+                "lang": "Spanish - Castilian [Full]"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/b2/b2a0f4be801f1c6147d1c396eedf7970/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "9": {
         "intro": {
-            "start": 0,
-            "end": 90
+            "end": 90,
+            "start": 0
+        },
+        "outro": {
+            "end": 1395,
+            "start": 1289
         },
         "title": "Beatbox Bandits",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/4298fc9a8315d689009253fcfd63c21850ecd2f17301b10e335ca953276459cb4d43743d11cefa304e805b784b7cd6d869845bbb648e56d4535649127f0433d40c86e313dd495ca391778b31171b4971e04c5a8b2795f7a87035992bb901c23f0c2931237656c7eef7d1fd3d15be9cc48e58062e820e4f7982c0969c834ece44/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www015.vipanicdn.net/streamhls/9623e54af4ffd5149c3533f8e5894e3d/ep.9.1677634381.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-dub-9"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/4298fc9a8315d689009253fcfd63c21850ecd2f17301b10e335ca953276459cb4d43743d11cefa304e805b784b7cd6d869845bbb648e56d4535649127f0433d40c86e313dd495ca391778b31171b4971e04c5a8b2795f7a87035992bb901c23f0c2931237656c7eef7d1fd3d15be9cc48e58062e820e4f7982c0969c834ece44/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/69/693e859946eb7977ffebcb0669eea22b/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/5be601f5b0f0a16bc96fe61624d81a8f39394a9729a47b2c54709b6cffde386dd0b86e64cec5d345ec7d7769089befb01bd28c110a867846af747f12b7539fd1d7f245e3978802ea6ea5c143fc0fca8329909512d5c161e0fff81718182fbcc5d5d962b0f7989d8aeb319558e0d2cb723a4b328e2d01e31c574083c36336b9b5/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www028.vipanicdn.net/streamhls/19fe3161a57b889291307a1643901795/ep.9.1677656202.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-9"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/5be601f5b0f0a16bc96fe61624d81a8f39394a9729a47b2c54709b6cffde386dd0b86e64cec5d345ec7d7769089befb01bd28c110a867846af747f12b7539fd1d7f245e3978802ea6ea5c143fc0fca8329909512d5c161e0fff81718182fbcc5d5d962b0f7989d8aeb319558e0d2cb723a4b328e2d01e31c574083c36336b9b5/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/56/40/56409c2f41dc1d674e45f84dfa24c01c/eng-5.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/56/40/56409c2f41dc1d674e45f84dfa24c01c/fre-8.vtt",
-                            "lang": "French - French [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/56/40/56409c2f41dc1d674e45f84dfa24c01c/jpn-10.vtt",
-                            "lang": "Japanese - Japanese [SDH]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/56/40/56409c2f41dc1d674e45f84dfa24c01c/por-9.vtt",
-                            "lang": "Portuguese - Portuguese [Full]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/56/40/56409c2f41dc1d674e45f84dfa24c01c/spa-6.vtt",
-                            "lang": "Spanish - Castilian [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/56/40/56409c2f41dc1d674e45f84dfa24c01c/spa-7.vtt",
-                            "lang": "Spanish - Castilian [Full]"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/69/693e859946eb7977ffebcb0669eea22b/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -670,74 +590,68 @@
             "DUBBED": "ODYwODQ=",
             "SUBBED": "MjA2Mzc="
         },
-        "outro": {
-            "start": 1289,
-            "end": 1395
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/56/40/56409c2f41dc1d674e45f84dfa24c01c/eng-5.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/56/40/56409c2f41dc1d674e45f84dfa24c01c/fre-8.vtt",
+                "lang": "French - French [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/56/40/56409c2f41dc1d674e45f84dfa24c01c/jpn-10.vtt",
+                "lang": "Japanese - Japanese [SDH]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/56/40/56409c2f41dc1d674e45f84dfa24c01c/por-9.vtt",
+                "lang": "Portuguese - Portuguese [Full]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/56/40/56409c2f41dc1d674e45f84dfa24c01c/spa-6.vtt",
+                "lang": "Spanish - Castilian [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/56/40/56409c2f41dc1d674e45f84dfa24c01c/spa-7.vtt",
+                "lang": "Spanish - Castilian [Full]"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/69/693e859946eb7977ffebcb0669eea22b/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "10": {
         "intro": {
-            "start": 0,
-            "end": 90
+            "end": 90,
+            "start": 0
+        },
+        "outro": {
+            "end": 1395,
+            "start": 1289
         },
         "title": "Lethal Lunacy",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/f78e2d0de3447b433fec6ecc4728b722dc616838c81cb3963f06768548002f14ca04da44ff607fe7bf914b65c332f3fce6113b6d1d459b9ae8fbd803956aa3f2a28e3978599db00601bd136599964cc9f0b47461c096519436e52a75d431f7a9db6cf7e377eda4dfed7aae498a34f3f992f29812ac7628198f7dd4d46a4b50e1/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www016.vipanicdn.net/streamhls/9623e54af4ffd5149c3533f8e5894e3d/ep.10.1677670816.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-dub-10"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/f78e2d0de3447b433fec6ecc4728b722dc616838c81cb3963f06768548002f14ca04da44ff607fe7bf914b65c332f3fce6113b6d1d459b9ae8fbd803956aa3f2a28e3978599db00601bd136599964cc9f0b47461c096519436e52a75d431f7a9db6cf7e377eda4dfed7aae498a34f3f992f29812ac7628198f7dd4d46a4b50e1/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/a5/a5c0d8efb830e4830f2153eac9be95e2/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/d8536a9f48370d7013cf12ddc82dd10b381431261954e109a3c002a3860fe2c921b91da1f32a99718b9e84956848248cc340623c52a1cfb19c6f25f78b5a8991d74393cecb5d5cef62af50296d2003ca09590a47b7c452cb8453082549efdce8ab658ea601de1ba1b35b0e0d597e0a19fd45b8029013a377a23554cf81e349a6/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www001.vipanicdn.net/streamhls/19fe3161a57b889291307a1643901795/ep.10.1677654510.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-10"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/d8536a9f48370d7013cf12ddc82dd10b381431261954e109a3c002a3860fe2c921b91da1f32a99718b9e84956848248cc340623c52a1cfb19c6f25f78b5a8991d74393cecb5d5cef62af50296d2003ca09590a47b7c452cb8453082549efdce8ab658ea601de1ba1b35b0e0d597e0a19fd45b8029013a377a23554cf81e349a6/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/e4/ff/e4ff802234920ce7e61a9996e4aac7bb/eng-5.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/e4/ff/e4ff802234920ce7e61a9996e4aac7bb/fre-8.vtt",
-                            "lang": "French - French [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/e4/ff/e4ff802234920ce7e61a9996e4aac7bb/jpn-10.vtt",
-                            "lang": "Japanese - Japanese [SDH]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/e4/ff/e4ff802234920ce7e61a9996e4aac7bb/por-9.vtt",
-                            "lang": "Portuguese - Portuguese [Full]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/e4/ff/e4ff802234920ce7e61a9996e4aac7bb/spa-6.vtt",
-                            "lang": "Spanish - Castilian [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/e4/ff/e4ff802234920ce7e61a9996e4aac7bb/spa-7.vtt",
-                            "lang": "Spanish - Castilian [Full]"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/a5/a5c0d8efb830e4830f2153eac9be95e2/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -746,74 +660,68 @@
             "DUBBED": "ODYwODU=",
             "SUBBED": "MjA2NDA="
         },
-        "outro": {
-            "start": 1289,
-            "end": 1395
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/e4/ff/e4ff802234920ce7e61a9996e4aac7bb/eng-5.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/e4/ff/e4ff802234920ce7e61a9996e4aac7bb/fre-8.vtt",
+                "lang": "French - French [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/e4/ff/e4ff802234920ce7e61a9996e4aac7bb/jpn-10.vtt",
+                "lang": "Japanese - Japanese [SDH]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/e4/ff/e4ff802234920ce7e61a9996e4aac7bb/por-9.vtt",
+                "lang": "Portuguese - Portuguese [Full]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/e4/ff/e4ff802234920ce7e61a9996e4aac7bb/spa-6.vtt",
+                "lang": "Spanish - Castilian [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/e4/ff/e4ff802234920ce7e61a9996e4aac7bb/spa-7.vtt",
+                "lang": "Spanish - Castilian [Full]"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/a5/a5c0d8efb830e4830f2153eac9be95e2/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "11": {
         "intro": {
-            "start": 0,
-            "end": 90
+            "end": 90,
+            "start": 0
+        },
+        "outro": {
+            "end": 1396,
+            "start": 1290
         },
         "title": "Gamblers and Gallantry",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/928fc94e93ae718d159b9aa104406e36cd4ab1ff76c1c69671d25f5a9552fb5efb10058445791f18d9f7a0486876ee74c8975cd8d9fa71eaac25574a51a0cb72e74f282723cfb6e070b0be016ab291884221bf9296d0116b7cc06c4cf93b9b915a04a77f3728f9eb805ca8943bf354dd6f6d735eb91d2801e80fab4d29ddd0d2/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www017.vipanicdn.net/streamhls/9623e54af4ffd5149c3533f8e5894e3d/ep.11.1677674223.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-dub-11"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/928fc94e93ae718d159b9aa104406e36cd4ab1ff76c1c69671d25f5a9552fb5efb10058445791f18d9f7a0486876ee74c8975cd8d9fa71eaac25574a51a0cb72e74f282723cfb6e070b0be016ab291884221bf9296d0116b7cc06c4cf93b9b915a04a77f3728f9eb805ca8943bf354dd6f6d735eb91d2801e80fab4d29ddd0d2/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/b5/b59aa9c4f9c75be49ece6e0e05fbd0f0/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/c8f2eb7cb6933394a0715d000c74a3d155b0b4af31b80029574c2d450cf98a00ab37ed622dd119b5126bb184b7bd087b165cb7ab03aef7a03f8ed278ef602b078264fff0ecf35b289e3b4155ea0d9859d7f632dcf656a5f9a78694a45e0f6cf402428547826acdad32f535f9fa1d80aa62864c8a98eea0ef9ba4f22e060a2d8f/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www002.vipanicdn.net/streamhls/19fe3161a57b889291307a1643901795/ep.11.1677612276.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-11"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/c8f2eb7cb6933394a0715d000c74a3d155b0b4af31b80029574c2d450cf98a00ab37ed622dd119b5126bb184b7bd087b165cb7ab03aef7a03f8ed278ef602b078264fff0ecf35b289e3b4155ea0d9859d7f632dcf656a5f9a78694a45e0f6cf402428547826acdad32f535f9fa1d80aa62864c8a98eea0ef9ba4f22e060a2d8f/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/dd/ab/ddaba8a7f79760c6954bffe7d7ac736e/eng-5.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/dd/ab/ddaba8a7f79760c6954bffe7d7ac736e/fre-8.vtt",
-                            "lang": "French - French [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/dd/ab/ddaba8a7f79760c6954bffe7d7ac736e/jpn-10.vtt",
-                            "lang": "Japanese - Japanese [SDH]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/dd/ab/ddaba8a7f79760c6954bffe7d7ac736e/por-9.vtt",
-                            "lang": "Portuguese - Portuguese [Full]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/dd/ab/ddaba8a7f79760c6954bffe7d7ac736e/spa-6.vtt",
-                            "lang": "Spanish - Castilian [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/dd/ab/ddaba8a7f79760c6954bffe7d7ac736e/spa-7.vtt",
-                            "lang": "Spanish - Castilian [Full]"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/b5/b59aa9c4f9c75be49ece6e0e05fbd0f0/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -822,74 +730,68 @@
             "DUBBED": "ODYwODY=",
             "SUBBED": "MjA2NDE="
         },
-        "outro": {
-            "start": 1290,
-            "end": 1396
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/dd/ab/ddaba8a7f79760c6954bffe7d7ac736e/eng-5.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/dd/ab/ddaba8a7f79760c6954bffe7d7ac736e/fre-8.vtt",
+                "lang": "French - French [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/dd/ab/ddaba8a7f79760c6954bffe7d7ac736e/jpn-10.vtt",
+                "lang": "Japanese - Japanese [SDH]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/dd/ab/ddaba8a7f79760c6954bffe7d7ac736e/por-9.vtt",
+                "lang": "Portuguese - Portuguese [Full]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/dd/ab/ddaba8a7f79760c6954bffe7d7ac736e/spa-6.vtt",
+                "lang": "Spanish - Castilian [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/dd/ab/ddaba8a7f79760c6954bffe7d7ac736e/spa-7.vtt",
+                "lang": "Spanish - Castilian [Full]"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/b5/b59aa9c4f9c75be49ece6e0e05fbd0f0/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "12": {
         "intro": {
-            "start": 0,
-            "end": 90
+            "end": 90,
+            "start": 0
+        },
+        "outro": {
+            "end": 1395,
+            "start": 1218
         },
         "title": "The Disorder Diaries",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/da3780a602416307a07335f4d890da1ed0c654b300cb8cc0896869107f39d2bc02dfdca60e5f20ca91f4419635c9b44deb3612cccb09371d3485289aa583e75783bb964772ff041d0381438653a5f35a2be2fbbec278dbf675d7db993fd3129ac99284c44b80746fa1507d83fff2dc5027f3beaac06c5928643364282ceacdae/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www018.vipanicdn.net/streamhls/9623e54af4ffd5149c3533f8e5894e3d/ep.12.1677631360.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-dub-12"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/da3780a602416307a07335f4d890da1ed0c654b300cb8cc0896869107f39d2bc02dfdca60e5f20ca91f4419635c9b44deb3612cccb09371d3485289aa583e75783bb964772ff041d0381438653a5f35a2be2fbbec278dbf675d7db993fd3129ac99284c44b80746fa1507d83fff2dc5027f3beaac06c5928643364282ceacdae/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/59/59cdf99157ddfcf82137f6bb0643a850/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/a2271191bc76f2e2a97c53f563ab43d67cebbc88e19ba4c65b529dba118804fb61d27a62e9fafd2c2e7feb9203cc4919f84aa8c1c69726e109d5b16f8dd230b1c809b555051fd89caeacf39033cc08f727e9c79e0e10e08e855665551ab270b817880567b4dcacb283260e536be069a3610bc5807c590d4aaeac96f6b2b19a95/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www004.vipanicdn.net/streamhls/19fe3161a57b889291307a1643901795/ep.12.1677653578.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-12"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/a2271191bc76f2e2a97c53f563ab43d67cebbc88e19ba4c65b529dba118804fb61d27a62e9fafd2c2e7feb9203cc4919f84aa8c1c69726e109d5b16f8dd230b1c809b555051fd89caeacf39033cc08f727e9c79e0e10e08e855665551ab270b817880567b4dcacb283260e536be069a3610bc5807c590d4aaeac96f6b2b19a95/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/d9/7a/d97a89493f2e5cc7e5a4d1a9e86c2cb2/eng-5.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/d9/7a/d97a89493f2e5cc7e5a4d1a9e86c2cb2/fre-8.vtt",
-                            "lang": "French - French [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/d9/7a/d97a89493f2e5cc7e5a4d1a9e86c2cb2/jpn-10.vtt",
-                            "lang": "Japanese - Japanese [SDH]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/d9/7a/d97a89493f2e5cc7e5a4d1a9e86c2cb2/por-9.vtt",
-                            "lang": "Portuguese - Portuguese [Full]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/d9/7a/d97a89493f2e5cc7e5a4d1a9e86c2cb2/spa-6.vtt",
-                            "lang": "Spanish - Castilian [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/d9/7a/d97a89493f2e5cc7e5a4d1a9e86c2cb2/spa-7.vtt",
-                            "lang": "Spanish - Castilian [Full]"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/59/59cdf99157ddfcf82137f6bb0643a850/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -898,70 +800,68 @@
             "DUBBED": "ODYwODc=",
             "SUBBED": "MjA2NDM="
         },
-        "outro": {
-            "start": 1218,
-            "end": 1395
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/d9/7a/d97a89493f2e5cc7e5a4d1a9e86c2cb2/eng-5.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/d9/7a/d97a89493f2e5cc7e5a4d1a9e86c2cb2/fre-8.vtt",
+                "lang": "French - French [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/d9/7a/d97a89493f2e5cc7e5a4d1a9e86c2cb2/jpn-10.vtt",
+                "lang": "Japanese - Japanese [SDH]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/d9/7a/d97a89493f2e5cc7e5a4d1a9e86c2cb2/por-9.vtt",
+                "lang": "Portuguese - Portuguese [Full]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/d9/7a/d97a89493f2e5cc7e5a4d1a9e86c2cb2/spa-6.vtt",
+                "lang": "Spanish - Castilian [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/d9/7a/d97a89493f2e5cc7e5a4d1a9e86c2cb2/spa-7.vtt",
+                "lang": "Spanish - Castilian [Full]"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/59/59cdf99157ddfcf82137f6bb0643a850/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "13": {
         "intro": {
-            "start": 0,
-            "end": 90
+            "end": 90,
+            "start": 0
+        },
+        "outro": {
+            "end": 1395,
+            "start": 1289
         },
         "title": "Misguided Miscreants (Part 1)",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/fae010f7520b788a0e71f8c297ba6cc6f57748e06d48fbbef1483e3e264cd65bc3124889b563e697a63806a9790451fe5b2615f270febc1883df68958b5f02b2fd47c2e1221d885177b5c2b88aeb945a40549fbfed4707d37571036196719eda8c7cd2991439291a082026ccebdb98817ea9331e1d58369c32bd07a7bc316a36/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www019.vipanicdn.net/streamhls/9623e54af4ffd5149c3533f8e5894e3d/ep.13.1677673159.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-dub-13"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/fae010f7520b788a0e71f8c297ba6cc6f57748e06d48fbbef1483e3e264cd65bc3124889b563e697a63806a9790451fe5b2615f270febc1883df68958b5f02b2fd47c2e1221d885177b5c2b88aeb945a40549fbfed4707d37571036196719eda8c7cd2991439291a082026ccebdb98817ea9331e1d58369c32bd07a7bc316a36/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/b2/b2c15221e451cb25ffb62e737c1fce55/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/121ce5e800f45e948072fbdf1344d75add51f393484feb986faefd8b1d01c86bac0725dbe56ef3f66cd633276565fb2decbefef503e8b1e128aaa69053df385deb776a0f058072c869dedd395d945f2d88003633e9bb7d0f93344b028a05535980d772713ec4abfe668337091b2c6f3243aaf8d15945302b8f23e6f6f2dc38fc/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www006.vipanicdn.net/streamhls/19fe3161a57b889291307a1643901795/ep.13.1677608617.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-13"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/121ce5e800f45e948072fbdf1344d75add51f393484feb986faefd8b1d01c86bac0725dbe56ef3f66cd633276565fb2decbefef503e8b1e128aaa69053df385deb776a0f058072c869dedd395d945f2d88003633e9bb7d0f93344b028a05535980d772713ec4abfe668337091b2c6f3243aaf8d15945302b8f23e6f6f2dc38fc/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/3b/45/3b45d27f98755e0800960f3797bfe7d2/eng-5.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/3b/45/3b45d27f98755e0800960f3797bfe7d2/fre-7.vtt",
-                            "lang": "French - French [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/3b/45/3b45d27f98755e0800960f3797bfe7d2/jpn-9.vtt",
-                            "lang": "Japanese - Japanese [SDH]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/3b/45/3b45d27f98755e0800960f3797bfe7d2/por-8.vtt",
-                            "lang": "Portuguese - Portuguese [Full]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/3b/45/3b45d27f98755e0800960f3797bfe7d2/spa-6.vtt",
-                            "lang": "Spanish - Castilian [Full]"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/b2/b2c15221e451cb25ffb62e737c1fce55/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -970,70 +870,64 @@
             "DUBBED": "ODYwODg=",
             "SUBBED": "MjA2NDU="
         },
-        "outro": {
-            "start": 1289,
-            "end": 1395
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/3b/45/3b45d27f98755e0800960f3797bfe7d2/eng-5.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/3b/45/3b45d27f98755e0800960f3797bfe7d2/fre-7.vtt",
+                "lang": "French - French [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/3b/45/3b45d27f98755e0800960f3797bfe7d2/jpn-9.vtt",
+                "lang": "Japanese - Japanese [SDH]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/3b/45/3b45d27f98755e0800960f3797bfe7d2/por-8.vtt",
+                "lang": "Portuguese - Portuguese [Full]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/3b/45/3b45d27f98755e0800960f3797bfe7d2/spa-6.vtt",
+                "lang": "Spanish - Castilian [Full]"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/b2/b2c15221e451cb25ffb62e737c1fce55/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "14": {
         "intro": {
-            "start": 0,
-            "end": 90
+            "end": 90,
+            "start": 0
+        },
+        "outro": {
+            "end": 1318,
+            "start": 1212
         },
         "title": "Misguided Miscreants (Part 2)",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/1bb196df49e9605497f274b0330baa5e245c2c9812a7dc192239e0f4d7b019a74bba659c958e39a4b426a951bf18866c454f0027cee026b34f54360b49347bcf51df6c5f9883eac0012d43aa01de0920d3eddd068b1f7a3b3ec1dd42686a9ad7cfb69e8ce52a0f1d5d86be8defa7a07e08d2c2e96286746288f7c9c63e948e5a/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www020.vipanicdn.net/streamhls/9623e54af4ffd5149c3533f8e5894e3d/ep.14.1677672442.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-dub-14"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/1bb196df49e9605497f274b0330baa5e245c2c9812a7dc192239e0f4d7b019a74bba659c958e39a4b426a951bf18866c454f0027cee026b34f54360b49347bcf51df6c5f9883eac0012d43aa01de0920d3eddd068b1f7a3b3ec1dd42686a9ad7cfb69e8ce52a0f1d5d86be8defa7a07e08d2c2e96286746288f7c9c63e948e5a/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/ac/ac9703d6e4fd77524059c13ec4287682/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/a7d74b86ae65035092e2b6753338a3a81e9b203bdc6cafb9cae801899531587b7c4dd36567764d75b9c62e0e15b80f00d5ca31bd364bbf04e016e64e4187d3f18e67f352f1152e87f6bba7903a1802594bc1fc7a497a065dbc690ceda62b878795b900c34f33646bffd36727c4005c32f674f2a7357b1e260218413373851559/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www009.vipanicdn.net/streamhls/19fe3161a57b889291307a1643901795/ep.14.1677614575.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-14"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/a7d74b86ae65035092e2b6753338a3a81e9b203bdc6cafb9cae801899531587b7c4dd36567764d75b9c62e0e15b80f00d5ca31bd364bbf04e016e64e4187d3f18e67f352f1152e87f6bba7903a1802594bc1fc7a497a065dbc690ceda62b878795b900c34f33646bffd36727c4005c32f674f2a7357b1e260218413373851559/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/c0/ac/c0acfb95b642612ac8dd8c05e0543431/eng-5.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/c0/ac/c0acfb95b642612ac8dd8c05e0543431/fre-7.vtt",
-                            "lang": "French - French [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/c0/ac/c0acfb95b642612ac8dd8c05e0543431/jpn-9.vtt",
-                            "lang": "Japanese - Japanese [SDH]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/c0/ac/c0acfb95b642612ac8dd8c05e0543431/por-8.vtt",
-                            "lang": "Portuguese - Portuguese [Full]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/c0/ac/c0acfb95b642612ac8dd8c05e0543431/spa-6.vtt",
-                            "lang": "Spanish - Castilian [Full]"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/ac/ac9703d6e4fd77524059c13ec4287682/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -1042,74 +936,64 @@
             "DUBBED": "ODYwODk=",
             "SUBBED": "MjA2NDg="
         },
-        "outro": {
-            "start": 1212,
-            "end": 1318
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/c0/ac/c0acfb95b642612ac8dd8c05e0543431/eng-5.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/c0/ac/c0acfb95b642612ac8dd8c05e0543431/fre-7.vtt",
+                "lang": "French - French [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/c0/ac/c0acfb95b642612ac8dd8c05e0543431/jpn-9.vtt",
+                "lang": "Japanese - Japanese [SDH]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/c0/ac/c0acfb95b642612ac8dd8c05e0543431/por-8.vtt",
+                "lang": "Portuguese - Portuguese [Full]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/c0/ac/c0acfb95b642612ac8dd8c05e0543431/spa-6.vtt",
+                "lang": "Spanish - Castilian [Full]"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/ac/ac9703d6e4fd77524059c13ec4287682/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "15": {
         "intro": {
-            "start": 0,
-            "end": 90
+            "end": 90,
+            "start": 0
+        },
+        "outro": {
+            "end": 1395,
+            "start": 1289
         },
         "title": "Bogus Booty",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/b4512b6ff481bcbe8ad2ab3df5444e552c4c5b88df374108c08c2554d89c7f3f16df7a212ca8f613632890515929c32573da42168567e1a2086e2bc9fba9a7877d185331e0bf19bb668030a7990c6e1f32707cecabc3c426bb4d4f707ba637ad571d593b9c31ac85ab0a6a9d2b7993dc429a6fc8dbec5fc534bb99b5832d37f4/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www021.vipanicdn.net/streamhls/9623e54af4ffd5149c3533f8e5894e3d/ep.15.1677672257.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-dub-15"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/b4512b6ff481bcbe8ad2ab3df5444e552c4c5b88df374108c08c2554d89c7f3f16df7a212ca8f613632890515929c32573da42168567e1a2086e2bc9fba9a7877d185331e0bf19bb668030a7990c6e1f32707cecabc3c426bb4d4f707ba637ad571d593b9c31ac85ab0a6a9d2b7993dc429a6fc8dbec5fc534bb99b5832d37f4/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/ee/ee3137129a617c9466cd3c0a9cd42ad6/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/3cb2f55c82584ced4fc143287dd4bf25ef56d7b47c789ea051c3d5d4ea680795ff275194d01f316611b7655e90dbb89cf6cf511e626ef43df261216eda1d958f3e6a6aeab931c1d7340ff82dce82ae9dde4fa3ae0fb0a83a0d4ca98884f2a4cf055fa815d78a959861112fa808365976202159ba2971cd6af66fbe377baecd43/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www010.vipanicdn.net/streamhls/19fe3161a57b889291307a1643901795/ep.15.1677653671.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-15"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/3cb2f55c82584ced4fc143287dd4bf25ef56d7b47c789ea051c3d5d4ea680795ff275194d01f316611b7655e90dbb89cf6cf511e626ef43df261216eda1d958f3e6a6aeab931c1d7340ff82dce82ae9dde4fa3ae0fb0a83a0d4ca98884f2a4cf055fa815d78a959861112fa808365976202159ba2971cd6af66fbe377baecd43/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/22/cc/22cc5b575969c6cd11095425b706db29/eng-5.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/22/cc/22cc5b575969c6cd11095425b706db29/fre-8.vtt",
-                            "lang": "French - French [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/22/cc/22cc5b575969c6cd11095425b706db29/jpn-10.vtt",
-                            "lang": "Japanese - Japanese [SDH]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/22/cc/22cc5b575969c6cd11095425b706db29/por-9.vtt",
-                            "lang": "Portuguese - Portuguese [Full]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/22/cc/22cc5b575969c6cd11095425b706db29/spa-6.vtt",
-                            "lang": "Spanish - Castilian [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/22/cc/22cc5b575969c6cd11095425b706db29/spa-7.vtt",
-                            "lang": "Spanish - Castilian [Full]"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/ee/ee3137129a617c9466cd3c0a9cd42ad6/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -1118,74 +1002,68 @@
             "DUBBED": "ODYwOTA=",
             "SUBBED": "MjA2NDk="
         },
-        "outro": {
-            "start": 1289,
-            "end": 1395
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/22/cc/22cc5b575969c6cd11095425b706db29/eng-5.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/22/cc/22cc5b575969c6cd11095425b706db29/fre-8.vtt",
+                "lang": "French - French [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/22/cc/22cc5b575969c6cd11095425b706db29/jpn-10.vtt",
+                "lang": "Japanese - Japanese [SDH]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/22/cc/22cc5b575969c6cd11095425b706db29/por-9.vtt",
+                "lang": "Portuguese - Portuguese [Full]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/22/cc/22cc5b575969c6cd11095425b706db29/spa-6.vtt",
+                "lang": "Spanish - Castilian [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/22/cc/22cc5b575969c6cd11095425b706db29/spa-7.vtt",
+                "lang": "Spanish - Castilian [Full]"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/ee/ee3137129a617c9466cd3c0a9cd42ad6/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "16": {
         "intro": {
-            "start": 0,
-            "end": 90
+            "end": 90,
+            "start": 0
+        },
+        "outro": {
+            "end": 1396,
+            "start": 1291
         },
         "title": "Lullabies of the Lost (Verse 1)",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/70257091d74f4a2b97390a606aedb79a8b479b464854c85c4a692b9395ed9668d00b89c42b850982a06cdafd1abecf2c19709cd030bdb2266de62d36c7f3dae142f4dd16203a2f0c5081aa1cef51a629d8c4812b5fb9daadbb385a8fe11352a4e54bd4a8eb9ba791241208825deb1f80d4356be919a01a01414a42cf74dd28c4/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www022.vipanicdn.net/streamhls/9623e54af4ffd5149c3533f8e5894e3d/ep.16.1677631380.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-dub-16"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/70257091d74f4a2b97390a606aedb79a8b479b464854c85c4a692b9395ed9668d00b89c42b850982a06cdafd1abecf2c19709cd030bdb2266de62d36c7f3dae142f4dd16203a2f0c5081aa1cef51a629d8c4812b5fb9daadbb385a8fe11352a4e54bd4a8eb9ba791241208825deb1f80d4356be919a01a01414a42cf74dd28c4/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/18/181c266e5de1495b50fe5965ad658c01/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/f8f5dfe78ddc100a1d79a4b5ea455fbc0d5e839652066b60843f3a38244ee1de6a0ece00035ac3250d07ff757151f6b743a599e1747733bec95af5755f7bc1035f320532b255bf3089371b57165c5f5e1e7ff26c950ca032a525616bef6020ea0cb5b37b396eebb6b14b80ef0b562828dfdbbe5ca37552158314410329b8693e/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www012.vipanicdn.net/streamhls/19fe3161a57b889291307a1643901795/ep.16.1677623869.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-16"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/f8f5dfe78ddc100a1d79a4b5ea455fbc0d5e839652066b60843f3a38244ee1de6a0ece00035ac3250d07ff757151f6b743a599e1747733bec95af5755f7bc1035f320532b255bf3089371b57165c5f5e1e7ff26c950ca032a525616bef6020ea0cb5b37b396eebb6b14b80ef0b562828dfdbbe5ca37552158314410329b8693e/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/83/50/8350d5258a6dbbb907983c74f85195cc/eng-5.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/83/50/8350d5258a6dbbb907983c74f85195cc/fre-8.vtt",
-                            "lang": "French - French [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/83/50/8350d5258a6dbbb907983c74f85195cc/jpn-10.vtt",
-                            "lang": "Japanese - Japanese [SDH]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/83/50/8350d5258a6dbbb907983c74f85195cc/por-9.vtt",
-                            "lang": "Portuguese - Portuguese [Full]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/83/50/8350d5258a6dbbb907983c74f85195cc/spa-6.vtt",
-                            "lang": "Spanish - Castilian [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/83/50/8350d5258a6dbbb907983c74f85195cc/spa-7.vtt",
-                            "lang": "Spanish - Castilian [Full]"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/18/181c266e5de1495b50fe5965ad658c01/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -1194,74 +1072,68 @@
             "DUBBED": "ODYwOTE=",
             "SUBBED": "MjA2NTE="
         },
-        "outro": {
-            "start": 1291,
-            "end": 1396
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/83/50/8350d5258a6dbbb907983c74f85195cc/eng-5.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/83/50/8350d5258a6dbbb907983c74f85195cc/fre-8.vtt",
+                "lang": "French - French [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/83/50/8350d5258a6dbbb907983c74f85195cc/jpn-10.vtt",
+                "lang": "Japanese - Japanese [SDH]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/83/50/8350d5258a6dbbb907983c74f85195cc/por-9.vtt",
+                "lang": "Portuguese - Portuguese [Full]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/83/50/8350d5258a6dbbb907983c74f85195cc/spa-6.vtt",
+                "lang": "Spanish - Castilian [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/83/50/8350d5258a6dbbb907983c74f85195cc/spa-7.vtt",
+                "lang": "Spanish - Castilian [Full]"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/18/181c266e5de1495b50fe5965ad658c01/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "17": {
         "intro": {
-            "start": 0,
-            "end": 90
+            "end": 90,
+            "start": 0
+        },
+        "outro": {
+            "end": 1275,
+            "start": 1137
         },
         "title": "Lullabies of the Lost (Verse 2)",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/da73b54e84f207304ad31d96d8c94dd7c26b594664a44f23a660d4f902708277248bf161487aae7d33af6affcc0f9cd2a7ad4bba63fa280cfbcf8d4cfa5354c6bda9f7cebdcb2ed3e4aa99c23ad8d5ae73d9ac77c809528f715dc1917caf1e51ec3ec8cf65f2c6217ec7fe71cd492b44fd97140180084070c1e561a9ff2946e6/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www023.vipanicdn.net/streamhls/9623e54af4ffd5149c3533f8e5894e3d/ep.17.1677719788.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-dub-17"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/da73b54e84f207304ad31d96d8c94dd7c26b594664a44f23a660d4f902708277248bf161487aae7d33af6affcc0f9cd2a7ad4bba63fa280cfbcf8d4cfa5354c6bda9f7cebdcb2ed3e4aa99c23ad8d5ae73d9ac77c809528f715dc1917caf1e51ec3ec8cf65f2c6217ec7fe71cd492b44fd97140180084070c1e561a9ff2946e6/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/46/463c35d91a7f81b53243dd2484675375/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/73c1d5c38e2c6c55029c603e52b40a938fd217e371e27dffa2bc25c63f4abdb4dca647e7afe526ca06f0652709eedf40824c0c0e652afc01f2d6c6ab97319139c6346ad72b682658af3278bffcb87fa9c1f8534cf6ea51d5a4c8bfaf3ccdb13ae6cdc4cd1deb44bf72c85e96a993eaa38d3ef87fa6e63d6d1830bca502a0011f/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www015.vipanicdn.net/streamhls/19fe3161a57b889291307a1643901795/ep.17.1677629532.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-17"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/73c1d5c38e2c6c55029c603e52b40a938fd217e371e27dffa2bc25c63f4abdb4dca647e7afe526ca06f0652709eedf40824c0c0e652afc01f2d6c6ab97319139c6346ad72b682658af3278bffcb87fa9c1f8534cf6ea51d5a4c8bfaf3ccdb13ae6cdc4cd1deb44bf72c85e96a993eaa38d3ef87fa6e63d6d1830bca502a0011f/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/cd/04/cd049e6bc7d5d5671ed2b7649f781d27/eng-5.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/cd/04/cd049e6bc7d5d5671ed2b7649f781d27/fre-8.vtt",
-                            "lang": "French - French [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/cd/04/cd049e6bc7d5d5671ed2b7649f781d27/jpn-10.vtt",
-                            "lang": "Japanese - Japanese [SDH]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/cd/04/cd049e6bc7d5d5671ed2b7649f781d27/por-9.vtt",
-                            "lang": "Portuguese - Portuguese [Full]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/cd/04/cd049e6bc7d5d5671ed2b7649f781d27/spa-6.vtt",
-                            "lang": "Spanish - Castilian [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/cd/04/cd049e6bc7d5d5671ed2b7649f781d27/spa-7.vtt",
-                            "lang": "Spanish - Castilian [Full]"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/46/463c35d91a7f81b53243dd2484675375/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -1270,74 +1142,68 @@
             "DUBBED": "ODYwOTI=",
             "SUBBED": "MjA2NTQ="
         },
-        "outro": {
-            "start": 1137,
-            "end": 1275
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/cd/04/cd049e6bc7d5d5671ed2b7649f781d27/eng-5.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/cd/04/cd049e6bc7d5d5671ed2b7649f781d27/fre-8.vtt",
+                "lang": "French - French [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/cd/04/cd049e6bc7d5d5671ed2b7649f781d27/jpn-10.vtt",
+                "lang": "Japanese - Japanese [SDH]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/cd/04/cd049e6bc7d5d5671ed2b7649f781d27/por-9.vtt",
+                "lang": "Portuguese - Portuguese [Full]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/cd/04/cd049e6bc7d5d5671ed2b7649f781d27/spa-6.vtt",
+                "lang": "Spanish - Castilian [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/cd/04/cd049e6bc7d5d5671ed2b7649f781d27/spa-7.vtt",
+                "lang": "Spanish - Castilian [Full]"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/46/463c35d91a7f81b53243dd2484675375/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "18": {
         "intro": {
-            "start": 0,
-            "end": 90
+            "end": 90,
+            "start": 0
+        },
+        "outro": {
+            "end": 1396,
+            "start": 1290
         },
         "title": "War of the Words",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/3f7039a945d15d0a48fb0b276305f8ed80d948d6ebb2b8811f02c6e9a2956fc40906fc7684533cc377593d7379e99efcf8cc6df5460129eb62cbddbf564c0eea51deed4747d958265d184cb502b95514268b8d8cb8b0b043a9292e9d3dc51e613fa5ab2cbd05c1cc90da8c3199334f9e2d0054169b1f1232c992047c512e9cd6/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www024.vipanicdn.net/streamhls/9623e54af4ffd5149c3533f8e5894e3d/ep.18.1677676848.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-dub-18"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/3f7039a945d15d0a48fb0b276305f8ed80d948d6ebb2b8811f02c6e9a2956fc40906fc7684533cc377593d7379e99efcf8cc6df5460129eb62cbddbf564c0eea51deed4747d958265d184cb502b95514268b8d8cb8b0b043a9292e9d3dc51e613fa5ab2cbd05c1cc90da8c3199334f9e2d0054169b1f1232c992047c512e9cd6/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/e9/e9744bbcf21ab67f79cc7615f9f4dee1/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/3ba2af3488468c84669c033d57cfba133a62e777f86b873173e145dd85ccf261b2059c8aa0821d04321062beb09e7d19af719919443258d0193419aa6dc4e6b8f22554334d1c82ae6f53ccf1d09c57172834caff20d23d3c5c89a06641666ce24f45c2cb1ad90d6afed7b8ab9e8a65e55793d67f036602141885d99724ccfb89/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www017.vipanicdn.net/streamhls/19fe3161a57b889291307a1643901795/ep.18.1677654892.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-18"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/3ba2af3488468c84669c033d57cfba133a62e777f86b873173e145dd85ccf261b2059c8aa0821d04321062beb09e7d19af719919443258d0193419aa6dc4e6b8f22554334d1c82ae6f53ccf1d09c57172834caff20d23d3c5c89a06641666ce24f45c2cb1ad90d6afed7b8ab9e8a65e55793d67f036602141885d99724ccfb89/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/22/7a/227a0a9fef45002d572a60ab04125460/eng-5.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/22/7a/227a0a9fef45002d572a60ab04125460/fre-8.vtt",
-                            "lang": "French - French [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/22/7a/227a0a9fef45002d572a60ab04125460/jpn-10.vtt",
-                            "lang": "Japanese - Japanese [SDH]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/22/7a/227a0a9fef45002d572a60ab04125460/por-9.vtt",
-                            "lang": "Portuguese - Portuguese [Full]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/22/7a/227a0a9fef45002d572a60ab04125460/spa-6.vtt",
-                            "lang": "Spanish - Castilian [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/22/7a/227a0a9fef45002d572a60ab04125460/spa-7.vtt",
-                            "lang": "Spanish - Castilian [Full]"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/e9/e9744bbcf21ab67f79cc7615f9f4dee1/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -1346,74 +1212,68 @@
             "DUBBED": "ODYwOTM=",
             "SUBBED": "MjA2NTY="
         },
-        "outro": {
-            "start": 1290,
-            "end": 1396
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/22/7a/227a0a9fef45002d572a60ab04125460/eng-5.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/22/7a/227a0a9fef45002d572a60ab04125460/fre-8.vtt",
+                "lang": "French - French [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/22/7a/227a0a9fef45002d572a60ab04125460/jpn-10.vtt",
+                "lang": "Japanese - Japanese [SDH]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/22/7a/227a0a9fef45002d572a60ab04125460/por-9.vtt",
+                "lang": "Portuguese - Portuguese [Full]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/22/7a/227a0a9fef45002d572a60ab04125460/spa-6.vtt",
+                "lang": "Spanish - Castilian [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/22/7a/227a0a9fef45002d572a60ab04125460/spa-7.vtt",
+                "lang": "Spanish - Castilian [Full]"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/e9/e9744bbcf21ab67f79cc7615f9f4dee1/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "19": {
         "intro": {
-            "start": 0,
-            "end": 90
+            "end": 90,
+            "start": 0
+        },
+        "outro": {
+            "end": 1394,
+            "start": 1289
         },
         "title": "Unholy Union",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/ffbd95318d497017501cfb06d1a656eb194840806ec13b426537e9c523ad127ebff56e905e9af81a1ab37f79cb059290ebc8a75af1b7f0f58bf012d27aac9d21df9d1c7ae8111a0ec0b4785628519c5ad17b198ac737e2f11cf2a5f61708be1ff4bcdd8e15a677133e2f642a3a6c0505b99b22d75cce5de30623e1087c5b502d/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www025.vipanicdn.net/streamhls/9623e54af4ffd5149c3533f8e5894e3d/ep.19.1677725948.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-dub-19"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/ffbd95318d497017501cfb06d1a656eb194840806ec13b426537e9c523ad127ebff56e905e9af81a1ab37f79cb059290ebc8a75af1b7f0f58bf012d27aac9d21df9d1c7ae8111a0ec0b4785628519c5ad17b198ac737e2f11cf2a5f61708be1ff4bcdd8e15a677133e2f642a3a6c0505b99b22d75cce5de30623e1087c5b502d/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/0e/0ef37658da22613780b7c655a9baeebf/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/e9c912d900ba196dce8cc2741d5d0fb528a171580b950b6924990d8edb5ece593c33a56b0301b95402f855d7326115077d3f89f81d3ae88c666dbe0aab96c392ea80bb4acfe10dec6952262e3a40b6c1de2119d06f73cd5ba5f0d432f7eeb81fa082ece47daa4ed9612306b96aa60134f1e8f72937e0bb97a0d03d63a712e98d/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www019.vipanicdn.net/streamhls/19fe3161a57b889291307a1643901795/ep.19.1677654660.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-19"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/e9c912d900ba196dce8cc2741d5d0fb528a171580b950b6924990d8edb5ece593c33a56b0301b95402f855d7326115077d3f89f81d3ae88c666dbe0aab96c392ea80bb4acfe10dec6952262e3a40b6c1de2119d06f73cd5ba5f0d432f7eeb81fa082ece47daa4ed9612306b96aa60134f1e8f72937e0bb97a0d03d63a712e98d/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/81/90/8190c648a5964a25d9add21498ae562a/eng-5.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/81/90/8190c648a5964a25d9add21498ae562a/fre-8.vtt",
-                            "lang": "French - French [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/81/90/8190c648a5964a25d9add21498ae562a/jpn-10.vtt",
-                            "lang": "Japanese - Japanese [SDH]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/81/90/8190c648a5964a25d9add21498ae562a/por-9.vtt",
-                            "lang": "Portuguese - Portuguese [Full]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/81/90/8190c648a5964a25d9add21498ae562a/spa-6.vtt",
-                            "lang": "Spanish - Castilian [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/81/90/8190c648a5964a25d9add21498ae562a/spa-7.vtt",
-                            "lang": "Spanish - Castilian [Full]"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/0e/0ef37658da22613780b7c655a9baeebf/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -1422,74 +1282,68 @@
             "DUBBED": "ODYwOTQ=",
             "SUBBED": "MjA2NTg="
         },
-        "outro": {
-            "start": 1289,
-            "end": 1394
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/81/90/8190c648a5964a25d9add21498ae562a/eng-5.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/81/90/8190c648a5964a25d9add21498ae562a/fre-8.vtt",
+                "lang": "French - French [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/81/90/8190c648a5964a25d9add21498ae562a/jpn-10.vtt",
+                "lang": "Japanese - Japanese [SDH]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/81/90/8190c648a5964a25d9add21498ae562a/por-9.vtt",
+                "lang": "Portuguese - Portuguese [Full]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/81/90/8190c648a5964a25d9add21498ae562a/spa-6.vtt",
+                "lang": "Spanish - Castilian [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/81/90/8190c648a5964a25d9add21498ae562a/spa-7.vtt",
+                "lang": "Spanish - Castilian [Full]"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/0e/0ef37658da22613780b7c655a9baeebf/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "20": {
         "intro": {
-            "start": 0,
-            "end": 90
+            "end": 90,
+            "start": 0
+        },
+        "outro": {
+            "end": 1394,
+            "start": 1289
         },
         "title": "Elegy of Entrapment (Verse 1)",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/80b340d018ebf23b5cc25eb94b6a5562f0bc43bc8415f9fb4d25e00bdd653f7b5046f0953cb063c73330bbb62369b22180c8e34a54799a68f2cada33981d59f174322f45ae534d11a25c0119786850c9fc92ecdb54ddd7b7ef6f9300175f9a21a33e102c60e94d3280d9c9a813291f3efd612410dab7a8d37fbb53ea3b208e99/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www026.vipanicdn.net/streamhls/9623e54af4ffd5149c3533f8e5894e3d/ep.20.1677676925.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-dub-20"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/80b340d018ebf23b5cc25eb94b6a5562f0bc43bc8415f9fb4d25e00bdd653f7b5046f0953cb063c73330bbb62369b22180c8e34a54799a68f2cada33981d59f174322f45ae534d11a25c0119786850c9fc92ecdb54ddd7b7ef6f9300175f9a21a33e102c60e94d3280d9c9a813291f3efd612410dab7a8d37fbb53ea3b208e99/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/3f/3f51f8897ed7e4007bfe90682a55681f/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/54742e1eb533f6e6a9c8392a0d98396b725eb6effc6b1f3225025ee4a6c3761305baf8584768590ad33b936d62332329dd668832b85651b4661bc4dcf986569d07dae79ec649595cd2c9e31fcbacb92bcad22ef70e328090e01b5d8af389339b96b1b436bc33f26cc2cfa229a38d3e861962f6836e353c05906f22e6c2492334/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www021.vipanicdn.net/streamhls/19fe3161a57b889291307a1643901795/ep.20.1677654416.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-20"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/54742e1eb533f6e6a9c8392a0d98396b725eb6effc6b1f3225025ee4a6c3761305baf8584768590ad33b936d62332329dd668832b85651b4661bc4dcf986569d07dae79ec649595cd2c9e31fcbacb92bcad22ef70e328090e01b5d8af389339b96b1b436bc33f26cc2cfa229a38d3e861962f6836e353c05906f22e6c2492334/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/d1/8c/d18c78ac6f26e9b4128036ba6770a10a/eng-5.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/d1/8c/d18c78ac6f26e9b4128036ba6770a10a/fre-8.vtt",
-                            "lang": "French - French [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/d1/8c/d18c78ac6f26e9b4128036ba6770a10a/jpn-10.vtt",
-                            "lang": "Japanese - Japanese [SDH]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/d1/8c/d18c78ac6f26e9b4128036ba6770a10a/por-9.vtt",
-                            "lang": "Portuguese - Portuguese [Full]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/d1/8c/d18c78ac6f26e9b4128036ba6770a10a/spa-6.vtt",
-                            "lang": "Spanish - Castilian [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/d1/8c/d18c78ac6f26e9b4128036ba6770a10a/spa-7.vtt",
-                            "lang": "Spanish - Castilian [Full]"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/3f/3f51f8897ed7e4007bfe90682a55681f/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -1498,70 +1352,68 @@
             "DUBBED": "ODYwOTU=",
             "SUBBED": "MjA2NjA="
         },
-        "outro": {
-            "start": 1289,
-            "end": 1394
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/d1/8c/d18c78ac6f26e9b4128036ba6770a10a/eng-5.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/d1/8c/d18c78ac6f26e9b4128036ba6770a10a/fre-8.vtt",
+                "lang": "French - French [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/d1/8c/d18c78ac6f26e9b4128036ba6770a10a/jpn-10.vtt",
+                "lang": "Japanese - Japanese [SDH]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/d1/8c/d18c78ac6f26e9b4128036ba6770a10a/por-9.vtt",
+                "lang": "Portuguese - Portuguese [Full]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/d1/8c/d18c78ac6f26e9b4128036ba6770a10a/spa-6.vtt",
+                "lang": "Spanish - Castilian [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/d1/8c/d18c78ac6f26e9b4128036ba6770a10a/spa-7.vtt",
+                "lang": "Spanish - Castilian [Full]"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/3f/3f51f8897ed7e4007bfe90682a55681f/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "21": {
         "intro": {
-            "start": 0,
-            "end": 90
+            "end": 90,
+            "start": 0
+        },
+        "outro": {
+            "end": 1394,
+            "start": 1289
         },
         "title": "Elegy of Entrapment (Verse 2)",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/21723ac89f73b34c85c33570b6cadb54a305efde28a4a72c309e102682f4302eb8de4b41c74dc07f4526385e22fd756af854964bccf6251f312cc9681664f3619608014598cc4897d147ad7a05c5ced9749008c2f054cf10433f8d0869579915d3f019877a70617f32046f3899385e84c49a0d70532f2695a75616c49813479e/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www027.vipanicdn.net/streamhls/9623e54af4ffd5149c3533f8e5894e3d/ep.21.1677708273.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-dub-21"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/21723ac89f73b34c85c33570b6cadb54a305efde28a4a72c309e102682f4302eb8de4b41c74dc07f4526385e22fd756af854964bccf6251f312cc9681664f3619608014598cc4897d147ad7a05c5ced9749008c2f054cf10433f8d0869579915d3f019877a70617f32046f3899385e84c49a0d70532f2695a75616c49813479e/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/8d/8d215ef2ddf8930b449bd66fef2b90e2/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/db1399eafcf6388ccf4f69d47640b62a0fd1a577d0509dc670df00082bcb1ef095422e84db3f3082b7117549c01d0bd9105f6efbe183141de3d961fe492499f6646d78afd0bb89bc2379e323fa8e20e0477a9a5afa5abe1b21411ea984101c7631848035aaf96969b3320dc6d9cd1ad8a37e3c055ab78b2796582267cba2be5c/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www022.vipanicdn.net/streamhls/19fe3161a57b889291307a1643901795/ep.21.1677627465.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-21"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/db1399eafcf6388ccf4f69d47640b62a0fd1a577d0509dc670df00082bcb1ef095422e84db3f3082b7117549c01d0bd9105f6efbe183141de3d961fe492499f6646d78afd0bb89bc2379e323fa8e20e0477a9a5afa5abe1b21411ea984101c7631848035aaf96969b3320dc6d9cd1ad8a37e3c055ab78b2796582267cba2be5c/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/03/02/0302982d89295b18fe59fd8d64bbb8b8/eng-5.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/03/02/0302982d89295b18fe59fd8d64bbb8b8/fre-7.vtt",
-                            "lang": "French - French [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/03/02/0302982d89295b18fe59fd8d64bbb8b8/jpn-9.vtt",
-                            "lang": "Japanese - Japanese [SDH]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/03/02/0302982d89295b18fe59fd8d64bbb8b8/por-8.vtt",
-                            "lang": "Portuguese - Portuguese [Full]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/03/02/0302982d89295b18fe59fd8d64bbb8b8/spa-6.vtt",
-                            "lang": "Spanish - Castilian [Full]"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/8d/8d215ef2ddf8930b449bd66fef2b90e2/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -1570,74 +1422,64 @@
             "DUBBED": "ODYwOTY=",
             "SUBBED": "MjA2NjE="
         },
-        "outro": {
-            "start": 1289,
-            "end": 1394
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/03/02/0302982d89295b18fe59fd8d64bbb8b8/eng-5.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/03/02/0302982d89295b18fe59fd8d64bbb8b8/fre-7.vtt",
+                "lang": "French - French [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/03/02/0302982d89295b18fe59fd8d64bbb8b8/jpn-9.vtt",
+                "lang": "Japanese - Japanese [SDH]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/03/02/0302982d89295b18fe59fd8d64bbb8b8/por-8.vtt",
+                "lang": "Portuguese - Portuguese [Full]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/03/02/0302982d89295b18fe59fd8d64bbb8b8/spa-6.vtt",
+                "lang": "Spanish - Castilian [Full]"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/8d/8d215ef2ddf8930b449bd66fef2b90e2/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "22": {
         "intro": {
-            "start": 0,
-            "end": 90
+            "end": 90,
+            "start": 0
+        },
+        "outro": {
+            "end": 1388,
+            "start": 1289
         },
         "title": "Cosmic Collisions",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/43e4f61ee5133029771869b301f384661c886cb4f389f98d3d030700b8a8253f3774bad0117dfdc5bffa4b97e54d9e77d7bbc2ac0ecb64714b2f4ab4998f7fc63d73d3167b37f8ea90c3e554ae146bcd19c63fc39626a37c9de0daa52d3d65b4dfc829e550f6e190649b6a321ddafd96bfd3e7bab2524936d4f77cfb4b8a302b/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www028.vipanicdn.net/streamhls/9623e54af4ffd5149c3533f8e5894e3d/ep.22.1677675472.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-dub-22"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/43e4f61ee5133029771869b301f384661c886cb4f389f98d3d030700b8a8253f3774bad0117dfdc5bffa4b97e54d9e77d7bbc2ac0ecb64714b2f4ab4998f7fc63d73d3167b37f8ea90c3e554ae146bcd19c63fc39626a37c9de0daa52d3d65b4dfc829e550f6e190649b6a321ddafd96bfd3e7bab2524936d4f77cfb4b8a302b/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/25/25178c925d1645111a8b80953ba0cbb6/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/676f2d67ed430a637eed21500bfdbf4bd9ce99d0f77f75944c3b1f5d6ff9a7adf4ddcbf27edfdec285939caf63410ac1ee0ce659739addc415f8f19494d6897050a05a94cc98cf6d05aa4d5e64a045de4038a51795df6b9ff23c51e24ffd0fd251e64d8c6c10e6b9f66ea7cbbf59830bf398edc7e3c4042a7c993fac541e5042/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www024.vipanicdn.net/streamhls/19fe3161a57b889291307a1643901795/ep.22.1677657398.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-22"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/676f2d67ed430a637eed21500bfdbf4bd9ce99d0f77f75944c3b1f5d6ff9a7adf4ddcbf27edfdec285939caf63410ac1ee0ce659739addc415f8f19494d6897050a05a94cc98cf6d05aa4d5e64a045de4038a51795df6b9ff23c51e24ffd0fd251e64d8c6c10e6b9f66ea7cbbf59830bf398edc7e3c4042a7c993fac541e5042/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/d6/0c/d60c844af2ec75743649726f1c97915c/eng-5.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/d6/0c/d60c844af2ec75743649726f1c97915c/fre-8.vtt",
-                            "lang": "French - French [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/d6/0c/d60c844af2ec75743649726f1c97915c/jpn-10.vtt",
-                            "lang": "Japanese - Japanese [SDH]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/d6/0c/d60c844af2ec75743649726f1c97915c/por-9.vtt",
-                            "lang": "Portuguese - Portuguese [Full]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/d6/0c/d60c844af2ec75743649726f1c97915c/spa-6.vtt",
-                            "lang": "Spanish - Castilian [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/d6/0c/d60c844af2ec75743649726f1c97915c/spa-7.vtt",
-                            "lang": "Spanish - Castilian [Full]"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/25/25178c925d1645111a8b80953ba0cbb6/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -1646,74 +1488,68 @@
             "DUBBED": "ODYwOTc=",
             "SUBBED": "MjA2NjM="
         },
-        "outro": {
-            "start": 1289,
-            "end": 1388
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/d6/0c/d60c844af2ec75743649726f1c97915c/eng-5.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/d6/0c/d60c844af2ec75743649726f1c97915c/fre-8.vtt",
+                "lang": "French - French [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/d6/0c/d60c844af2ec75743649726f1c97915c/jpn-10.vtt",
+                "lang": "Japanese - Japanese [SDH]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/d6/0c/d60c844af2ec75743649726f1c97915c/por-9.vtt",
+                "lang": "Portuguese - Portuguese [Full]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/d6/0c/d60c844af2ec75743649726f1c97915c/spa-6.vtt",
+                "lang": "Spanish - Castilian [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/d6/0c/d60c844af2ec75743649726f1c97915c/spa-7.vtt",
+                "lang": "Spanish - Castilian [Full]"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/25/25178c925d1645111a8b80953ba0cbb6/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "23": {
         "intro": {
-            "start": 0,
-            "end": 90
+            "end": 90,
+            "start": 0
+        },
+        "outro": {
+            "end": 1363,
+            "start": 1258
         },
         "title": "Baseball Blues",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/65db981de71d30a7770a70f30fcae9d58332ac84b79d2e400dbde72e61610b5bc18dba065711a43c032982df7a12da30858055b04ad9b3ad11d00f8256434116b7eb588e7fb9ae51d6cd5425b4de71d1dfb5223ffce4537fd9bedb7d6d3e17ed210c729664f9a0ab9c04697a8bd4b3217241a3305758ec5582fb61b3b0716e5a/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www029.vipanicdn.net/streamhls/9623e54af4ffd5149c3533f8e5894e3d/ep.23.1677675052.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-dub-23"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/65db981de71d30a7770a70f30fcae9d58332ac84b79d2e400dbde72e61610b5bc18dba065711a43c032982df7a12da30858055b04ad9b3ad11d00f8256434116b7eb588e7fb9ae51d6cd5425b4de71d1dfb5223ffce4537fd9bedb7d6d3e17ed210c729664f9a0ab9c04697a8bd4b3217241a3305758ec5582fb61b3b0716e5a/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/32/326b27d1e0347d1f0a8f9123dd984f2b/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/a25f2f131ad85e88f8678eae781291b7e043d31e5d0c63f17a830cc15ef1324ca5781ddffe56a82fdb08a67220d557a4b85402bb7e501581bc0db0573d87d4ecde842fc407b44be05513a5b340207307feacb6ec372b2444fd7782a89ee431798b568ed32a401754dc88c5ca6d7d14269c8eea2e24b7bc812a81b757033fac7e/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www026.vipanicdn.net/streamhls/19fe3161a57b889291307a1643901795/ep.23.1677656248.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-23"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/a25f2f131ad85e88f8678eae781291b7e043d31e5d0c63f17a830cc15ef1324ca5781ddffe56a82fdb08a67220d557a4b85402bb7e501581bc0db0573d87d4ecde842fc407b44be05513a5b340207307feacb6ec372b2444fd7782a89ee431798b568ed32a401754dc88c5ca6d7d14269c8eea2e24b7bc812a81b757033fac7e/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/15/10/1510cdc91924ce9806a2498488cf9f10/eng-5.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/15/10/1510cdc91924ce9806a2498488cf9f10/fre-8.vtt",
-                            "lang": "French - French [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/15/10/1510cdc91924ce9806a2498488cf9f10/jpn-10.vtt",
-                            "lang": "Japanese - Japanese [SDH]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/15/10/1510cdc91924ce9806a2498488cf9f10/por-9.vtt",
-                            "lang": "Portuguese - Portuguese [Full]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/15/10/1510cdc91924ce9806a2498488cf9f10/spa-6.vtt",
-                            "lang": "Spanish - Castilian [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/15/10/1510cdc91924ce9806a2498488cf9f10/spa-7.vtt",
-                            "lang": "Spanish - Castilian [Full]"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/32/326b27d1e0347d1f0a8f9123dd984f2b/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -1722,74 +1558,68 @@
             "DUBBED": "ODYwOTg=",
             "SUBBED": "MjA2NjU="
         },
-        "outro": {
-            "start": 1258,
-            "end": 1363
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/15/10/1510cdc91924ce9806a2498488cf9f10/eng-5.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/15/10/1510cdc91924ce9806a2498488cf9f10/fre-8.vtt",
+                "lang": "French - French [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/15/10/1510cdc91924ce9806a2498488cf9f10/jpn-10.vtt",
+                "lang": "Japanese - Japanese [SDH]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/15/10/1510cdc91924ce9806a2498488cf9f10/por-9.vtt",
+                "lang": "Portuguese - Portuguese [Full]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/15/10/1510cdc91924ce9806a2498488cf9f10/spa-6.vtt",
+                "lang": "Spanish - Castilian [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/15/10/1510cdc91924ce9806a2498488cf9f10/spa-7.vtt",
+                "lang": "Spanish - Castilian [Full]"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/32/326b27d1e0347d1f0a8f9123dd984f2b/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "24": {
         "intro": {
-            "start": 0,
-            "end": 90
+            "end": 90,
+            "start": 0
+        },
+        "outro": {
+            "end": 1397,
+            "start": 1290
         },
         "title": "Evanescent Encounter (Part 1)",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/874283ff41097e7791ccfaa1158dcef797f17add716d38c22d3fbf80afdb96092db8162eac77edafe1025e306ca313cd5fc73f3cde88e9fc95084ee6ed84a27c206cb3dec06cf48a515f26af3605a7e44ca0f571bbb71d7a54fbc04861d4084da1b295f7f3c2bf538bdd6ad43b274bf8bb6600ff2405f5077dec3d7cc7b8bed7/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www030.vipanicdn.net/streamhls/9623e54af4ffd5149c3533f8e5894e3d/ep.24.1677672859.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-dub-24"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/874283ff41097e7791ccfaa1158dcef797f17add716d38c22d3fbf80afdb96092db8162eac77edafe1025e306ca313cd5fc73f3cde88e9fc95084ee6ed84a27c206cb3dec06cf48a515f26af3605a7e44ca0f571bbb71d7a54fbc04861d4084da1b295f7f3c2bf538bdd6ad43b274bf8bb6600ff2405f5077dec3d7cc7b8bed7/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/f6/f6223eaba7944d9dfc7bbfd0fec08307/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/fdd4879bec5bd60ac4fbcf3c719a26f6cb8058e9dc8a7b2537e6ff12ad6c7e812ebfc8625fb6aca3d30f7f5d5d08dd67483eb642f44ef85df79bb72d25a4bde524f1844b1432800b88cc2926af1b9e07d889b1d77ca3062e6dbd6f29b250d2747b0aefaa77765e704317b826df73909d2e99ea7fae5328ff3cceacb077f721a2/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www001.vipanicdn.net/streamhls/19fe3161a57b889291307a1643901795/ep.24.1677654522.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-24"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/fdd4879bec5bd60ac4fbcf3c719a26f6cb8058e9dc8a7b2537e6ff12ad6c7e812ebfc8625fb6aca3d30f7f5d5d08dd67483eb642f44ef85df79bb72d25a4bde524f1844b1432800b88cc2926af1b9e07d889b1d77ca3062e6dbd6f29b250d2747b0aefaa77765e704317b826df73909d2e99ea7fae5328ff3cceacb077f721a2/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/cf/da/cfdad470ff5325532ae68ae53f275922/eng-5.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/cf/da/cfdad470ff5325532ae68ae53f275922/fre-8.vtt",
-                            "lang": "French - French [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/cf/da/cfdad470ff5325532ae68ae53f275922/jpn-10.vtt",
-                            "lang": "Japanese - Japanese [SDH]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/cf/da/cfdad470ff5325532ae68ae53f275922/por-9.vtt",
-                            "lang": "Portuguese - Portuguese [Full]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/cf/da/cfdad470ff5325532ae68ae53f275922/spa-6.vtt",
-                            "lang": "Spanish - Castilian [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/cf/da/cfdad470ff5325532ae68ae53f275922/spa-7.vtt",
-                            "lang": "Spanish - Castilian [Full]"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/f6/f6223eaba7944d9dfc7bbfd0fec08307/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -1798,74 +1628,68 @@
             "DUBBED": "ODYwOTk=",
             "SUBBED": "MjA2NzA="
         },
-        "outro": {
-            "start": 1290,
-            "end": 1397
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/cf/da/cfdad470ff5325532ae68ae53f275922/eng-5.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/cf/da/cfdad470ff5325532ae68ae53f275922/fre-8.vtt",
+                "lang": "French - French [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/cf/da/cfdad470ff5325532ae68ae53f275922/jpn-10.vtt",
+                "lang": "Japanese - Japanese [SDH]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/cf/da/cfdad470ff5325532ae68ae53f275922/por-9.vtt",
+                "lang": "Portuguese - Portuguese [Full]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/cf/da/cfdad470ff5325532ae68ae53f275922/spa-6.vtt",
+                "lang": "Spanish - Castilian [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/cf/da/cfdad470ff5325532ae68ae53f275922/spa-7.vtt",
+                "lang": "Spanish - Castilian [Full]"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/f6/f6223eaba7944d9dfc7bbfd0fec08307/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "25": {
         "intro": {
-            "start": 0,
-            "end": 90
+            "end": 90,
+            "start": 0
+        },
+        "outro": {
+            "end": 1312,
+            "start": 1206
         },
         "title": "Evanescent Encounter (Part 2)",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/c5d27d0b93bcaddc476bb3c3f3283dc3408bc41b4885d5b38d0330094660886a0d37759f9eff5916642e23e56491cb8ed4f832737c15a02fafdfc306e55af2d7a160b288b08a649046cd55462fffd400ee7ab2772e0ac8f390373e196d966cd6b0228d1fe18a3aee6177712a11c8a1c85abc5feb674b0efaba0440c8c0241ca4/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www001.vipanicdn.net/streamhls/9623e54af4ffd5149c3533f8e5894e3d/ep.25.1677675008.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-dub-25"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/c5d27d0b93bcaddc476bb3c3f3283dc3408bc41b4885d5b38d0330094660886a0d37759f9eff5916642e23e56491cb8ed4f832737c15a02fafdfc306e55af2d7a160b288b08a649046cd55462fffd400ee7ab2772e0ac8f390373e196d966cd6b0228d1fe18a3aee6177712a11c8a1c85abc5feb674b0efaba0440c8c0241ca4/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/bf/bf77af22b8a78d8d3326c3a41d291f43/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/11d2164d51ce80691386ed09dc58ba3a69922e7ae95e6844912e05a4bb75e4d11044127d5ede46523862ba19b879d05fe2a39ba4b420b6204db46dfd1ea803f9787ddb23df23ba87152b1e8edf3618919557e64afe2be266e745474809eaf2eaa1889b40c59e2bbcef461e1b03160b05efe414a54d4526fc8a1f184f6be18ade/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www005.vipanicdn.net/streamhls/19fe3161a57b889291307a1643901795/ep.25.1677655048.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-25"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/11d2164d51ce80691386ed09dc58ba3a69922e7ae95e6844912e05a4bb75e4d11044127d5ede46523862ba19b879d05fe2a39ba4b420b6204db46dfd1ea803f9787ddb23df23ba87152b1e8edf3618919557e64afe2be266e745474809eaf2eaa1889b40c59e2bbcef461e1b03160b05efe414a54d4526fc8a1f184f6be18ade/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/31/da/31da6f04502d0080394dfb0b37244834/eng-5.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/31/da/31da6f04502d0080394dfb0b37244834/fre-8.vtt",
-                            "lang": "French - French [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/31/da/31da6f04502d0080394dfb0b37244834/jpn-10.vtt",
-                            "lang": "Japanese - Japanese [SDH]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/31/da/31da6f04502d0080394dfb0b37244834/por-9.vtt",
-                            "lang": "Portuguese - Portuguese [Full]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/31/da/31da6f04502d0080394dfb0b37244834/spa-6.vtt",
-                            "lang": "Spanish - Castilian [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/31/da/31da6f04502d0080394dfb0b37244834/spa-7.vtt",
-                            "lang": "Spanish - Castilian [Full]"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/bf/bf77af22b8a78d8d3326c3a41d291f43/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -1874,74 +1698,68 @@
             "DUBBED": "ODYxMDA=",
             "SUBBED": "MjA2NzQ="
         },
-        "outro": {
-            "start": 1206,
-            "end": 1312
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/31/da/31da6f04502d0080394dfb0b37244834/eng-5.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/31/da/31da6f04502d0080394dfb0b37244834/fre-8.vtt",
+                "lang": "French - French [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/31/da/31da6f04502d0080394dfb0b37244834/jpn-10.vtt",
+                "lang": "Japanese - Japanese [SDH]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/31/da/31da6f04502d0080394dfb0b37244834/por-9.vtt",
+                "lang": "Portuguese - Portuguese [Full]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/31/da/31da6f04502d0080394dfb0b37244834/spa-6.vtt",
+                "lang": "Spanish - Castilian [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/31/da/31da6f04502d0080394dfb0b37244834/spa-7.vtt",
+                "lang": "Spanish - Castilian [Full]"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/bf/bf77af22b8a78d8d3326c3a41d291f43/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "26": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 1365,
+            "start": 1239
         },
         "title": "Evanescent Encounter (Part 3)",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/2ec8c81509951ceb1d77684d81953aff2abb07d8e8250aefc1aaf6279902f158e23bb4617e18d929c1302754210837553ad6a9690f1e36a2d07b8bebd5b6f1d1c97df142d38dcb8ea9203af58a1bfad21c3b59fbf5bf47322eb20659de3d19e64642ceb0f29e67a5093c92e5946b0c2682b96e7a08f88bfb29ededd6c08df3ff/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www002.vipanicdn.net/streamhls/9623e54af4ffd5149c3533f8e5894e3d/ep.26.1677620388.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-dub-26"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/2ec8c81509951ceb1d77684d81953aff2abb07d8e8250aefc1aaf6279902f158e23bb4617e18d929c1302754210837553ad6a9690f1e36a2d07b8bebd5b6f1d1c97df142d38dcb8ea9203af58a1bfad21c3b59fbf5bf47322eb20659de3d19e64642ceb0f29e67a5093c92e5946b0c2682b96e7a08f88bfb29ededd6c08df3ff/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/03/0349f6c40eca86b83507ef8b096f79d5/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/449c9cb3dac0f202504f9abb7ac5cab9ae13bf95c420e0ccb09aada7efa559be0fe5f815477d08df489676035227bb10b49d07d07cb33a8dfd9b6e353c94d9461d57a271f353551b55624da99b65140bc1ba848d1f6ed5d19e15d8e5c30cb8b94ce7b37d593e13465067f74a824a938743efaa8daea2fd304c615fb8b7bf1213/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www008.vipanicdn.net/streamhls/19fe3161a57b889291307a1643901795/ep.26.1677614145.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=samurai-champloo-episode-26"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/449c9cb3dac0f202504f9abb7ac5cab9ae13bf95c420e0ccb09aada7efa559be0fe5f815477d08df489676035227bb10b49d07d07cb33a8dfd9b6e353c94d9461d57a271f353551b55624da99b65140bc1ba848d1f6ed5d19e15d8e5c30cb8b94ce7b37d593e13465067f74a824a938743efaa8daea2fd304c615fb8b7bf1213/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/8e/63/8e6391db48e0bb7ffbf2e66e623937f8/eng-5.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/8e/63/8e6391db48e0bb7ffbf2e66e623937f8/fre-8.vtt",
-                            "lang": "French - French [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/8e/63/8e6391db48e0bb7ffbf2e66e623937f8/jpn-10.vtt",
-                            "lang": "Japanese - Japanese [SDH]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/8e/63/8e6391db48e0bb7ffbf2e66e623937f8/por-9.vtt",
-                            "lang": "Portuguese - Portuguese [Full]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/8e/63/8e6391db48e0bb7ffbf2e66e623937f8/spa-6.vtt",
-                            "lang": "Spanish - Castilian [Forced]"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/8e/63/8e6391db48e0bb7ffbf2e66e623937f8/spa-7.vtt",
-                            "lang": "Spanish - Castilian [Full]"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/03/0349f6c40eca86b83507ef8b096f79d5/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -1950,9 +1768,35 @@
             "DUBBED": "ODYxMDE=",
             "SUBBED": "MjA2Nzc="
         },
-        "outro": {
-            "start": 1239,
-            "end": 1365
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/8e/63/8e6391db48e0bb7ffbf2e66e623937f8/eng-5.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/8e/63/8e6391db48e0bb7ffbf2e66e623937f8/fre-8.vtt",
+                "lang": "French - French [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/8e/63/8e6391db48e0bb7ffbf2e66e623937f8/jpn-10.vtt",
+                "lang": "Japanese - Japanese [SDH]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/8e/63/8e6391db48e0bb7ffbf2e66e623937f8/por-9.vtt",
+                "lang": "Portuguese - Portuguese [Full]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/8e/63/8e6391db48e0bb7ffbf2e66e623937f8/spa-6.vtt",
+                "lang": "Spanish - Castilian [Forced]"
+            },
+            {
+                "url": "https://ccb.megaresources.co/8e/63/8e6391db48e0bb7ffbf2e66e623937f8/spa-7.vtt",
+                "lang": "Spanish - Castilian [Full]"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/03/0349f6c40eca86b83507ef8b096f79d5/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

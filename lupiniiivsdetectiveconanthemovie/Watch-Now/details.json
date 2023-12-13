@@ -1,38 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/af99476f34c37beca36c067d4f2581615ef180245219481c474f72023b4894552b20bc7dedf5a623cbf4938ad1730c2552a18b549006e1492dfb522cd4f14e0807b89841c2df1f4e89ed40ca4f3a34adb8cc11aa4013007e7a6e7fda6db6beb50bb0584dfeddb288d3432f667b299a118158353f18a42f4433f5d0be01505777/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=lupin-iii-vs-detective-conan-the-movie-movie-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/af99476f34c37beca36c067d4f2581615ef180245219481c474f72023b4894552b20bc7dedf5a623cbf4938ad1730c2552a18b549006e1492dfb522cd4f14e0807b89841c2df1f4e89ed40ca4f3a34adb8cc11aa4013007e7a6e7fda6db6beb50bb0584dfeddb288d3432f667b299a118158353f18a42f4433f5d0be01505777/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/de/de62ef4b5d56cb3f61d1745960f58d88/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/dc2cf8cf2890658b1c215c89238c36b36ede7a6b6f3de29925a7265b1bc8d5257da847551a20ecded51bf574bbc80f9ae0ff21200a427e93b73dbc9581b0f5daa8503b02ddffe3628a23d87cd57fbe746c3bb823bee6c7dab4930d9d2b3960ca810a66f9382f657c244564da96b6ac7b8ba563614286d189b6a043946319dece/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/ec/c1/ecc1b3ee91ef7e07fb5f6b5c2929f69e/ecc1b3ee91ef7e07fb5f6b5c2929f69e.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/de/de62ef4b5d56cb3f61d1745960f58d88/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/dc2cf8cf2890658b1c215c89238c36b36ede7a6b6f3de29925a7265b1bc8d5257da847551a20ecded51bf574bbc80f9ae0ff21200a427e93b73dbc9581b0f5daa8503b02ddffe3628a23d87cd57fbe746c3bb823bee6c7dab4930d9d2b3960ca810a66f9382f657c244564da96b6ac7b8ba563614286d189b6a043946319dece/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www008.vipanicdn.net/streamhls/c277452e0d505daa9768b5fc756b1962/ep.1.1677600836.m3u8"
@@ -46,9 +34,15 @@
         "downloadLink": {
             "SUBBED": "NDQ4ODc="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/ec/c1/ecc1b3ee91ef7e07fb5f6b5c2929f69e/ecc1b3ee91ef7e07fb5f6b5c2929f69e.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/de/de62ef4b5d56cb3f61d1745960f58d88/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

@@ -1,45 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/584746ba77f02bc2efa46e21e0397d81014a7dc1edab309550ca2b71d1a529bdc0bbebe91945a118035fdb1d481f91d632b8e0bcb279e0894b714564235c0daffd9bd8ca1483af1cf003c1e59e442ad40d3b211585b48c04444585ceb33e52f95a55165d7553e3d09bc4aa730f2dc78a1f127e7f614ff6af3919bb384aa31137/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www014.vipanicdn.net/streamhls/5a1493b3a5715ffc33d01413a2d2d85b/ep.1.1677630375.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=jiang-ziya-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/584746ba77f02bc2efa46e21e0397d81014a7dc1edab309550ca2b71d1a529bdc0bbebe91945a118035fdb1d481f91d632b8e0bcb279e0894b714564235c0daffd9bd8ca1483af1cf003c1e59e442ad40d3b211585b48c04444585ceb33e52f95a55165d7553e3d09bc4aa730f2dc78a1f127e7f614ff6af3919bb384aa31137/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/1c/07/1c07751fa8c09f383a3498c434b53d0a/1c07751fa8c09f383a3498c434b53d0a.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/9b/9b3f9df2625e3f8080e1a26f2952085d/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/6f5f400e025aee6ae1ed2f63914a26658b362be129e1d20add2652da55ff00ec080bfeb75e46cb4aa27f088113dc5bdfb954ba5e5d2355feb6452633d5917d3a564224349ce9856572af2f9f510b40a910f3114ec83cdf106d97f2071d5bfc853c5b9c8f4e00df7883a468bb25f7add7373108c86b7b9db6859ed72107b8c3b8/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/f5/67/f5675463d859418339dc39b86b326aed/f5675463d859418339dc39b86b326aed.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/9b/9b3f9df2625e3f8080e1a26f2952085d/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/6f5f400e025aee6ae1ed2f63914a26658b362be129e1d20add2652da55ff00ec080bfeb75e46cb4aa27f088113dc5bdfb954ba5e5d2355feb6452633d5917d3a564224349ce9856572af2f9f510b40a910f3114ec83cdf106d97f2071d5bfc853c5b9c8f4e00df7883a468bb25f7add7373108c86b7b9db6859ed72107b8c3b8/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www027.vipanicdn.net/streamhls/8ee72cc8625ac2ff6a66558205c034fe/ep.1.1677826887.m3u8"
@@ -54,9 +38,15 @@
             "DUBBED": "MTc1NDgz",
             "SUBBED": "MTUxNzY2"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/f5/67/f5675463d859418339dc39b86b326aed/f5675463d859418339dc39b86b326aed.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/9b/9b3f9df2625e3f8080e1a26f2952085d/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

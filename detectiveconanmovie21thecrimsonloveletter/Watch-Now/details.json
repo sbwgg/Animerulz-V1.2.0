@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/5cf6e3d86ccbd84967fac0e351c5b8d58578cca61a139b8eb523de7d129089ca09bf1cb154c43de5c4d54c0bfe9f52fc942ec62628fe77513fb6f7efdee3ee58ef05e873ccb342cd7389e5a11a9fe007a977f76f1daee6ebb850386ab2b754e64194244a481e2a4a732818b29cfe720412acd59fbe9a4b01eaa3fc17f6010fbf/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www047.vipanicdn.net/streamhls/92b083aca05ce55c1169911843a7f2e2/ep.1.1677841174.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=detective-conan-movie-21-the-crimson-love-letter-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/5cf6e3d86ccbd84967fac0e351c5b8d58578cca61a139b8eb523de7d129089ca09bf1cb154c43de5c4d54c0bfe9f52fc942ec62628fe77513fb6f7efdee3ee58ef05e873ccb342cd7389e5a11a9fe007a977f76f1daee6ebb850386ab2b754e64194244a481e2a4a732818b29cfe720412acd59fbe9a4b01eaa3fc17f6010fbf/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/82/82b30a7432f20086769e7cd28505c9e0/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/b93ee503b2f6a0057e7e10a15d6e9727613800789c821b77e9a1b04f24bb9e0155edaaadfaaa1e42dedad3fa5a955cbd0554582573b00d6c65bf35cef7f1e08824e711e1508d7553bd9300fcb2e9fba4b93fc77854b8eea453a4c9c453ee46d9ffb145f5186413168a34d4d4556113cf98a6092377fbbec883a3e8a954422dc4/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/70/83/708387060192f1a78aa739b55e4497c9/708387060192f1a78aa739b55e4497c9.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/82/82b30a7432f20086769e7cd28505c9e0/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/b93ee503b2f6a0057e7e10a15d6e9727613800789c821b77e9a1b04f24bb9e0155edaaadfaaa1e42dedad3fa5a955cbd0554582573b00d6c65bf35cef7f1e08824e711e1508d7553bd9300fcb2e9fba4b93fc77854b8eea453a4c9c453ee46d9ffb145f5186413168a34d4d4556113cf98a6092377fbbec883a3e8a954422dc4/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www005.vipanicdn.net/streamhls/b0c43c20ef05803e7385abb0f8f47c39/ep.1.1677683165.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "MTg4NTM2",
             "SUBBED": "MTAxNjE0"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/70/83/708387060192f1a78aa739b55e4497c9/708387060192f1a78aa739b55e4497c9.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/82/82b30a7432f20086769e7cd28505c9e0/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

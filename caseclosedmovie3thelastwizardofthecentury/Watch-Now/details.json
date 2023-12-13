@@ -1,44 +1,32 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/1a452f8eadb2a78778e9bd2b46b53c6b30759ef0ba39c04caf6f93d3356432a3f6e29db116c32b4760ae93cb04f7ad037d93de03b802261d86f0060e019f0ee99e874e3411f2e0d2b47f128cba1481067d757e2ca99f403a7f51a40bb957c7f650d7ce02ff563a3b910e2c0f5678a025/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=detective-conan-movie-3-the-last-magician-of-the-century-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/1a452f8eadb2a78778e9bd2b46b53c6b30759ef0ba39c04caf6f93d3356432a3f6e29db116c32b4760ae93cb04f7ad037d93de03b802261d86f0060e019f0ee99e874e3411f2e0d2b47f128cba1481067d757e2ca99f403a7f51a40bb957c7f650d7ce02ff563a3b910e2c0f5678a025/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/07/076c2598da3f00abca9d154dde283172/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/2cdb3224b849a1a997e5c72656e02cbebddde585885fd66c896ccd4a071877002f658ddd587186f56d923a11f5a3ab5aafeba4e8ed5ed4809b3f5683cfb004050cfce425a7c76b699e6333d7401817623af485b6062e740c603ebb2bed635be32e23b7f4ad9d91be18d2d95cb90be8fb7920e3ad21427fa3d14b161cad254704/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www024.vipanicdn.net/streamhls/76f294b92588a2108ed16529dd954546/ep.1.1677663456.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=detective-conan-movie-3-the-last-magician-of-the-century-episode-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/2cdb3224b849a1a997e5c72656e02cbebddde585885fd66c896ccd4a071877002f658ddd587186f56d923a11f5a3ab5aafeba4e8ed5ed4809b3f5683cfb004050cfce425a7c76b699e6333d7401817623af485b6062e740c603ebb2bed635be32e23b7f4ad9d91be18d2d95cb90be8fb7920e3ad21427fa3d14b161cad254704/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/f8/66/f86610d48ecb00af109e752bc2a8ed4d/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/07/076c2598da3f00abca9d154dde283172/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -46,9 +34,15 @@
         "downloadLink": {
             "SUBBED": "NDA1ODM="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/f8/66/f86610d48ecb00af109e752bc2a8ed4d/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/07/076c2598da3f00abca9d154dde283172/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

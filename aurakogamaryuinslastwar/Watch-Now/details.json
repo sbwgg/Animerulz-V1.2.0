@@ -1,38 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/b6c82b0e66bf50915520fd674e78b118fec7617ce9f96ca3811d107a91490fe6fe86b6cad42e1ff67db881c597d7f6c00b00244f933e8a5c4a0449ea7cb87f8276da2935a5a1b0573610e111f21d09731423bf699991b6380d6796e034107a581e4d0ee4b3110579af32682700b43bbe986e22acca29f0f5440f0ef5846a446f/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=aura-maryuuin-kouga-saigo-no-tatakai-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/b6c82b0e66bf50915520fd674e78b118fec7617ce9f96ca3811d107a91490fe6fe86b6cad42e1ff67db881c597d7f6c00b00244f933e8a5c4a0449ea7cb87f8276da2935a5a1b0573610e111f21d09731423bf699991b6380d6796e034107a581e4d0ee4b3110579af32682700b43bbe986e22acca29f0f5440f0ef5846a446f/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/68/688e579d21efc863bbe5005d05939846/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/65ca0271bc637dc30fea8bf683e56db486e9726cb8b4dc32b5ae99d27da8fd32a2688e9e89c45f1f1fb58a8fdc4ae1207140e6041428a6b25786f34a42738969a3329e3c9b479b8a4ab8d328594553db8bb275bf73dd83977d4f75cca885458f3f37589faf4ca4c11e1cf84f7d5139cc3e5d2f137be211bc5e70bcd9424417cf/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/04/57/0457c91c55a6e013c8dca00d96d6f166/0457c91c55a6e013c8dca00d96d6f166.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/68/688e579d21efc863bbe5005d05939846/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/65ca0271bc637dc30fea8bf683e56db486e9726cb8b4dc32b5ae99d27da8fd32a2688e9e89c45f1f1fb58a8fdc4ae1207140e6041428a6b25786f34a42738969a3329e3c9b479b8a4ab8d328594553db8bb275bf73dd83977d4f75cca885458f3f37589faf4ca4c11e1cf84f7d5139cc3e5d2f137be211bc5e70bcd9424417cf/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www007.vipanicdn.net/streamhls/54d659906057c83ffde9eb1c4c2ad9f8/ep.1.1677598724.m3u8"
@@ -46,9 +34,15 @@
         "downloadLink": {
             "SUBBED": "MTQwOTQ2"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/04/57/0457c91c55a6e013c8dca00d96d6f166/0457c91c55a6e013c8dca00d96d6f166.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/68/688e579d21efc863bbe5005d05939846/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

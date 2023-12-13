@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/1803e15401010b303b85f5bb47387e338cf9ff558e1e001b0de165855b7e8f01003a4812cef3579c3524640e347e19cb797f20b86527a62ca63e09a8c42376c7a1e20c0264c83774d95fe88b00aba3e3e87f6bc7e280b1c56b1e70d2c67b1b7ae145e683b97ac2e245fcc79b83495ff3dece8070b677501b9ce83d34e53753e0/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www025.vipanicdn.net/streamhls/3e0b024e0e6cc0fa8b34f46136d93ba5/ep.1.1677831309.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=code-geass-fukkatsu-no-lelouch-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/1803e15401010b303b85f5bb47387e338cf9ff558e1e001b0de165855b7e8f01003a4812cef3579c3524640e347e19cb797f20b86527a62ca63e09a8c42376c7a1e20c0264c83774d95fe88b00aba3e3e87f6bc7e280b1c56b1e70d2c67b1b7ae145e683b97ac2e245fcc79b83495ff3dece8070b677501b9ce83d34e53753e0/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/47/473ffc03bb11bc98d1e342b0a7555fee/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/6e7eadf78784f0022417f047e76912a2a79d48a52d96d4bacccd7b8bbdcb60824f69b47621e6b0859f81184436db23f3307e1921008b7ab2ea2389c1c54ed1c6a15e1f6b30355a059e0377e1a9f5933370fbcadf0b5de4fc1111aaa0fc83247dff5f04cdc5f8d3385812dd886dec9bdb5c2efe516db109f2b26b1556f7b705ab/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/b1/fc/b1fc0609eadc0065f711187577c31794/b1fc0609eadc0065f711187577c31794.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/47/473ffc03bb11bc98d1e342b0a7555fee/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/6e7eadf78784f0022417f047e76912a2a79d48a52d96d4bacccd7b8bbdcb60824f69b47621e6b0859f81184436db23f3307e1921008b7ab2ea2389c1c54ed1c6a15e1f6b30355a059e0377e1a9f5933370fbcadf0b5de4fc1111aaa0fc83247dff5f04cdc5f8d3385812dd886dec9bdb5c2efe516db109f2b26b1556f7b705ab/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www016.vipanicdn.net/streamhls/144f1af532c8fddfe863f5d4eb403716/ep.1.1677695699.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "MTM5MTA0",
             "SUBBED": "MTM0NjU1"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/b1/fc/b1fc0609eadc0065f711187577c31794/b1fc0609eadc0065f711187577c31794.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/47/473ffc03bb11bc98d1e342b0a7555fee/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

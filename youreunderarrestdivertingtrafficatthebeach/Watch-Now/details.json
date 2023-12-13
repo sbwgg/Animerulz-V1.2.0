@@ -1,23 +1,21 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Special",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/8af297967bdf2162705cf37e09f2a6788d72adb71cb50c5c1e5ac102f8f51c37faf0e6637479e62a273fe487fb846c8e3de18ccd933d6c7f4b2cc0dc6d252bc681068da7df502464f3ed93b464d70c0998368bbfb08ac4551218540c343cbd909933df7dbb6bfafa64c51d9b0a8ef753/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=youre-under-arrest-diverting-traffic-at-the-beach-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/8af297967bdf2162705cf37e09f2a6788d72adb71cb50c5c1e5ac102f8f51c37faf0e6637479e62a273fe487fb846c8e3de18ccd933d6c7f4b2cc0dc6d252bc681068da7df502464f3ed93b464d70c0998368bbfb08ac4551218540c343cbd909933df7dbb6bfafa64c51d9b0a8ef753/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/3d/3d0b9cd781481eaa0a8c8a1b7007332d/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
@@ -33,9 +31,11 @@
         "downloadLink": {
             "SUBBED": "MjAzODM5"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/3d/3d0b9cd781481eaa0a8c8a1b7007332d/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

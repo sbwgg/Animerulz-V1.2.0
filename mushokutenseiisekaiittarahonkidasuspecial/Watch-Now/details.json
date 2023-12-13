@@ -1,38 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/d4e669e9055a2b17905d5fab7c753a695ce3673af4936097a7c7c5356fae790767921cd8d88b0412130bc1f2a754b6671a8233c9e4e1f9820ab0fb643da745b4e694599bb56973474b6bc4fd15249d7b81487c4d7093a76a283925b46ec833e125dbb9766438174e4321df53708703ee4fcf4cf7e69cb5f898f52a4f07f706e0/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=mushoku-tensei-isekai-ittara-honki-dasu-special-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/d4e669e9055a2b17905d5fab7c753a695ce3673af4936097a7c7c5356fae790767921cd8d88b0412130bc1f2a754b6671a8233c9e4e1f9820ab0fb643da745b4e694599bb56973474b6bc4fd15249d7b81487c4d7093a76a283925b46ec833e125dbb9766438174e4321df53708703ee4fcf4cf7e69cb5f898f52a4f07f706e0/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/a8/a83d8f49135ce65ec04cec52b523466e/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/a3e97b61da6eb02f4d29e12679cabca496c9c80ea1b46d8cac4ec6b00b869b3f1e4489a78bd0b9719d7b3458390d87f41f3d23599c03f4e6bd5b87cb2d9b37fd78992ffacde372412633f6a1a993205e19af65aac5eab8ec2f2a789463375dbbb144a963f7a395d23d695d986f79ac14fe5308b921ba0319691e2e3573adeaad/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/f4/7c/f47cfad1d9c1c8fd0bb32f1cf5233610/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/a8/a83d8f49135ce65ec04cec52b523466e/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/a3e97b61da6eb02f4d29e12679cabca496c9c80ea1b46d8cac4ec6b00b869b3f1e4489a78bd0b9719d7b3458390d87f41f3d23599c03f4e6bd5b87cb2d9b37fd78992ffacde372412633f6a1a993205e19af65aac5eab8ec2f2a789463375dbbb144a963f7a395d23d695d986f79ac14fe5308b921ba0319691e2e3573adeaad/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www016.vipanicdn.net/streamhls/eeb260f0005c03008f60fb4760f6ab25/ep.1.1677608750.m3u8"
@@ -46,9 +34,15 @@
         "downloadLink": {
             "SUBBED": "MTgyNjI1"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/f4/7c/f47cfad1d9c1c8fd0bb32f1cf5233610/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/a8/a83d8f49135ce65ec04cec52b523466e/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

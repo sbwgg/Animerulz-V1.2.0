@@ -1,28 +1,18 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/38e3458b2d61c1b18d7c14e18e56e9204a6d58e1806fba30120b6f80f9913ed2745a78a22d54bf9f189d379f05f3a6cc8a3682e5dbe4da7aa8f52cd0b5f29dbe58967d35cc827e45567660636720d30c14dcb1a555d2c34d4bc3028d054e6395332d970dc452b9b67cc841c4542116cc4bdf5163af35c31938c10725a78ddb77/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/c7/03/c70397aa7e4ef9a2ab40cd2994b71def/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/c7/03/c70397aa7e4ef9a2ab40cd2994b71def/ita-3.vtt",
-                            "lang": "Italian - By Peppokakko"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/b2/b296d3bf345cbf341c4686284ce5c601/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/38e3458b2d61c1b18d7c14e18e56e9204a6d58e1806fba30120b6f80f9913ed2745a78a22d54bf9f189d379f05f3a6cc8a3682e5dbe4da7aa8f52cd0b5f29dbe58967d35cc827e45567660636720d30c14dcb1a555d2c34d4bc3028d054e6395332d970dc452b9b67cc841c4542116cc4bdf5163af35c31938c10725a78ddb77/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www016.vipanicdn.net/streamhls/48fdb4aef64e920b4d344bc874e3b041/ep.1.1677688381.m3u8"
@@ -36,9 +26,19 @@
         "downloadLink": {
             "SUBBED": "MTE2NTY1"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/c7/03/c70397aa7e4ef9a2ab40cd2994b71def/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/c7/03/c70397aa7e4ef9a2ab40cd2994b71def/ita-3.vtt",
+                "lang": "Italian - By Peppokakko"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/b2/b296d3bf345cbf341c4686284ce5c601/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

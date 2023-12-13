@@ -1,42 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/716219b354ed21349df0d1e3af793cdb8841a47d206b8e7af66e095d64fa4ca3cf90555343fab7885dc9a3c5f34ba002c806e8634062139cfd4cd73362f5faaf9693eb23dc6437059d4dcb9d153c7a168e9048415b1cc7dfe6dc72aed3cd84b30d33c468d6165b5d98a502c259d213bb02f8d6c85e3a6548d5dbf3e081813c93/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=inuyasha-movie-4-fire-on-the-mystic-island-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/716219b354ed21349df0d1e3af793cdb8841a47d206b8e7af66e095d64fa4ca3cf90555343fab7885dc9a3c5f34ba002c806e8634062139cfd4cd73362f5faaf9693eb23dc6437059d4dcb9d153c7a168e9048415b1cc7dfe6dc72aed3cd84b30d33c468d6165b5d98a502c259d213bb02f8d6c85e3a6548d5dbf3e081813c93/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/c8/c885510ef7a7b35783751b7b8de28bd1/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/0efb1a10d12a6107462270719ee9dc014ab90c67b28e07829c3b4055fb4de9c386058fb06ea9797d41f0257f912f41acc05d89b002d264be2fe3fe6f10faf0491c4717220bcd992c8cff54e02950edbea67e7db2896c705c7911db5dd0fb07ad1562e04faf90048ba5ef79fece2aed52683758bccff9cb41d07834661969d16d/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/38/40/38409fbd311d035de22312a53af226cb/eng-3.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/38/40/38409fbd311d035de22312a53af226cb/eng-4.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/c8/c885510ef7a7b35783751b7b8de28bd1/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/0efb1a10d12a6107462270719ee9dc014ab90c67b28e07829c3b4055fb4de9c386058fb06ea9797d41f0257f912f41acc05d89b002d264be2fe3fe6f10faf0491c4717220bcd992c8cff54e02950edbea67e7db2896c705c7911db5dd0fb07ad1562e04faf90048ba5ef79fece2aed52683758bccff9cb41d07834661969d16d/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www030.vipanicdn.net/streamhls/392baffe306700b9cbb03d587eead1a9/ep.1.1677660349.m3u8"
@@ -50,9 +34,19 @@
         "downloadLink": {
             "SUBBED": "NDA2Nzk="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/38/40/38409fbd311d035de22312a53af226cb/eng-3.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/38/40/38409fbd311d035de22312a53af226cb/eng-4.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/c8/c885510ef7a7b35783751b7b8de28bd1/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

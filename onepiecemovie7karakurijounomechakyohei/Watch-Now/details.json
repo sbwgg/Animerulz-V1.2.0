@@ -1,34 +1,24 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/0b7078500408a1af3034440279bdcd0467c6599a7ce63824e7841f9c2be1954b5df58da325de8b4c38c75cf37e8a1c5ecaf4fa7231dc97edf47e63b215305668108556e4b80f24404e15ec6161af93a516c86b6df3c4aeb21663d5318f3c68bf83dd47c16a32dd108b73bdd8119bef17e3bf75ad65b5026e7c87219c8a8f09c2/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www024.vipanicdn.net/streamhls/056f5d18b95074c38e31908f5068d6c1/ep.1.1677663408.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=one-piece-movie-7-karakuri-castles-mecha-giant-soldier-episode-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/0b7078500408a1af3034440279bdcd0467c6599a7ce63824e7841f9c2be1954b5df58da325de8b4c38c75cf37e8a1c5ecaf4fa7231dc97edf47e63b215305668108556e4b80f24404e15ec6161af93a516c86b6df3c4aeb21663d5318f3c68bf83dd47c16a32dd108b73bdd8119bef17e3bf75ad65b5026e7c87219c8a8f09c2/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/45/d4/45d41c86e717a3762032f36567a0ab88/45d41c86e717a3762032f36567a0ab88.vtt",
-                            "lang": "Arabic"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/ac/81/ac810034cef9b47c32633c06527cd440/ac810034cef9b47c32633c06527cd440.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/cd/cd184d5c51bb16c154b717cf471d7c4a/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -36,9 +26,19 @@
         "downloadLink": {
             "SUBBED": "NDA1NTM="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/45/d4/45d41c86e717a3762032f36567a0ab88/45d41c86e717a3762032f36567a0ab88.vtt",
+                "lang": "Arabic"
+            },
+            {
+                "url": "https://ccb.megaresources.co/ac/81/ac810034cef9b47c32633c06527cd440/ac810034cef9b47c32633c06527cd440.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/cd/cd184d5c51bb16c154b717cf471d7c4a/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

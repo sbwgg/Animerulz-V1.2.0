@@ -1,30 +1,24 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/91197f80ba1ce50d1535c6ad8ee5d0b968c046ea4e0fb2a0d898599ad8eefd825553f66ae44e935648d0e44c67ad7dcb15dcf250405daddcb7eae306825eed091b6bad26cac71e258512942c1eacad4234a57d06477bb96ff854c5ce2624427647df5eb4a81f2d5a500b7018765f3f23b39f94bf4798206e93034acc7a3dd9b2/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www041.vipanicdn.net/streamhls/9b23b8eb325354341f7dc07e15e87479/ep.1.1692897421.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=one-piece-luffy-hand-island-no-bouken-episode-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/91197f80ba1ce50d1535c6ad8ee5d0b968c046ea4e0fb2a0d898599ad8eefd825553f66ae44e935648d0e44c67ad7dcb15dcf250405daddcb7eae306825eed091b6bad26cac71e258512942c1eacad4234a57d06477bb96ff854c5ce2624427647df5eb4a81f2d5a500b7018765f3f23b39f94bf4798206e93034acc7a3dd9b2/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/50/dc/50dcfd5c36f4c2f886d75c19544a8bdb/50dcfd5c36f4c2f886d75c19544a8bdb.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/3d/3d2d077e60800027fc7c93dc66491c46/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -32,9 +26,15 @@
         "downloadLink": {
             "SUBBED": "NDI5MjA="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/50/dc/50dcfd5c36f4c2f886d75c19544a8bdb/50dcfd5c36f4c2f886d75c19544a8bdb.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/3d/3d2d077e60800027fc7c93dc66491c46/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

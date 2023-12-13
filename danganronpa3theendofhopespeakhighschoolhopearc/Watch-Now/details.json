@@ -1,37 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/471319b1f0a1a6c9ff5b2d808323a62144a3d44fe8cba87183a434191d882dc17028a1ac0e67ec8a3685c5220306b9ed70153968c13b78f53416cc1910feb2e1e2063ff3b1ee4a66206832f56c2a2ee57e3f37c69d2a025a9f9ce2fc7dc148f483aa3293c64f03f7720071cadcbc0217b69b3b7630d1e7f77fae3222f3edb994/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www020.vipanicdn.net/streamhls/565babddac0f58609fa4f1a0f6d42d66/ep.1.1677670286.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=danganronpa-3-the-end-of-kibougamine-gakuen-kibou-hen-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/471319b1f0a1a6c9ff5b2d808323a62144a3d44fe8cba87183a434191d882dc17028a1ac0e67ec8a3685c5220306b9ed70153968c13b78f53416cc1910feb2e1e2063ff3b1ee4a66206832f56c2a2ee57e3f37c69d2a025a9f9ce2fc7dc148f483aa3293c64f03f7720071cadcbc0217b69b3b7630d1e7f77fae3222f3edb994/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/ad/ad6a8fc4e09a663d96628ab34c48c729/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/c7dae7592aef4e8c90372ae5425f83c5c5f1dda9993d0ce22ce88a148df791041250c224db1121745d0b85113077ac4cc26e5fd2b05bdc3a02f2e805b520dd1117ce70ad96db1ed0b75ad718bcee613fc3d437cdffe06efcfaf6730652be5ed03bb8f5da3adfd41a5932bc5ff784a962954b6e82893721ba2bba053afd1cc634/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/ad/ad6a8fc4e09a663d96628ab34c48c729/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/c7dae7592aef4e8c90372ae5425f83c5c5f1dda9993d0ce22ce88a148df791041250c224db1121745d0b85113077ac4cc26e5fd2b05bdc3a02f2e805b520dd1117ce70ad96db1ed0b75ad718bcee613fc3d437cdffe06efcfaf6730652be5ed03bb8f5da3adfd41a5932bc5ff784a962954b6e82893721ba2bba053afd1cc634/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www029.vipanicdn.net/streamhls/ad5f2403974d6aefb3ff1d40df04753b/ep.1.1677670679.m3u8"
@@ -46,9 +38,11 @@
             "DUBBED": "ODA1MDk=",
             "SUBBED": "NzY5MTg="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/ad/ad6a8fc4e09a663d96628ab34c48c729/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

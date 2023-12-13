@@ -1,38 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/dc7dfa2063e8f1e7c20ef36461dd3d9e4f70c621dc3f9f2b27a1603a9a6e22bf8a9a7f2d45508f3e6b12924015c17195ffcc41552d5769b1be388d03eec4c79be2666b7100efb4f3a79d3f20f0be5840de006efd4981b9b736cee74d7fa2cc5a0fe2aab7d63d3a4ba4613cb7df1d523059f40ac3dc01107b5017c3f49542c6d2/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=card-captor-sakura-the-movie-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/dc7dfa2063e8f1e7c20ef36461dd3d9e4f70c621dc3f9f2b27a1603a9a6e22bf8a9a7f2d45508f3e6b12924015c17195ffcc41552d5769b1be388d03eec4c79be2666b7100efb4f3a79d3f20f0be5840de006efd4981b9b736cee74d7fa2cc5a0fe2aab7d63d3a4ba4613cb7df1d523059f40ac3dc01107b5017c3f49542c6d2/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/78/78549a4957bab984a7f71e310d3eadb1/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/79811ae3c95cf7023e981e1e27e59b0458c27e288d531f3fde3242afe445236fe727fde94e060e5113aecd89edd097524aa91d40457fc1bc5dfc8c2378ac67861db0afad500311a578130aab09f045c67cc9c9d8051614b495f252df0201dcb9b4f7f7c75a863c1867a2f7dd7b9c2cf6b30b267a6daaaccd4e751eedda2eee08/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/17/66/1766c94216b498f1d7826be77bd80aeb/1766c94216b498f1d7826be77bd80aeb.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/78/78549a4957bab984a7f71e310d3eadb1/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/79811ae3c95cf7023e981e1e27e59b0458c27e288d531f3fde3242afe445236fe727fde94e060e5113aecd89edd097524aa91d40457fc1bc5dfc8c2378ac67861db0afad500311a578130aab09f045c67cc9c9d8051614b495f252df0201dcb9b4f7f7c75a863c1867a2f7dd7b9c2cf6b30b267a6daaaccd4e751eedda2eee08/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www005.vipanicdn.net/streamhls/2f17d23d330d71030fa9bb39cf56bb6a/ep.1.1677661539.m3u8"
@@ -46,9 +34,15 @@
         "downloadLink": {
             "SUBBED": "NDA1MDQ="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/17/66/1766c94216b498f1d7826be77bd80aeb/1766c94216b498f1d7826be77bd80aeb.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/78/78549a4957bab984a7f71e310d3eadb1/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

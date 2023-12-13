@@ -1,45 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/3f39ffe0e132cc87032ac29177eb9f0d86621d5d2bdba5ab3a0a83d28cfe94704de34f74f734688f4fb9963f4c9f280853ec9d4d539221ccb9221375eeabe91defb7215a1ae3e0b6b4d03e47163b27d0bc489a2be5623c199889fbfb8ae32f4ba9a342ee2a94c42f66585de1d6dd71ef03705a6d4dc9d72775a5ef02da1774d5/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www038.vipanicdn.net/streamhls/fbe3fae5eaacd73ec2ff7deae2bcd838/ep.1.1677815531.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=un-go-inga-ron-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/3f39ffe0e132cc87032ac29177eb9f0d86621d5d2bdba5ab3a0a83d28cfe94704de34f74f734688f4fb9963f4c9f280853ec9d4d539221ccb9221375eeabe91defb7215a1ae3e0b6b4d03e47163b27d0bc489a2be5623c199889fbfb8ae32f4ba9a342ee2a94c42f66585de1d6dd71ef03705a6d4dc9d72775a5ef02da1774d5/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/90/83/9083b41edff6eea1645925fc8fdde071/9083b41edff6eea1645925fc8fdde071.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/74/74b137f20b6404c611a16c6178e78de6/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/5fbe33bb96e1334f70dd8f7129caf0ecf883fe380aac7dca13094034089fae892c1d49f77b744fc12acdba751ee57652dd12fba0d58b4435509594cd1919f3a40786c7bdd4d871ef1b7a6783653047f5d7693ab4d6bfe603aaa466d47789aaa5cad45b8a3940e1caec2639d874e167c3ceb8dd749ab67914bc9656c23c360e20/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/18/5c/185c9b312c044952b127aa120c01f51b/185c9b312c044952b127aa120c01f51b.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/74/74b137f20b6404c611a16c6178e78de6/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/5fbe33bb96e1334f70dd8f7129caf0ecf883fe380aac7dca13094034089fae892c1d49f77b744fc12acdba751ee57652dd12fba0d58b4435509594cd1919f3a40786c7bdd4d871ef1b7a6783653047f5d7693ab4d6bfe603aaa466d47789aaa5cad45b8a3940e1caec2639d874e167c3ceb8dd749ab67914bc9656c23c360e20/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www024.vipanicdn.net/streamhls/d6ff00d5800064a069e3943951a5b74b/ep.1.1677663654.m3u8"
@@ -54,9 +38,15 @@
             "DUBBED": "MTk2ODQ3",
             "SUBBED": "NDA3NjM="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/18/5c/185c9b312c044952b127aa120c01f51b/185c9b312c044952b127aa120c01f51b.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/74/74b137f20b6404c611a16c6178e78de6/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

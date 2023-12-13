@@ -1,45 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/574f7f2d6f95247b44d42653e4480bb407c48c81e6bc444c82ffb734a4a321b63f8e7f473eb0d8f36d9f2b0a3793ef106ae196c9fc1f0df941d163b873e382d8ce4c0e30277b3efbf86cbc4fc2ca159c6b6b66d2a800100074958fe775edcf34f1df72b2059d4198a147b1d667d649fee983cfe5d331552128dd5d614ad43850/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www014.vipanicdn.net/streamhls/e431f549f02f9dd6dec5279745b33efa/ep.1.1677620691.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=dragon-ball-z-movie-12-fusion-reborn-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/574f7f2d6f95247b44d42653e4480bb407c48c81e6bc444c82ffb734a4a321b63f8e7f473eb0d8f36d9f2b0a3793ef106ae196c9fc1f0df941d163b873e382d8ce4c0e30277b3efbf86cbc4fc2ca159c6b6b66d2a800100074958fe775edcf34f1df72b2059d4198a147b1d667d649fee983cfe5d331552128dd5d614ad43850/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/bd/bd22cc5990929c4e83b34318263a5e7f/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/7190b8ac9c9fdc5f7a3b8340fce6bc87a1c5b10227d8fbf6bee496671d8dd00833592de88f513d2bf1dd6a9846a074cf8d308d3c8ec379bc760a06fc64dfc7ff6c6782144c34653054bb1331d818f3fb115304c97005f4e7ecc2d803db59538cbe0efbe52442f3059116e330c9838e638b608133c2c911bdddea8af0ac50aeb5/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/4f/70/4f7035eeabb6a08471cd861b608b644b/eng-4.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/5f/fd/5ffd30f339e8aeecf7822bd56822f917/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/bd/bd22cc5990929c4e83b34318263a5e7f/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/7190b8ac9c9fdc5f7a3b8340fce6bc87a1c5b10227d8fbf6bee496671d8dd00833592de88f513d2bf1dd6a9846a074cf8d308d3c8ec379bc760a06fc64dfc7ff6c6782144c34653054bb1331d818f3fb115304c97005f4e7ecc2d803db59538cbe0efbe52442f3059116e330c9838e638b608133c2c911bdddea8af0ac50aeb5/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www003.vipanicdn.net/streamhls/08a1bac1b93c03851a52e4661aa5e177/ep.1.1677607722.m3u8"
@@ -54,9 +38,19 @@
             "DUBBED": "OTM2NDM=",
             "SUBBED": "NDA3MTI="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/4f/70/4f7035eeabb6a08471cd861b608b644b/eng-4.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/5f/fd/5ffd30f339e8aeecf7822bd56822f917/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/bd/bd22cc5990929c4e83b34318263a5e7f/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

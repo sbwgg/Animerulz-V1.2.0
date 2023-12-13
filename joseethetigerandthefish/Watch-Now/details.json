@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/eee99c2e4809424d79ecca83de9b70ea1537d15ff8053567cd80cb2f3e9ea5f181ad8dfd898153ff25016bba57aa56faf4cf44f4df3219eb82d3b28f5ee826e621639413c5d1c7475fc46abcff2bcb58cd47ea2a4c153270d217437b1107892d17d96996177b00b7ca05ddc35521e213e41184ec2d92170be6d8f23e1aa87b1f/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www002.vipanicdn.net/streamhls/7272f7c89ef43fbd0d3b6f2804a7d4b7/ep.1.1677604997.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=josee-to-tora-to-sakana-tachi-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/eee99c2e4809424d79ecca83de9b70ea1537d15ff8053567cd80cb2f3e9ea5f181ad8dfd898153ff25016bba57aa56faf4cf44f4df3219eb82d3b28f5ee826e621639413c5d1c7475fc46abcff2bcb58cd47ea2a4c153270d217437b1107892d17d96996177b00b7ca05ddc35521e213e41184ec2d92170be6d8f23e1aa87b1f/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/87/87b081202d9f6d56d6d726d30137fa2d/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/952d3ff75a87aab04fe6b9f58364a22cf3ab1f5524fd5a5d4cad1d7c0bc0845e0c5fd8d2c14ea3128a4f5dc7d1d9834048b1796b0d300ce9615af7f92068a7b9b30e4a46c509db1ec0de35007e5a4474d99e56d3dac70470d664cb71082b12d1c173e73bb7bbcb58525f91966ad76e700aa52946735dc73525e22cf4c12418ff/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/d9/47/d9473ae5b88cbe281a8964be010d719b/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/87/87b081202d9f6d56d6d726d30137fa2d/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/952d3ff75a87aab04fe6b9f58364a22cf3ab1f5524fd5a5d4cad1d7c0bc0845e0c5fd8d2c14ea3128a4f5dc7d1d9834048b1796b0d300ce9615af7f92068a7b9b30e4a46c509db1ec0de35007e5a4474d99e56d3dac70470d664cb71082b12d1c173e73bb7bbcb58525f91966ad76e700aa52946735dc73525e22cf4c12418ff/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www023.vipanicdn.net/streamhls/8aaebcfbc18d42ac73b93d2b089d178b/ep.1.1677637248.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "MTgxODAx",
             "SUBBED": "MTYzMTYy"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/d9/47/d9473ae5b88cbe281a8964be010d719b/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/87/87b081202d9f6d56d6d726d30137fa2d/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

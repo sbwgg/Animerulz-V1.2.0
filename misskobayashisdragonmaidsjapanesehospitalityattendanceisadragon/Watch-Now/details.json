@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/0b3dad06a93408325e2f1cae9fa393f93b25196bee0cc87878392a8f9d6fcd5100cf3c2373016087995f7cef8e5db37b0175d29a8a4ff4a2b5eb0747012912b94cd69a7d44ec3a305402d29707ed06ed4ab38b5206a33b687e6d2434c120bb1da15c09709ee694454e990150aa6aafb95780d5224e83efa728555a70b27da236/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www009.vipanicdn.net/streamhls/39d8b2b11aa38e0ba3fe9aa1b428bd87/ep.1.1677622824.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=kobayashi-san-chi-no-maid-dragon-s-nippon-no-omotenashi-attend-wa-dragon-desu-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/0b3dad06a93408325e2f1cae9fa393f93b25196bee0cc87878392a8f9d6fcd5100cf3c2373016087995f7cef8e5db37b0175d29a8a4ff4a2b5eb0747012912b94cd69a7d44ec3a305402d29707ed06ed4ab38b5206a33b687e6d2434c120bb1da15c09709ee694454e990150aa6aafb95780d5224e83efa728555a70b27da236/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/56/56fcaf3973ddd6e3e6f666eee57eac4a/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/c94ffef06a093b3a36989ba0c0e85ba440a091480a21d5769a7e50f239b1a6e46cbc0886f2ec6cdd95373e238f610b832efc07d3925b3e7e7fc9be5524785b3d0b4601591b56a2a0659a1db604809721594b6268d19dcb73817de2accd303fd1a46d469158cc0d06ad4f7d54ff99ea4fd9cd247e601b14545d1ecf02f616cb6a/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/31/0b/310b053c0faa707f39e2502955d43f2c/310b053c0faa707f39e2502955d43f2c.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/56/56fcaf3973ddd6e3e6f666eee57eac4a/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/c94ffef06a093b3a36989ba0c0e85ba440a091480a21d5769a7e50f239b1a6e46cbc0886f2ec6cdd95373e238f610b832efc07d3925b3e7e7fc9be5524785b3d0b4601591b56a2a0659a1db604809721594b6268d19dcb73817de2accd303fd1a46d469158cc0d06ad4f7d54ff99ea4fd9cd247e601b14545d1ecf02f616cb6a/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www003.vipanicdn.net/streamhls/43bd59770d5361df194df78cad7eec56/ep.1.1677598314.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "MTg4MjI4",
             "SUBBED": "MTgxMzUy"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/31/0b/310b053c0faa707f39e2502955d43f2c/310b053c0faa707f39e2502955d43f2c.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/56/56fcaf3973ddd6e3e6f666eee57eac4a/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

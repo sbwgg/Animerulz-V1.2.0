@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/c15cf9843004a0e20a9d6d7edfc860b15f5e7daba57432128899f1cd4457b12e32a4fdbce961635e2083ae4283a63836fb6a4e08d16a15e06f431d59358bdfe079a1e409260f0917cf30c9d1ca214807cd6a0b01670c01a038e0cb0c4c28f460ea378e11bbc95a869d5db403375198f1/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www032.vipanicdn.net/streamhls/77516d911241c98a98e85addf8ac5262/ep.1.1677830915.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=battle-spirits-ryuuko-no-ken-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/c15cf9843004a0e20a9d6d7edfc860b15f5e7daba57432128899f1cd4457b12e32a4fdbce961635e2083ae4283a63836fb6a4e08d16a15e06f431d59358bdfe079a1e409260f0917cf30c9d1ca214807cd6a0b01670c01a038e0cb0c4c28f460ea378e11bbc95a869d5db403375198f1/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/76/7661e51f8f30bda931c41284ff3ed7f2/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/ac73154fbeec0e642fbe4b3ea902d7673b5d86073d3affee3751ba6708a248fcec8f6239e77d91536c367cd27743ac619ad26c24201cdc6f93b24f8ba76a0346ac4def3be884a5ef44b610dc1463ecc51bc59fae7e18b6d022daa3892303ccf034dfbc40776ffe042b283bc36a6d5827/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/17/99/179935f107923d63ecf4d9511bf3acd4/179935f107923d63ecf4d9511bf3acd4.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/76/7661e51f8f30bda931c41284ff3ed7f2/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/ac73154fbeec0e642fbe4b3ea902d7673b5d86073d3affee3751ba6708a248fcec8f6239e77d91536c367cd27743ac619ad26c24201cdc6f93b24f8ba76a0346ac4def3be884a5ef44b610dc1463ecc51bc59fae7e18b6d022daa3892303ccf034dfbc40776ffe042b283bc36a6d5827/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www031.vipanicdn.net/streamhls/0caf19d3d277eb4733f38510baf1e48a/ep.1.1677813174.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "MTU1MTAx",
             "SUBBED": "MTU1MTAw"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/17/99/179935f107923d63ecf4d9511bf3acd4/179935f107923d63ecf4d9511bf3acd4.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/76/7661e51f8f30bda931c41284ff3ed7f2/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

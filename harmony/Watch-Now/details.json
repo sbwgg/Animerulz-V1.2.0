@@ -1,45 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/ea0f25766ffdb77bca6f96f1d26a5c1a3c0cd510c0eb64dac9dabbd2aee8c4a3abcfeebbcb33c3c3c885f1eab081e715c713f819a884a97b60ef651b433eacb4bd9e781bf65ab36f931812ba3f555ef8a094fb0d9638b9476f9950cb7811866a46666beb078e4b20698c732f84e006607fb554e784c94a2bae5c20058b289583/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www040.vipanicdn.net/streamhls/519075ab31e027abfb269d3f20c591ee/ep.1.1677816605.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=harmony-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/ea0f25766ffdb77bca6f96f1d26a5c1a3c0cd510c0eb64dac9dabbd2aee8c4a3abcfeebbcb33c3c3c885f1eab081e715c713f819a884a97b60ef651b433eacb4bd9e781bf65ab36f931812ba3f555ef8a094fb0d9638b9476f9950cb7811866a46666beb078e4b20698c732f84e006607fb554e784c94a2bae5c20058b289583/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/ec/f0/ecf05ba94059e27f3fb22ffd25de773d/ecf05ba94059e27f3fb22ffd25de773d.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/16/16dcef2a9bbd06a01f55d9a5548a3628/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/7ce687a6fca04ace171fa491c738aa5232dda82da31b6a09ecc9505aae15cd395f4732988ef1272b52eae1666fd0f88055860fc966e98bc3464eb325ae4fcc5af7632b79d0cf1a86ffe5f840498e21664484c7f86f63f836c735cb4b5a9bb36d48528cec2e66ebfa7e4d60167fe92ae5f1cccb24303796b70efd0c2a6752f392/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/a3/78/a37896b814b24fc98107b65ddfa7b768/a37896b814b24fc98107b65ddfa7b768.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/16/16dcef2a9bbd06a01f55d9a5548a3628/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/7ce687a6fca04ace171fa491c738aa5232dda82da31b6a09ecc9505aae15cd395f4732988ef1272b52eae1666fd0f88055860fc966e98bc3464eb325ae4fcc5af7632b79d0cf1a86ffe5f840498e21664484c7f86f63f836c735cb4b5a9bb36d48528cec2e66ebfa7e4d60167fe92ae5f1cccb24303796b70efd0c2a6752f392/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www016.vipanicdn.net/streamhls/5de76d73adaf2ac6122283665dbde2a6/ep.1.1677665218.m3u8"
@@ -54,9 +38,15 @@
             "DUBBED": "MTk1ODY5",
             "SUBBED": "NzE2MjU="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/a3/78/a37896b814b24fc98107b65ddfa7b768/a37896b814b24fc98107b65ddfa7b768.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/16/16dcef2a9bbd06a01f55d9a5548a3628/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

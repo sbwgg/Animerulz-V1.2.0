@@ -1,45 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "OVA",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/4e94531011bdd7ee150afe682049c7829f11a4d4fd417373ad4908ed9292276d8b4b33826b84bec8bbddc6d7d96b532691bd6ae515169a2b33dc4d2cfc6a866d347f1b1f8f611ed25a7933cf2b072e11e21d05d476b0038b859bd49470128920937e3f7c387ca33afad4d659d6607ccbcd373cc25e17d690b525a38ccb75bae1/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www045.vipanicdn.net/streamhls/4cc4ba87a54a0d35739dbd2d67a54532/ep.1.1677856883.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=highschool-of-the-dead-drifters-of-the-dead-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/4e94531011bdd7ee150afe682049c7829f11a4d4fd417373ad4908ed9292276d8b4b33826b84bec8bbddc6d7d96b532691bd6ae515169a2b33dc4d2cfc6a866d347f1b1f8f611ed25a7933cf2b072e11e21d05d476b0038b859bd49470128920937e3f7c387ca33afad4d659d6607ccbcd373cc25e17d690b525a38ccb75bae1/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/48/481a7cbe077f18a85b1328c48616755d/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/00745eafbb1f26238632c9f5c5576dd0498f93a600e6d7e0add699014c45b1cfca470b5f2b666e52a7a7845f04bc0f713c47e211824abfc7cfd3e9f42d5d889c0bf8810ed54b6d8b2094e485110b34f3f72581461bc23703bf7110d0d17d4380dde531923becfa88a8c1ae900c39c70e6a33a36dab96a24b24e8749986615783/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/fb/90/fb9062c3e539042d1486bdc242cea9dd/eng-4.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/fb/90/fb9062c3e539042d1486bdc242cea9dd/jpn-5.vtt",
-                            "lang": "Japanese - Japanese [Full]"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/48/481a7cbe077f18a85b1328c48616755d/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/00745eafbb1f26238632c9f5c5576dd0498f93a600e6d7e0add699014c45b1cfca470b5f2b666e52a7a7845f04bc0f713c47e211824abfc7cfd3e9f42d5d889c0bf8810ed54b6d8b2094e485110b34f3f72581461bc23703bf7110d0d17d4380dde531923becfa88a8c1ae900c39c70e6a33a36dab96a24b24e8749986615783/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www025.vipanicdn.net/streamhls/d15e056627d6366b8911b62f74c9457e/ep.1.1677672655.m3u8"
@@ -54,9 +38,19 @@
             "DUBBED": "MTYyNDE0",
             "SUBBED": "MjA5MDQ="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/fb/90/fb9062c3e539042d1486bdc242cea9dd/eng-4.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/fb/90/fb9062c3e539042d1486bdc242cea9dd/jpn-5.vtt",
+                "lang": "Japanese - Japanese [Full]"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/48/481a7cbe077f18a85b1328c48616755d/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

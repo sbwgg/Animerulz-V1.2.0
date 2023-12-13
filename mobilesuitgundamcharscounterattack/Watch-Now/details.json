@@ -1,55 +1,35 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/8c2f644aa239f5d1b1061879ab12268fa895e4fb1bbefa11801179a56fa220f0cfae9fb30bfca9c4b4a10f83e77ef4225b76d251dbb6c9167d98c5b40c01a4b39c82c1acf1d6af32f44a7ec6c5c4f6426bc9a6ee188a8f61629ecee563ab5c00d976ca97fd1bcf1b7bee5e0915b2940c7e7cbfdf676a28afa903f7d25e2cf4dd/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www026.vipanicdn.net/streamhls/252570cacc717eacba6ce340e93c49a1/ep.1.1677685189.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=mobile-suit-gundam-chars-counterattack-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/8c2f644aa239f5d1b1061879ab12268fa895e4fb1bbefa11801179a56fa220f0cfae9fb30bfca9c4b4a10f83e77ef4225b76d251dbb6c9167d98c5b40c01a4b39c82c1acf1d6af32f44a7ec6c5c4f6426bc9a6ee188a8f61629ecee563ab5c00d976ca97fd1bcf1b7bee5e0915b2940c7e7cbfdf676a28afa903f7d25e2cf4dd/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/57/72/5772581f9aa9d301d3e83e1613dc335a/eng-4.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/02/02c48a6c98ae444ffd7f0340c42387a8/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/4931cb5331a4f378fc00c0631738e72f912c2826e464b92c8047cbee48abbb13b1e21a2cb6a077218f25d8ce574cc008883cdce53d402d9c9f8162c08efaa912ee96fb05b8868adb9f755e7e03acdb78f988dfa4abb4a07b0517336df29c570cbf88b045501d65f36a9426d50cdb21588f849a86c4f12bb0d0183bedc04f4684/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www028.vipanicdn.net/streamhls/7926aa3530dfb954378d66a18f7535cb/ep.1.1677707801.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=mobile-suit-gundam-chars-counterattack-episode-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/4931cb5331a4f378fc00c0631738e72f912c2826e464b92c8047cbee48abbb13b1e21a2cb6a077218f25d8ce574cc008883cdce53d402d9c9f8162c08efaa912ee96fb05b8868adb9f755e7e03acdb78f988dfa4abb4a07b0517336df29c570cbf88b045501d65f36a9426d50cdb21588f849a86c4f12bb0d0183bedc04f4684/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/a1/f6/a1f6fa75a33b6498dfa4e8e06b650eb5/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/a1/f6/a1f6fa75a33b6498dfa4e8e06b650eb5/spa-3.vtt",
-                            "lang": "Spanish - Spanish (Full)"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/02/02c48a6c98ae444ffd7f0340c42387a8/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -58,9 +38,19 @@
             "DUBBED": "MTAxNzU1",
             "SUBBED": "MTUyNzI3"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/a1/f6/a1f6fa75a33b6498dfa4e8e06b650eb5/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/a1/f6/a1f6fa75a33b6498dfa4e8e06b650eb5/spa-3.vtt",
+                "lang": "Spanish - Spanish (Full)"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/02/02c48a6c98ae444ffd7f0340c42387a8/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

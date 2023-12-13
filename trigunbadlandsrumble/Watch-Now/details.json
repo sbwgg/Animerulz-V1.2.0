@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/95716b7920f8680d0a1ec9d313190b80068e556b25eb784a45c5c292b69023c35112d46c626e831caf8476f08c80c839906c604912d4be227e93cd003492e1f307a25f61bf71ccce52fe9e8533811d479120c8893561d856a487b6003b1095f2c29aeef8fffdd129e28e87792ce237aeca4eb7989928e759b549d17da775df2b/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www023.vipanicdn.net/streamhls/0fc17480441422f65df10d863df56445/ep.1.1677726108.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=trigun-badlands-rumble-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/95716b7920f8680d0a1ec9d313190b80068e556b25eb784a45c5c292b69023c35112d46c626e831caf8476f08c80c839906c604912d4be227e93cd003492e1f307a25f61bf71ccce52fe9e8533811d479120c8893561d856a487b6003b1095f2c29aeef8fffdd129e28e87792ce237aeca4eb7989928e759b549d17da775df2b/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/11/114c3ce78e1aa629ae15a6269aaf8f8f/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/c08afa7a59c4cb943bd7c315d8d0ba56a3de72f858c35d519b56a6f95eda07cda44ba877124d5b2f0fbf990ad9ff6bffb9446072cfa138b61e6433a35da8adab33e3c519e708dad751244358a0d87e15a1cf051d5ff02e5f2d283b7d360acf662a704e5de29f840be04f965de16bca6c70f9f5336628dabc45665007bb2b2834/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/e3/92/e392d23298e0ae54f152c9c033a288f0/eng-3.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/11/114c3ce78e1aa629ae15a6269aaf8f8f/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/c08afa7a59c4cb943bd7c315d8d0ba56a3de72f858c35d519b56a6f95eda07cda44ba877124d5b2f0fbf990ad9ff6bffb9446072cfa138b61e6433a35da8adab33e3c519e708dad751244358a0d87e15a1cf051d5ff02e5f2d283b7d360acf662a704e5de29f840be04f965de16bca6c70f9f5336628dabc45665007bb2b2834/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www014.vipanicdn.net/streamhls/b3956d0d320c23349846839e58d03132/ep.1.1677662953.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "OTE5NDI=",
             "SUBBED": "NDAzOTM="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/e3/92/e392d23298e0ae54f152c9c033a288f0/eng-3.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/11/114c3ce78e1aa629ae15a6269aaf8f8f/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

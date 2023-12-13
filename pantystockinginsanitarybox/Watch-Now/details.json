@@ -1,38 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "OVA",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/94f908d2e46d10d97043f1d957a0c99c9a6c29e436edebb8d8f2f2e839fdc2212232e2b0c46d1975a4c214d37884bf31aabd87ed563c05b41a8c33672535a9b6427376137f436c379678c32d223a8e8c90dc6c32dbbbd0eccca33a443bcb492a6b125f487f2fb9cb774bb2e37d68fb3774d05b28be1e8e3d3d0f49c09e67f50f/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=panty-stocking-in-sanitarybox-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/94f908d2e46d10d97043f1d957a0c99c9a6c29e436edebb8d8f2f2e839fdc2212232e2b0c46d1975a4c214d37884bf31aabd87ed563c05b41a8c33672535a9b6427376137f436c379678c32d223a8e8c90dc6c32dbbbd0eccca33a443bcb492a6b125f487f2fb9cb774bb2e37d68fb3774d05b28be1e8e3d3d0f49c09e67f50f/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/71/719fbf56106c209a1336efb75f946bdd/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/c536e2f59f9d4634f9a1b42000d051ccbd0d4b280fd554eab8488cd97f669e396bbc25495c3f23c163d8c81eede149f1fd556b5ce3361ee39be39ab9da76b76c1db00311e98720512dc68c3c62e1a5defcd42207f244059213dc75988dd323c0080a840f447c4b20658d84f669d773c5c1ee2d7a2d9a506de98242ff5c85bb6d/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/02/74/0274da28a38e4414ec47636055b9d59f/0274da28a38e4414ec47636055b9d59f.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/71/719fbf56106c209a1336efb75f946bdd/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/c536e2f59f9d4634f9a1b42000d051ccbd0d4b280fd554eab8488cd97f669e396bbc25495c3f23c163d8c81eede149f1fd556b5ce3361ee39be39ab9da76b76c1db00311e98720512dc68c3c62e1a5defcd42207f244059213dc75988dd323c0080a840f447c4b20658d84f669d773c5c1ee2d7a2d9a506de98242ff5c85bb6d/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www031.vipanicdn.net/streamhls/d222f25bc7c974fda74be54361e02a14/ep.1.1677813188.m3u8"
@@ -46,9 +34,15 @@
         "downloadLink": {
             "SUBBED": "MTU1Mjgw"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/02/74/0274da28a38e4414ec47636055b9d59f/0274da28a38e4414ec47636055b9d59f.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/71/719fbf56106c209a1336efb75f946bdd/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

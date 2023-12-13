@@ -1,46 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/6138d550ad9670400e3d94852cd5df789bccf0b4cb561a9f8933162255897263ab25ac0690d5c4d888c1fcb09a2788ba31b653b8c9933b51ba2419ae462daa9b63f291ca0b53abc7d0acd132cbf15e88c10caeecd4fd455ddf97346ce9a7b43141c361574bd11930c149bd3fc499298adafeffdb84b3ab5715eee1faf33c2731/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=lupin-iii-nusumareta-lupin-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/6138d550ad9670400e3d94852cd5df789bccf0b4cb561a9f8933162255897263ab25ac0690d5c4d888c1fcb09a2788ba31b653b8c9933b51ba2419ae462daa9b63f291ca0b53abc7d0acd132cbf15e88c10caeecd4fd455ddf97346ce9a7b43141c361574bd11930c149bd3fc499298adafeffdb84b3ab5715eee1faf33c2731/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/53/537cca085d6082776afbfe9d0da1eb8b/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/85933e3e1eac590cd62c8ef5b6d6d5e54798d6d1ac659618ece5fbe250e82f102aebae60cf3c957894b242901b64441e4cec2f8b79ac6e77aebefb22c5a3d7fd69b8cc1c0ac112e568cbce583a6dc7b1005b4239e405f0f01a62a472be82e9bb2efb328f933b1b43101420ac28690bc36d71bfc1dae875be4aae7d8240922cfd/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/d4/75/d4754a820fce413dd80fd6e182987a84/eng-1.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/d4/75/d4754a820fce413dd80fd6e182987a84/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/d4/75/d4754a820fce413dd80fd6e182987a84/ita-5.vtt",
-                            "lang": "Italian - Dialoghi"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/53/537cca085d6082776afbfe9d0da1eb8b/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/85933e3e1eac590cd62c8ef5b6d6d5e54798d6d1ac659618ece5fbe250e82f102aebae60cf3c957894b242901b64441e4cec2f8b79ac6e77aebefb22c5a3d7fd69b8cc1c0ac112e568cbce583a6dc7b1005b4239e405f0f01a62a472be82e9bb2efb328f933b1b43101420ac28690bc36d71bfc1dae875be4aae7d8240922cfd/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www045.vipanicdn.net/streamhls/efd93c9fd339f6ffa905de4316202322/ep.1.1677855868.m3u8"
@@ -54,9 +34,23 @@
         "downloadLink": {
             "SUBBED": "MTY0Mzc0"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/d4/75/d4754a820fce413dd80fd6e182987a84/eng-1.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/d4/75/d4754a820fce413dd80fd6e182987a84/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/d4/75/d4754a820fce413dd80fd6e182987a84/ita-5.vtt",
+                "lang": "Italian - Dialoghi"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/53/537cca085d6082776afbfe9d0da1eb8b/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

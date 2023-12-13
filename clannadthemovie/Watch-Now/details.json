@@ -1,38 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/447633f06a20e22e44c0b5944d0018b535a30fb618555a2cf946d8d510e0b8647ec765c86617ac4a9721951031455919d7673c85dbe3429d08f64061b9e2cf88ab73e35accc17a1cab36e92eb3f03dafb361450be1d5a0a959004474857363a83819716f42bf25b465bc2e08f37a0972a0bf9d545135461fabf63aacd64f1c4a/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=clannad-the-movie-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/447633f06a20e22e44c0b5944d0018b535a30fb618555a2cf946d8d510e0b8647ec765c86617ac4a9721951031455919d7673c85dbe3429d08f64061b9e2cf88ab73e35accc17a1cab36e92eb3f03dafb361450be1d5a0a959004474857363a83819716f42bf25b465bc2e08f37a0972a0bf9d545135461fabf63aacd64f1c4a/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/ab/ab16e38cca45bd4244e08c5b25a1f53b/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/f9cb30fc2eca426f5a364c3aed1b6ef18fba504c3ee38ca9ff52ac6e83294c25b25d545896deed3c62fc81319ec228ee8f2a0355f0b9ccb0e82b25bf064f69dfd29f85db0b0b257efd3740ed492bf3d0df1c8d7c52e6f4eba8fb55a2ce57bfcce452b59fa2b17fe36c940876ec75c6343704e6c097e97c02421864c4c639e9f3/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/88/de/88def069e94fbfb8316f9c84b5155383/88def069e94fbfb8316f9c84b5155383.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/ab/ab16e38cca45bd4244e08c5b25a1f53b/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/f9cb30fc2eca426f5a364c3aed1b6ef18fba504c3ee38ca9ff52ac6e83294c25b25d545896deed3c62fc81319ec228ee8f2a0355f0b9ccb0e82b25bf064f69dfd29f85db0b0b257efd3740ed492bf3d0df1c8d7c52e6f4eba8fb55a2ce57bfcce452b59fa2b17fe36c940876ec75c6343704e6c097e97c02421864c4c639e9f3/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www009.vipanicdn.net/streamhls/f73f8b5a0747158b2adfc23d11acdc3a/ep.1.1677615909.m3u8"
@@ -46,9 +34,15 @@
         "downloadLink": {
             "SUBBED": "NDA4Mzg="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/88/de/88def069e94fbfb8316f9c84b5155383/88def069e94fbfb8316f9c84b5155383.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/ab/ab16e38cca45bd4244e08c5b25a1f53b/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

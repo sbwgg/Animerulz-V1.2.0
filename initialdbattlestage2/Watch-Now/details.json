@@ -1,24 +1,18 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Initial D Battle Stage 2",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/0514ec89f6c36c237298928459210bfe49f4c9e37be0e43efdd7a9c06b892e034017055c74d6c96e5c80195602a6abde148db312826d2a5b003224a8323c498f42379fa0219fcbe2131a87055baa49ef16ed94828047e544db9132cb34d2e07782aec0f1e36084e87c975921ac292d5d000c7c55fec316ab6e6c7831bd827df4/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/a8/97/a89706f5e6fdaf9ed4916805bdef36bb/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/e2/e2eb0dcbd390308cde6076a204063f4f/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/0514ec89f6c36c237298928459210bfe49f4c9e37be0e43efdd7a9c06b892e034017055c74d6c96e5c80195602a6abde148db312826d2a5b003224a8323c498f42379fa0219fcbe2131a87055baa49ef16ed94828047e544db9132cb34d2e07782aec0f1e36084e87c975921ac292d5d000c7c55fec316ab6e6c7831bd827df4/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www039.vipanicdn.net/streamhls/ee5747bd616ecbdf8a09f2e252ebac30/ep.1.1677815503.m3u8"
@@ -32,9 +26,15 @@
         "downloadLink": {
             "SUBBED": "MTk3NTY4"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/a8/97/a89706f5e6fdaf9ed4916805bdef36bb/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/e2/e2eb0dcbd390308cde6076a204063f4f/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

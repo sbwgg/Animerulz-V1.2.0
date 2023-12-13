@@ -1,45 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Ghost in the Shell - Border:2 Ghost Whispers",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/0f7743b02a771d16b792bf27b4c2712956a3d2ff68b12c56ed558482d1eca3d2dc2e29fc12eb623dea6b39c91698c6cb59d40884d6508c504963ba7604c57ea44e343ac79722935fbd642ca668bdbcbf1cd32378dc05171f5417975434a77741909059d0400d43c4d3f3a56d771bbeb3a7696efce2bd2e35a3330e7c9c0b9ab9/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www022.vipanicdn.net/streamhls/c758188a3d074ec75d53294865bc295f/ep.1.1677680276.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=ghost-in-the-shell-arise-border2-ghost-whispers-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/0f7743b02a771d16b792bf27b4c2712956a3d2ff68b12c56ed558482d1eca3d2dc2e29fc12eb623dea6b39c91698c6cb59d40884d6508c504963ba7604c57ea44e343ac79722935fbd642ca668bdbcbf1cd32378dc05171f5417975434a77741909059d0400d43c4d3f3a56d771bbeb3a7696efce2bd2e35a3330e7c9c0b9ab9/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/a6/a62a28407f118d098faa3ca3011ca1c3/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/ee7acc00bb124ca8c906504372c5277e85b1a53852dfa9ae1c006aa10d07b5401520d291a70cda724227a75224409ffda7b7b2338e4635808dd54b1c7bacd88e22b5122ddbf49ab8ab4a478bb93f2606c6eab2ee5c7761042cf02e3ad4c25bc5d83adca627a05c0b71b29d8c460b6cf712f908a01eaaa72faf0713cf0b0922cc/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/e7/77/e7778ee1857128a1f8ec4beba1fce63c/eng-3.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/e7/77/e7778ee1857128a1f8ec4beba1fce63c/eng-4.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/a6/a62a28407f118d098faa3ca3011ca1c3/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/ee7acc00bb124ca8c906504372c5277e85b1a53852dfa9ae1c006aa10d07b5401520d291a70cda724227a75224409ffda7b7b2338e4635808dd54b1c7bacd88e22b5122ddbf49ab8ab4a478bb93f2606c6eab2ee5c7761042cf02e3ad4c25bc5d83adca627a05c0b71b29d8c460b6cf712f908a01eaaa72faf0713cf0b0922cc/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www009.vipanicdn.net/streamhls/151553b73e74ddbff47820378e3f56df/ep.1.1677665569.m3u8"
@@ -54,9 +38,19 @@
             "DUBBED": "MTA3MTgx",
             "SUBBED": "NDI4NDg="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/e7/77/e7778ee1857128a1f8ec4beba1fce63c/eng-3.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/e7/77/e7778ee1857128a1f8ec4beba1fce63c/eng-4.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/a6/a62a28407f118d098faa3ca3011ca1c3/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

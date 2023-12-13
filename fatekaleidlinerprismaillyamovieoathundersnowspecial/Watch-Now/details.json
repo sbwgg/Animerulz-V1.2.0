@@ -1,20 +1,18 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "OVA",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/e4597b2a5c44df79443a75736a01afc8a973f4d3c0bef84fe4bfccac603336474ed91c7f4919962ce39d421671241abc4128b5be5c55bb1e3bde3a3ef342edf327335b6f9414da6ca7209b8b574fcdf7a405646e9d0fc62a77df0ecd280f47c80b00b2dee866305f8622950f331128daebfc8599a038a7f5bd27439cd8633062/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/77/778ed36c6b59a3b2a2b6f6b38e76fd31/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/e4597b2a5c44df79443a75736a01afc8a973f4d3c0bef84fe4bfccac603336474ed91c7f4919962ce39d421671241abc4128b5be5c55bb1e3bde3a3ef342edf327335b6f9414da6ca7209b8b574fcdf7a405646e9d0fc62a77df0ecd280f47c80b00b2dee866305f8622950f331128daebfc8599a038a7f5bd27439cd8633062/master.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=fatekaleid-liner-prismaillya-movie-oath-under-snow-special-episode-1"
@@ -23,9 +21,11 @@
         },
         "isFiller": false,
         "downloadLink": {},
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/77/778ed36c6b59a3b2a2b6f6b38e76fd31/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

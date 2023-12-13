@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "OVA",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/0148ad430e3442c05539c9e3094f31b706ac9ed33b756055cb96e09dd51fe42bea0e8f0bff686609cbaa1b4156658438ccbdf9ecde5ce9eb0d4b66344daf73a833b6144392aabe4afd79f533e356d8167ad1bf5b9bd0473ad4311229e865d03e36d1f755ed8707ed4e5536e92f72037eba91e46e459022f2339b7ad11fb2eb99/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www042.vipanicdn.net/streamhls/cef698974db0a4cf90cbedefe28464e9/ep.1.1680991153.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=dimension-w-ova-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/0148ad430e3442c05539c9e3094f31b706ac9ed33b756055cb96e09dd51fe42bea0e8f0bff686609cbaa1b4156658438ccbdf9ecde5ce9eb0d4b66344daf73a833b6144392aabe4afd79f533e356d8167ad1bf5b9bd0473ad4311229e865d03e36d1f755ed8707ed4e5536e92f72037eba91e46e459022f2339b7ad11fb2eb99/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/69/69578ba52a542a23ab95aac629daf290/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/193d37dd3005b7fdad1ee39c5c4bd158d3395b5f25c3f48703154fa3618b4ff1476018d91dbc9d35114ee19249c82b67f85ceba8a59545c5b48147bc4fb68cdb953d215123e6062f8b38ef16e7254c84f68442733f4f2c3e9e7544b636834cbd35611fef35766d03da1931a9fc8dc3acb1540ab08ff5f07b38393c8826650de5/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/00/57/0057dcadb9e0d63e07274b7728017968/0057dcadb9e0d63e07274b7728017968.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/69/69578ba52a542a23ab95aac629daf290/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/193d37dd3005b7fdad1ee39c5c4bd158d3395b5f25c3f48703154fa3618b4ff1476018d91dbc9d35114ee19249c82b67f85ceba8a59545c5b48147bc4fb68cdb953d215123e6062f8b38ef16e7254c84f68442733f4f2c3e9e7544b636834cbd35611fef35766d03da1931a9fc8dc3acb1540ab08ff5f07b38393c8826650de5/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www050.vipanicdn.net/streamhls/297f262d2cbd863540460cbd70d79f89/ep.1.1680991340.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "MjAyNDUx",
             "SUBBED": "OTg0Mzk="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/00/57/0057dcadb9e0d63e07274b7728017968/0057dcadb9e0d63e07274b7728017968.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/69/69578ba52a542a23ab95aac629daf290/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

@@ -1,38 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/efc733cc65d44d1997e9993c48a1405da2cca7078f02a37c5aac0f9544917a8da8cc12ccb103f1098f9724fa61574a260701da7a547ec1a4081f965803a4be4ebb62f872847912f91bf633301aac4f33b74e1c17286fcfd84b6aad70ca5a30d99f2eea5d7da2fff0c52c4e85e29ddf51224a3d3dcd6a4e72da866bddbec9a9df/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=girls-panzer-taiyaki-war-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/efc733cc65d44d1997e9993c48a1405da2cca7078f02a37c5aac0f9544917a8da8cc12ccb103f1098f9724fa61574a260701da7a547ec1a4081f965803a4be4ebb62f872847912f91bf633301aac4f33b74e1c17286fcfd84b6aad70ca5a30d99f2eea5d7da2fff0c52c4e85e29ddf51224a3d3dcd6a4e72da866bddbec9a9df/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/50/5032aa79cbc1a0329c0d0443ea06c66e/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/42dadbe8451cb4703d86704b61ae153d3428d362fee3e60cc2862037639638d1d8ea15d2e0125060e2a1a08345e6bdf00869b40b13231e011c1582087a5f65edf16943a459248dbe0164824e82fff377bee9c7dee26fce996410de5c6319e92c476953deaba44de883de9f87f1c5bca26e6d6271e951fd379d9a26e51869e1a0/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/32/f1/32f1a03cf38a4c5d87b1b29064524412/32f1a03cf38a4c5d87b1b29064524412.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/50/5032aa79cbc1a0329c0d0443ea06c66e/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/42dadbe8451cb4703d86704b61ae153d3428d362fee3e60cc2862037639638d1d8ea15d2e0125060e2a1a08345e6bdf00869b40b13231e011c1582087a5f65edf16943a459248dbe0164824e82fff377bee9c7dee26fce996410de5c6319e92c476953deaba44de883de9f87f1c5bca26e6d6271e951fd379d9a26e51869e1a0/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www009.vipanicdn.net/streamhls/8e2cf6471985fd2fe9636be1434af39f/ep.1.1677619670.m3u8"
@@ -46,9 +34,15 @@
         "downloadLink": {
             "SUBBED": "MTQ2Mzc4"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/32/f1/32f1a03cf38a4c5d87b1b29064524412/32f1a03cf38a4c5d87b1b29064524412.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/50/5032aa79cbc1a0329c0d0443ea06c66e/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

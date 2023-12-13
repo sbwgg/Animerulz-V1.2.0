@@ -1,50 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/7fcb63860e68f4bd8afd5c695c816a9a3ea5d45715d3487df1b08c322f806b317e29c1a474deb1daee99092f7a866bade2f7480baf299ba33f15a773b2bf5d7bf7b6d091e02ddd5b3dc2d68ad01e5b8b08a68846843a62b0dec6f08075e2134a5b96962c4ac2466bcc97cba101e7afa82253bf57906ca2edae1e46f81445f456/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=pokemon-movie-14-victini-to-shiroki-eiyuu-reshiram-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/7fcb63860e68f4bd8afd5c695c816a9a3ea5d45715d3487df1b08c322f806b317e29c1a474deb1daee99092f7a866bade2f7480baf299ba33f15a773b2bf5d7bf7b6d091e02ddd5b3dc2d68ad01e5b8b08a68846843a62b0dec6f08075e2134a5b96962c4ac2466bcc97cba101e7afa82253bf57906ca2edae1e46f81445f456/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/12/127a55787d0ab79860d9a85c30813d91/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/76c126cbd08fddf819110fecd08884807fe5997569c0f8d936d1f969bd14887a63b13c9c7455b302320284503937b2900ef29172121fc4565399125142a1f89695249ad9c5b37ef51681fc5394734422e2286fc28ffc346b32d6678aeaf72e8143ec05b955b107d10b4685a16f425f327f387976c340c0807f2ee51c2b200df4/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/6e/fe/6efe1f96daf50607e1d5f338a85e1d68/eng-11.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/6e/fe/6efe1f96daf50607e1d5f338a85e1d68/fre-12.vtt",
-                            "lang": "French"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/6e/fe/6efe1f96daf50607e1d5f338a85e1d68/por-9.vtt",
-                            "lang": "Portuguese - Portuguese (Brazil)"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/6e/fe/6efe1f96daf50607e1d5f338a85e1d68/spa-10.vtt",
-                            "lang": "Spanish"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/12/127a55787d0ab79860d9a85c30813d91/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/76c126cbd08fddf819110fecd08884807fe5997569c0f8d936d1f969bd14887a63b13c9c7455b302320284503937b2900ef29172121fc4565399125142a1f89695249ad9c5b37ef51681fc5394734422e2286fc28ffc346b32d6678aeaf72e8143ec05b955b107d10b4685a16f425f327f387976c340c0807f2ee51c2b200df4/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www002.vipanicdn.net/streamhls/2454908ad9aa787e155d0db3f1ee72ce/ep.1.1677664364.m3u8"
@@ -58,9 +34,27 @@
         "downloadLink": {
             "SUBBED": "NDA1MzE="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/6e/fe/6efe1f96daf50607e1d5f338a85e1d68/eng-11.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/6e/fe/6efe1f96daf50607e1d5f338a85e1d68/fre-12.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/6e/fe/6efe1f96daf50607e1d5f338a85e1d68/por-9.vtt",
+                "lang": "Portuguese - Portuguese (Brazil)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/6e/fe/6efe1f96daf50607e1d5f338a85e1d68/spa-10.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/12/127a55787d0ab79860d9a85c30813d91/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

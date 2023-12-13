@@ -1,34 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "OVA",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/662aac4e61d35e171b797f9bbfce4785f65fca06aa3abce2fbc3f4e779207a8abe11378f717cfdc042e68fb8ce5fc7522a48255502f7c6fd9ad21b0737bbe8058fdbdd18382f4c0429bb898dd220ae5ba4764db2c39c8d4454f6b8e225e11d1c961015569fe1a7710b019dbbe78d8da2e2086f818fbd92e412cafb5b2f918767/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=fatekaleid-liner-prismaillya-ova-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/662aac4e61d35e171b797f9bbfce4785f65fca06aa3abce2fbc3f4e779207a8abe11378f717cfdc042e68fb8ce5fc7522a48255502f7c6fd9ad21b0737bbe8058fdbdd18382f4c0429bb898dd220ae5ba4764db2c39c8d4454f6b8e225e11d1c961015569fe1a7710b019dbbe78d8da2e2086f818fbd92e412cafb5b2f918767/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/96/9606f26ddd10831acfd5be9688a12c74/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/ed1fca275b22b9f253e4701181a8f0fc06b46b6a1442f8b9c22a7d566a9994657d4da695c15c059ac58623df088d344eb8303913f2749272ef8535e0b850d516aaf26b500d574c72bd707fe2ee41604c572f912f9d672a4ca6c04f7c3a1d9a88d8216419001754a8a34aaace61ce9fa2e6cc0e458d0cd6fc5fcf8aaa265992ee/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/96/9606f26ddd10831acfd5be9688a12c74/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/ed1fca275b22b9f253e4701181a8f0fc06b46b6a1442f8b9c22a7d566a9994657d4da695c15c059ac58623df088d344eb8303913f2749272ef8535e0b850d516aaf26b500d574c72bd707fe2ee41604c572f912f9d672a4ca6c04f7c3a1d9a88d8216419001754a8a34aaace61ce9fa2e6cc0e458d0cd6fc5fcf8aaa265992ee/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www004.vipanicdn.net/streamhls/c9bb7e1404013f2f032d682261f6c8c9/ep.1.1677660443.m3u8"
@@ -42,9 +34,11 @@
         "downloadLink": {
             "SUBBED": "NDIzOTM="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/96/9606f26ddd10831acfd5be9688a12c74/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

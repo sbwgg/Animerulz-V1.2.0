@@ -1,38 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/de7295a8b8f0e4b895c6aaf9fc25a9dc8da7279cbfca6f8cfa658f92e917bb29d01f2ea2f1f204c829362d17113951c99e306077d1c47440e9d4a11d6bf47f7cfca10d53fe128151cae5c2b033d3ba52f11213da5c5ffac1b55c0e7d4835270c03d1ebe13c2b1865d7eb8685aa982287e685f47976b7d6602ea9e0e8095f70a4/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=tokyo-ghoul-jack--episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/de7295a8b8f0e4b895c6aaf9fc25a9dc8da7279cbfca6f8cfa658f92e917bb29d01f2ea2f1f204c829362d17113951c99e306077d1c47440e9d4a11d6bf47f7cfca10d53fe128151cae5c2b033d3ba52f11213da5c5ffac1b55c0e7d4835270c03d1ebe13c2b1865d7eb8685aa982287e685f47976b7d6602ea9e0e8095f70a4/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/fc/fcce3613c928c400e56b0f86e01de3c3/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/3116486602b0d5c127f3441b6f907e7e4205c095558f8377c7fb6428162ec4492f1298f8d43a1ebd57b7d4a6551fec4a65a37ee0d436ef3931fb170abc283fb63c8d2a3df22d0d7c1b9e8f730211484b0992878da2229b7954caeb3db5a9287216330af325ba85fa573eb547c091cd850be84cbe72328a99072fc439c8e444cd/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/56/fc/56fca1a667f886d1e0b4d72b4297edbc/56fca1a667f886d1e0b4d72b4297edbc.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/fc/fcce3613c928c400e56b0f86e01de3c3/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/3116486602b0d5c127f3441b6f907e7e4205c095558f8377c7fb6428162ec4492f1298f8d43a1ebd57b7d4a6551fec4a65a37ee0d436ef3931fb170abc283fb63c8d2a3df22d0d7c1b9e8f730211484b0992878da2229b7954caeb3db5a9287216330af325ba85fa573eb547c091cd850be84cbe72328a99072fc439c8e444cd/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www025.vipanicdn.net/streamhls/b2b7750bf36a83b13cf8e04e12ae7957/ep.1.1677704353.m3u8"
@@ -46,9 +34,15 @@
         "downloadLink": {
             "SUBBED": "NjkyNjQ="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/56/fc/56fca1a667f886d1e0b4d72b4297edbc/56fca1a667f886d1e0b4d72b4297edbc.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/fc/fcce3613c928c400e56b0f86e01de3c3/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

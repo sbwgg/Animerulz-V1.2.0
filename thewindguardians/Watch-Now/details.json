@@ -1,26 +1,24 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/a82d24447e86308100edd73608ab8c5f0ca008fa59ceb6ed11d089ab47b0f8ee212ab98bcb527b78db10c828a72b1132c9840661418b5b9ba8d268c319660c6ff18211abed9638c220b97a38f4d6e731cfd8e6e523c89b3ee857466cf2b19fcb7f08e1d727aae42acca336446f1fd53c12d6c6c96a2be5bb530ae463d2dd2dcb/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www028.vipanicdn.net/streamhls/af53c3989833e55b163e929421e9f6da/ep.1.1677694736.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=feng-yu-zhou-episode-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/a82d24447e86308100edd73608ab8c5f0ca008fa59ceb6ed11d089ab47b0f8ee212ab98bcb527b78db10c828a72b1132c9840661418b5b9ba8d268c319660c6ff18211abed9638c220b97a38f4d6e731cfd8e6e523c89b3ee857466cf2b19fcb7f08e1d727aae42acca336446f1fd53c12d6c6c96a2be5bb530ae463d2dd2dcb/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/dc/dcb23dc90fc4657866baf560bd5f34bf/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -28,9 +26,11 @@
         "downloadLink": {
             "SUBBED": "MTIxNTU3"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/dc/dcb23dc90fc4657866baf560bd5f34bf/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

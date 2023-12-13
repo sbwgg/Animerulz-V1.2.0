@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/c58dcc61d9079ba0a5649519713daa4b4b3ff4606ef42a7cec9144f088c0b2a825d7a799a7a4c38b76f87acc7e3071677ec19ab5f4fdcbe0924d6b0596a1b440d0b55a1d7bcb4f6c8f90200f88ff895c36631babf54728706f79e4036b8c707e9ddfe7d1a3496d001e96c8a37ae2f0a323eecdbbe3dd7ac00aa358b517a5a0ca/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www025.vipanicdn.net/streamhls/4fbaff528541d732380c788c6bafc309/ep.1.1677809372.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=lupin-iii-babylon-no-ougon-densetsu-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/c58dcc61d9079ba0a5649519713daa4b4b3ff4606ef42a7cec9144f088c0b2a825d7a799a7a4c38b76f87acc7e3071677ec19ab5f4fdcbe0924d6b0596a1b440d0b55a1d7bcb4f6c8f90200f88ff895c36631babf54728706f79e4036b8c707e9ddfe7d1a3496d001e96c8a37ae2f0a323eecdbbe3dd7ac00aa358b517a5a0ca/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/09/09fe0e884c9007bb4cf1fc193145a69b/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/3940803f313d9991956a1ca5e920abe03f187ef5954238dbe29e22b234a54354c877aeb0dd182c5f536e3462b424b2b2c49fa9375e83a07a6ccede2962ece996756257c5aaa8b014d52f49e70e312109e272704e1903dd35148b82b9e124e5a442ddb66680bd53a9eaeb3c07fbecc81f4c6b489a52f8072e6eee00582ef11d4f/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/fd/a1/fda1680d0116dcbd734e8ffabe0f891a/eng-3.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/09/09fe0e884c9007bb4cf1fc193145a69b/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/3940803f313d9991956a1ca5e920abe03f187ef5954238dbe29e22b234a54354c877aeb0dd182c5f536e3462b424b2b2c49fa9375e83a07a6ccede2962ece996756257c5aaa8b014d52f49e70e312109e272704e1903dd35148b82b9e124e5a442ddb66680bd53a9eaeb3c07fbecc81f4c6b489a52f8072e6eee00582ef11d4f/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www024.vipanicdn.net/streamhls/51cd17bbe65359fc8ae81af18d9ed00c/ep.1.1677698853.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "MTI5NzE0",
             "SUBBED": "MTI5NzEz"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/fd/a1/fda1680d0116dcbd734e8ffabe0f891a/eng-3.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/09/09fe0e884c9007bb4cf1fc193145a69b/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

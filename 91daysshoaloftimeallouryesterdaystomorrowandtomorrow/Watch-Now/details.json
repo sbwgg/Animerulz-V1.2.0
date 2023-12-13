@@ -1,24 +1,18 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Special",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/31faa443ae7516c927fef5d4a4a9285eed0f6f0ed4fecfb46ff9d8637df10eb1500fbf01003dbd666210ab8024a5e5ad7ed7e6527e2e778683120d58226a245eb0fde499b16148df28f7caaf1d0f578b71e3907594a53fcbfdf3ec544f852b7aedd4052390cc9fc75f3fdf83ce0ed44b30c5fad3731eee4483131592f350219b/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/78/00/7800930eb50a88a1ba6cb7f953f4d564/ara-3.vtt",
-                            "lang": "Arabic"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/2a/2a4e1d8ea9996ada39eed46cc1b57609/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/31faa443ae7516c927fef5d4a4a9285eed0f6f0ed4fecfb46ff9d8637df10eb1500fbf01003dbd666210ab8024a5e5ad7ed7e6527e2e778683120d58226a245eb0fde499b16148df28f7caaf1d0f578b71e3907594a53fcbfdf3ec544f852b7aedd4052390cc9fc75f3fdf83ce0ed44b30c5fad3731eee4483131592f350219b/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www010.vipanicdn.net/streamhls/e70535bddb62a28ae5a025b25edf6c17/ep.1.1677674160.m3u8"
@@ -32,9 +26,15 @@
         "downloadLink": {
             "SUBBED": "MTAwNzc5"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/78/00/7800930eb50a88a1ba6cb7f953f4d564/ara-3.vtt",
+                "lang": "Arabic"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/2a/2a4e1d8ea9996ada39eed46cc1b57609/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

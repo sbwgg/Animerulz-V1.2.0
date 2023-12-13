@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/3c8484d8aa39a564442d6738c66bdfb8e2b9ddb030b8dcdc3327f30d307a8e2fb8fe93b3e8af7329c657f4ff47f7732b55291f124466f82d24a6310b9b14cfaae1600cf6fb238352c41ae0b631890743ab7c58e9decc8b4473c05bf65c785d5a81da00d31faa9f714b09486146f2423a012d06e5bca0c2cd893fbd669a65cb89/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www047.vipanicdn.net/streamhls/2f0dc3639037ea5bf29cf36d280ac32c/ep.1.1696412383.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=steinsgate-kyoukaimenjou-no-missing-link-divide-by-zero-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/3c8484d8aa39a564442d6738c66bdfb8e2b9ddb030b8dcdc3327f30d307a8e2fb8fe93b3e8af7329c657f4ff47f7732b55291f124466f82d24a6310b9b14cfaae1600cf6fb238352c41ae0b631890743ab7c58e9decc8b4473c05bf65c785d5a81da00d31faa9f714b09486146f2423a012d06e5bca0c2cd893fbd669a65cb89/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/4e/4e6333d89818f3384cde16c21ba53ab4/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/f0470672015d0a5727d12038002e45e75141188c273796de2d5313ee4cce0a037c3220d23967bbe1eb468f17a3401341ca6cf4aed501a7c08146966356bdd3b4fe7a8ba34142675d451a7d39868025c7e81601b9e5dd3f7922c1142def29ec06504ca7d261797dbdc49b1f5fcf5c393cb5f8aae32ad2e454cb5bea1c39332dfe/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/ca/73/ca73c7e154e3e31942ebddddda398f94/ca73c7e154e3e31942ebddddda398f94.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/4e/4e6333d89818f3384cde16c21ba53ab4/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/f0470672015d0a5727d12038002e45e75141188c273796de2d5313ee4cce0a037c3220d23967bbe1eb468f17a3401341ca6cf4aed501a7c08146966356bdd3b4fe7a8ba34142675d451a7d39868025c7e81601b9e5dd3f7922c1142def29ec06504ca7d261797dbdc49b1f5fcf5c393cb5f8aae32ad2e454cb5bea1c39332dfe/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www035.vipanicdn.net/streamhls/1c769952ecc47af4ec405cd61646e70b/ep.1.1677832980.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "MTYxMjI2",
             "SUBBED": "MTYxMjI0"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/ca/73/ca73c7e154e3e31942ebddddda398f94/ca73c7e154e3e31942ebddddda398f94.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/4e/4e6333d89818f3384cde16c21ba53ab4/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

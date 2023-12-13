@@ -1,45 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/2949a42def110b0a7a803ee3a30cff54cb0b91f954ed3f4bc2b58f10e4a7e2ea875dba5858e4e656b722dfbc3909a0072d70105640e07d7d6f5384bc5b49dfe70f394fac09eee8a57a388799bc74a68cada47c35c36b81f0d33f5c14d28845bb4a288f7f0615ce7125cd13bc64c42809aa12a35e0c66974bf1dca3bdd08a9db6/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www002.vipanicdn.net/streamhls/c1f02e4b838fe800c819b1aabfb7a0ab/ep.1.1677678801.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=riding-bean-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/2949a42def110b0a7a803ee3a30cff54cb0b91f954ed3f4bc2b58f10e4a7e2ea875dba5858e4e656b722dfbc3909a0072d70105640e07d7d6f5384bc5b49dfe70f394fac09eee8a57a388799bc74a68cada47c35c36b81f0d33f5c14d28845bb4a288f7f0615ce7125cd13bc64c42809aa12a35e0c66974bf1dca3bdd08a9db6/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/aa/06/aa06c85ea948976fcbb2715d3a952c94/aa06c85ea948976fcbb2715d3a952c94.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/92/92f012e4237bc6cb66033dfad8da8dae/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/a635c43456ac913e43fdc6a6e6ae5c752e69e7892454bbc75f975c06a88f45080f83a291c925200f5aa8109a3f5f2702a9aacc6daf6b0800f519e491069050358731fbf891910c75fb9f0a82d0c999c7c0d22e0d1f59f08438979e035b4bc2b3c4dc429a1e4a6caf3aaa0d84a7a453c239ba81aa703d088d50f0127a763937dc/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/be/3b/be3b11ce01415784390df11e00e4886a/be3b11ce01415784390df11e00e4886a.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/92/92f012e4237bc6cb66033dfad8da8dae/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/a635c43456ac913e43fdc6a6e6ae5c752e69e7892454bbc75f975c06a88f45080f83a291c925200f5aa8109a3f5f2702a9aacc6daf6b0800f519e491069050358731fbf891910c75fb9f0a82d0c999c7c0d22e0d1f59f08438979e035b4bc2b3c4dc429a1e4a6caf3aaa0d84a7a453c239ba81aa703d088d50f0127a763937dc/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www048.vipanicdn.net/streamhls/08ec886719dd9dc3351414b51495811f/ep.1.1677857096.m3u8"
@@ -54,9 +38,15 @@
             "DUBBED": "OTkzMDE=",
             "SUBBED": "MTM4OTk3"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/be/3b/be3b11ce01415784390df11e00e4886a/be3b11ce01415784390df11e00e4886a.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/92/92f012e4237bc6cb66033dfad8da8dae/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

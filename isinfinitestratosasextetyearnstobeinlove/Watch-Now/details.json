@@ -1,38 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/6563c1127172fcfeb742888ee06081944ae78b36c03040c6ff026b14bb90c2218f0be9b1c7c7622c0db713de588ee7dee26835c6bdb9383d991f401b79035802bdc6e79931df2723bd20d610cb74ad386bef5b85329901368447fa2080fb875cd78358533600c7d85db0e71ade42b6a1ebd645713061100187ea33284c2f8c01/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=infinite-stratos-ova-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/6563c1127172fcfeb742888ee06081944ae78b36c03040c6ff026b14bb90c2218f0be9b1c7c7622c0db713de588ee7dee26835c6bdb9383d991f401b79035802bdc6e79931df2723bd20d610cb74ad386bef5b85329901368447fa2080fb875cd78358533600c7d85db0e71ade42b6a1ebd645713061100187ea33284c2f8c01/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/c8/c8c1e769b3ef07066d643b8395f78c02/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/07ffba4fa41b4eb37f60d93c8c5aced23bb76dca56e30309ce47b70506d356e0d6a38e59ec166782851ae1b5b6bb570c276cb02e0d8218fa7d55ad4bb97ffda76eecb8bf1ce16c7ad6893331df0e7b9c57412c1a8d5657609f39aa1280a1b883790e83150db6441b724bee5af1397fae3d52700ff4847715fb960cd285cce1be/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/75/23/7523e2bc7eb7db55cfcb9e1ea671cbac/7523e2bc7eb7db55cfcb9e1ea671cbac.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/c8/c8c1e769b3ef07066d643b8395f78c02/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/07ffba4fa41b4eb37f60d93c8c5aced23bb76dca56e30309ce47b70506d356e0d6a38e59ec166782851ae1b5b6bb570c276cb02e0d8218fa7d55ad4bb97ffda76eecb8bf1ce16c7ad6893331df0e7b9c57412c1a8d5657609f39aa1280a1b883790e83150db6441b724bee5af1397fae3d52700ff4847715fb960cd285cce1be/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www010.vipanicdn.net/streamhls/4f439158b88673e373ad9fb6325b7254/ep.1.1677653416.m3u8"
@@ -46,9 +34,15 @@
         "downloadLink": {
             "SUBBED": "MTk4Mzk="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/75/23/7523e2bc7eb7db55cfcb9e1ea671cbac/7523e2bc7eb7db55cfcb9e1ea671cbac.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/c8/c8c1e769b3ef07066d643b8395f78c02/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

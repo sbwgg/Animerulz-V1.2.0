@@ -1,26 +1,24 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/06aae6e07f0a6a4a4b2a07cecf13b07401b7f81dda4023449db43a2902076a2ba724de623bb2be5534c10338e7ab919b2d35a70a87ebf26dc3581b179fcad6d785d654dde2b03abde268386833a545a5ee07a3bd385db24b42758c3aa2f35eba2cca9e543fd39f44db02c1a108740f1c82aa5fdcbbb1a4893e3b65400dc777e5/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www047.vipanicdn.net/streamhls/5389aac31c41f666f74840b623eb7741/ep.1.1697519259.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=kimetsu-no-yaiba-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/06aae6e07f0a6a4a4b2a07cecf13b07401b7f81dda4023449db43a2902076a2ba724de623bb2be5534c10338e7ab919b2d35a70a87ebf26dc3581b179fcad6d785d654dde2b03abde268386833a545a5ee07a3bd385db24b42758c3aa2f35eba2cca9e543fd39f44db02c1a108740f1c82aa5fdcbbb1a4893e3b65400dc777e5/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/89/89985eecb08e0c14b229c00a9535a36b/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
@@ -37,9 +35,11 @@
             "DUBBED": "MTMxNDk2",
             "SUBBED": "MTE2ODI1"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/89/89985eecb08e0c14b229c00a9535a36b/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

@@ -1,34 +1,24 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/f481aeefa837c9d748aa6e6b4c67a6c02c7cc9a308b078da094b131bceb05adb531f87d2bc3d378a12b6f4d14216c5f36e6aa8713bceb093bfa37885deb8ea0ac0fbc2a1fc60a8fe508a82801008b9c19866faf54ba9cfd1327c10914ee130bc035698a951b5d98de39100c9303e1005e92a4b2285781db273dd8ec294bd004c/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www036.vipanicdn.net/streamhls/579bec171d3633e7d679edeb17c37db1/ep.1.1677838190.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=santa-company-manatsu-no-merry-christmas-episode-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/f481aeefa837c9d748aa6e6b4c67a6c02c7cc9a308b078da094b131bceb05adb531f87d2bc3d378a12b6f4d14216c5f36e6aa8713bceb093bfa37885deb8ea0ac0fbc2a1fc60a8fe508a82801008b9c19866faf54ba9cfd1327c10914ee130bc035698a951b5d98de39100c9303e1005e92a4b2285781db273dd8ec294bd004c/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/da/8a/da8a4e1ca7f213a8e45c06fa3a661172/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://ccb.megaresources.co/da/8a/da8a4e1ca7f213a8e45c06fa3a661172/jpn-3.vtt",
-                            "lang": "Japanese"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/05/05867e2d861d7c8565f972a4e5ee3f46/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -36,9 +26,19 @@
         "downloadLink": {
             "SUBBED": "MTUxNjg1"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/da/8a/da8a4e1ca7f213a8e45c06fa3a661172/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/da/8a/da8a4e1ca7f213a8e45c06fa3a661172/jpn-3.vtt",
+                "lang": "Japanese"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/05/05867e2d861d7c8565f972a4e5ee3f46/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

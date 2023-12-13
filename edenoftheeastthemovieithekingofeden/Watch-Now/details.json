@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/2faaa103a5f8cac69a7f19f10a36f31ee8f5a1d4a8e85ae18a2bcb9fa094d239d9c5dcf68648fea2ff23817a985e762df7f823284c1d6545132fdb53b7762c00298cd9674af5e6f8a3ece309ea592d0716fb92c8a3fcbbc1704abf65a89eba25bdc54f5d7d5bf29cadb7d34cf3dfe99b938826abb317d4c4b375a26572f44130/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www011.vipanicdn.net/streamhls/5438681fc6b7834f6ae85ae96c7953fd/ep.1.1677692981.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=higashi-no-eden-movie-i-the-king-of-eden-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/2faaa103a5f8cac69a7f19f10a36f31ee8f5a1d4a8e85ae18a2bcb9fa094d239d9c5dcf68648fea2ff23817a985e762df7f823284c1d6545132fdb53b7762c00298cd9674af5e6f8a3ece309ea592d0716fb92c8a3fcbbc1704abf65a89eba25bdc54f5d7d5bf29cadb7d34cf3dfe99b938826abb317d4c4b375a26572f44130/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/b7/b79f9fa2e198ca56bd4ae0cf2741f85d/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/0e8956b7b6ff98d46d66905a0c32aa40c2f424c1f0b139f72478c8dc785d5448198e41800fb2a909c5a94ae69bc618239067a45de36e441740b836e6e0f011fe7b67c3b2ba967221a2603ac733861ffc21c9c4db18006d88c8c4655f0d061be5b78e00dcb52d12716fdd6386e824ab0c551c3a09a9d8be57bb2761a7aa88b4bc/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/bf/4f/bf4f90f4fbbbefa9339f76415bce91a2/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/b7/b79f9fa2e198ca56bd4ae0cf2741f85d/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/0e8956b7b6ff98d46d66905a0c32aa40c2f424c1f0b139f72478c8dc785d5448198e41800fb2a909c5a94ae69bc618239067a45de36e441740b836e6e0f011fe7b67c3b2ba967221a2603ac733861ffc21c9c4db18006d88c8c4655f0d061be5b78e00dcb52d12716fdd6386e824ab0c551c3a09a9d8be57bb2761a7aa88b4bc/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www017.vipanicdn.net/streamhls/a8bf3857833da6020cb2472e9cdac8f1/ep.1.1677662227.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "MTA3MDIw",
             "SUBBED": "NDI4NTY="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/bf/4f/bf4f90f4fbbbefa9339f76415bce91a2/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/b7/b79f9fa2e198ca56bd4ae0cf2741f85d/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

@@ -73,30 +73,24 @@
     },
     "5": {
         "intro": {
-            "start": 0,
-            "end": 123
+            "end": 123,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Episode 5",
         "source": {
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/e91cb5de160325c4ee6dcffe38e19b4e2e89ba6ba8cb337b33a02c457901fe1a4d840c648a4f01fba6a6dd5972f93028eb3756dc36a533d9db53f295d240a19e3abcaf8cfdc2cfadf5ab0d4ca5d80ccfba35fb06e398ba4b083c214865bcc1f559ad3e4636b19718cf88b4eb119003e9f9f791558139e516ab8ff2efc68dc6d3/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www047.vipanicdn.net/streamhls/f7b2b53b4b3ec588b0c95eebe69c8ab8/ep.5.1696412697.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=wanmei-shijie-episode-5"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/e91cb5de160325c4ee6dcffe38e19b4e2e89ba6ba8cb337b33a02c457901fe1a4d840c648a4f01fba6a6dd5972f93028eb3756dc36a533d9db53f295d240a19e3abcaf8cfdc2cfadf5ab0d4ca5d80ccfba35fb06e398ba4b083c214865bcc1f559ad3e4636b19718cf88b4eb119003e9f9f791558139e516ab8ff2efc68dc6d3/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/90/9e/909e029ae8dc36631049a019802f40f4/909e029ae8dc36631049a019802f40f4.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/ce/ce73384c91a9405501aa544de9b998cf/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -104,37 +98,37 @@
         "downloadLink": {
             "SUBBED": "MTYwNjA2"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/90/9e/909e029ae8dc36631049a019802f40f4/909e029ae8dc36631049a019802f40f4.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/ce/ce73384c91a9405501aa544de9b998cf/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     },
     "7": {
         "intro": {
-            "start": 0,
-            "end": 123
+            "end": 123,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Episode 7",
         "source": {
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/2cfbb22629dcf3e10240e077ca7ccb9112c9607867785039343c3a2784ff9f1cf0c3be3f4aaf1486b85b0c7240d5a6bf5c765e582f20b19bdc49fdd206fc1c86613d8d66dc00df4ba82f2fc3abbf737b611292cac0b63a138ec488518eef8dbf5706f1dd2ce9324181aad3ef31d42d86c9e919bd139ffaf10a5e9208c0354afe/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www002.vipanicdn.net/streamhls/f7b2b53b4b3ec588b0c95eebe69c8ab8/ep.6.1677607553.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=wanmei-shijie-episode-7"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/2cfbb22629dcf3e10240e077ca7ccb9112c9607867785039343c3a2784ff9f1cf0c3be3f4aaf1486b85b0c7240d5a6bf5c765e582f20b19bdc49fdd206fc1c86613d8d66dc00df4ba82f2fc3abbf737b611292cac0b63a138ec488518eef8dbf5706f1dd2ce9324181aad3ef31d42d86c9e919bd139ffaf10a5e9208c0354afe/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/c2/1e/c21e2cc7cd52eead9103eb6ee985f1ff/c21e2cc7cd52eead9103eb6ee985f1ff.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/65/65d44f939b58894cd3ae12a8eaaa0077/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -142,9 +136,15 @@
         "downloadLink": {
             "SUBBED": "MTYxMTMx"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/c2/1e/c21e2cc7cd52eead9103eb6ee985f1ff/c21e2cc7cd52eead9103eb6ee985f1ff.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/65/65d44f939b58894cd3ae12a8eaaa0077/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

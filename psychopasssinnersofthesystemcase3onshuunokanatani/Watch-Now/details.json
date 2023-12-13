@@ -1,38 +1,26 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/eb110ddbb47d4ed2b5b66a3fffa6f561b12f656812aca21d38efa4de46bb0e436b11decb3904739f2eb47f62d19771bd27f3bc0aa9ba4fd2b72ffdd7f153c31e04f935e4053e1f126354b1fcb6c5ff6433f71ba89d213cb0f7c386deb4d5438fb29bd0ad95363e8e23e04c85e20bf3076a2075b124ee4d7abdfd7e9f730d0f86/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=psycho-pass-sinners-of-the-system-case-3-onshuu-no-kanata-ni-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/eb110ddbb47d4ed2b5b66a3fffa6f561b12f656812aca21d38efa4de46bb0e436b11decb3904739f2eb47f62d19771bd27f3bc0aa9ba4fd2b72ffdd7f153c31e04f935e4053e1f126354b1fcb6c5ff6433f71ba89d213cb0f7c386deb4d5438fb29bd0ad95363e8e23e04c85e20bf3076a2075b124ee4d7abdfd7e9f730d0f86/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/81/81e531348464263bff9cd0ddad03954c/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/afb9f8cbacda09a0e304a926a077decfbfb5bed912fef7c6d81152241f0067c0fe766a6bfc6fd5280fb79eb4d6b91f2aa0fe85dd35bae7682fdf671baf3b47c50d267163e942ef8324ea278d2cf1cf6dce9719957e59c5793efa6a8d408a10816eaf45f6d1e86752284164791b6348256017d2003d9d84ceb7545548686accd0/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/04/28/04283703e2cb0e77c54634d25d937af1/04283703e2cb0e77c54634d25d937af1.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/81/81e531348464263bff9cd0ddad03954c/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/afb9f8cbacda09a0e304a926a077decfbfb5bed912fef7c6d81152241f0067c0fe766a6bfc6fd5280fb79eb4d6b91f2aa0fe85dd35bae7682fdf671baf3b47c50d267163e942ef8324ea278d2cf1cf6dce9719957e59c5793efa6a8d408a10816eaf45f6d1e86752284164791b6348256017d2003d9d84ceb7545548686accd0/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www024.vipanicdn.net/streamhls/804d3a53af1d84e769fc7c591b0a8759/ep.1.1677703742.m3u8"
@@ -46,9 +34,15 @@
         "downloadLink": {
             "SUBBED": "MTM5Njcz"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/04/28/04283703e2cb0e77c54634d25d937af1/04283703e2cb0e77c54634d25d937af1.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/81/81e531348464263bff9cd0ddad03954c/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

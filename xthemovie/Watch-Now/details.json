@@ -1,48 +1,32 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/519f553f541a363ac741f7ae74b6880a66983f01bdabf7c08b726a111de28dfb923ffed3acd867de47db7b90f1128eed4ffa703d4823bb703252a02a1c4bb0f74e337e42316378cd346bee8ddfa6f08cdfbecb02982f945606667cf1637205935d4c998894d2f4d39a034210dade48bb9e9b86ef1039c5c0a14376d1308203cd/master.m3u8"
+                },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=x1999-movie-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/519f553f541a363ac741f7ae74b6880a66983f01bdabf7c08b726a111de28dfb923ffed3acd867de47db7b90f1128eed4ffa703d4823bb703252a02a1c4bb0f74e337e42316378cd346bee8ddfa6f08cdfbecb02982f945606667cf1637205935d4c998894d2f4d39a034210dade48bb9e9b86ef1039c5c0a14376d1308203cd/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/f9/b5/f9b5cca7f1be2a6118cda83cbe5365fc/f9b5cca7f1be2a6118cda83cbe5365fc.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/e6/e62c0715b62fcbe5f19f85f642430bb8/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/80a7dff5a1ac0405886e962a5e3b7b7c0a4fb589e0cf44abe2e0cc3eea55df37e7037b3895fb9b283c61af7d7d6e7fc849e21491626a55f5bbaaec8b85e91679f43c042ea8e93bc9df1178dfb2dd24cfd2c66b4b86cd6d39559b650f6948f5a19af894beef49981f3bdb0e6282fd0f9a96c7efdd02e5135afd494e363afb9942/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www017.vipanicdn.net/streamhls/5bc0f03242be09b3f6aed9f76c36dbae/ep.1.1677661049.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=x1999-movie-episode-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/80a7dff5a1ac0405886e962a5e3b7b7c0a4fb589e0cf44abe2e0cc3eea55df37e7037b3895fb9b283c61af7d7d6e7fc849e21491626a55f5bbaaec8b85e91679f43c042ea8e93bc9df1178dfb2dd24cfd2c66b4b86cd6d39559b650f6948f5a19af894beef49981f3bdb0e6282fd0f9a96c7efdd02e5135afd494e363afb9942/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/26/9e/269e92ddcbfa4f5e757213118354b40c/269e92ddcbfa4f5e757213118354b40c.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/e6/e62c0715b62fcbe5f19f85f642430bb8/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -50,9 +34,15 @@
         "downloadLink": {
             "SUBBED": "NDAzMzY="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/26/9e/269e92ddcbfa4f5e757213118354b40c/269e92ddcbfa4f5e757213118354b40c.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/e6/e62c0715b62fcbe5f19f85f642430bb8/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

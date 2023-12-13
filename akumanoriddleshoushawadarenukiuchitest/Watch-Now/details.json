@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Special",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/cd24667e15ca1419fbe3f7b74645e9fc6c926d40ef43de0f32f56c0b5d810ed17eb7d6022abde542bc566c2e6551ada5c5355e120f55faa235f0b59e88d128194413939d8a99334ad6dbfb701aa382ddfe42680ea419c03f66f5435b795915e4a7b374b3c3fd0ee6d7732abd31e2542dd8aa90ca9a895626442f4f39b6c2bd02/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www047.vipanicdn.net/streamhls/90d6285becee3fa8851967519e4d7f26/ep.1.1696409674.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=akuma-no-riddle-shousha-wa-dare-nukiuchi-test-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/cd24667e15ca1419fbe3f7b74645e9fc6c926d40ef43de0f32f56c0b5d810ed17eb7d6022abde542bc566c2e6551ada5c5355e120f55faa235f0b59e88d128194413939d8a99334ad6dbfb701aa382ddfe42680ea419c03f66f5435b795915e4a7b374b3c3fd0ee6d7732abd31e2542dd8aa90ca9a895626442f4f39b6c2bd02/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/95/95a26ff65b4222b4b51844847f51092c/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/c9169d7ad312f6782b59ad411d32e5b572e325af2b19cc51c60fc31d70e23008ee66852630b62ee7505f6f703f8813cb670f1a5416bb630c5ad4f06295a69cb89ade5b304cd0a4ccbb8b0e5634f001376084b4a49c3b9825b86a8347e35487e8e2797ae88f73c3518d68a26536acc8c9c18da196653f15cb0de3cddddda6fce4/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/d8/3c/d83cd326dbc2e920d746a633e58f3742/d83cd326dbc2e920d746a633e58f3742.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/95/95a26ff65b4222b4b51844847f51092c/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/c9169d7ad312f6782b59ad411d32e5b572e325af2b19cc51c60fc31d70e23008ee66852630b62ee7505f6f703f8813cb670f1a5416bb630c5ad4f06295a69cb89ade5b304cd0a4ccbb8b0e5634f001376084b4a49c3b9825b86a8347e35487e8e2797ae88f73c3518d68a26536acc8c9c18da196653f15cb0de3cddddda6fce4/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www022.vipanicdn.net/streamhls/48b38c567ba5d5b917f8fa59d2a485aa/ep.1.1677665911.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "MTY2Mzg2",
             "SUBBED": "NDkxNjE="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/d8/3c/d83cd326dbc2e920d746a633e58f3742/d83cd326dbc2e920d746a633e58f3742.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/95/95a26ff65b4222b4b51844847f51092c/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

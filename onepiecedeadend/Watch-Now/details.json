@@ -1,30 +1,24 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "Full",
         "source": {
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/36600036bd687e81ae3886a4aaabc27356ea4a905f4cd8a2e1d95c37f3e439ff4486a6ff245bfe170edcbc1c5d1e027e723a14ed79ac3beb5ae59f2b12891d608499db99d103f542f83c265373db327e623530905d5c97025f0e4fc948c2fa24e51bb45ec3211272cc2e2dbe18c56dfdf8e96815f0288c6310b4ba56907bf9aa/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www015.vipanicdn.net/streamhls/d2cef8284607bcc3b5fdf2b6ac083fc7/ep.1.1677620928.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=one-piece-movie-4-dead-end-adventure-episode-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/36600036bd687e81ae3886a4aaabc27356ea4a905f4cd8a2e1d95c37f3e439ff4486a6ff245bfe170edcbc1c5d1e027e723a14ed79ac3beb5ae59f2b12891d608499db99d103f542f83c265373db327e623530905d5c97025f0e4fc948c2fa24e51bb45ec3211272cc2e2dbe18c56dfdf8e96815f0288c6310b4ba56907bf9aa/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/bb/97/bb9711d7968fa255d05dc8acb9ca26d2/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/77/77216412e2f9d23e369abd8963ae80aa/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             }
         },
@@ -32,9 +26,15 @@
         "downloadLink": {
             "SUBBED": "NDA1NDQ="
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/bb/97/bb9711d7968fa255d05dc8acb9ca26d2/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/77/77216412e2f9d23e369abd8963ae80aa/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }

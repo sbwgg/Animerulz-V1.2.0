@@ -1,41 +1,29 @@
 {
     "1": {
         "intro": {
-            "start": 0,
-            "end": 0
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
         },
         "title": "OVA",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/9e0bffc9ce53ab16d707fdd3d25b3c79b9d59eb8fefc3c7635279b96849e9d8664241742341bbbcd916adae4f3699e8eb077f627cb230d078129ce7094e50bb940ffbae3d8aaf672f77ee1e5dc09829568a8eb8538b04a64e84839dd22cb34d36b00da1358c9f8b55021d0ce9946899a97863ddf5abcd18219bdb6e3399bb638/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www050.vipanicdn.net/streamhls/8b182596838900c75e58383e8cb79220/ep.1.1677854383.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=naruto-honoo-no-chuunin-shiken-naruto-vs-konohamaru-episode-dub-1"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/9e0bffc9ce53ab16d707fdd3d25b3c79b9d59eb8fefc3c7635279b96849e9d8664241742341bbbcd916adae4f3699e8eb077f627cb230d078129ce7094e50bb940ffbae3d8aaf672f77ee1e5dc09829568a8eb8538b04a64e84839dd22cb34d36b00da1358c9f8b55021d0ce9946899a97863ddf5abcd18219bdb6e3399bb638/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/ba/ba93157a2a5bdedd11283f5f0c19f4c9/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
                 }
             },
             "SUBBED": {
                 "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/2c94ccd752c95017fa1ec27b99089a5aac24efa463f834f3390ed1c8e409a64e24e7e63822a92a01c4bc7f2a20e9c654b31f02ee632dfcc969457738f5e844cd7ccf263273e6dc12dcff20bc7f37839bb000c76c7e4390d5a26fd45a9b4bcab5e6c9b7cb349cbc84aa3327926ffde0290ff15e0b3ef201b48d06f30fdd54e932/master.m3u8",
-                    "captions": [
-                        {
-                            "url": "https://ccb.megaresources.co/a5/cf/a5cf46cfba05a8a1c036f4d07e0b6d4b/eng-2.vtt",
-                            "lang": "English"
-                        },
-                        {
-                            "url": "https://imgb.megaresources.co/_a_preview/ba/ba93157a2a5bdedd11283f5f0c19f4c9/thumbnails/sprite.vtt",
-                            "lang": "Thumbnails"
-                        }
-                    ]
+                    "link": "https://eno.tendoloads.com/_v6/2c94ccd752c95017fa1ec27b99089a5aac24efa463f834f3390ed1c8e409a64e24e7e63822a92a01c4bc7f2a20e9c654b31f02ee632dfcc969457738f5e844cd7ccf263273e6dc12dcff20bc7f37839bb000c76c7e4390d5a26fd45a9b4bcab5e6c9b7cb349cbc84aa3327926ffde0290ff15e0b3ef201b48d06f30fdd54e932/master.m3u8"
                 },
                 "Vid Streaming": {
                     "link": "https://www029.vipanicdn.net/streamhls/42dbdbd85659a488cb32c0723d5eca39/ep.1.1677693726.m3u8"
@@ -50,9 +38,15 @@
             "DUBBED": "MTU5ODk5",
             "SUBBED": "MTIyNjM4"
         },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/a5/cf/a5cf46cfba05a8a1c036f4d07e0b6d4b/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/ba/ba93157a2a5bdedd11283f5f0c19f4c9/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ]
     }
 }
