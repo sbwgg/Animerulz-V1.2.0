@@ -545,31 +545,23 @@ function setActiveServers(presentAudio, presentEpisode, server = 'Vid Streaming'
                 if(subDub.hasOwnProperty(presentAudio)){
                     if(server == 'Vid Streaming'){
                         let activeServerLink = data[presentEpisode].source[subDub[presentAudio]][server].link;
-                        let intro = data[presentEpisode].intro;
-                        let outro = data[presentEpisode].outro;
-                        videoPlayer.innerHTML = '<video style="height:100%;width:100%" controls crossorigin="anonymous" playsinline></video>';
-                        setHlsPlayer(activeServerLink, intro, outro);
-                    }else if(server == 'Vid Cloud'){
-                        let activeServerLink = data[presentEpisode].source[subDub[presentAudio]][server].link;
-                        let captionsTracks = data[presentEpisode].captions;
                         let tracksHtml = '';
-                        let isDefault = 1;
-                        let defaultOrNot = 'default';
-                        for(let i = 0; i < captionsTracks.length; i ++){
-                            if(isDefault != 1)
-                                defaultOrNot = ''
-                            let trackLang = captionsTracks[i].lang;
-                            if(trackLang == 'English')
-                                tracksHtml += `<track kind="captions" label="${trackLang}" srclang="en" src="${captionsTracks[i].url}" ${defaultOrNot}/>`;
-                            else 
-                                tracksHtml += `<track kind="captions" label="${trackLang}" src="${captionsTracks[i].url}" ${defaultOrNot}/>`;
-                            captionsTracks[i].kind = 'captions'
-                            isDefault = 0
+                        if(presentAudio == 'eng'){
+                            let tracks = data[presentEpisode].captions;
+                            tracksHtml = getCaptionsTracks(tracks);
                         }
                         let intro = data[presentEpisode].intro;
                         let outro = data[presentEpisode].outro;
                         videoPlayer.innerHTML = `<video style="height:100%;width:100%" controls crossorigin="anonymous" playsinline>${tracksHtml}</video>`;
-                        setHlsPlayer(activeServerLink, intro, outro, captionsTracks);
+                        setHlsPlayer(activeServerLink, intro, outro);
+                    }else if(server == 'Vid Cloud'){
+                        let activeServerLink = data[presentEpisode].source[subDub[presentAudio]][server].link;
+                        let tracks = data[presentEpisode].captions;
+                        let tracksHtml = getCaptionsTracks(tracks);
+                        let intro = data[presentEpisode].intro;
+                        let outro = data[presentEpisode].outro;
+                        videoPlayer.innerHTML = `<video style="height:100%;width:100%" controls crossorigin="anonymous" playsinline>${tracksHtml}</video>`;
+                        setHlsPlayer(activeServerLink, intro, outro, tracks);
                     }else if(server == 'Awesome Stream'){
                         let activeServerLink = data[presentEpisode].source[subDub[presentAudio]][server].link;
                         videoPlayer.innerHTML = ` <iframe src="${activeServerLink}"
@@ -721,7 +713,7 @@ function changeAutoSkipIntro(control){
     }
 }
 
-function setHlsPlayer(source, intro, outro, captionsTracks=false){
+function setHlsPlayer(source, intro, outro, tracks=false){
     let isIntro = false;
     let isOutro = false;
     let introStart, introEnd, outroStart, outroEnd;
@@ -774,12 +766,12 @@ function setHlsPlayer(source, intro, outro, captionsTracks=false){
         // ];
 
         // Attach Plyr captions configuration
-        if(captionsTracks){
+        if(tracks){
             defaultOptions.captions = {
                 active: true,
                 update: true,
                 language: 'en', // Default language
-                tracks: captionsTracks,
+                tracks: tracks,
             };
         }
         // wFrom the m3u8 playlist, hls parses the manifest and returns
@@ -1048,4 +1040,68 @@ function backwardTenSec(){
     if(video.currentTime > 9)
         video.currentTime -= 10;
     else video.currentTime = 0;
+}
+
+function getCaptionsTracks(tracks){
+    let tracksHtml = '';
+    let languageCodes = {
+        "English": "en",
+        "Spanish": "es",
+        "French": "fr",
+        "German": "de",
+        "Chinese (Simplified)": "zh-CN",
+        "Chinese (Traditional)": "zh-TW",
+        "Japanese": "ja",
+        "Korean": "ko",
+        "Russian": "ru",
+        "Arabic": "ar",
+        "Hindi": "hi",
+        "Portuguese": "pt",
+        "Bengali": "bn",
+        "Urdu": "ur",
+        "Turkish": "tr",
+        "Italian": "it",
+        "Dutch": "nl",
+        "Swedish": "sv",
+        "Polish": "pl",
+        "Indonesian": "id",
+        "Vietnamese": "vi",
+        "Thai": "th",
+        "Greek": "el",
+        "Hebrew": "he",
+        "Czech": "cs",
+        "Hungarian": "hu",
+        "Finnish": "fi",
+        "Norwegian": "no",
+        "Danish": "da",
+        "Romanian": "ro",
+        "Bulgarian": "bg",
+        "Malay": "ms",
+        "Filipino": "fil",
+        "Slovak": "sk",
+        "Slovenian": "sl",
+        "Latvian": "lv",
+        "Lithuanian": "lt",
+        "Estonian": "et",
+        "Albanian": "sq",
+        "Macedonian": "mk",
+        "Serbian": "sr",
+        "Croatian": "hr",
+        "Bosnian": "bs",
+        "Montenegrin": "me",
+        "Maltese": "mt",
+        "Icelandic": "is",
+        "Irish": "ga",
+        "Welsh": "cy",
+        "Luxembourgish": "lb",
+        "Esperanto": "eo"
+      }      
+    for(let i = 0; i < tracks.length; i ++){
+        let trackLang = tracks[i].lang.split(" ")[0];
+        let languageCode = languageCodes[trackLang]
+        if(!languageCode)
+            languageCode = ''
+        tracksHtml += `<track kind="captions" label="${trackLang}" srclang="${languageCode}" src="${tracks[i].url}"/>`;
+    }
+    return tracksHtml;
 }
