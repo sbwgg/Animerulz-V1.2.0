@@ -9,6 +9,18 @@ html,body{
     font-family: 'Montserrat',Arial;
     -webkit-text-size-adjust: none;
 }
+.ad-unit{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.adsbygoogle{
+  width: fit-content;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 1500px;
+}
 .main-container,.more-from-this-anime,.recommendations,.more-season-anime-container__,.addthis_inline_share_toolbox,.anime-trailer, .latest-dubbed-animes, .continue-watching-division, .bottom-data-container,.genres_div_, .bottom-content-data___{
   max-width: 1500px;
   margin-left: auto;
@@ -3192,4 +3204,14 @@ body{
     .text-data{
         display: block !important;
     }
+}
+
+.search-container .search-results-container__ .head-section-trending-search_ .head-seaction-txt-search, .search-container .search-results-container__ .head-search-container_ .txt-head-search-container_ {
+  font-weight: 600;
+  color: #faa300;
+  font-size: 20px;
+}
+.search-container .search-results-container__ .search-results-trending-container__, .search-container .search-results-container__ .recent-searches-txt-container__ {
+  padding: 10px 1%;
+  flex-direction: column;
 }
