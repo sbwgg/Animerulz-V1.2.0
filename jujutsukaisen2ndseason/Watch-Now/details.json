@@ -1269,6 +1269,9 @@
         "title": "Right and Wrong",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/11098264d03b7c3777efb566a04261c3f70b5c066cde23953bee07c421f069d9348ef856eac1bdb423f1de6e9a6809a54887e856d3aa0b22558b6a35231c47e129674fab66e9a62342f21b381b3e0adb17ff1a3854435fc8f45aca25079b824f5ee28e3d6465ac354cc6818a01a125e283be301e94669baff54b45abc23b40e2/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www001.vipanicdn.net/streamhls/28afe59d8c7c52f5b55f1d08fdb61867/ep.18.1702000597.m3u8"
                 },
@@ -1313,6 +1316,14 @@
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/a835e7ca10b40cb6a825def21439ca73468c50960ba1d767b9bbec572f6d644d1ea016091944d4b520258b040b574e540754a835ab41b768d04d068c705cea4705ab6d0673d3240a26c59cc576dbd5924607634d75a233da048c8257fa8226eab8dafbfb0dbc24d32ee116ac2afb2fe3e4233788d22da4ba8cbe201c9d390946/master.m3u8"
                 }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www044.vipanicdn.net/streamhls/28afe59d8c7c52f5b55f1d08fdb61867/ep.19.1702605013.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=jujutsu-kaisen-2nd-season-dub-episode-19"
+                }
             }
         },
         "captions": [
@@ -1325,11 +1336,76 @@
                 "lang": "Thumbnails"
             }
         ],
-        "isFiller": false
+        "isFiller": false,
+        "downloadLink": {
+            "DUBBED": "MjE3MDgz"
+        }
     },
     "20": {
+        "intro": {
+            "end": 394,
+            "start": 306
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
+        },
         "title": "Right and Wrong, Part 3",
-        "source": {},
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/da7d05714b0b4a603e4716625d692375c64e6b95a577431e840ee541629d833705775f948f3925f1e6db7cc8cf3f1ed30378698a791b455063704e3b38268e224516af945412831e4ea57686f8e206ff3ddd81e560043eb34296e4f4a624eb1ffc8cffa06e21b74b94445d2a0201720029c9f374b87de44ae37fbc4b2a56cdd5/master.m3u8"
+                }
+            }
+        },
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/a7/a1/a7a1cc4a5bea05242fb1c9673d092c6c/a7a1cc4a5bea05242fb1c9673d092c6c.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/95/95e53d2830c6aee94b49583f1a89b1bb/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ],
         "isFiller": false
+    },
+    "21": {
+        "intro": {
+            "end": 308,
+            "start": 219
+        },
+        "outro": {
+            "end": 1404,
+            "start": 1315
+        },
+        "title": "Metamorphosis",
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/cbdc1717eabf0e18833fb0577da423b8e400a23fb7a5a3a11798f5748af8e0dc58ff4a935229c090f6e16e901ad6238fdf09a4e9d070bfea743a12124a433f64baef23b21a07cbb7f70ec712d0ab0e5ccddfc10eab4035d4d37da497eca27392e4116f8a225b7bc5c57e1303fcb5ad68f67f6e67bad9511ef13540b1aa3db220/master.m3u8"
+                },
+                "Vid Streaming": {
+                    "link": "https://www047.vipanicdn.net/streamhls/31014405f62933f3613ce2ec15abf3c4/ep.21.1702578924.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=jujutsu-kaisen-2nd-season-episode-21"
+                }
+            }
+        },
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/1e/8c/1e8c068775479eed1d7437b4a13733ec/1e8c068775479eed1d7437b4a13733ec.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/cb/cbddb67e634e23af3a31f378b0fa450c/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ],
+        "isFiller": false,
+        "downloadLink": {
+            "SUBBED": "MjE3MDQ2"
+        }
     }
 }

@@ -706,10 +706,20 @@
         }
     },
     "11": {
-        "intro": null,
+        "intro": {
+            "end": 123,
+            "start": 34
+        },
+        "outro": {
+            "end": 1414,
+            "start": 1325
+        },
         "title": "Belgrieve's Decision",
         "source": {
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/82f1cedb1541a4245ab26659c04a68005acfbadab84cadcf7b7ae22483f17e243bcd5f802a51154b93bff8b5b021cc1f6d36a6338543915d190684b074a17396b3e3d79a1f587193bd1b7aa960111dc90ff145fe2ae64b40a1fe2ac5a79ce6549af84d71ea23a919c4d2768378b711b8c7981e8cfb0e296fadca8c416354ced3/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www006.vipanicdn.net/streamhls/3d62d7bcda0b31cbdabf4012b736fb12/ep.11.1701963589.m3u8"
                 },
@@ -718,10 +728,90 @@
                 }
             }
         },
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/88/ba/88ba896cdf97b275cef7c2d28c41fa28/ara-6.vtt",
+                "lang": "Arabic"
+            },
+            {
+                "url": "https://ccb.megaresources.co/88/ba/88ba896cdf97b275cef7c2d28c41fa28/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/88/ba/88ba896cdf97b275cef7c2d28c41fa28/fre-7.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/88/ba/88ba896cdf97b275cef7c2d28c41fa28/ger-8.vtt",
+                "lang": "German"
+            },
+            {
+                "url": "https://ccb.megaresources.co/88/ba/88ba896cdf97b275cef7c2d28c41fa28/ita-9.vtt",
+                "lang": "Italian"
+            },
+            {
+                "url": "https://ccb.megaresources.co/88/ba/88ba896cdf97b275cef7c2d28c41fa28/por-3.vtt",
+                "lang": "Portuguese - Portuguese(Brazil)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/88/ba/88ba896cdf97b275cef7c2d28c41fa28/rus-10.vtt",
+                "lang": "Russian"
+            },
+            {
+                "url": "https://ccb.megaresources.co/88/ba/88ba896cdf97b275cef7c2d28c41fa28/spa-5.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/88/ba/88ba896cdf97b275cef7c2d28c41fa28/spa-4.vtt",
+                "lang": "Spanish - Spanish(Latin_America)"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/e5/e5f5ffae6afbd643164ff05314fa5372/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ],
         "idFiller": false,
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MjE2Njgw"
+        }
+    },
+    "12": {
+        "intro": {
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
+        },
+        "title": "Episode 12",
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/ba1e9060de339d9ef579fade0e18e2b9225e73630a81ea0c28fe776dc4da8e38304ac90ba7ea5d818e5bba117bb037635c3cb49b46faa07018a4c8cf400777af83b9dbcc67ec690f587504e810c346bd271ff6c83d987a5982c7057a791bf56cb6e236baf9b8d00a8e4f6e5b84fbe020d0eeac2835895aa9776ad3b148e567ae/master.m3u8"
+                },
+                "Vid Streaming": {
+                    "link": "https://www009.vipanicdn.net/streamhls/3d62d7bcda0b31cbdabf4012b736fb12/ep.12.1702569075.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=boukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-s-rank-ni-natteta-episode-12"
+                }
+            }
+        },
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/b2/22/b22267bfe8118142bc66bdfae7bac9f4/b22267bfe8118142bc66bdfae7bac9f4.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/c2/c2bf334c0b4734ad3172b6117a3f8818/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ],
+        "isFiller": false,
+        "downloadLink": {
+            "SUBBED": "MjE3MDQz"
         }
     }
 }

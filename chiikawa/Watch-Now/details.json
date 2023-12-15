@@ -2590,10 +2590,20 @@
         }
     },
     "69": {
-        "intro": null,
-        "title": "episode-69",
+        "intro": {
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
+        },
+        "title": "Episode 69",
         "source": {
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/1e57320589933a57bf5fd5346cbf8cc26ed58d89449a3e0a78dba2dcc5026fd84f73f4bc26536c78777cad8a563440cb5dea2639e0394ea63abf6b6fbecc0e72b73406824d3bee7dc723671beced6a881d43d8427538b50757f0db82a3f0af243ba4bf513d9c98493791a7495957645e59e7d699cb9ed5b978c04513b6884295/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www049.vipanicdn.net/streamhls/87bdc69ae12f8197af33563fc18fc429/ep.69.1701972431.m3u8"
                 },
@@ -2602,9 +2612,37 @@
                 }
             }
         },
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/11/19/11192f2432d23d391be2c7ee09eae1c5/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/08/08da9b82e076b84ee9f7c3aeadf2a693/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ],
         "idFiller": false,
+        "isFiller": false,
         "downloadLink": {
             "SUBBED": "MjE2Njk4"
+        }
+    },
+    "70": {
+        "title": "episode - 70",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www005.vipanicdn.net/streamhls/87bdc69ae12f8197af33563fc18fc429/ep.70.1702577449.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=chiikawa-episode-70"
+                }
+            }
+        },
+        "downloadLink": {
+            "SUBBED": "MjE3MDc1"
         }
     }
 }
