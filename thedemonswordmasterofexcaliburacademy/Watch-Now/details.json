@@ -398,20 +398,16 @@
         "title": "The Goddess' Voice",
         "source": {
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/5c183490198c92eb1d63e3163df631667992f49c5993e3a319e01ddb708da0a906d13ca76bad2bc2aa0003126bf6c8765ab3aeee667fb8e25410cf0685f1ecf12c0a5a597fdda9618d3ff12efb8e188e32e2c7149a46f004362db686c3ba38247cc26bbc5724a50e6eae3f655a0e9a9834470ae49e828d62f8dd855b196148ae/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www048.vipanicdn.net/streamhls/6ea8321a227087caf71a04bc9ea852b9/ep.11.1702324894.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=seiken-gakuin-no-makentsukai-episode-11"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/5c183490198c92eb1d63e3163df631667992f49c5993e3a319e01ddb708da0a906d13ca76bad2bc2aa0003126bf6c8765ab3aeee667fb8e25410cf0685f1ecf12c0a5a597fdda9618d3ff12efb8e188e32e2c7149a46f004362db686c3ba38247cc26bbc5724a50e6eae3f655a0e9a9834470ae49e828d62f8dd855b196148ae/master.m3u8"
                 }
             }
-        },
-        "isFiller": false,
-        "downloadLink": {
-            "SUBBED": "MjE2ODk3"
         },
         "captions": [
             {
@@ -422,18 +418,35 @@
                 "url": "https://imgb.megaresources.co/_a_preview/60/60e40cea6b8570e1d6adc7ad9f0a9913/thumbnails/sprite.vtt",
                 "lang": "Thumbnails"
             }
-        ]
+        ],
+        "isFiller": false,
+        "downloadLink": {
+            "SUBBED": "MjE2ODk3"
+        }
     },
     "12": {
+        "intro": {
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
+        },
+        "title": "The Truth Behind The Demon Sword",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/10447926a777bc380bf2f6bc08558dbe7013dfd7850f9508792877b90dc6d630279e32987b81c362f02824216af6117b004b3ae3b3e4a5ea1a06f4b870907867bb73c160a95feb7930592fea60e9f7866f8bb848fa10b0068d33c50e7bf91e12f682c930501f66c98fc0207459284afb9d976d6081d157ddc32ca5ae5706fda3/master.m3u8"
+                },
+                "Vid Streaming": {
+                    "link": "https://www002.vipanicdn.net/streamhls/6ea8321a227087caf71a04bc9ea852b9/ep.12.1702673131.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=seiken-gakuin-no-makentsukai-episode-12"
                 }
             }
         },
-        "title": "The Truth Behind The Demon Sword",
-        "isFiller": false,
         "captions": [
             {
                 "url": "https://ccb.megaresources.co/91/0e/910e0fe247718cf95bab698f2f76afc3/910e0fe247718cf95bab698f2f76afc3.vtt",
@@ -444,13 +457,9 @@
                 "lang": "Thumbnails"
             }
         ],
-        "intro": {
-            "start": 0,
-            "end": 0
-        },
-        "outro": {
-            "start": 0,
-            "end": 0
+        "isFiller": false,
+        "downloadLink": {
+            "SUBBED": "MjE3MTQ0"
         }
     }
 }

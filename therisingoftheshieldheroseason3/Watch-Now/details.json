@@ -549,6 +549,9 @@
         "title": "Dragon's Den",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/ae5745924acb955b5d22e6dd42bc54a1dc4fe90c94dd23aec316cdd1364948ae11a3615c5d1a7195171a81736d1cfdc3a4827d174c72fbaee7e180f59e96b851e97d2cf4ce52462e775d9b68e78addca1f89bc728032b1c8add862b71eb965a9f50ee9ed1016349b14a7fbe93417620ec67ef1f1dc8c4ab88b25b61b245af653/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www001.vipanicdn.net/streamhls/7233e0b961f3905af77ade4830168f0e/ep.8.1702086174.m3u8"
                 },
@@ -624,6 +627,14 @@
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/547a93f64086c4cf48e9798e2c02e58772c6760d7b528b608295ce51e051646c77bd5896f069a9f695b66efbd6e3d138b761ceadcf556f09bfc298ac42350ee0da57334816b740f33e240b75f4ed32ba9e94beedff972c0c6333b3ae7aa74a343eb014c4ae6b2a0f93c8a4b25c29f5ddbc0cbf30c0c2af615fea2dbe25ebaff6/master.m3u8"
                 }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www005.vipanicdn.net/streamhls/7233e0b961f3905af77ade4830168f0e/ep.9.1702690587.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tate-no-yuusha-no-nariagari-season-3-dub-episode-9"
+                }
             }
         },
         "captions": [
@@ -668,7 +679,10 @@
                 "lang": "Thumbnails"
             }
         ],
-        "isFiller": false
+        "isFiller": false,
+        "downloadLink": {
+            "DUBBED": "MjE3MTQ3"
+        }
     },
     "10": {
         "intro": {
@@ -732,10 +746,20 @@
         "isFiller": false
     },
     "11": {
-        "title": "episode - 11",
-        "isFiller": false,
+        "intro": {
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
+        },
+        "title": "Episode 11",
         "source": {
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/2a6ce9c3bd1657651be8191bdc4870fdbbe7fd45d2346c223d5547e15788da545e631d2c631ce300b6ae22749f542171aa52800a17a9d1a502cbf988f8e95ca0913c1fc7f53ad7145a97ada150438b5374a4bc968e43328b13d5927f5aee6c2decf4e4f53d358044c14430f5e16dd975aaa854910d3ee1568bb744792dc31a67/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www009.vipanicdn.net/streamhls/22081f9a60b54bd04a3b1c0031bd1d4d/ep.11.1702645656.m3u8"
                 },
@@ -744,6 +768,17 @@
                 }
             }
         },
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/bb/8a/bb8a32ac534edea95b9f9ee78835af71/bb8a32ac534edea95b9f9ee78835af71.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/d9/d9e9d7288f6c87b899f45bcda6bb3f45/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ],
+        "isFiller": false,
         "downloadLink": {
             "SUBBED": "MjE3MTMz"
         }

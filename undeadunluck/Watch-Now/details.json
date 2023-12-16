@@ -11,6 +11,9 @@
         "title": "Undead and Unluck",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/99e0adbee849673bae54d0319fec5e972b62f323e8693c238a2094aca44d3a4f3c04fa8911ca74b3b7df4b7fdcca0362af26b88fef0059183b85058d83a7f31f8bdb9b42dc02933db8a6c8a316cc7674a9e7da6aee4e8b996f4ceaf824b87aad3df574911c6b93cbfa04e2feec64220bdfe31b1015ece82d373c7f5261fa65ab/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www002.vipanicdn.net/streamhls/830538dfdaa6632a9b9e1bbe26cb5aa7/ep.1.1702473546.m3u8"
                 },
@@ -385,5 +388,43 @@
             }
         ],
         "isFiller": false
+    },
+    "11": {
+        "intro": {
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
+        },
+        "title": "Rio de Janeiro",
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/d7910a379966b891a0c946cbc63c5de8080845c3337ff55599f6de5febad92f90d987466844544a6cc7e1e1095ce49b9e5d64eacbc440162de854e633833a413f7e54477cec75e04f5ffe581cd24f28bff1913cb43790646a6f47dbaa925f8439153341ac622f864e8722ed0d2571c21a0e9e3b2693580909210779a3ea2fd4f/master.m3u8"
+                },
+                "Vid Streaming": {
+                    "link": "https://www001.vipanicdn.net/streamhls/5d32f9cbeb3dcf6a5e89c760318a9ef9/ep.11.1702670506.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=undead-unluck-episode-11"
+                }
+            }
+        },
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/1d/8f/1d8f30b62d6032fed4a48e9f4682cea7/1d8f30b62d6032fed4a48e9f4682cea7.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/a4/a4877161d5dc69af5146063bfd0083ea/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ],
+        "isFiller": false,
+        "downloadLink": {
+            "SUBBED": "MjE3MTQz"
+        }
     }
 }

@@ -409,6 +409,9 @@
         "title": "Heart of Darkness",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/9fb1fdcb41528876bea72991917fb681c8687e084ae31d9658cd13336f9896a2b9d18768afcb73c7ffdab1f80dc03af0fa62128dbfaa45700bce04bd8a5f0976b00d1c5296144ce5ced684f9f12181061b8be64d9fab35b8fa4ec5ed928229891fe4f0948556089b41a1777bd37753c6dd7d68b700157b2a6bc6b63066c091e5/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www044.vipanicdn.net/streamhls/282d509e6cbcbaeb08ce8277c8c5c824/ep.8.1702085043.m3u8"
                 },
@@ -464,6 +467,14 @@
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/9f070431decb95ecfc66cbfcea960819e359d0fe651defbce5d12ec1dd339f08e0a81e3c8494bc08e5a154686be48ede05f8c6ca7a3525fa75505b6fd2c8ab145ff7e24eba213ccf5a7c10e5850aeb395ad0c911323cfb2a14a43ed7207242b2d9c473533a58ba7cd0ac12f197d2fe7ef2f397f4e01ae40dbbfeac8be8359007/master.m3u8"
                 }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www047.vipanicdn.net/streamhls/282d509e6cbcbaeb08ce8277c8c5c824/ep.9.1702690603.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=goblin-slayer-ii-dub-episode-9"
+                }
             }
         },
         "captions": [
@@ -488,7 +499,10 @@
                 "lang": "Thumbnails"
             }
         ],
-        "isFiller": false
+        "isFiller": false,
+        "downloadLink": {
+            "DUBBED": "MjE3MTQ2"
+        }
     },
     "10": {
         "intro": {
@@ -530,5 +544,43 @@
             }
         ],
         "isFiller": false
+    },
+    "11": {
+        "intro": {
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
+        },
+        "title": "The Princess's Ordeal",
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/9c210acb3de8bcbe6aa6122efadffd0a3d3c2489d7ea295b3e49fd78128e154f695f823dc312355a3fd1bc4a2ee088144dc87f9034fb97e2ccfe152fb6c3fa97e7dab1e1da599f2118710b740b848e5799c20c6cbaacd38570fdc81f923819ed69573cd28b04b58349584acb73b67b6a9d27fe257ef64aa7d482852ea39fba0c/master.m3u8"
+                },
+                "Vid Streaming": {
+                    "link": "https://www002.vipanicdn.net/streamhls/aca3be220f104b59aee4017a6812afd8/ep.11.1702654330.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=goblin-slayer-ii-episode-11"
+                }
+            }
+        },
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/6c/e1/6ce16ce28d138eec2e22a522d97a41c5/6ce16ce28d138eec2e22a522d97a41c5.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/53/53337499effd4eaf7dee91b3cd6aaec6/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ],
+        "isFiller": false,
+        "downloadLink": {
+            "SUBBED": "MjE3MTM1"
+        }
     }
 }

@@ -545,6 +545,9 @@
         "title": "Coronation",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/dd27d6d80760dfacec3e15a04a1403a991733bd94bc9ffd67ef3ad5be640c5b0da31d855c05acda4e86a6fb90d474c493841466532de74c96845ebd69e6df94e66fd1611e88c2d3e5090a6ed41067abd0ebf4776800201afc8c44bf55ba039445af918d03ff7bbc62afe911b07f74785ead0f67d22d0e17a85ef53c51805cc4c/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www002.vipanicdn.net/streamhls/148923e367f2367331c01265ac060e66/ep.8.1702132666.m3u8"
                 },
@@ -675,7 +678,7 @@
             "end": 1452,
             "start": 1362
         },
-        "title": "Episode 10",
+        "title": "The Eyes That Were Lost",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
@@ -726,5 +729,43 @@
             }
         ],
         "isFiller": false
+    },
+    "11": {
+        "intro": {
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
+        },
+        "title": "Episode 11",
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/4a47942c7aff85399908f4324e1ef61dd3deeff3cb2d8febddf66fa1b3f7e194b828400e4980735944f763077c4caa882d7e5d525a61d5d6b76c208e22bcf43db94784d6ad04925d3bc335c230d48d17cc918a7e9c930817f9da9adddb834674a748d6f96223b79b6000f6e1dbda3451f8db2146d448729d0354909e6e5ecc72/master.m3u8"
+                },
+                "Vid Streaming": {
+                    "link": "https://www043.vipanicdn.net/streamhls/0f959692cc001934116073821f78fc5c/ep.11.1702669411.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=hametsu-no-oukoku-episode-11"
+                }
+            }
+        },
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/23/dc/23dcb65185fb4c2cc0ff8d2cf57599ed/23dcb65185fb4c2cc0ff8d2cf57599ed.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/18/18044d18466044205dff4bac9ae2e4d9/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ],
+        "isFiller": false,
+        "downloadLink": {
+            "SUBBED": "MjE3MTQy"
+        }
     }
 }
