@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,700,900');
-.slide-container h2{
+.slide-container h2, .bottom-container h2{
   font-family:  'Poppins', sans-serif;
 }
 /* body{
@@ -26,7 +26,7 @@
 }
 .nav-bar{
   background-color: rgba(0,0,0,0.7);
-  display: block;
+  /* display: block; */
   /* position: absolute; */
   margin-top: 0px;
   /* z-index: 2; */
@@ -68,7 +68,7 @@ a{
   /* fill: #faa300; */
 }
 .bottom-container{
-  width: 98%;
+  width: 100%;
   margin-left: auto;
   margin-right: auto;
 }
@@ -235,7 +235,7 @@ a{
   }
 }
 .animes-in-trending,.container-best-on-imdb,.anime-in-container-most-viewed{
-  width: 98%;
+  width: 100%;
   margin-left: auto;
   margin-right: auto;
   transition: all 1s;
@@ -786,12 +786,18 @@ a{
 .medium-txt{
   font-size: 15px;
 }
+.large-txt-t{
+  font-size: 18px;
+}
 @media only screen and (max-width:750px){
   .small-txt{
     font-size: 11px;
   }
   .medium-txt{
     font-size: 12px;
+  }
+  .large-txt-t{
+    font-size: 15px;
   }
 }
 .view-more-cartoons{
@@ -828,4 +834,16 @@ a{
   .new-cartoons-section .cartoons-data{
     grid-template-columns: 1fr;
   }
+}
+
+
+.anchor-d-a{
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  transition: all 0.5s;
+}
+.anchor-d-a:hover{
+  /* width: 100%; */
+  gap: 15px;
 }
