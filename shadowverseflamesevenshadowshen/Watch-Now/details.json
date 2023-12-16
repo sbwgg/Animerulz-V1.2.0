@@ -1440,10 +1440,20 @@
         }
     },
     "22": {
-        "intro": null,
-        "title": "episode-22",
+        "intro": {
+            "end": 227,
+            "start": 155
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
+        },
+        "title": "Our Battle Is Just Getting Started!",
         "source": {
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/c38f6851c6919063699e8979e31ed8f071fcc756d01e1d47e3a3d712dd5bd14084ead2f57003273155c155f40979ba35d2eacf528c906a2a7448672a830659bf9be3b55793af8330c76ccbe219a6a39ddfd161c77e439a159f0eec97cbd4c41b0c0d41c9ac55e9c555e0b1b7049af598574964471b7b2dc59bcb53252f5bce00/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www046.vipanicdn.net/streamhls/17244d78c136230267084d77de222c91/ep.22.1701490058.m3u8"
                 },
@@ -1452,7 +1462,50 @@
                 }
             }
         },
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/6d/ba/6dba774a514af7f2de6a1b80111f95d7/ara-6.vtt",
+                "lang": "Arabic"
+            },
+            {
+                "url": "https://ccb.megaresources.co/6d/ba/6dba774a514af7f2de6a1b80111f95d7/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/6d/ba/6dba774a514af7f2de6a1b80111f95d7/fre-7.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/6d/ba/6dba774a514af7f2de6a1b80111f95d7/ger-8.vtt",
+                "lang": "German"
+            },
+            {
+                "url": "https://ccb.megaresources.co/6d/ba/6dba774a514af7f2de6a1b80111f95d7/ita-9.vtt",
+                "lang": "Italian"
+            },
+            {
+                "url": "https://ccb.megaresources.co/6d/ba/6dba774a514af7f2de6a1b80111f95d7/por-3.vtt",
+                "lang": "Portuguese - Portuguese(Brazil)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/6d/ba/6dba774a514af7f2de6a1b80111f95d7/rus-10.vtt",
+                "lang": "Russian"
+            },
+            {
+                "url": "https://ccb.megaresources.co/6d/ba/6dba774a514af7f2de6a1b80111f95d7/spa-5.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/6d/ba/6dba774a514af7f2de6a1b80111f95d7/spa-4.vtt",
+                "lang": "Spanish - Spanish(Latin_America)"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/54/5411fcd2c2755bdffde6cd983401d106/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ],
         "idFiller": false,
+        "isFiller": false,
         "downloadLink": {
             "SUBBED": "MjE2NDE1"
         }
@@ -1513,5 +1566,43 @@
             }
         ],
         "isFiller": false
+    },
+    "24": {
+        "intro": {
+            "end": 144,
+            "start": 53
+        },
+        "outro": {
+            "end": 1401,
+            "start": 1360
+        },
+        "title": "I`ll Save Everyone!",
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/1504532abe215fdefdca6a77c3f77a380e96ec1b28c0326c061a2c46d34af4cf3e0b7a6cba61897db74a99f9f869ee2e7cfc27e2e1ce3cd24d819dec770ac2716aa72ada73a3bcb3b3da7ff2e4035b1eff71041ed2a2de1e3027a0d81745f3f78c7e0a4b058fb20862181cac5c036efe9f922621be89c88a8eafc484e2e5b620/master.m3u8"
+                },
+                "Vid Streaming": {
+                    "link": "https://www002.vipanicdn.net/streamhls/17244d78c136230267084d77de222c91/ep.24.1702699533.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=shadowverse-flame-seven-shadows-hen-episode-24"
+                }
+            }
+        },
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/30/7a/307a7201a40fa7c9cfc26229975089a9/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/ab/ab3538533073171d065632810c5884db/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ],
+        "isFiller": false,
+        "downloadLink": {
+            "SUBBED": "MjE3MTUz"
+        }
     }
 }
