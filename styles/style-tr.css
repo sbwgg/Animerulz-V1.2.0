@@ -23,7 +23,7 @@ nav{
 .top-container-tr h1{
     font-family:  'Poppins', sans-serif;
     font-size: 28px;
-    padding: 0;
+    padding: 0 !important;
 }
 @media only screen and (max-width:800px){
     .top-container-tr h1 {
@@ -37,9 +37,6 @@ nav{
 }
 a{
     all: unset;
-}
-header{
-    display: flex;
 }
 /* .fa-solid{
     color: #faa300;
@@ -235,7 +232,7 @@ header{
 .sub-container-l-tr h1{
     color: rgba(255,255,255);
 }
-h1.main-heading-tr::after{
+/* h1.main-heading-tr::after{
     content: "";
     display: block;
     height: 2px;
@@ -247,7 +244,7 @@ h1.main-heading-tr::after{
     animation-delay: 0;
     transition: all 10s ease;
     transform-origin: left;
-}
+} */
 @keyframes growIn {
     from{
         width: 5%;
@@ -663,4 +660,10 @@ h1.main-heading-tr::after{
     .left-container-upcoming .upcoming-anime-container_{
       grid-template-columns: repeat(2, 1fr);
     }
+  }
+  .des-h1{
+    font-size: 14px;
+    color: #faa300;
+    display: block;
+    padding-bottom: 10px;
   }
