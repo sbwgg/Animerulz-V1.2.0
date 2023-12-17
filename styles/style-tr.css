@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,700,900');
 nav{
     position: static !important; 
 }
@@ -20,7 +21,9 @@ nav{
     padding: 0px 10px;
 }
 .top-container-tr h1{
+    font-family:  'Poppins', sans-serif;
     font-size: 28px;
+    padding: 0;
 }
 @media only screen and (max-width:800px){
     .top-container-tr h1 {
@@ -422,6 +425,9 @@ h1.main-heading-tr::after{
     flex-direction: column;
     gap: 10px;
 }
+.sub-container-r-tr .anime-items-dub-r a{
+    min-height: 120px;
+}
 .sub-container-r-tr .anime-items-div-dub-r{
     padding: 10px 0;
 }
@@ -617,7 +623,7 @@ h1.main-heading-tr::after{
   }
 .genres-div .all-genres-btn a:hover i{
     font-size: 18px;
-    margin-top: -1px;
+    /* margin-top: -1px; */
     margin-left: 2px;
   }
   
