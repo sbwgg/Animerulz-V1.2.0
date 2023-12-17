@@ -547,6 +547,9 @@
         "title": "The Land of Flowers",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/f78f7aff5193ff886b9dd12675785b513710c1c75039953ed6d1a8665c71285d420cbdfaa042479f597b55ecde33d39a67cfe375ccc858a9a282aed357aacc6f422abd8a40a5456b3ba0483016c34daba004a75e17d74055a4af55daf41d6ca0babc2f71811f991d6bb797e3e2ee6638cf1c06a6519c682c954c3f9fc5e403a0/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www008.vipanicdn.net/streamhls/4d73b568361f02482c02601e3b6365e3/ep.8.1702176762.m3u8"
                 },
@@ -728,5 +731,47 @@
             }
         ],
         "isFiller": false
+    },
+    "11": {
+        "intro": {
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
+        },
+        "title": "Episode 11",
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/f2dbae1ee50f905c5799ae23ad0ec0d8f35c15e618842033357313117cd9ef7c3b4e962b8479a542122fa2377d5d17cd169b27c65840087e1d8c68b65cb1d83f7659363550ce64d0e394a77ea00cd8e350f874dcf30bb5c4f33e081e599e110d8c874ed53c932dd8650a5889892c91e8d282fa8f21fb769716d37b70b318b9c2/master.m3u8"
+                },
+                "Vid Streaming": {
+                    "link": "https://www042.vipanicdn.net/streamhls/e5d374654ba4a3a903bb2575940cd25b/ep.11.1702755945.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=saihate-no-paladin-tetsusabi-no-yama-no-ou-episode-11"
+                }
+            }
+        },
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/a0/a2/a0a2a3aacf2321e115be4a31c2366021/a0a2a3aacf2321e115be4a31c2366021.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/a3/ce/a3ceb556cd65e8714cf1759224c30812/eng-0.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/35/356e8966ab59e187daace3d6e6bf1735/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ],
+        "isFiller": false,
+        "downloadLink": {
+            "SUBBED": "MjE3MTgx"
+        }
     }
 }
