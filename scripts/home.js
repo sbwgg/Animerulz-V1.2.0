@@ -21,11 +21,12 @@ function setContinueWatchingContainer(){
                            <i class="fa-regular fa-circle-play"></i>
                         </div>
                      </div>
-                     <div class="anime-data-continue-watching__">
-                        <div class="anime-info-continue-watching">
-                           <div class="anime-episodes-count__">
+                     <div class="anime-episodes-count__">
                               <span>Episode-${animeEpisodeNumberForHome}</span>
                            </div>
+                     <div class="anime-data-continue-watching__">
+                        <div class="anime-info-continue-watching">
+                           
                            <div class="anime-name-cont-watching__">
                               <h3>${animeNameForHome}</h3>
                            </div>
@@ -34,7 +35,7 @@ function setContinueWatchingContainer(){
                   </a>
                </div>`;
                counteR ++;
-               if(counteR === 5){
+               if(counteR === 6){
                   break;
                }
         }
