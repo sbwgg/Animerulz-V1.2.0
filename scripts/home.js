@@ -21,11 +21,12 @@ function setContinueWatchingContainer(){
                            <i class="fa-regular fa-circle-play"></i>
                         </div>
                      </div>
-                     <div class="anime-data-continue-watching__">
-                        <div class="anime-info-continue-watching">
-                           <div class="anime-episodes-count__">
+                     <div class="anime-episodes-count__">
                               <span>Episode-${animeEpisodeNumberForHome}</span>
                            </div>
+                     <div class="anime-data-continue-watching__">
+                        <div class="anime-info-continue-watching">
+                           
                            <div class="anime-name-cont-watching__">
                               <h3>${animeNameForHome}</h3>
                            </div>
@@ -34,7 +35,7 @@ function setContinueWatchingContainer(){
                   </a>
                </div>`;
                counteR ++;
-               if(counteR === 5){
+               if(counteR === 6){
                   break;
                }
         }
@@ -62,3 +63,35 @@ function rearrangeAnimes(index){
    continueWatchingData.push(changePositionOf);
    localStorage.setItem("continueWatching", JSON.stringify(continueWatchingData));
 }
+
+const scrollLeft = (event) => {
+   let targetId = event.target.getAttribute('scroll-id');
+   let targetDiv = document.getElementsByClassName("animes-in-container-dubbed")[targetId];
+   targetDiv.getElementsByClassName("anime-dubbed__")[3].scrollIntoViewIfNeeded({behavior: 'smooth'});
+
+   document.getElementsByClassName('right-scroll')[targetId].style.display = 'flex';
+   document.getElementsByClassName('left-scroll')[targetId].style.display = 'none';
+}
+const scrollRight =  (event) => {
+   let targetId = event.target.getAttribute('scroll-id');
+   let targetDiv = document.getElementsByClassName("animes-in-container-dubbed")[targetId];
+   targetDiv.getElementsByClassName("anime-dubbed__")[0].scrollIntoViewIfNeeded({behavior: 'smooth'});
+
+   document.getElementsByClassName('right-scroll')[targetId].style.display = 'none';
+   document.getElementsByClassName('left-scroll')[targetId].style.display = 'flex';
+}
+
+try{
+   let scrollLeftElements = document.querySelectorAll(".scroll-left");
+   for(let i = 0 ; i < scrollLeftElements.length; i ++)
+      scrollLeftElements[i].addEventListener('click', scrollLeft)
+}
+catch{}
+
+
+try{
+   let scrollRightElement = document.querySelectorAll(".scroll-right");
+   for(let i = 0; i < scrollRightElement.length; i ++)
+      scrollRightElement[i].addEventListener('click', scrollRight)
+}
+catch{}
