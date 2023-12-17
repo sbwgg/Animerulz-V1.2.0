@@ -296,10 +296,14 @@ a{
   /* margin: 0 5px; */  
 }
 }
+@media only screen and (max-width:1800px){
+  h2{
+  margin-inline: 10px;
+  }
+}
 @media only screen and (max-width:550px){
   h2{
     font-size: 18px;
-    margin-left: 10px;
   }
 .anime-in-trending{
   min-width: 120px;
@@ -836,14 +840,63 @@ a{
   }
 }
 
+.container-latest-dubbed-animes{
+  position: relative;
+}
+.scroll-btns-container{
+  position: absolute;
+  width: 40px;
+  height: 100%;
+  z-index: 3;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.scroll-btns-container.right-scroll{
+  left: 10px;
+  display: none;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0));
+}
+.scroll-btns-container.left-scroll{
+  right: 10px;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.2));
+}
+@media only screen and (min-width:800px){
+  .scroll-btns-container.left-scroll{
+    display: none !important;
+  }
+  .scroll-btns-container.right-scroll{
+    display: none  !important;
+  }
+}
+.scroll-btns-container .scroll-btn{
+  padding: 8px 10px;
+  border-radius: 100%;
+  background-color: rgba(255,255,255,0.6);
+}
+
 
 .anchor-d-a{
   display: flex;
-  gap: 10px;
+  gap: 5px;
+  justify-content: space-between;
   align-items: center;
   transition: all 0.5s;
+  padding-right: 10px;
 }
 .anchor-d-a:hover{
-  /* width: 100%; */
-  gap: 15px;
+  gap: 10px;
+}
+.header-in-trending{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.anime-more-data-container-dubbbed__ .center-image{
+  margin-top: -150px;
+}
+@media only screen and (max-width:800px){
+  .anime-more-data-container-dubbbed__ .center-image{
+    margin-top: -50px;
+  } 
 }
