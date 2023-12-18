@@ -12,13 +12,12 @@
 .latest-dubbed-animes,.addthis_inline_share_toolbox, .continue-watching-division{
   max-width: 1800px !important;
   }
-.slider,.img-in-slide,.active-slide,.gradient-division-1,.gradient-division-2{
+.slider,.img-in-slide,.active-slide,.gradient-division-1,.gradient-division-2, .l-a-a{
   margin: 0;
   padding:0;
   max-width: 1800px;
   scroll-behavior: smooth;
-  margin-left: auto;
-  margin-right: auto;
+  margin-inline: auto;
   font-family: 'Montserrat',Arial;
   -webkit-text-size-adjust: none;
   width: 100%;
@@ -899,4 +898,41 @@ a{
   .anime-more-data-container-dubbbed__ .center-image{
     margin-top: -50px;
   } 
+}
+
+.timer-continue-watching{
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.timer-info-continue-watching{
+  display: flex;
+  justify-content: space-between;
+}
+.timings-info-continue-watching{
+  display: flex;
+  gap: 5px;
+}
+.time-progression-continue-watching{
+  height: 3px;
+  width: 100%;
+  position: relative;
+}
+.indicator-time{
+  height: 100%;
+  position: absolute;
+}
+.full-time-continue-watching{
+  width: 100%;
+  z-index: 0;
+  background-color: rgba(255, 255, 255, 0.4);
+}
+.prev-time-continue-watching{
+  z-index: 1;
+  background-color: #faa300;
+}
+.anime-data-continue-watching__{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
