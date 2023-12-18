@@ -1,10 +1,65 @@
 const pageType = document.getElementsByTagName("html")[0].getAttribute('page-type');
-
-
+function setNotification(){
+    let div = document.createElement('div');
+    div.setAttribute('class', 'notification-pop-up');
+    div.innerHTML = `<div class="notification-div">
+                    <div class="notification-content padding-20">
+                    <div class="n-a">
+                        <div class="close-n-a padding-20 color-white-n cursor-pointer" onclick="closeNotification()">
+                            <i class="fa-solid fa-x"></i>
+                        </div>
+                        <div class="data-n-a">
+                            <div class="head-n-a color-white n-c">
+                                <span class="m-font"><strong>#Newly Added on Animerulz</strong></span>
+                            </div>
+                            <div class="img-data-n-a">
+                                <img class="n-c" src="https://m.media-amazon.com/images/M/MV5BZGFiMWFhNDAtMzUyZS00NmQ2LTljNDYtMmZjNTc5MDUxMzViXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_QL75_UY562_CR7,0,380,562_.jpg" alt="Naruto Shippuden">
+                            </div>
+                            <div class="info-data-n-a">
+                                <div class="n-b">
+                                <span class="huge-font color-o">
+                                    <b>Naruto Shippuden Hindi Telugu Tamil Malayalam Dub [Crunchyroll]</b>
+                                </span>
+                                </div>
+                                <div class="n-b-a-a">
+                                <ul class="g-n-b s-font color-white-n">
+                                    <li class="item-n-b dot-right"><span>Action</span></li>
+                                    <li class="item-n-b dot-right"><span>Adventure</span></li>
+                                    <li class="item-n-b dot-right"><span>Comedy</span></li>
+                                    <li class="item-n-b dot-right"><span>Supernatural</span></li>
+                                    <li class="item-n-b"><span>Drama</span></li>
+                                </ul>
+                                </div>
+                                <div class="n-b-a">
+                                <div class="btns btns-n-a color-black">
+                                    <a class="a-n-a a-n-a-details align-center cursor-pointer m-font" href="/narutoshippuden">
+                                        More Details<i class="fa-solid fa-arrow-right"></i>
+                                    </a>
+                                    <a class="a-n-a a-n-a-watch align-center cursor-pointer m-font" href="/narutoshippuden/Watch-Now/">
+                                        <i class="fa-solid fa-circle-play"></i>Watch Now
+                                    </a>
+                                </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    </div>
+                </div>`
+    document.querySelector('body').prepend(div);
+}
+function closeNotification(){
+    document.querySelector(".notification-pop-up").style.display = 'none';
+    localStorage.setItem("isNotificationShowed", true);
+}
+// if(!localStorage.getItem('isNotificationShowed'))
+//     setTimeout(setNotification, 3000);
 setTimeout(preloaderDisplayNone, 1000);
 window.addEventListener("load", function(){
-    if(pageType != 'a-main' && pageType != 'b-sub' && pageType != 'home')
+    console.log('innnnnnnnnn');
+    if(pageType != 'a-main' && pageType != 'b-sub' && pageType != 'home'){
         setMoreMenu();
+        setSearchContainer();
+    }
     preloaderDisplayNone();
     setAnimesInTrendingHover();
 });
@@ -16,6 +71,62 @@ window.addEventListener("load", function(){
         }
         catch{}
     }
+
+function setSearchContainer(){
+    document.querySelector('.search-container').innerHTML = `
+    <div class="main-search-container">
+         <div class="data-in-search-container">
+            <div class="header__">
+               <div class="header-data__">
+                  <div class="search-back__" onclick="hideSearchBox()">
+                     <div class="search-icon-back__">
+                     <svg class="icon-back-search__" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M9.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.2 288 416 288c17.7 0 32-14.3 32-32s-14.3-32-32-32l-306.7 0L214.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z"/></svg>
+                     </div>
+                     <div class="header-txt__">
+                        <span>Search anime</span>
+                     </div>
+                  </div>
+                  <div class="input-div__">
+                     <div class="search-box-icon__">
+                        <svg class="svg-search-icon__" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path id="search-icon___" fill-rule="evenodd" clip-rule="evenodd" d="M9.5 17c1.71 0 3.287-.573 4.55-1.537l4.743 4.744a1 1 0 0 0 1.414-1.414l-4.744-4.744A7.5 7.5 0 1 0 9.5 17zM15 9.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/></svg> 
+                     </div>
+                     <input autocomplete="off" autofocus="on" type="search" placeholder="type to search..." id="input-box__" class="input-box__">
+                  </div>
+               </div>
+            </div>
+            <div class="search-results-container__">
+               <div class="recent-searches-txt-container__">
+                  <div class="head-section-trending-search_">
+                     <span class="head-seaction-txt-search">Recent Searches</span>
+                  </div>
+                  <div class="trending-search-data">
+                     <ul class="list-search-trending"></ul>
+                  </div>
+               </div>
+               <div class="search-results-trending-container__">
+                  <div class="head-section-trending-search_">
+                     <span class="head-seaction-txt-search">Trending Searches</span>
+                  </div>
+                  <div class="trending-search-data">
+                     <ul class="list-search-trending"></ul>
+                  </div>
+               </div>
+               <div class="anilist-search-container">
+                  <div class="head-search-container_">
+                     <span class="txt-head-search-container_">Search Results</span>
+                  </div>
+                  <div class="search-anilist-data">
+                     <div class="anilist-result-contanier-data__">
+                        <ul class="anilist-search-data-list"></ul>
+                        <div class="more-results-sec"></div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+    `
+}
 function setMoreMenu(){
     document.getElementsByClassName("more-menu")[0].innerHTML = `
     
@@ -266,9 +377,9 @@ function setMoreMenu(){
 
 
 //for  clearing continue watching data
-if(localStorage.clearContinueWatching1 == undefined){
-    localStorage.clear("continueWatching");
-    localStorage.setItem("clearContinueWatching1", "True");
+if(localStorage.clearContinueWatching5 == undefined){
+    localStorage.removeItem("continueWatching");
+    localStorage.setItem("clearContinueWatching5", "True");
 }
 //for scroller to top
 const scrollDivToTop_ = document.getElementsByClassName("scroll-to-top-div")[0];
@@ -395,6 +506,8 @@ setTimeout(setAnimeInWatchList, 500);
 
 function addAnimeToList(){
     let watchListButton = document.getElementsByClassName("button-read-manga")[0];
+    watchListButton.textContent = "View Watch List";
+    watchListButton.setAttribute("onclick", "window.open('https://animerulz.in/watchlist/', '_self')");
     let notificationContainer = document.createElement('div');
     notificationContainer.setAttribute("class", "pop-up-watch-list-notification");
     notificationContainer.innerHTML = `
@@ -402,9 +515,6 @@ function addAnimeToList(){
       <span>Anime Added to Watch List</span>
    </div>`;
     document.getElementsByTagName("body")[0].appendChild(notificationContainer);
-    // notificationContainer.style.opactiy = "1 !important";
-    watchListButton.textContent = "View Watch List";
-    watchListButton.setAttribute("onclick", "window.open('https://animerulz.in/watchlist/', '_self')");
     let animeLink = window.location.href;
     let animeName = document.getElementsByTagName("h1")[0].textContent;
     let animeImageUrl = document.getElementsByClassName("image-in-container-image-div")[0].getAttribute("src");
