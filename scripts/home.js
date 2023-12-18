@@ -1,16 +1,27 @@
 const continueWatchingContainer = document.getElementsByClassName("continue-watching-division")[0];
 const continueWatchingData1 = localStorage.continueWatching;
-const continueWatchingData = JSON.parse(continueWatchingData1);
 
 
-function setContinueWatchingContainer(){
+function setContinueWatchingContainer(continueWatchingData){
     
     if(continueWatchingData.length != 0){
         let tempData = "";
         let counteR = 0;
         for(let i = continueWatchingData.length - 1; i >= 0; i --){
             let animeNameForHome = continueWatchingData[i].animeName;
-            let animeEpisodeNumberForHome = localStorage.getItem(animeNameForHome.replace(/[^a-zA-Z0-9]/g, "").toLowerCase() + '-last-clicked-episode');
+            let newName = animeNameForHome.replace(/[^a-zA-Z0-9]/g, "")
+            let tempName = newName.toLowerCase();
+            let animeEpisodeNumberForHome = localStorage.getItem(newName.toLowerCase() + '-last-clicked-episode');
+            let animePrevTime = Number(localStorage.getItem(`${tempName.toLowerCase()}-prev-time`)).toFixed(0);
+            let fullVideoTime = Number(localStorage.getItem(`${tempName.toLowerCase()}-full-time`)).toFixed(0);
+            let animePrevTimeMinutes = (animePrevTime / 60).toFixed(0) - 1;
+            animePrevTimeMinutes  = animePrevTimeMinutes < 10 ? 0 + `${animePrevTimeMinutes}` : animePrevTimeMinutes;
+            let animePrevTimeSeconds = animePrevTime % 60;
+            animePrevTimeSeconds = animePrevTimeSeconds < 0 ? 0 + `${animePrevTimeSeconds}` : animePrevTimeSeconds;
+            let fullVideoTimeMinutes = (fullVideoTime / 60).toFixed(0) - 1;
+            let fullVideoTimeSeconds = fullVideoTime % 60;
+            fullVideoTimeSeconds = fullVideoTimeSeconds < 10 ? 0 + `${fullVideoTimeSeconds}` : fullVideoTimeSeconds;
+            let prevIndicatorWidth = (animePrevTime / fullVideoTime) * 100;
             if(!animeEpisodeNumberForHome){
                animeEpisodeNumberForHome = 1;
             }
@@ -21,14 +32,27 @@ function setContinueWatchingContainer(){
                            <i class="fa-regular fa-circle-play"></i>
                         </div>
                      </div>
-                     <div class="anime-episodes-count__">
-                              <span>Episode-${animeEpisodeNumberForHome}</span>
-                           </div>
                      <div class="anime-data-continue-watching__">
                         <div class="anime-info-continue-watching">
                            
                            <div class="anime-name-cont-watching__">
                               <h3>${animeNameForHome}</h3>
+                           </div>
+                        </div>
+                        <div class="timer-continue-watching small-txt">
+                           <div class="timer-info-continue-watching">
+                              <div class="episode-number-continue-watching color-white-n">
+                                 <span>Ep-${animeEpisodeNumberForHome}</span>
+                              </div>
+                              <div class="timings-info-continue-watching">
+                                 <div class="prev-time color-o">${animePrevTimeMinutes}:${animePrevTimeSeconds}</div>
+                                 <div class="divider-time color-white-n"><span>/</span></div>
+                                 <div class="full-time color-white-n">${fullVideoTimeMinutes}:${fullVideoTimeSeconds}</div>
+                              </div>
+                           </div>
+                           <div class="time-progression-continue-watching">
+                              <div class="full-time-continue-watching indicator-time"></div>
+                              <div class="prev-time-continue-watching indicator-time" style="width:${prevIndicatorWidth}%"></div>
                            </div>
                         </div>
                      </div>
@@ -54,8 +78,10 @@ function setContinueWatchingContainer(){
     }
 }
 
-if(localStorage.continueWatching)
-   setContinueWatchingContainer();
+if(localStorage.continueWatching){
+   const continueWatchingData = JSON.parse(continueWatchingData1);
+   setContinueWatchingContainer(continueWatchingData);
+}
 
 function rearrangeAnimes(index){
    let changePositionOf = continueWatchingData[continueWatchingData.length - index];
