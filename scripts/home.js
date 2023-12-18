@@ -78,7 +78,7 @@ const scrollLeft = (event) => {
    let targetDiv = document.getElementsByClassName("animes-in-container-dubbed")[targetId];
    targetDiv.getElementsByClassName("anime-dubbed__")[3].scrollIntoViewIfNeeded({behavior: 'smooth'});
 
-   showRightHideLeft(targetDiv.parentNode)
+   // showRightHideLeft(targetDiv.parentNode)
    // document.getElementsByClassName('right-scroll')[targetId].style.display = 'flex';
    // document.getElementsByClassName('left-scroll')[targetId].style.display = 'none';
 }
@@ -87,7 +87,7 @@ const scrollRight =  (event) => {
    let targetDiv = document.getElementsByClassName("animes-in-container-dubbed")[targetId];
    targetDiv.getElementsByClassName("anime-dubbed__")[0].scrollIntoViewIfNeeded({behavior: 'smooth'});
 
-   showLeftHideRight(targetDiv.parentNode)
+   // showLeftHideRight(targetDiv.parentNode)
    // document.getElementsByClassName('right-scroll')[targetId].style.display = 'none';
    // document.getElementsByClassName('left-scroll')[targetId].style.display = 'flex';
 }
