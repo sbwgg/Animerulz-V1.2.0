@@ -377,7 +377,7 @@ function setMoreMenu(){
 
 
 //for  clearing continue watching data
-if(!localStorage.clearContinueWatching5){
+if(localStorage.clearContinueWatching5 != 'True'){
     localStorage.removeItem("continueWatching");
     localStorage.setItem("clearContinueWatching5", "True");
 }
