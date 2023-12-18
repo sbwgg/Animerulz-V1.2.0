@@ -856,7 +856,8 @@ function setHlsPlayer(source, intro, outro, tracks=false){
             let posterElement = document.querySelector(".plyr__poster");
             posterElement.setAttribute("style", "opacity:0 !important");
           });
-          video.addEventListener("canplay", () => {  
+          video.addEventListener("canplay", () => { 
+            localStorage.setItem(`${animeName}-full-time`, video.plyr.duration)
             let progressBar = document.querySelector(".plyr__progress");
             let duration = video.duration;
             let introIndicators = document.querySelector(".intro-indicator");
@@ -982,6 +983,7 @@ function setVideoEventListner(){
           video.currentTime = outroEnd;
 
     localStorage.setItem(`${animeName}-prev-time`, video.currentTime);
+
 }
 
 function nextEpisode(){
