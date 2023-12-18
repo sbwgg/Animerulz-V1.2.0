@@ -64,21 +64,32 @@ function rearrangeAnimes(index){
    localStorage.setItem("continueWatching", JSON.stringify(continueWatchingData));
 }
 
+function showRightHideLeft(elementsContainer){
+   elementsContainer.getElementsByClassName('right-scroll')[0].style.display = 'flex';
+   elementsContainer.getElementsByClassName('left-scroll')[0].style.display = 'none';
+}
+function showLeftHideRight(elementsContainer){
+   elementsContainer.getElementsByClassName('right-scroll')[0].style.display = 'none';
+   elementsContainer.getElementsByClassName('left-scroll')[0].style.display = 'flex';
+}
+
 const scrollLeft = (event) => {
    let targetId = event.target.getAttribute('scroll-id');
    let targetDiv = document.getElementsByClassName("animes-in-container-dubbed")[targetId];
    targetDiv.getElementsByClassName("anime-dubbed__")[3].scrollIntoViewIfNeeded({behavior: 'smooth'});
 
-   document.getElementsByClassName('right-scroll')[targetId].style.display = 'flex';
-   document.getElementsByClassName('left-scroll')[targetId].style.display = 'none';
+   // showRightHideLeft(targetDiv.parentNode)
+   // document.getElementsByClassName('right-scroll')[targetId].style.display = 'flex';
+   // document.getElementsByClassName('left-scroll')[targetId].style.display = 'none';
 }
 const scrollRight =  (event) => {
    let targetId = event.target.getAttribute('scroll-id');
    let targetDiv = document.getElementsByClassName("animes-in-container-dubbed")[targetId];
    targetDiv.getElementsByClassName("anime-dubbed__")[0].scrollIntoViewIfNeeded({behavior: 'smooth'});
 
-   document.getElementsByClassName('right-scroll')[targetId].style.display = 'none';
-   document.getElementsByClassName('left-scroll')[targetId].style.display = 'flex';
+   // showLeftHideRight(targetDiv.parentNode)
+   // document.getElementsByClassName('right-scroll')[targetId].style.display = 'none';
+   // document.getElementsByClassName('left-scroll')[targetId].style.display = 'flex';
 }
 
 try{
@@ -95,3 +106,13 @@ try{
       scrollRightElement[i].addEventListener('click', scrollRight)
 }
 catch{}
+
+let scrolledOrNotDiv = document.getElementsByClassName("animes-in-container-dubbed");
+for(let i = 0; i < scrolledOrNotDiv.length; i ++)
+   scrolledOrNotDiv[i].addEventListener('scroll', () => {
+      if(scrolledOrNotDiv[i].scrollLeft > 150){
+         showRightHideLeft(scrolledOrNotDiv[i].parentNode)
+      }else{
+         showLeftHideRight(scrolledOrNotDiv[i].parentNode)
+      }
+   })
