@@ -11,6 +11,7 @@ let existingServer;
 const url =  new URL(window.location.href);
 const searchParams = window.location.search;
 const urlParams = new URLSearchParams(searchParams);
+localStorage.setItem('isVideoPrevTime', true);
 
 const videoPlayer =  document.querySelector(".video-player");
 //get url params
@@ -83,6 +84,7 @@ function setAnime(){
     setEpisodeNumber();
     //default options
     setDefaultOptions();
+    // addBlankLinkEventListners();
 }
 
 function setEpisodeNumber(){
@@ -955,6 +957,11 @@ function setPreviousEpisodeButtonShortAnime(presentEpisode){
 
 function setVideoEventListner(){
     let video = document.querySelector('video');
+    let previousTime = localStorage.getItem(`${animeName}-prev-time`);
+    if(previousTime && localStorage.getItem('isVideoPrevTime') != 'false'){
+        video.currentTime = previousTime;
+        localStorage.setItem('isVideoPrevTime', false)
+    }
     let introStart = 0
     let introEnd = 0;
     if(data[urlData.episodeNumber]['intro']){
@@ -968,10 +975,13 @@ function setVideoEventListner(){
         outroStart = outro.start;
         outroEnd = outro.end;
     }
+
     if((video.currentTime >= introStart && video.currentTime <= introEnd))
           video.currentTime = introEnd;
     else if((video.currentTime >= outroStart && video.currentTime <= outroEnd))
           video.currentTime = outroEnd;
+
+    localStorage.setItem(`${animeName}-prev-time`, video.currentTime);
 }
 
 function nextEpisode(){
@@ -1107,3 +1117,26 @@ function getCaptionsTracks(tracks){
     }
     return tracksHtml;
 }
+
+
+// function addBlankLinkEventListners(){
+//     // Function to handle clicks on _blank links
+//     function handleBlankLinkClick(event) {
+//         var targetElement = event.target;
+    
+//         if(targetElement.nodeName != 'a' && targetElement.nodeName != 'iframe')
+//             targetElement = targetElement.closest('a')
+//         // Check if the clicked element is an <a> with target="_blank"
+//         if (targetElement.getAttribute('target') === '_blank') {
+//             // Log or perform any tracking action here
+//             event.preventDefault();
+//         }
+//     }
+
+//     // Attach the click event listener to the document
+//     document.addEventListener('click', handleBlankLinkClick);
+
+//     // Handle clicks inside iframes
+//     document.querySelector('iframe').addEventListener('click', handleBlankLinkClick);
+//     videoPlayer.addEventListener('click', handleBlankLinkClick)
+// }
