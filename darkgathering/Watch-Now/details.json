@@ -11,6 +11,9 @@
         "title": "Yayoi Hozuki",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/5529c8e0ead7256c37a3655eedb03a33db24055fb8c81c251449323187d726690dd4b837e25b34bd18658a21f1500ae85be5d34d3509a4e18e2eca2844df45066a849f5eddd08c93cd2aca23ce25a33f92d977871acd7da85121f72177a9c931dddf9d34675d00d7732f2416488572735c9b8c3836a745146c76fa928546d145/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www009.vipanicdn.net/streamhls/f17333e1526c6c6291c295a690f96191/ep.1.1702229911.m3u8"
                 },
@@ -67,6 +70,14 @@
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=dark-gathering-episode-2"
                 }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www041.vipanicdn.net/streamhls/f17333e1526c6c6291c295a690f96191/ep.2.1702837111.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=dark-gathering-dub-episode-2"
+                }
             }
         },
         "captions": [
@@ -81,7 +92,8 @@
         ],
         "isFiller": false,
         "downloadLink": {
-            "SUBBED": "MjA4MzEx"
+            "SUBBED": "MjA4MzEx",
+            "DUBBED": "MjE3MjIw"
         }
     },
     "3": {
@@ -864,9 +876,12 @@
             "end": 0,
             "start": 0
         },
-        "title": "Episode 23",
+        "title": "Scary School Stories: Hide and Seek",
         "source": {
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/c0fe14ff830c1c8a7b5602eeb8431690cc4203b71f632948f29579416b7cfba857c866f148de92a2845aa7a4f65f7f42646a1015c72e70384a79031ffcd6702e0780d1c2e1b3e4a2ed66a14904be9a7f75801845abb2cf63e47d20d4df4127d47b4751d01b49caa9c5bbc264c82b92d58bfb8e005c7646747e676a177235ce89/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www044.vipanicdn.net/streamhls/dce0068348355ea9f3ebaea125f70e0e/ep.23.1702229378.m3u8"
                 },
@@ -875,9 +890,57 @@
                 }
             }
         },
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/50/eb/50ebc69f5fe48ecc2c374b4f2e3c1450/50ebc69f5fe48ecc2c374b4f2e3c1450.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/07/07928dce85566c83cf94b07f88e24b25/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ],
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MjE2ODQz"
+        }
+    },
+    "24": {
+        "intro": {
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
+        },
+        "title": "Episode 24",
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/e8ed3dd624437c109c59f1b3a8879f47b2e92093281ca97f2d9d54fe5e6d172ba20db89bbfc36b96a9aa90c0244314a8bb96229dc0bf5ae6175150b82c60170f047ea5e7ec79f2e470867348a72d9deb19727e692185dcb5d153d4e72d5e939a363b8fa938438b8a326f74a0569a0777b7e86e4c854c310444f0f1b66d95d539/master.m3u8"
+                },
+                "Vid Streaming": {
+                    "link": "https://www049.vipanicdn.net/streamhls/dce0068348355ea9f3ebaea125f70e0e/ep.24.1702834582.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=dark-gathering-episode-24"
+                }
+            }
+        },
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/94/c4/94c41061116128c154f7846c8ccf8633/94c41061116128c154f7846c8ccf8633.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/d5/d5c05f45b615bc3abd520bbbf52c4055/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ],
+        "isFiller": false,
+        "downloadLink": {
+            "SUBBED": "MjE3MjE4"
         }
     }
 }
