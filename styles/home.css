@@ -903,6 +903,16 @@ a{
   justify-content: space-between;
   align-items: center;
 }
+.header-in-trending a{
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  transition: all 0.3s;
+}
+.header-in-trending a:hover{
+  color: #faa300;
+  gap: 15px;
+}
 .anime-more-data-container-dubbbed__ .center-image{
   margin-top: -150px;
 }
