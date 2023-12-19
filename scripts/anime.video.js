@@ -85,6 +85,7 @@ function setAnime(){
     //default options
     setDefaultOptions();
     // addBlankLinkEventListners();
+    addAnimeToQueue();
 }
 
 function setEpisodeNumber(){
@@ -1142,3 +1143,37 @@ function getCaptionsTracks(tracks){
 //     document.querySelector('iframe').addEventListener('click', handleBlankLinkClick);
 //     videoPlayer.addEventListener('click', handleBlankLinkClick)
 // }
+
+function addAnimeToQueue(){
+    let animeImage__ = document.getElementsByClassName("anime-main-image")[0].getAttribute("src");
+    let animeName__ = document.getElementById("a-active-page-tag").textContent;
+    let animeUrl__ = window.location.href;
+
+    if(localStorage.continueWatching == undefined){
+        let animeDataCV = [
+            {
+                animeName : animeName__,
+                animeImage : animeImage__,
+            }
+        ];
+        localStorage.setItem("continueWatching", JSON.stringify(animeDataCV));
+    }else{
+        let animeDataCV = {
+            animeName : animeName__,
+            animeImage : animeImage__,
+        };
+        let existingAnimeData = localStorage.getItem("continueWatching");
+
+        let convertedExistingData = JSON.parse(existingAnimeData);
+
+        for(let i = 0; i < convertedExistingData.length; i ++){
+            if(convertedExistingData[i].animeName === animeDataCV.animeName){
+                convertedExistingData.splice(i, 1);
+                break;
+            }
+        }
+        convertedExistingData.push(animeDataCV);
+
+        localStorage.setItem("continueWatching", JSON.stringify(convertedExistingData));
+    }
+}
