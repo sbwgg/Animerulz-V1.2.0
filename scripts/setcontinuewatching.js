@@ -12,7 +12,6 @@ const continueWatchingDataAA = localStorage.getItem('continueWatching');
   else{
    let continueWatchingDataA = JSON.parse(continueWatchingDataAA);
    let tempData = "";
-   let counteR = 0;
    for(let i = continueWatchingDataA.length - 1; i >= 0; i --){
       let animeNameForHome = continueWatchingDataA[i].animeName;
       let newName = animeNameForHome.replace(/[^a-zA-Z0-9]/g, "")
@@ -25,7 +24,6 @@ const continueWatchingDataAA = localStorage.getItem('continueWatching');
       let checkLastServer = localStorage.getItem(`presentServerAnimerulzAnime-${tempName}`);
       let timingsHtml;
       let timeIndicatorHtml;
-      console.log(checkLastAudio, checkLastServer, (checkLastAudio == 'jap' || checkLastAudio == 'eng') , checkLastServer != 'Awesome Stream');
       if((checkLastAudio == 'jap' || checkLastAudio == 'eng') && checkLastServer != 'Awesome Stream'){
          let animePrevTime = Number(localStorage.getItem(`${tempName.toLowerCase()}-prev-time`)).toFixed(0);
          let fullVideoTime = Number(localStorage.getItem(`${tempName.toLowerCase()}-full-time`)).toFixed(0);
@@ -89,10 +87,6 @@ const continueWatchingDataAA = localStorage.getItem('continueWatching');
                
             </a>
          </div>`;
-         counteR ++;
-         if(counteR === 6){
-            break;
-         }
    }
    container.innerHTML = `
    <div class="sub-sub-container-u">
