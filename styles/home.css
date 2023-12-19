@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,700,900');
-.slide-container h2, .bottom-container h2{
+.slide-container h2, .bottom-container h2, .l-a-item-a .episode-number-tag span{
   font-family:  'Poppins', sans-serif;
 }
 /* body{
@@ -789,6 +789,12 @@ a{
 .medium-txt{
   font-size: 15px;
 }
+.s-l-txt{
+  font-size: 16px;
+}
+.m-l-txt{
+  font-size: 17px;
+}
 .large-txt-t{
   font-size: 18px;
 }
@@ -798,6 +804,12 @@ a{
   }
   .medium-txt{
     font-size: 12px;
+  }
+  .s-l-txt{
+    font-size: 13px;
+  }
+  .m-l-txt{
+    font-size: 14px;
   }
   .large-txt-t{
     font-size: 15px;
@@ -935,4 +947,149 @@ a{
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+}
+
+/* for latest episode */
+.l-a-container{
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 20px;
+}
+@media only screen and (max-width:1800px){
+  .l-a-container{
+    width: 98%;
+    margin-inline: auto;
+  }
+}
+@media only screen and (max-width:1500px){
+  .l-a-container{
+    grid-template-columns: repeat(6, 1fr);
+  }
+}
+@media only screen and (max-width:1000px){
+  .l-a-container{
+    grid-template-columns: repeat(4, 1fr);
+    width: 95%;
+  }
+}
+@media only screen and (max-width:800px){
+  .l-a-container{
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+@media only screen and (max-width:600px){
+  .l-a-container{
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+.image-l-a img{
+  width: 100%;
+}
+.image-l-a{
+  position: relative;
+}
+.image-l-a::before{
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.2);
+}
+.anime-details-l-a, .epi-info-l-a{
+  display: flex;
+  flex-direction: column;
+}
+.epi-info-l-a{
+  gap: 10px;
+}
+.lang-list-l-a{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+.lang-l-a{
+  padding-right: 5px;
+  position: relative;
+}
+.lang-l-a.border-right::after{
+  content: "";
+  height: 100%;
+  width: 2px;
+  position: absolute;
+  right: 0;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+.l-a-container-new{
+  width: 100%;
+  height: 100%;
+}
+.l-a-item-a{
+  position: relative;
+  display: flex;
+  cursor: pointer;
+  justify-content: center;
+  /* padding: 10px; */
+  border-radius: 10px;
+  overflow: hidden;
+}
+.l-a-content-b{
+  display: flex;
+}
+.l-a-item-a .episode-number-tag{
+  white-space: nowrap;
+  height: fit-content;
+  width: fit-content;
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 10px 5px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  transform: rotate(180deg);
+}
+.l-a-item-a .episode-number-tag span{
+  display: block;
+  font-weight: 600;
+  /* transform: rotate(270deg); */
+}
+.episode-name-l-a{
+  display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+.head-l-a h3{
+  display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+.l-a-item{
+  transition: all .2s;
+  position: relative;
+  margin: 0 !important;
+  min-width: auto;
+}
+/* .l-a-item-a:hover::before{
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.1);
+  animation: swipeBoth 0.2s ease forwards;
+  top: 0;
+  border-radius: 0px;
+} */
+@keyframes swipeBoth {
+  0%{
+    width: 0;
+    height: 100%;
+  }
+}
+.l-a-container:has(.l-a-item:hover) > .l-a-item:not(:hover){
+  opacity: 0.5;
+  transform: scale(0.9);
 }
