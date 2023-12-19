@@ -544,6 +544,11 @@
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/682eca7169e863cec3879f4e9d20cd1756ca60d80b939a0def7d4e4b85545b451844ea29f6b8d22e51b04beebcd26d150f0d19a4c5e206c72081aadbe07513e01efbeabc181b7e8edf54b8fa2328dd66c1b6b5ccac803c61e710811bfc283ef52f1724ff1aac8f54e94df851bb9628b8f45d876a530f3d17d36e8d17cbdb6bbc/master.m3u8"
                 }
+            },
+            "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/5ceb1cff37f1d30e5087bccc68a191ccd135b74ba794c91e9d7807ea1c78b35246752b4b8eda95b5eb7263982c48e73d67dc05a533a3631b4693b75a452e7ad912723601197f2ccdbbb31c2ed8218baaf670ab202fe942f7a6493c974798a93e857131a6f0d55d0516961048449a518ede77d8648f3756d50357c76f9ffde4c1/master.m3u8"
+                }
             }
         },
         "captions": [
@@ -652,6 +657,15 @@
         "isFiller": false
     },
     "11": {
+        "intro": {
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
+        },
+        "title": "A Raid",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
@@ -659,8 +673,6 @@
                 }
             }
         },
-        "title": "A Raid",
-        "isFiller": false,
         "captions": [
             {
                 "url": "https://ccb.megaresources.co/80/ee/80ee9c2c91551e849a57e5b951c6780f/80ee9c2c91551e849a57e5b951c6780f.vtt",
@@ -671,13 +683,6 @@
                 "lang": "Thumbnails"
             }
         ],
-        "intro": {
-            "start": 0,
-            "end": 0
-        },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "isFiller": false
     }
 }

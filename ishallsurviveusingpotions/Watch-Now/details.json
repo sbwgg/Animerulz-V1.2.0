@@ -524,6 +524,11 @@
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/88bfa0682bdff4ac6f1b3c684da8c03a1403154cc012528b9203a6638f59c9d88ff93050984083aae7c8499370bca43ecc6581cfbcd4de54484855cad208ee7a2d977851732e5d38543debd30ba70551d9447e216e6b465d9d8b4fb20180cb64872203f988c3a5baf7725ff5de56bb564fb5537cb5f41de2447caaf76fdb5ac8/master.m3u8"
                 }
+            },
+            "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/ab424e16e0ea73388512660327e3212b5dde0b3c5aeabe6a6ca518d84b0d0c76e734f8324842a1aa744bd187b73b3f04766a530dda3af22c1cd090ef1d327c10039b6821b53a77c9edd7ccfe7dcf3fd0b685b8e5c04b50169d9f83d828fe2c385b66dddbc7aba12706c2913c578b3fdbc836d56b07735d6461310b429e3a7b4a/master.m3u8"
+                }
             }
         },
         "captions": [
@@ -632,6 +637,15 @@
         "isFiller": false
     },
     "11": {
+        "intro": {
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
+        },
+        "title": "I'll Find a Husband with a Treasure Hunt!",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
@@ -639,8 +653,6 @@
                 }
             }
         },
-        "title": "I'll Find a Husband with a Treasure Hunt!",
-        "isFiller": false,
         "captions": [
             {
                 "url": "https://ccb.megaresources.co/58/18/58182864a33e1140066374bd5626cd01/58182864a33e1140066374bd5626cd01.vtt",
@@ -651,13 +663,6 @@
                 "lang": "Thumbnails"
             }
         ],
-        "intro": {
-            "start": 0,
-            "end": 0
-        },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "isFiller": false
     }
 }
