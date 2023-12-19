@@ -1,8 +1,9 @@
 const continueWatchingContainer = document.getElementsByClassName("continue-watching-division")[0];
 const continueWatchingData1 = localStorage.continueWatching;
+const continueWatchingData = JSON.parse(continueWatchingData1);
 
 
-function setContinueWatchingContainer(continueWatchingData){
+function setContinueWatchingContainer(){
     
     if(continueWatchingData.length != 0){
         let tempData = "";
@@ -15,12 +16,12 @@ function setContinueWatchingContainer(continueWatchingData){
             let animePrevTime = Number(localStorage.getItem(`${tempName.toLowerCase()}-prev-time`)).toFixed(0);
             let fullVideoTime = Number(localStorage.getItem(`${tempName.toLowerCase()}-full-time`)).toFixed(0);
             let animePrevTimeMinutes = (animePrevTime / 60).toFixed(0) - 1;
-            animePrevTimeMinutes  = animePrevTimeMinutes < 10 ? 0 + `${animePrevTimeMinutes}` : animePrevTimeMinutes;
+            animePrevTimeMinutes  = animePrevTimeMinutes < 10 ? `0${animePrevTimeMinutes}` : animePrevTimeMinutes;
             let animePrevTimeSeconds = animePrevTime % 60;
-            animePrevTimeSeconds = animePrevTimeSeconds < 0 ? 0 + `${animePrevTimeSeconds}` : animePrevTimeSeconds;
+            animePrevTimeSeconds = animePrevTimeSeconds < 10 ? `0${animePrevTimeSeconds}` : animePrevTimeSeconds;
             let fullVideoTimeMinutes = (fullVideoTime / 60).toFixed(0) - 1;
             let fullVideoTimeSeconds = fullVideoTime % 60;
-            fullVideoTimeSeconds = fullVideoTimeSeconds < 10 ? 0 + `${fullVideoTimeSeconds}` : fullVideoTimeSeconds;
+            fullVideoTimeSeconds = fullVideoTimeSeconds < 10 ? `0${fullVideoTimeSeconds}` : fullVideoTimeSeconds;
             let prevIndicatorWidth = (animePrevTime / fullVideoTime) * 100;
             if(!animeEpisodeNumberForHome){
                animeEpisodeNumberForHome = 1;
@@ -79,8 +80,7 @@ function setContinueWatchingContainer(continueWatchingData){
 }
 
 if(localStorage.continueWatching){
-   const continueWatchingData = JSON.parse(continueWatchingData1);
-   setContinueWatchingContainer(continueWatchingData);
+   setContinueWatchingContainer();
 }
 
 function rearrangeAnimes(index){
