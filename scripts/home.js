@@ -13,19 +13,43 @@ function setContinueWatchingContainer(){
             let newName = animeNameForHome.replace(/[^a-zA-Z0-9]/g, "")
             let tempName = newName.toLowerCase();
             let animeEpisodeNumberForHome = localStorage.getItem(newName.toLowerCase() + '-last-clicked-episode');
-            let animePrevTime = Number(localStorage.getItem(`${tempName.toLowerCase()}-prev-time`)).toFixed(0);
-            let fullVideoTime = Number(localStorage.getItem(`${tempName.toLowerCase()}-full-time`)).toFixed(0);
-            let animePrevTimeMinutes = (animePrevTime / 60).toFixed(0) - 1;
-            animePrevTimeMinutes  = animePrevTimeMinutes < 10 ? `0${animePrevTimeMinutes}` : animePrevTimeMinutes;
-            let animePrevTimeSeconds = animePrevTime % 60;
-            animePrevTimeSeconds = animePrevTimeSeconds < 10 ? `0${animePrevTimeSeconds}` : animePrevTimeSeconds;
-            let fullVideoTimeMinutes = (fullVideoTime / 60).toFixed(0) - 1;
-            let fullVideoTimeSeconds = fullVideoTime % 60;
-            fullVideoTimeSeconds = fullVideoTimeSeconds < 10 ? `0${fullVideoTimeSeconds}` : fullVideoTimeSeconds;
-            let prevIndicatorWidth = (animePrevTime / fullVideoTime) * 100;
             if(!animeEpisodeNumberForHome){
                animeEpisodeNumberForHome = 1;
             }
+            let checkLastAudio = localStorage.getItem(`presentAudioAnimerulzAnime-${tempName}`);
+            let checkLastServer = localStorage.getItem(`presentServerAnimerulzAnime-${tempName}`);
+            let timingsHtml;
+            let timeIndicatorHtml;
+            if((checkLastAudio == 'jap' || checkLastAudio == 'eng') && checkLastServer != 'Awesome Stream'){
+               let animePrevTime = Number(localStorage.getItem(`${tempName.toLowerCase()}-prev-time`)).toFixed(0);
+               let fullVideoTime = Number(localStorage.getItem(`${tempName.toLowerCase()}-full-time`)).toFixed(0);
+               let animePrevTimeMinutes = Math.floor(animePrevTime / 60);
+               animePrevTimeMinutes  = animePrevTimeMinutes < 10 ? `0${animePrevTimeMinutes}` : animePrevTimeMinutes;
+               let animePrevTimeSeconds = animePrevTime % 60;
+               animePrevTimeSeconds = animePrevTimeSeconds < 10 ? `0${animePrevTimeSeconds}` : animePrevTimeSeconds;
+               let fullVideoTimeMinutes = Math.floor(fullVideoTime / 60);
+               let fullVideoTimeSeconds = fullVideoTime % 60;
+               fullVideoTimeSeconds = fullVideoTimeSeconds < 10 ? `0${fullVideoTimeSeconds}` : fullVideoTimeSeconds;
+               let prevIndicatorWidth = (animePrevTime / fullVideoTime) * 100;
+               
+               timingsHtml = `
+               <div class="timings-info-continue-watching">
+                  <div class="prev-time color-o">${animePrevTimeMinutes}:${animePrevTimeSeconds}</div>
+                  <div class="divider-time color-white-n"><span>/</span></div>
+                  <div class="full-time color-white-n">${fullVideoTimeMinutes}:${fullVideoTimeSeconds}</div>
+               </div>
+            `
+               timeIndicatorHtml = `
+               <div class="time-progression-continue-watching">
+                  <div class="full-time-continue-watching indicator-time"></div>
+                  <div class="prev-time-continue-watching indicator-time" style="width:${prevIndicatorWidth}%"></div>
+               </div>
+            `
+            }else{
+               timingsHtml = '<div class="timings-info-continue-watching"></div>';
+               timeIndicatorHtml = '<div class="time-progression-continue-watching"></div>';
+            }
+            
             tempData += `<div class="anime-continue-watching" onclick="rearrangeAnimes(${counteR + 1})">
                   <a class="anchor-to-continue-watching" title="Continue Watching ${animeNameForHome}"  href="../${animeNameForHome.replace(/[^a-zA-Z0-9]/g, "").toLowerCase()}/Watch-Now/">
                      <div class="data_cont-watching__" style="background: url('${continueWatchingData[i].animeImage}') no-repeat center center;background-size: 100% auto;">
@@ -45,16 +69,9 @@ function setContinueWatchingContainer(){
                               <div class="episode-number-continue-watching color-white-n">
                                  <span>Ep-${animeEpisodeNumberForHome}</span>
                               </div>
-                              <div class="timings-info-continue-watching">
-                                 <div class="prev-time color-o">${animePrevTimeMinutes}:${animePrevTimeSeconds}</div>
-                                 <div class="divider-time color-white-n"><span>/</span></div>
-                                 <div class="full-time color-white-n">${fullVideoTimeMinutes}:${fullVideoTimeSeconds}</div>
-                              </div>
+                              ${timingsHtml}
                            </div>
-                           <div class="time-progression-continue-watching">
-                              <div class="full-time-continue-watching indicator-time"></div>
-                              <div class="prev-time-continue-watching indicator-time" style="width:${prevIndicatorWidth}%"></div>
-                           </div>
+                           ${timeIndicatorHtml}
                         </div>
                      </div>
                   </a>
