@@ -12,6 +12,7 @@ const continueWatchingDataAA = localStorage.getItem('continueWatching');
   else{
    let continueWatchingDataA = JSON.parse(continueWatchingDataAA);
    let tempData = "";
+   let counteR = 0;
    for(let i = continueWatchingDataA.length - 1; i >= 0; i --){
       let animeNameForHome = continueWatchingDataA[i].animeName;
       let newName = animeNameForHome.replace(/[^a-zA-Z0-9]/g, "")
@@ -87,6 +88,7 @@ const continueWatchingDataAA = localStorage.getItem('continueWatching');
                
             </a>
          </div>`;
+         counteR ++;
    }
    container.innerHTML = `
    <div class="sub-sub-container-u">
