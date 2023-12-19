@@ -322,10 +322,32 @@
         "isFiller": false
     },
     "12": {
-        "source": {
-            "SUBBED": {}
-        },
         "title": "Love Call",
-        "isFiller": false
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/76226d7be3fa2be75622a10c4b622f34818f2b992b1962557349416eb7b7386c3b7404c18fbff8cb67164226455765cf045168748aeea339ce9a64b2b3de39ea897c9cc0829645837c532b867bea541271554a48290ac361efd93e321d2668362c0eec336917327ce712c4a8ddedffbe10950b82d3e24ed4a5402864f4873164/master.m3u8"
+                }
+            }
+        },
+        "isFiller": false,
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/b4/13/b413fbe842f93fc33530cda1e6b57680/b413fbe842f93fc33530cda1e6b57680.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/73/73b2cf484840ec45f63706c39a5cf2d9/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ],
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
+        }
     }
 }

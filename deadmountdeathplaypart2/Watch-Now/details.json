@@ -540,6 +540,11 @@
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/613902f714f475a39c6c79946cd2214ee34c4427c5b532ba5c388fb8de715225b6d5fe4645ca1bde16ad9e28f8461ef83d615f7cd793c91f61bc048a92573b34eddd557ce1bc9f63cb09ddd163ac9f83888431c5a88a8c750a5ee3edaf52eb7c9b3b9a2d3f2feaad4f8fdd388434b651a74dbc853bc9b785d3d3e926e58282e8/master.m3u8"
                 }
+            },
+            "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/8a0fef96f437750360cf53b4fd4c11a7cd8a6d3631f3103b6af47bbc9daab79e9e613a95af6968851bb249f667767ab0631c7272e4d659ac518d89c0746b6804c2053a84b401bf314407bd008305119610cee0fdb2f5140603b245cb792707ef6a88647f361dcb0ee6c1c31a3866a6a82224e6f8eb3f0c5f0c1f6e32f6e37e46/master.m3u8"
+                }
             }
         },
         "captions": [
@@ -616,6 +621,15 @@
         "isFiller": false
     },
     "11": {
+        "intro": {
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
+        },
+        "title": "Episode 11",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
@@ -623,8 +637,6 @@
                 }
             }
         },
-        "title": "Episode 11",
-        "isFiller": false,
         "captions": [
             {
                 "url": "https://ccb.megaresources.co/f2/9f/f29fc19a5f29fb9d32e752c0b69f5a6f/f29fc19a5f29fb9d32e752c0b69f5a6f.vtt",
@@ -635,13 +647,6 @@
                 "lang": "Thumbnails"
             }
         ],
-        "intro": {
-            "start": 0,
-            "end": 0
-        },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "isFiller": false
     }
 }

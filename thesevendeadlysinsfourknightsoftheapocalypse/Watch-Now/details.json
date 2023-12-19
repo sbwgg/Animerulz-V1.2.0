@@ -326,6 +326,9 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=nanatsu-no-taizai-mokushiroku-no-yonkishi-episode-9"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/d3a45010df1c7f3d1b4e59019b338ff50595b8f06c7d642f4bf94965b2d3318eca63a9b1f53b617fafb47972ed4d4bedd70e915415122594f0466e63f8a67767b6ecf7f25110d32774ef9085f3710aa8a68a0b61e5b50daeac00aff0416ff75eee70c32a94de5b2e613eedeefcc3249f86b5ff9184c5a49367c4d6cd293aff2a/master.m3u8"
                 }
             }
         },
@@ -345,8 +348,7 @@
         }
     },
     "10": {
-        "title": "episode - 10",
-        "isFiller": false,
+        "title": "Roar of Destruction",
         "source": {
             "SUBBED": {
                 "Vid Streaming": {
@@ -354,11 +356,33 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=nanatsu-no-taizai-mokushiroku-no-yonkishi-episode-10"
+                },
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/383969c5acdbe91360dd116a9c2f529ed40ad4fd36e9a4c140ec662854fa30133293dfc7d535cf6321941b4edc9afed4a28edabff053c095f238eb9fa5e0a5d740bb3c63ce59a783bf46d10f9cc746eb66aa62fed2a8ce8ef0282f82d6206cee2118cab942232aa2f075e1d5eea0efdb2392558dd4d93d20d99148cd8f27e500/master.m3u8"
                 }
             }
         },
+        "isFiller": false,
         "downloadLink": {
             "SUBBED": "MjE3MjY4"
+        },
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/99/a8/99a8d18edf3510895cc2914de6d6a212/99a8d18edf3510895cc2914de6d6a212.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/d6/d60f81543f85be5104f40ce4b7e625ea/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ],
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
+        "outro": {
+            "start": 0,
+            "end": 0
         }
     }
 }
