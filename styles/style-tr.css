@@ -47,6 +47,7 @@ a{
 .sub-container-tr{
     display: flex;
     width: 100%;
+    gap: 10px;
     color: rgba(255,255,255,0.7);
     justify-content: space-between;
 }
@@ -60,9 +61,6 @@ a{
     position: sticky;
 }
 .sub-container-l-tr{
-    padding: 10px;
-}
-.sub-container-l-tr{
     width: 77%;
     display: grid;
     flex-wrap: wrap;
@@ -70,7 +68,7 @@ a{
     grid-column: span 6;
     grid-gap: 20px 10px;
     /* justify-content: space-between; */
-    padding: 20px;
+    /* padding: 20px; */
 }
 .sub-container-l-tr.watch-list-l-tr{
     display: block;
@@ -497,7 +495,7 @@ a{
     .sub-container-l-tr, .sub-container-r-tr{
         width: 100%;
         padding: 0;
-        padding-block: 10px;
+        /* padding-block: 10px; */
     }
     .sub-container-r-tr .anime-items-dub-r{
         width: 100%;

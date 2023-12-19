@@ -2576,7 +2576,6 @@ background-color: rgba(255, 255, 255, 0.6);
 padding-block: 10px;
 }
 .more-menu .more-data-in-menu .data-in-menu{
-padding: 12px 10px;
 color: rgba(255, 255, 255, 0.7);
 border-bottom: solid 2px rgba(255, 255, 255, 0.1);
 position: relative;
@@ -2598,6 +2597,10 @@ cursor: pointer;
 .svg-search-icon{
   width: 40px;
   margin-top: 5px;
+}
+.more-menu .more-data-in-menu .data-in-menu .anchor-in-menu{
+  display: block;
+  padding: 12px 10px;
 }
 .more-menu .more-data-in-menu .data-in-menu:hover > .anchor-in-menu .svg-icon-on-menu{
 fill: #faa300;
