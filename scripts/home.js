@@ -85,6 +85,7 @@ function setContinueWatchingContainer(){
         <div class="data-continue-watching">
             <div class="header-in-trending">
                <h2><i class="fa-solid fa-clock-rotate-left"></i>&nbsp;&nbsp;Continue Watching</h2>
+               <a href="../continuewatching/" class="small-txt color-white-n">View All<i class="fa-solid fa-chevron-right tiny-t"></i></a>
             </div>
             <div class="continue-watching-data__">
         ` + tempData + 
@@ -159,3 +160,16 @@ for(let i = 0; i < scrolledOrNotDiv.length; i ++)
          showLeftHideRight(scrolledOrNotDiv[i].parentNode)
       }
    })
+
+
+
+function setLatestEpisodeImageHeight(){
+   let images = document.querySelectorAll('.image-l-a img');
+   let firstImageHeight = images[0].offsetHeight;
+   for(let i = 1; i < images.length; i ++){
+      images[i].setAttribute('style', `height:${firstImageHeight}px`);
+   }
+}
+window.addEventListener('load', () => {
+   setLatestEpisodeImageHeight();
+})
