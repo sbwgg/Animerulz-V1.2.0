@@ -321,14 +321,14 @@
         "title": "Master and Pupil",
         "source": {
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/d3a45010df1c7f3d1b4e59019b338ff50595b8f06c7d642f4bf94965b2d3318eca63a9b1f53b617fafb47972ed4d4bedd70e915415122594f0466e63f8a67767b6ecf7f25110d32774ef9085f3710aa8a68a0b61e5b50daeac00aff0416ff75eee70c32a94de5b2e613eedeefcc3249f86b5ff9184c5a49367c4d6cd293aff2a/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www005.vipanicdn.net/streamhls/d24fda52d648a068a2929e3e82d9fd82/ep.9.1702440046.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=nanatsu-no-taizai-mokushiroku-no-yonkishi-episode-9"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/d3a45010df1c7f3d1b4e59019b338ff50595b8f06c7d642f4bf94965b2d3318eca63a9b1f53b617fafb47972ed4d4bedd70e915415122594f0466e63f8a67767b6ecf7f25110d32774ef9085f3710aa8a68a0b61e5b50daeac00aff0416ff75eee70c32a94de5b2e613eedeefcc3249f86b5ff9184c5a49367c4d6cd293aff2a/master.m3u8"
                 }
             }
         },
@@ -348,23 +348,27 @@
         }
     },
     "10": {
+        "intro": {
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
+        },
         "title": "Roar of Destruction",
         "source": {
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/383969c5acdbe91360dd116a9c2f529ed40ad4fd36e9a4c140ec662854fa30133293dfc7d535cf6321941b4edc9afed4a28edabff053c095f238eb9fa5e0a5d740bb3c63ce59a783bf46d10f9cc746eb66aa62fed2a8ce8ef0282f82d6206cee2118cab942232aa2f075e1d5eea0efdb2392558dd4d93d20d99148cd8f27e500/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://vipanicdn.net/093997b0a3046470bdf294d6575e93edce3d94d2464fe331996d922afcbf78cfaa396492cd2dfd0741f728c712d6dfcfb63865f2ee1e595ae5dec89220318e9ebbb21f28b43e8501b34d4c43eb425ae571d46130b114835e51fe4a3eb7a4231f4b120ab9aa197424f070a151b0305906ea84924b139a4654ddcc9c9cb165f569/10acefd04453920f34101f6d0e8d8602/nanatsu-no-taizai-mokushiroku-no-yonkishi-episode-10-1702952943.original.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=nanatsu-no-taizai-mokushiroku-no-yonkishi-episode-10"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/383969c5acdbe91360dd116a9c2f529ed40ad4fd36e9a4c140ec662854fa30133293dfc7d535cf6321941b4edc9afed4a28edabff053c095f238eb9fa5e0a5d740bb3c63ce59a783bf46d10f9cc746eb66aa62fed2a8ce8ef0282f82d6206cee2118cab942232aa2f075e1d5eea0efdb2392558dd4d93d20d99148cd8f27e500/master.m3u8"
                 }
             }
-        },
-        "isFiller": false,
-        "downloadLink": {
-            "SUBBED": "MjE3MjY4"
         },
         "captions": [
             {
@@ -376,13 +380,9 @@
                 "lang": "Thumbnails"
             }
         ],
-        "intro": {
-            "start": 0,
-            "end": 0
-        },
-        "outro": {
-            "start": 0,
-            "end": 0
+        "isFiller": false,
+        "downloadLink": {
+            "SUBBED": "MjE3MjY4"
         }
     }
 }

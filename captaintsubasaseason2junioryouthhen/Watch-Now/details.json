@@ -397,14 +397,14 @@
         },
         "title": "Big gathering in Paris!!",
         "source": {
-            "SUBBED": {
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/7f161f22dcab1c26e543d048051ed824ae5d62014f5a3ed741f0de75617c73595b9d869109238c666235c64d2e4323673d473570df7a17cf5b2e740880d382e3cb811858413b6e7678560502bf43f70176963c6f0eff96f6d7c53505ad2cb88f7424c270ff02dbd21e1dcbd06fccf0efcca0621cb50acaeb30ec9838e20d3cfe/master.m3u8"
-                }
-            },
             "DUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/f410c1f676f5806070e2314acb72097a66ffa8c9af9ffd0dafa644ee9e6f90d1ec6e0e19291e4e860c7aefce83a846f0b4fb971a2cd3ed265cca96c3add2402c806adab7cc396f64a5f1df0d1b24d355eff84d2cf156f917f52db949acb330e1db4901b52f9c40b12e43d655c71d4c67610d0c4c0f6775728590801cf8b665b5/master.m3u8"
+                }
+            },
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/7f161f22dcab1c26e543d048051ed824ae5d62014f5a3ed741f0de75617c73595b9d869109238c666235c64d2e4323673d473570df7a17cf5b2e740880d382e3cb811858413b6e7678560502bf43f70176963c6f0eff96f6d7c53505ad2cb88f7424c270ff02dbd21e1dcbd06fccf0efcca0621cb50acaeb30ec9838e20d3cfe/master.m3u8"
                 }
             }
         },
@@ -649,6 +649,15 @@
         "isFiller": false
     },
     "12": {
+        "intro": {
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
+        },
+        "title": "Episode 12",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
@@ -656,8 +665,6 @@
                 }
             }
         },
-        "title": "Episode 12",
-        "isFiller": false,
         "captions": [
             {
                 "url": "https://ccb.megaresources.co/cc/75/cc7517215cd7ece3bef77dbac1550992/eng-2.vtt",
@@ -668,13 +675,6 @@
                 "lang": "Thumbnails"
             }
         ],
-        "intro": {
-            "start": 0,
-            "end": 0
-        },
-        "outro": {
-            "start": 0,
-            "end": 0
-        }
+        "isFiller": false
     }
 }

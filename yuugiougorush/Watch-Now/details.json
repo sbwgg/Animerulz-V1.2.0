@@ -3304,14 +3304,14 @@
         "title": "The Giant of Light",
         "source": {
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/b4c081858eb7ecfa87482830ddb4f0726a0800d093aeb34b42338201597b199acd514d9020b1b1dd222bd48bd3fbac174b4f1a82d80dd821b80d7409bb6d3a3ff2be8dfc7c6d220c2dd24e1c57cb2d298dae3cea71e790769bbe7bfff60c8ecabf4aedafd2d6595d51716b0ccae19fd7c1e5f4ebe36946c21f455936167c9202/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www045.vipanicdn.net/streamhls/3a7434a645480a6d5059334791ff171e/ep.88.1702351536.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=yugioh-go-rush-episode-88"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/b4c081858eb7ecfa87482830ddb4f0726a0800d093aeb34b42338201597b199acd514d9020b1b1dd222bd48bd3fbac174b4f1a82d80dd821b80d7409bb6d3a3ff2be8dfc7c6d220c2dd24e1c57cb2d298dae3cea71e790769bbe7bfff60c8ecabf4aedafd2d6595d51716b0ccae19fd7c1e5f4ebe36946c21f455936167c9202/master.m3u8"
                 }
             }
         },
@@ -3331,23 +3331,27 @@
         }
     },
     "89": {
+        "intro": {
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
+        },
         "title": "Two Galaxies",
         "source": {
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/693d294f749ace2a062e089dac9ddb5fd030423295f56256649fa79497460778b82ef512564c968ce98b938d3c6fbd192dfafdaa997f333c12313d20b9f0030a3f08ea8f8562c1b269b8b15832bb4c10fc3e74e94259fcea50114f54ac530bf954acfa946cb490fcf2b8d3e4d4e5e887d9d1eb6a4042a143af6df60f15dfba86/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www042.vipanicdn.net/streamhls/3a7434a645480a6d5059334791ff171e/ep.89.1702865473.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=yugioh-go-rush-episode-89"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/693d294f749ace2a062e089dac9ddb5fd030423295f56256649fa79497460778b82ef512564c968ce98b938d3c6fbd192dfafdaa997f333c12313d20b9f0030a3f08ea8f8562c1b269b8b15832bb4c10fc3e74e94259fcea50114f54ac530bf954acfa946cb490fcf2b8d3e4d4e5e887d9d1eb6a4042a143af6df60f15dfba86/master.m3u8"
                 }
             }
-        },
-        "isFiller": false,
-        "downloadLink": {
-            "SUBBED": "MjE3MjIx"
         },
         "captions": [
             {
@@ -3359,13 +3363,9 @@
                 "lang": "Thumbnails"
             }
         ],
-        "intro": {
-            "start": 0,
-            "end": 0
-        },
-        "outro": {
-            "start": 0,
-            "end": 0
+        "isFiller": false,
+        "downloadLink": {
+            "SUBBED": "MjE3MjIx"
         }
     }
 }
