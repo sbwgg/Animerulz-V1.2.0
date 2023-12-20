@@ -469,6 +469,9 @@
         "title": "Decision",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/a82054af3635a954fc16eb63876178c610528d186d10fc7750159e886a3d281846b6aef8a9cb106572983082d865832beddb2d7de4a3bf9a08944871729adaa7874c76492457da0d1ee3927514128a8113537b9937f7febb1774389a4541fa297f529ae9bfd1e54a30ae141c662fdd0e372cd826644c85201c5dc25a54c3e5fe/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www008.vipanicdn.net/streamhls/3d57c18e516a9e425011962468e59dc8/ep.11.1702487252.m3u8"
                 },
@@ -477,6 +480,9 @@
                 }
             },
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/813dab8a1cb5d0341f71220bd8b7a6854069d18cdab003a3c2c24ab9b7f9e5a4a18a815bf2cf248d1b82a4da9bf54502cb58758db9c80b235a92b11987d6b02604856852c262e5b3d70c2422bfa7c1b5cdf6c1ea7ae505b9dbb7bdb756c079475e97c0484b62554a574de3412001315b03981d20316d037ec0ce6255ef114911/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www006.vipanicdn.net/streamhls/784821fabdeaff7592e0c178594b1b94/ep.11.1702480006.m3u8"
                 },
@@ -499,6 +505,53 @@
         "downloadLink": {
             "DUBBED": "MjE2OTg4",
             "SUBBED": "MjE2OTg2"
+        }
+    },
+    "12": {
+        "intro": {
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
+        },
+        "title": "Episode 12",
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/d00f1d2897658d1d92d64b521f7d364941a960b4b5210f522fc89f679145e0c934985fcddc1dc3743f1ee818b562b2d79ca1d559fea0dff1c17381a5cc92799e44fe481ef3b5d7a54db3d0952e4555ae80a1efa8d73f9d900b5e08887ff98e57f8f9050984e135a42a44a5c1e2c79c473cb56c91c9ad38173d7c35cdad66be5d/master.m3u8"
+                },
+                "Vid Streaming": {
+                    "link": "https://www002.vipanicdn.net/streamhls/784821fabdeaff7592e0c178594b1b94/ep.12.1703084560.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=kage-no-jitsuryokusha-ni-naritakute-2nd-season-episode-12"
+                }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www003.vipanicdn.net/streamhls/3d57c18e516a9e425011962468e59dc8/ep.12.1703085072.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=kage-no-jitsuryokusha-ni-naritakute-2nd-season-dub-episode-12"
+                }
+            }
+        },
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/e6/c5/e6c5bfc73f59425763d210dc8f0eef31/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/98/98737109762edca1da11b39cecca5e2c/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ],
+        "isFiller": false,
+        "downloadLink": {
+            "SUBBED": "MjE3MzI0",
+            "DUBBED": "MjE3MzI1"
         }
     }
 }
