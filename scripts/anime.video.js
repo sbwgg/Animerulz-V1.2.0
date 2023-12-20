@@ -993,12 +993,12 @@ function nextEpisode(){
             localStorage.setItem("isPrevVideoFullScreen", true);
         }
         try{
-            videoPlayer.innerHTML = ``;
-            if(max != urlData.episodeNumber)
+            if(max != urlData.episodeNumber){
                 setTimeout(() => {
+                    videoPlayer.innerHTML = ``;
                     document.querySelector(".control.next-episode").click();
-                }, 2000);
-            
+                }, 200);
+            }
         }catch{}
 }
 
