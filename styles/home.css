@@ -994,6 +994,17 @@ a{
 }
 .image-l-a img{
   width: 100%;
+  min-height: 300px;
+}
+@media only screen and (max-width:500px) {
+  .image-l-a img{
+    min-height: 250px;
+  }
+}
+@media only screen and (max-width:380px) {
+  .image-l-a img{
+    min-height: 200px;
+  }
 }
 .image-l-a{
   position: relative;
