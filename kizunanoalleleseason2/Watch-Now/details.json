@@ -413,6 +413,15 @@
         "isFiller": false
     },
     "11": {
+        "intro": {
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
+        },
+        "title": "\uff5eTime Limit of Despair\uff5e",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
@@ -420,8 +429,6 @@
                 }
             }
         },
-        "title": "Episode 11",
-        "isFiller": false,
         "captions": [
             {
                 "url": "https://ccb.megaresources.co/9e/87/9e876a3289619f49c9e566c652c48647/9e876a3289619f49c9e566c652c48647.vtt",
@@ -448,13 +455,35 @@
                 "lang": "Thumbnails"
             }
         ],
+        "isFiller": false
+    },
+    "12": {
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/b1f163871e061b159598b2bed4bd5c86b66454b706614738a832d78f7703447ccf4ad810888373d53a5e8358b08777a60395c91e53148b57a37052462855af9000731d144d968627f302ef112bb1c8e9b1920f1df02dd99efbf40eb274e5f81516ea491554267d3dc686244e47f463fe1b121bf1530c7caf0d3a051b84572cd3/master.m3u8"
+                }
+            }
+        },
+        "title": "\uff5eConnection of Hope\uff5e",
+        "isFiller": false,
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/f6/aa/f6aaae3643cc97ac7b1cab75aab6b06e/f6aaae3643cc97ac7b1cab75aab6b06e.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/24/241145dcf3c06229d8d6485a6324fa5f/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ],
         "intro": {
-            "start": 0,
-            "end": 0
+            "start": "38",
+            "end": "128"
         },
         "outro": {
-            "start": 0,
-            "end": 0
+            "start": "1355",
+            "end": "1445"
         }
     }
 }
