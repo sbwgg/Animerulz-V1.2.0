@@ -5,7 +5,8 @@ if(!searchBox)
 const trendingAnimeSearch = document.getElementsByClassName("search-results-trending-container__")[0];
 const recentSearchesContainer = document.getElementsByClassName("recent-searches-txt-container__")[0];
 const anilistContainer = document.getElementsByClassName("anilist-search-container")[0];
-const loaderAnilist = document.getElementsByClassName("loader-for-search-results")[0];
+const allDivMainContainer = document.getElementsByClassName('anilist-result-contanier-data__')[0];
+const loaderAnilist = document.getElementsByClassName("loading-animation-a")[0];
 const resultsDataContainer = document.getElementsByClassName("anilist-search-data-list")[0];
 const searchIcon = document.getElementsByClassName("search-box-icon__")[0];
 let key = 0;
@@ -50,7 +51,8 @@ searchBox.onkeyup = (e) => {
         if(e.keyCode == 8 && !searchBox.value){
             key = 0;
             trendingAnimeSearch.style.display = 'flex';
-            recentSearchesContainer.style.display = 'flex';
+            if(localStorage.searchHistory)
+                recentSearchesContainer.style.display = 'flex';
             anilistContainer.style.display = "none";
         }
         else{
@@ -63,7 +65,25 @@ searchBox.onkeyup = (e) => {
                 // callGetData(searchBox.value);
                 setTimeout(getDataFromAnilist(searchBox.value), 500);
             }
-            anilistContainer.addEventListener("load", hideLoader());
+            // anilistContainer.addEventListener("load", hideLoader());
+            //for adding loading animation to search results
+            if(!document.getElementsByClassName('loading-animation-a')[0]){
+                let searchLoaderDiv = document.createElement('div');
+                searchLoaderDiv.setAttribute('class', 'loading-animation-a');
+                searchLoaderDiv.innerHTML = `
+                <div class="animation-l-a">
+                <div class="rings-a ring-1-1">
+                    <div class="rings-cont"></div>
+                </div>
+                <div class="rings-a ring-1-2">
+                    <div class="rings-cont"></div>
+                </div>
+                <div class="rings-a ring-1-3">
+                    <div class="rings-cont"></div>
+                </div>
+                </div>`
+                allDivMainContainer.prepend(searchLoaderDiv);
+            }
         }
     }
 
@@ -85,7 +105,8 @@ function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
 function hideLoader(){
-    // loaderAnilist.style.display = "none";
+    const loaderAnilist = document.getElementsByClassName("loading-animation-a")[0];
+    loaderAnilist.style.display = "none";
 }
 
 function selectDownItem(){
@@ -221,6 +242,9 @@ function handleData(data) {
     let animeCount = 4;
     let requiredAnimeData = data.data.Page.media;
     if(requiredAnimeData.length == 0){
+        try{
+            hideLoader();
+        }catch{}
         resultsDataContainer.innerHTML = ` <div class="no-results-found-section">
         <span>No Results Found</span>
      </div>`;
@@ -266,6 +290,9 @@ function handleData(data) {
         }
         let listItem = document.createElement("li");
         listItem.innerHTML = temp;
+        try{
+            hideLoader();
+        }catch{}
         resultsDataContainer.appendChild(listItem);
         }
         let newTemp = `<div class="data-more-results" onclick='window.open("/search/?anime=${searchBox.value}", "_self")'>
