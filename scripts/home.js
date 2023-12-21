@@ -1,10 +1,9 @@
 const continueWatchingContainer = document.getElementsByClassName("continue-watching-division")[0];
 const continueWatchingData1 = localStorage.continueWatching;
-const continueWatchingData = JSON.parse(continueWatchingData1);
 
 
 function setContinueWatchingContainer(){
-    
+      const continueWatchingData = JSON.parse(continueWatchingData1);
     if(continueWatchingData.length != 0){
         let tempData = "";
         let counteR = 0;
@@ -102,6 +101,8 @@ if(localStorage.continueWatching){
 }
 
 function rearrangeAnimes(index){
+   const continueWatchingData = JSON.parse(continueWatchingData1);
+   
    let changePositionOf = continueWatchingData[continueWatchingData.length - index];
    continueWatchingData.splice(continueWatchingData.length - index, 1);
    continueWatchingData.push(changePositionOf);
