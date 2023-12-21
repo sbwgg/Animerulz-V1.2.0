@@ -55,12 +55,14 @@ function closeNotification(){
 //     setTimeout(setNotification, 3000);
 setTimeout(preloaderDisplayNone, 1000);
 window.addEventListener("load", function(){
-    console.log('innnnnnnnnn');
     if(pageType != 'a-main' && pageType != 'b-sub' && pageType != 'home'){
         setMoreMenu();
-        setSearchContainer();
+        // setSearchContainer();
     }
     preloaderDisplayNone();
+
+  
+
     setAnimesInTrendingHover();
 });
     function preloaderDisplayNone(){
@@ -653,10 +655,10 @@ function setRecentSearches(){
     }
 }
 
-if(pageType){
+// if(pageType){
     counterrr = setRecentSearches();
     setTrendingAnimeInSearch(counterrr);
-}
+// }
 
 function openSearch(anime){
     searchHistory = localStorage.getItem("searchHistory");
