@@ -2629,10 +2629,20 @@
         }
     },
     "70": {
-        "title": "episode - 70",
-        "isFiller": false,
+        "intro": {
+            "end": "0",
+            "start": "0"
+        },
+        "outro": {
+            "end": "0",
+            "start": "0"
+        },
+        "title": "Episode 70",
         "source": {
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/4dd6fbdb9a23ec6d0f09dd94af33070bc990a6c04b936bbe43117aee2ea7964abd6e2df4453aea22be1aed8465cfdc5f1456c2cdcb9992317f3afc7598d81f893e0f2917ab780bee22d5554cf83dd00f6331a3e68cff9267ee60807a479309c85de40934c58bbdd836816098276a429e2e031aa40fc6240ccf8492d72e8d64fa/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www005.vipanicdn.net/streamhls/87bdc69ae12f8197af33563fc18fc429/ep.70.1702577449.m3u8"
                 },
@@ -2641,8 +2651,57 @@
                 }
             }
         },
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/11/19/11192f2432d23d391be2c7ee09eae1c5/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/6c/6cc339212cb366bc4eb32151940e8791/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ],
+        "isFiller": false,
         "downloadLink": {
             "SUBBED": "MjE3MDc1"
+        }
+    },
+    "71": {
+        "intro": {
+            "end": "0",
+            "start": "0"
+        },
+        "outro": {
+            "end": "0",
+            "start": "0"
+        },
+        "title": "Episode 71",
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/9457ddcf54e0ad268f77600f830a2be486dc068beba3a2930c45251b3134c2f90d05a28d9e17deb7cad58430087c06d8ba96937f6e95f4f8cc9fe30f39d697b5c1595b10000b67a74ec008774ec6cef9115fe36a539ad68890db29f74ce584d10ca263a92fb659dda1be3ad1bfa7dd950ecc94a292b744071165f9da576e64a3/master.m3u8"
+                },
+                "Vid Streaming": {
+                    "link": "https://www003.vipanicdn.net/streamhls/87bdc69ae12f8197af33563fc18fc429/ep.71.1703182361.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=chiikawa-episode-71"
+                }
+            }
+        },
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/40/b3/40b382c4e5dc79031ea1f79f356641e7/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/41/411c7c7d5b2e2bb92f36343a42e95670/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ],
+        "isFiller": false,
+        "downloadLink": {
+            "SUBBED": "MjE3Mzc5"
         }
     }
 }
