@@ -60,6 +60,14 @@
         },
         "title": "Union",
         "source": {
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www002.vipanicdn.net/streamhls/830538dfdaa6632a9b9e1bbe26cb5aa7/ep.2.1703182355.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=undead-unluck-dub-episode-2"
+                }
+            },
             "SUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/ab4f8336d7355ef2f288760f32bb3d02b0a9354cdcbfca13a44634955bee95ec0bd05f3727ee2a24cb5ad968fb5fe7623d380451a98108000755640d8d0eaa06842900beb41820a320aee0bb0bf06d57b8882a507f4ceeeb7165c9829289335b9b10d665b2672637db6302a6ec5681c3667b2648c6b1d4364753d78f17a5bbdc/master.m3u8"
@@ -69,14 +77,6 @@
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=undead-unluck-episode-2"
-                }
-            },
-            "DUBBED": {
-                "Vid Streaming": {
-                    "link": "https://www002.vipanicdn.net/streamhls/830538dfdaa6632a9b9e1bbe26cb5aa7/ep.2.1703182355.m3u8"
-                },
-                "Awesome Stream": {
-                    "link": "https://player.ryuk.to?id=undead-unluck-dub-episode-2"
                 }
             }
         },
@@ -92,8 +92,8 @@
         ],
         "isFiller": false,
         "downloadLink": {
-            "SUBBED": "MjEzMjc1",
-            "DUBBED": "MjE3Mzc4"
+            "DUBBED": "MjE3Mzc4",
+            "SUBBED": "MjEzMjc1"
         }
     },
     "3": {
@@ -434,6 +434,44 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MjE3MTQz"
+        }
+    },
+    "12": {
+        "intro": {
+            "end": "315",
+            "start": "225"
+        },
+        "outro": {
+            "end": "1415",
+            "start": "1324"
+        },
+        "title": "Activate",
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/399add71e2d584834c63eca2ace3e78b4fed0242c654e563784666f7407d5fa2cab8dcde586499d769761f768fee3c3a93c33595e82cc45cfdc025d6c29beea39f661487623c173ee856c39d941178fed520d17342ab61ac5a948ffcc0e5d62aefce2c3520f54737009518a9fab445a1c427b5c6d378b322188b7e6f9d5b3346/master.m3u8"
+                },
+                "Vid Streaming": {
+                    "link": "https://www045.vipanicdn.net/streamhls/5d32f9cbeb3dcf6a5e89c760318a9ef9/ep.12.1703277636.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=undead-unluck-episode-12"
+                }
+            }
+        },
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/61/fa/61faad292b01ebe707f778da04d574e1/61faad292b01ebe707f778da04d574e1.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/62/625a46423f11ddf4b6c059e494193f27/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ],
+        "isFiller": false,
+        "downloadLink": {
+            "SUBBED": "MjE3NDI0"
         }
     }
 }

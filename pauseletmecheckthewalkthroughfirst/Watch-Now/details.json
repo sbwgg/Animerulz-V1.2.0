@@ -608,6 +608,15 @@
         "isFiller": false
     },
     "11": {
+        "intro": {
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
+        },
+        "title": "Episode 11",
         "source": {
             "SUBBED": {
                 "Vid Cloud": {
@@ -615,8 +624,6 @@
                 }
             }
         },
-        "title": "Episode 11",
-        "isFiller": false,
         "captions": [
             {
                 "url": "https://ccb.megaresources.co/3f/8e/3f8eb9b879f299fe86fd1686bf7a970f/3f8eb9b879f299fe86fd1686bf7a970f.vtt",
@@ -627,13 +634,35 @@
                 "lang": "Thumbnails"
             }
         ],
+        "isFiller": false
+    },
+    "12": {
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/56396003126d1030c84f92ef2db878baaeca35ef4e61938ac790e391b74b31033686dc9e3ab93a9369b42bf5f5f910b04e6a38bfa5d94ddca8968f6e7d8af0719a9299f2045bd49dc46ef3c25020f1bf59c58cc105468d233111193b1094a8231295e0d32baabeb7b97220158a8e57969eb86c18578f18e2f98a1e51e497b6fb/master.m3u8"
+                }
+            }
+        },
+        "title": "Episode 12",
+        "isFiller": false,
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/4c/66/4c66d6bcf8fff1ae28387d043a7cd100/4c66d6bcf8fff1ae28387d043a7cd100.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/21/21050f82db2d063cd188aaf21952c719/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ],
         "intro": {
-            "start": 0,
-            "end": 0
+            "start": "0",
+            "end": "0"
         },
         "outro": {
-            "start": 0,
-            "end": 0
+            "start": "0",
+            "end": "0"
         }
     }
 }

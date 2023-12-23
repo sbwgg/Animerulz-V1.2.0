@@ -698,6 +698,14 @@
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/de541667e52724f3cc11985c29fc33df3e8e230b84a64a2df41c9f63f9d6f6549f831882d0941afb29be2c1cc952f8530a6f2cfbfbb5a4a70da86173018f801dc10956626a756b5ef0dfac46554c38fb59bbe5496792717f966a83f42825c6066ece423156057e3d447cf29f05c286871d2c351ec07079f162fe9b2df23900de/master.m3u8"
                 }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www005.vipanicdn.net/streamhls/148923e367f2367331c01265ac060e66/ep.10.1703295821.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=hametsu-no-oukoku-dub-episode-10"
+                }
             }
         },
         "captions": [
@@ -742,7 +750,10 @@
                 "lang": "Thumbnails"
             }
         ],
-        "isFiller": false
+        "isFiller": false,
+        "downloadLink": {
+            "DUBBED": "MjE3NDI2"
+        }
     },
     "11": {
         "intro": {
@@ -780,6 +791,44 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MjE3MTQy"
+        }
+    },
+    "12": {
+        "intro": {
+            "end": "0",
+            "start": "0"
+        },
+        "outro": {
+            "end": "0",
+            "start": "0"
+        },
+        "title": "Episode 12",
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/289db6c23ada09e7db4901f7c0737685c3bf1d587dd8db0b18f226b9e8ce9f4f03d72cddcc2cbf4fd174188c4b6ece99674f573ba3b5b54797b76d4902e33b29bb92192983ef0df32309531626f424bbf54b366fba2fa357c244b1b5d9ebec5c5ca44e034f327f657ea7e4dd5d9a37e61b3925d5cc273b0dc40b2bd2b1f87696/master.m3u8"
+                },
+                "Vid Streaming": {
+                    "link": "https://www001.vipanicdn.net/streamhls/0f959692cc001934116073821f78fc5c/ep.12.1703271955.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=hametsu-no-oukoku-episode-12"
+                }
+            }
+        },
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/ac/84/ac841cacfcd450652dc9ca84377a9da5/ac841cacfcd450652dc9ca84377a9da5.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/b4/b4246bc7a8012c6ea9c32b842176cb3a/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ],
+        "isFiller": false,
+        "downloadLink": {
+            "SUBBED": "MjE3NDIy"
         }
     }
 }

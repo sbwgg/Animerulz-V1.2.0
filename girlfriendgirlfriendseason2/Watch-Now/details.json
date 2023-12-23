@@ -508,14 +508,14 @@
         },
         "title": "Vacay with the Girlfriends",
         "source": {
-            "SUBBED": {
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/2227cafd18f04f13e05a73ddfd9e09e019ef5036424da3b5529a03712692999f3653064d883841d8f5140fc04f0be7fb34da3257b4b4fee8f5842c66951e018f52b069b8225fa39d11a75af2b4c122344aac0a491b24d1184f18109c99295614c2429cbc70910bec8a18b8810fa2f5f13de973d34144812424d969d70a36e4b9/master.m3u8"
-                }
-            },
             "DUBBED": {
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/6a510c201807eff11c6f1d41eec045fd293cded8a64e2439d4358971a4de2eb42c87166f800fd922919ac08512c149c06ce99691d78923610f2dde951d30de029b8e38cb43df2a78938a46fbecfa5d5c12622c4d466762f3bd45394a5e1419f7d5a86baea324ecec446f4274b18f918426361e5d500c6a0b3377a7944648a719/master.m3u8"
+                }
+            },
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/2227cafd18f04f13e05a73ddfd9e09e019ef5036424da3b5529a03712692999f3653064d883841d8f5140fc04f0be7fb34da3257b4b4fee8f5842c66951e018f52b069b8225fa39d11a75af2b4c122344aac0a491b24d1184f18109c99295614c2429cbc70910bec8a18b8810fa2f5f13de973d34144812424d969d70a36e4b9/master.m3u8"
                 }
             }
         },
@@ -644,5 +644,34 @@
             }
         ],
         "isFiller": false
+    },
+    "12": {
+        "source": {
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/38bec346dd576f8b17e3d08106a772a0c2ec1bea992be0d957c5d210d828bdaa6113b2de2c49e843ae904ce21ec01c1efd2ca3511dd71245c346e6e82d98c34d2c24bda2cba629eb6860f0ff750b9136431d2d58d0ddcd3ec2f07a4127f3400c1a96a35f08dc9b1b43166e59ba2de38fab2225239130ac8ebdfd4860e3208fb6/master.m3u8"
+                }
+            }
+        },
+        "title": "Kanojo's determination.",
+        "isFiller": false,
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/87/9f/879ff8c002eeca471273205f45e443ea/879ff8c002eeca471273205f45e443ea.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/53/534f725881032fe8a121cb8062d48a00/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ],
+        "intro": {
+            "start": "0",
+            "end": "0"
+        },
+        "outro": {
+            "start": "0",
+            "end": "0"
+        }
     }
 }

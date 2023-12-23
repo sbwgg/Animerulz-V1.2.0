@@ -702,6 +702,14 @@
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/1e2ca86836715cc31802f63ed3614e8f31e4918221b47aabebc230e77aa8f8594c7d191da52142565a2245290731adaf859a6f1b61d220ea83c57b30d9f0128c027c43bc64239b20f5eac3027d3be4929bb9d8e48c596d179c5d14fb7b90c1e42c7f1d0f4543e46f8a4300dc4437aa1f35b1d9c49726e8f5b1bd977a533c1433/master.m3u8"
                 }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www008.vipanicdn.net/streamhls/7233e0b961f3905af77ade4830168f0e/ep.10.1703296257.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=tate-no-yuusha-no-nariagari-season-3-dub-episode-10"
+                }
             }
         },
         "captions": [
@@ -746,7 +754,10 @@
                 "lang": "Thumbnails"
             }
         ],
-        "isFiller": false
+        "isFiller": false,
+        "downloadLink": {
+            "DUBBED": "MjE3NDI5"
+        }
     },
     "11": {
         "intro": {
@@ -787,9 +798,20 @@
         }
     },
     "12": {
+        "intro": {
+            "end": "0",
+            "start": "0"
+        },
+        "outro": {
+            "end": "0",
+            "start": "0"
+        },
         "title": "The Ones We Must Protect",
         "source": {
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/5b8f74be1369997430c7beac5835be43a20a0a32f3084bd2bb04b20aa74574374318711a2c62fe754e28e20c9270d3da5dd41f487b2f9597cc4f16e774a675494b4db7f430541bebe4b6f841cdf3a79bcf0713b18967b77f04a274d9723a3769a4eda336e9e156628263fd517cff49c8518d6874d0c97f64a9514a52d111cf62/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www001.vipanicdn.net/streamhls/22081f9a60b54bd04a3b1c0031bd1d4d/ep.12.1703249590.m3u8"
                 },
@@ -798,6 +820,48 @@
                 }
             }
         },
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/74/bb/74bbc398b53aa36d4ec16859ab864dc7/ara-6.vtt",
+                "lang": "Arabic"
+            },
+            {
+                "url": "https://ccb.megaresources.co/74/bb/74bbc398b53aa36d4ec16859ab864dc7/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/74/bb/74bbc398b53aa36d4ec16859ab864dc7/fre-7.vtt",
+                "lang": "French"
+            },
+            {
+                "url": "https://ccb.megaresources.co/74/bb/74bbc398b53aa36d4ec16859ab864dc7/ger-8.vtt",
+                "lang": "German"
+            },
+            {
+                "url": "https://ccb.megaresources.co/74/bb/74bbc398b53aa36d4ec16859ab864dc7/ita-9.vtt",
+                "lang": "Italian"
+            },
+            {
+                "url": "https://ccb.megaresources.co/74/bb/74bbc398b53aa36d4ec16859ab864dc7/por-3.vtt",
+                "lang": "Portuguese - Portuguese(Brazil)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/74/bb/74bbc398b53aa36d4ec16859ab864dc7/rus-10.vtt",
+                "lang": "Russian"
+            },
+            {
+                "url": "https://ccb.megaresources.co/74/bb/74bbc398b53aa36d4ec16859ab864dc7/spa-5.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/74/bb/74bbc398b53aa36d4ec16859ab864dc7/spa-4.vtt",
+                "lang": "Spanish - Spanish(Latin_America)"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/45/45173ac13d9e9c9a15c05307ffa71663/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ],
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MjE3NDEz"

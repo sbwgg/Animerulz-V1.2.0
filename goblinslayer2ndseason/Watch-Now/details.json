@@ -522,6 +522,14 @@
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/46c5d8f4f36f8e78a7f21de70a3616a54eb932065e23198abd84dc47f4c820e19723b9579f745f39fbfd0252cf3bf4ce385fea2b9fb347909de4d5764c7966faf5e957086fae0c41970bc4b9e066582b7877a10ec0956585a4dc06cadf5b843a5f741d632447edc7031ca09762a4d4d00e6bdc3b7ea4b56a8544b0a626f6c471/master.m3u8"
                 }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www006.vipanicdn.net/streamhls/282d509e6cbcbaeb08ce8277c8c5c824/ep.10.1703295784.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=goblin-slayer-ii-dub-episode-10"
+                }
             }
         },
         "captions": [
@@ -546,7 +554,10 @@
                 "lang": "Thumbnails"
             }
         ],
-        "isFiller": false
+        "isFiller": false,
+        "downloadLink": {
+            "DUBBED": "MjE3NDI3"
+        }
     },
     "11": {
         "intro": {
@@ -587,9 +598,20 @@
         }
     },
     "12": {
+        "intro": {
+            "end": "0",
+            "start": "0"
+        },
+        "outro": {
+            "end": "0",
+            "start": "0"
+        },
         "title": "O Prayers, Have You Reached Heaven?",
         "source": {
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/532c451a4f1b676cb1c04052026339dd7761813d83d28cf9c002490c81dbb6772910ab0cbbe6b572e117654b76653b4e89764973878f832c8411b2fefecfa13e81f1b95386d14ea1127d885261d3a19396491ad7447490921be3f3d5e6ef2a6affb3f8e3d9eb4d50f69752273d44c240448b14e066bc127b670e36a6e6dadb93/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www047.vipanicdn.net/streamhls/aca3be220f104b59aee4017a6812afd8/ep.12.1703259586.m3u8"
                 },
@@ -598,6 +620,16 @@
                 }
             }
         },
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/b9/d6/b9d6f72ae9c52aa41535f4df2938bf4d/b9d6f72ae9c52aa41535f4df2938bf4d.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/79/79c060d9384a96a8094c603f32cfa098/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ],
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MjE3NDE2"

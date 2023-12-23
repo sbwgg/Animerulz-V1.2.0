@@ -1214,23 +1214,27 @@
         "isFiller": false
     },
     "33": {
+        "intro": {
+            "end": 130,
+            "start": 40
+        },
+        "outro": {
+            "end": 1395,
+            "start": 1306
+        },
         "title": "Episode 33",
         "source": {
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/b90330625a155457e72b13021a2e6c2bcdec398d19e8e21f3195083c4069e7e5e28232c1a4afceacc9a044c9af02b490efdc19a61b6616a839a67c6e55dd20286c58c554abe5138d2b9c0a0912b402c3ea14bebc796ae6bc43fafe62803ec53d4ebb3e19dd03f38772d35a2d6713669c80b95c04f9289c8cc1b77dfd9550463c/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www003.vipanicdn.net/streamhls/231a4e0d29a1199f8c6234a79aa964fd/ep.33.1702690140.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=pokemon-shinsaku-anime-episode-33"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/b90330625a155457e72b13021a2e6c2bcdec398d19e8e21f3195083c4069e7e5e28232c1a4afceacc9a044c9af02b490efdc19a61b6616a839a67c6e55dd20286c58c554abe5138d2b9c0a0912b402c3ea14bebc796ae6bc43fafe62803ec53d4ebb3e19dd03f38772d35a2d6713669c80b95c04f9289c8cc1b77dfd9550463c/master.m3u8"
                 }
             }
-        },
-        "isFiller": false,
-        "downloadLink": {
-            "SUBBED": "MjE3MTQ1"
         },
         "captions": [
             {
@@ -1242,13 +1246,26 @@
                 "lang": "Thumbnails"
             }
         ],
-        "intro": {
-            "start": 40,
-            "end": 130
+        "isFiller": false,
+        "downloadLink": {
+            "SUBBED": "MjE3MTQ1"
+        }
+    },
+    "34": {
+        "title": "episode - 34",
+        "isFiller": false,
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www041.vipanicdn.net/streamhls/231a4e0d29a1199f8c6234a79aa964fd/ep.34.1703300654.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=pokemon-shinsaku-anime-episode-34"
+                }
+            }
         },
-        "outro": {
-            "start": 1306,
-            "end": 1395
+        "downloadLink": {
+            "SUBBED": "MjE3NDMw"
         }
     }
 }

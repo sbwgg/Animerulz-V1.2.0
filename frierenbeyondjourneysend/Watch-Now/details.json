@@ -1066,6 +1066,14 @@
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/0c103949627b6c92d71b08d17ef31cd374a3ee6a127a450812f2d4b9e05c4d1390ea6c12359262e2c32862e7ca26ab61fd434e095e295eb2cf7e060b639061253c1bf488dfac84c74d3add5fe5120b51c382073848cae7b9026633066f8dc1d9fd5f3254fc386c6babce1753609f2ee30e2b6b1e31b5822dba9bf99fb204664d/master.m3u8"
                 }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www046.vipanicdn.net/streamhls/0d46a05da7afa998737f5bbb6773e838/ep.14.1703280111.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=sousou-no-frieren-dub-episode-14"
+                }
             }
         },
         "captions": [
@@ -1110,7 +1118,10 @@
                 "lang": "Thumbnails"
             }
         ],
-        "isFiller": false
+        "isFiller": false,
+        "downloadLink": {
+            "DUBBED": "MjE3NDI1"
+        }
     },
     "15": {
         "intro": {
@@ -1151,10 +1162,20 @@
         }
     },
     "16": {
-        "title": "episode - 16",
-        "isFiller": false,
+        "intro": {
+            "end": "0",
+            "start": "0"
+        },
+        "outro": {
+            "end": "0",
+            "start": "0"
+        },
+        "title": "Long-Lived Friends",
         "source": {
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/4ac1560d2eb4e6ec071d04456e8a46afb01ddb889f30fcb2f937bd5a0c47273a9303c1e3c63c8fdc529972ab09bab3fb65f2c1da09840a3e13ac5fbd08d8dbe0cd62726ec02614705e64dd4aa25d47ccda6f4a57f27e829b86d940496c36dc581332f842d21044d496d2f1ef959399128f033cac2c2a2fee5058db101fc5119e/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www006.vipanicdn.net/streamhls/7f8dd00fcdec4483b9ff13f47a3ec4e2/ep.16.1703257535.m3u8"
                 },
@@ -1163,6 +1184,45 @@
                 }
             }
         },
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/9f/0e/9f0e78bbf13f498a8071d3c96eb490d2/ara-6.vtt",
+                "lang": "Arabic"
+            },
+            {
+                "url": "https://ccb.megaresources.co/9f/0e/9f0e78bbf13f498a8071d3c96eb490d2/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/9f/0e/9f0e78bbf13f498a8071d3c96eb490d2/ger-7.vtt",
+                "lang": "German"
+            },
+            {
+                "url": "https://ccb.megaresources.co/9f/0e/9f0e78bbf13f498a8071d3c96eb490d2/ita-8.vtt",
+                "lang": "Italian"
+            },
+            {
+                "url": "https://ccb.megaresources.co/9f/0e/9f0e78bbf13f498a8071d3c96eb490d2/por-3.vtt",
+                "lang": "Portuguese - Portuguese(Brazil)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/9f/0e/9f0e78bbf13f498a8071d3c96eb490d2/rus-9.vtt",
+                "lang": "Russian"
+            },
+            {
+                "url": "https://ccb.megaresources.co/9f/0e/9f0e78bbf13f498a8071d3c96eb490d2/spa-5.vtt",
+                "lang": "Spanish"
+            },
+            {
+                "url": "https://ccb.megaresources.co/9f/0e/9f0e78bbf13f498a8071d3c96eb490d2/spa-4.vtt",
+                "lang": "Spanish - Spanish(Latin_America)"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/49/499eb7cea7c3116c2edaf5a28c21880a/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ],
+        "isFiller": false,
         "downloadLink": {
             "SUBBED": "MjE3NDE4"
         }
