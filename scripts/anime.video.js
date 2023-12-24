@@ -1061,8 +1061,6 @@ function backwardTenSec(){
 }
 
 function getCaptionsTracks(tracks){
-    if(!tracks)
-        return ""
     let tracksHtml = '';
     let languageCodes = {
         "English": "en",
@@ -1115,7 +1113,12 @@ function getCaptionsTracks(tracks){
         "Welsh": "cy",
         "Luxembourgish": "lb",
         "Esperanto": "eo"
-      }      
+      }   
+    if(!tracks)
+        return ""
+    else if(typeof tracks == 'string'){
+        return `<track kind="captions" label="en" srclang="English" src="${tracks}"/>`;
+    }
     for(let i = 0; i < tracks.length; i ++){
         let trackLang = tracks[i].lang.split(" ")[0];
         let languageCode = languageCodes[trackLang]
