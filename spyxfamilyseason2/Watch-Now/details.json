@@ -630,14 +630,14 @@
         "title": "The Hand That Connects to the Future",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/5d5886a8c8b67d62672ffa79bd9b4e47c17228d9c18359ceb4a98fdfb2761d4d9b976a18db790bf734d1f11c7c68745b7d39b3a6f083b53e6dc2d449355d089c43e1637079dc36ae96d1f7a5e1f0b1448376feab070ce05c7ea887b9a1041e586c0aaf5a339b7910921730f1ddb610d933bd7b7a46bcbf4d5ed8984714908110/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www005.vipanicdn.net/streamhls/80f87c38787b39b4f204ac5667db7771/ep.9.1702786634.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=spy-x-family-season-2-dub-episode-9"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/5d5886a8c8b67d62672ffa79bd9b4e47c17228d9c18359ceb4a98fdfb2761d4d9b976a18db790bf734d1f11c7c68745b7d39b3a6f083b53e6dc2d449355d089c43e1637079dc36ae96d1f7a5e1f0b1448376feab070ce05c7ea887b9a1041e586c0aaf5a339b7910921730f1ddb610d933bd7b7a46bcbf4d5ed8984714908110/master.m3u8"
                 }
             },
             "SUBBED": {
@@ -708,6 +708,14 @@
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/6e5d815dc4a636d8f56f9440efc0d8e5a5f3acf43134521353672dfa01d3fb7ce92d302897029e7334e84ed8af38b1e238414ce13ab2310c9aaa4d495df6a67699557d6bbc520eaff7b50a361eb73c169c546e44d5cede88a62edb632749828d91bfc0fd8049c2ffa469d4ec2b7e6244fc0c447b43f63f9ccb55f6839e448a8a/master.m3u8"
                 }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www003.vipanicdn.net/streamhls/80f87c38787b39b4f204ac5667db7771/ep.10.1703386267.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=spy-x-family-season-2-dub-episode-10"
+                }
             }
         },
         "captions": [
@@ -752,7 +760,10 @@
                 "lang": "Thumbnails"
             }
         ],
-        "isFiller": false
+        "isFiller": false,
+        "downloadLink": {
+            "DUBBED": "MjE3NDY5"
+        }
     },
     "11": {
         "intro": {
@@ -790,6 +801,23 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MjE3MTg1"
+        }
+    },
+    "12": {
+        "title": "episode - 12",
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www001.vipanicdn.net/streamhls/77d89f58cdcd20bdb5bddfa297fbdf29/ep.12.1703351348.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=spy-x-family-season-2-episode-12"
+                }
+            }
+        },
+        "isFiller": false,
+        "downloadLink": {
+            "SUBBED": "MjE3NDU4"
         }
     }
 }

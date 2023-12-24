@@ -622,14 +622,14 @@
         "title": "A Warrior's Fire",
         "source": {
             "DUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/34fd924cc9875b4b76cab1b45c7dcedc40430cfd822604add74540589cf399e3034015dcd9cbe160a2e851c8fb30dc310462f8261d00a592b06374dc5815956300d9aad6fd5d357e6f47bdca0f307ba58e5942c080651ff559243efc11d29a9c84e46397940501b557c576f5a69196c5b58c8944d1e916c5a424cb889e04de85/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www041.vipanicdn.net/streamhls/4d73b568361f02482c02601e3b6365e3/ep.9.1702786093.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=saihate-no-paladin-tetsusabi-no-yama-no-ou-dub-episode-9"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/34fd924cc9875b4b76cab1b45c7dcedc40430cfd822604add74540589cf399e3034015dcd9cbe160a2e851c8fb30dc310462f8261d00a592b06374dc5815956300d9aad6fd5d357e6f47bdca0f307ba58e5942c080651ff559243efc11d29a9c84e46397940501b557c576f5a69196c5b58c8944d1e916c5a424cb889e04de85/master.m3u8"
                 }
             },
             "SUBBED": {
@@ -700,6 +700,14 @@
                 "Vid Cloud": {
                     "link": "https://eno.tendoloads.com/_v6/e4d8693cd02728edecafc25eb81e4b91ed47acdeb29a09ab36eae661eeee1b2c5a93b2338823d845f226a5078d6c81b28c4a59a58fbbd4d6f96769ab3faf674fc882650fc4f3bf324a5f253c94702a643cb7616f95bbbeb360066480452bbcca5e69c0961562921e86860f9a60d8060a024817ab20076412c487c245f12ca782/master.m3u8"
                 }
+            },
+            "DUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www041.vipanicdn.net/streamhls/4d73b568361f02482c02601e3b6365e3/ep.10.1703386482.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=saihate-no-paladin-tetsusabi-no-yama-no-ou-dub-episode-10"
+                }
             }
         },
         "captions": [
@@ -744,7 +752,10 @@
                 "lang": "Thumbnails"
             }
         ],
-        "isFiller": false
+        "isFiller": false,
+        "downloadLink": {
+            "DUBBED": "MjE3NDcw"
+        }
     },
     "11": {
         "intro": {
@@ -786,6 +797,23 @@
         "isFiller": false,
         "downloadLink": {
             "SUBBED": "MjE3MTgx"
+        }
+    },
+    "12": {
+        "title": "episode - 12",
+        "source": {
+            "SUBBED": {
+                "Vid Streaming": {
+                    "link": "https://www046.vipanicdn.net/streamhls/e5d374654ba4a3a903bb2575940cd25b/ep.12.1703360539.m3u8"
+                },
+                "Awesome Stream": {
+                    "link": "https://player.ryuk.to?id=saihate-no-paladin-tetsusabi-no-yama-no-ou-episode-12"
+                }
+            }
+        },
+        "isFiller": false,
+        "downloadLink": {
+            "SUBBED": "MjE3NDU1"
         }
     }
 }
