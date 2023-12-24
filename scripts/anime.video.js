@@ -858,6 +858,7 @@ function setHlsPlayer(source, intro, outro, tracks=false){
             posterElement.setAttribute("style", "opacity:0 !important");
           });
           video.addEventListener("canplay", () => { 
+            // setTimeout(captureFrame, 5000); 
             localStorage.setItem(`${animeName}-full-time`, video.plyr.duration)
             let progressBar = document.querySelector(".plyr__progress");
             let duration = video.duration;
@@ -960,7 +961,11 @@ function setPreviousEpisodeButtonShortAnime(presentEpisode){
 function setVideoEventListner(){
     let video = document.querySelector('video');
     let previousTime = localStorage.getItem(`${animeName}-prev-time`);
+
     if(previousTime && localStorage.getItem('isVideoPrevTime') != 'false'){
+        if(Math.floor(Number(previousTime)) === Math.floor(Number(video.plyr.duration)) && urlData.episodeNumber == max){
+            previousTime = 0;
+        }
         video.currentTime = previousTime;
         localStorage.setItem('isVideoPrevTime', false)
     }
@@ -1177,3 +1182,24 @@ function addAnimeToQueue(){
         localStorage.setItem("continueWatching", JSON.stringify(convertedExistingData));
     }
 }
+
+function captureFrame() {
+    let video = document.getElementsByTagName('video')[0];
+    const canvas = document.createElement('canvas');
+    const context = canvas.getContext('2d');
+    
+    canvas.width = video.videoWidth;
+    canvas.height = video.videoHeight;
+    
+    context.drawImage(video, 0, 0, canvas.width, canvas.height);
+
+    var dataURL = canvas.toDataURL('image/png'); // You can change the format if needed
+
+    // Create an image element
+    var imageElement = new Image();
+    imageElement.src = dataURL;
+
+    // Open the image in a new browser tab
+    var newWindow = window.open();
+    newWindow.document.write('<img src="' + dataURL + '" alt="Canvas Image">');
+  }
