@@ -690,23 +690,27 @@
         }
     },
     "12": {
+        "intro": {
+            "end": 161,
+            "start": 72
+        },
+        "outro": {
+            "end": 1417,
+            "start": 1336
+        },
         "title": "Be Back Soon...!?",
         "source": {
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/a6f16f47ce77f20a370b71350762e75bc8bb380ec8f9105310323e2cd25ade0e1aae55c8d10e3575b94063e2524107117d7a6c40de676fdfd939b12c5d98573db72f7120d6be293700b106185d501702386fd601998397e23ea95516a652cf2a8676ed683bca499ab359ab24ffc24af88cf50df75204f9993609419705a1c4c2/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www003.vipanicdn.net/streamhls/88ce6c56ce213132dee90f7458b37938/ep.12.1703353067.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=atarashii-joushi-wa-do-tennen-episode-12"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/a6f16f47ce77f20a370b71350762e75bc8bb380ec8f9105310323e2cd25ade0e1aae55c8d10e3575b94063e2524107117d7a6c40de676fdfd939b12c5d98573db72f7120d6be293700b106185d501702386fd601998397e23ea95516a652cf2a8676ed683bca499ab359ab24ffc24af88cf50df75204f9993609419705a1c4c2/master.m3u8"
                 }
             }
-        },
-        "isFiller": false,
-        "downloadLink": {
-            "SUBBED": "MjE3NDYw"
         },
         "captions": [
             {
@@ -746,13 +750,9 @@
                 "lang": "Thumbnails"
             }
         ],
-        "intro": {
-            "start": 72,
-            "end": 161
-        },
-        "outro": {
-            "start": 1336,
-            "end": 1417
+        "isFiller": false,
+        "downloadLink": {
+            "SUBBED": "MjE3NDYw"
         }
     }
 }

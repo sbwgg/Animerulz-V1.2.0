@@ -386,23 +386,27 @@
         }
     },
     "11": {
+        "intro": {
+            "end": 169,
+            "start": 80
+        },
+        "outro": {
+            "end": 1421,
+            "start": 1332
+        },
         "title": "A Real Holy Knight",
         "source": {
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/1c0ecc12051fd74db51202b44c0293dc33917198acd41205c1dbfdcd35934b90ffd5cf865d105d655d5f5721cbbe00c138e797f55f9c2e5b3848f9aa26b3634bb99865159b5e82e14e4ced9d48ab034b6b009a3f9c1380d3ebb449100f2719b82695c7aaaad33bf31183229854822010b3b799ec89fee4b29ea0b804321706aa/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www006.vipanicdn.net/streamhls/d24fda52d648a068a2929e3e82d9fd82/ep.11.1703572567.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=nanatsu-no-taizai-mokushiroku-no-yonkishi-episode-11"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/1c0ecc12051fd74db51202b44c0293dc33917198acd41205c1dbfdcd35934b90ffd5cf865d105d655d5f5721cbbe00c138e797f55f9c2e5b3848f9aa26b3634bb99865159b5e82e14e4ced9d48ab034b6b009a3f9c1380d3ebb449100f2719b82695c7aaaad33bf31183229854822010b3b799ec89fee4b29ea0b804321706aa/master.m3u8"
                 }
             }
-        },
-        "isFiller": false,
-        "downloadLink": {
-            "SUBBED": "MjE3NTQ0"
         },
         "captions": [
             {
@@ -414,13 +418,9 @@
                 "lang": "Thumbnails"
             }
         ],
-        "intro": {
-            "start": 80,
-            "end": 169
-        },
-        "outro": {
-            "start": 1332,
-            "end": 1421
+        "isFiller": false,
+        "downloadLink": {
+            "SUBBED": "MjE3NTQ0"
         }
     }
 }

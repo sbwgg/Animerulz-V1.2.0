@@ -956,23 +956,27 @@
         }
     },
     "25": {
+        "intro": {
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 1422,
+            "start": 1331
+        },
         "title": "Dark Gathering",
         "source": {
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/1dc9b0140d0612b7d99c177ba8b55db3d3551484cf4b347b3f7ce20c956a7c6f780027b4d536f2b6cb681d641252878f77d11650148e82f1a6495e709310015cc597d2125ecf7e771a5cc3239a6af1abf6e0e821d732b9f56acceb0a7b2b76dbc91bbaf7832317fcdfcd00ec6e9cae520d74d2e3b3075562889052fe0900082e/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www049.vipanicdn.net/streamhls/dce0068348355ea9f3ebaea125f70e0e/ep.25.1703438426.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=dark-gathering-episode-25"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/1dc9b0140d0612b7d99c177ba8b55db3d3551484cf4b347b3f7ce20c956a7c6f780027b4d536f2b6cb681d641252878f77d11650148e82f1a6495e709310015cc597d2125ecf7e771a5cc3239a6af1abf6e0e821d732b9f56acceb0a7b2b76dbc91bbaf7832317fcdfcd00ec6e9cae520d74d2e3b3075562889052fe0900082e/master.m3u8"
                 }
             }
-        },
-        "isFiller": false,
-        "downloadLink": {
-            "SUBBED": "MjE3NDg4"
         },
         "captions": [
             {
@@ -984,13 +988,9 @@
                 "lang": "Thumbnails"
             }
         ],
-        "intro": {
-            "start": 0,
-            "end": 0
-        },
-        "outro": {
-            "start": 1331,
-            "end": 1422
+        "isFiller": false,
+        "downloadLink": {
+            "SUBBED": "MjE3NDg4"
         }
     }
 }

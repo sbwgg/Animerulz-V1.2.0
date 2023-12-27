@@ -803,23 +803,27 @@
         }
     },
     "13": {
+        "intro": {
+            "end": 123,
+            "start": 34
+        },
+        "outro": {
+            "end": 1255,
+            "start": 1166
+        },
         "title": "The Case of the Yadagami-sama Murders (Part 2)",
         "source": {
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/4d6f8fbee3f5498b42753513a1d3ae9ba0c6deb301e6c0539f60b4d5c9ed460bcbe68645a5fb6af36cf5e84b13b873cec27ff8f9e33abfa932b3985bc07f14997a239de5cf9d3431999770a9e3577023b7a6802a6afe0a973603da9f6ecb35d79ca5e94cf3b15f2500af90ed4d3a0e13cb54f11d80852ca8da1a7e8fc98db808/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www002.vipanicdn.net/streamhls/ea0d79393d63f1a44743683a89b0753b/ep.13.1703519952.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=kamonohashi-ron-no-kindan-suiri-episode-13"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/4d6f8fbee3f5498b42753513a1d3ae9ba0c6deb301e6c0539f60b4d5c9ed460bcbe68645a5fb6af36cf5e84b13b873cec27ff8f9e33abfa932b3985bc07f14997a239de5cf9d3431999770a9e3577023b7a6802a6afe0a973603da9f6ecb35d79ca5e94cf3b15f2500af90ed4d3a0e13cb54f11d80852ca8da1a7e8fc98db808/master.m3u8"
                 }
             }
-        },
-        "isFiller": false,
-        "downloadLink": {
-            "SUBBED": "MjE3NTIy"
         },
         "captions": [
             {
@@ -859,13 +863,9 @@
                 "lang": "Thumbnails"
             }
         ],
-        "intro": {
-            "start": 34,
-            "end": 123
-        },
-        "outro": {
-            "start": 1166,
-            "end": 1255
+        "isFiller": false,
+        "downloadLink": {
+            "SUBBED": "MjE3NTIy"
         }
     }
 }

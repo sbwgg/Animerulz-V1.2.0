@@ -800,23 +800,27 @@
         }
     },
     "12": {
+        "intro": {
+            "end": 106,
+            "start": 17
+        },
+        "outro": {
+            "end": 0,
+            "start": 0
+        },
         "title": "Calldawn",
         "source": {
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/e723531d74bbfdd1058b12b78e7c9effd36447e31124bd0b0b9dee881ba8e80c1f075689af1630f00887b1d15ae59d0a518006a05d5365dc9816f1273405c3a065ab2a901f30eb8caca90743d549c47c3ed5dffdc8dc71e479e5a93bdcedc21c7bd8723f38ab4cbef30528f054f5d4a30fad96bd1d98b891b88676ee3bf72c94/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www046.vipanicdn.net/streamhls/e5d374654ba4a3a903bb2575940cd25b/ep.12.1703360539.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=saihate-no-paladin-tetsusabi-no-yama-no-ou-episode-12"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/e723531d74bbfdd1058b12b78e7c9effd36447e31124bd0b0b9dee881ba8e80c1f075689af1630f00887b1d15ae59d0a518006a05d5365dc9816f1273405c3a065ab2a901f30eb8caca90743d549c47c3ed5dffdc8dc71e479e5a93bdcedc21c7bd8723f38ab4cbef30528f054f5d4a30fad96bd1d98b891b88676ee3bf72c94/master.m3u8"
                 }
             }
-        },
-        "isFiller": false,
-        "downloadLink": {
-            "SUBBED": "MjE3NDU1"
         },
         "captions": [
             {
@@ -860,13 +864,9 @@
                 "lang": "Thumbnails"
             }
         ],
-        "intro": {
-            "start": 17,
-            "end": 106
-        },
-        "outro": {
-            "start": 0,
-            "end": 0
+        "isFiller": false,
+        "downloadLink": {
+            "SUBBED": "MjE3NDU1"
         }
     }
 }

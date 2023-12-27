@@ -608,23 +608,27 @@
         }
     },
     "12": {
+        "intro": {
+            "end": "0",
+            "start": "0"
+        },
+        "outro": {
+            "end": "0",
+            "start": "0"
+        },
         "title": "Paradox Live",
         "source": {
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/cf0abb441d7285df420ed3071498863db8b0e9ed40af9a2f3f702a2af8c027a54c759f0aedfb1c0edbc7f6f0d15e0e651103bb3e9c2d13f7c24fdaba28472442a511390e06eb05268e726a63effd4edc10311c9d3d7d46945f979182e90d93ea4702b9479e1bebbdb0589cc225404606a4bb0dbffa73ba2d5acdb4e1ca7fecbb/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www006.vipanicdn.net/streamhls/0f22403a5c4d21ae0c893e8901fe13d2/ep.12.1703618707.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=paradox-live-the-animation-episode-12"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/cf0abb441d7285df420ed3071498863db8b0e9ed40af9a2f3f702a2af8c027a54c759f0aedfb1c0edbc7f6f0d15e0e651103bb3e9c2d13f7c24fdaba28472442a511390e06eb05268e726a63effd4edc10311c9d3d7d46945f979182e90d93ea4702b9479e1bebbdb0589cc225404606a4bb0dbffa73ba2d5acdb4e1ca7fecbb/master.m3u8"
                 }
             }
-        },
-        "isFiller": false,
-        "downloadLink": {
-            "SUBBED": "MjE3NTYy"
         },
         "captions": [
             {
@@ -656,13 +660,9 @@
                 "lang": "Thumbnails"
             }
         ],
-        "intro": {
-            "start": "0",
-            "end": "0"
-        },
-        "outro": {
-            "start": "0",
-            "end": "0"
+        "isFiller": false,
+        "downloadLink": {
+            "SUBBED": "MjE3NTYy"
         }
     }
 }

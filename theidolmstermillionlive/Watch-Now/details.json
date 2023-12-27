@@ -685,23 +685,27 @@
         }
     },
     "12": {
+        "intro": {
+            "end": 133,
+            "start": 44
+        },
+        "outro": {
+            "end": 1425,
+            "start": 1340
+        },
         "title": "To a New Future",
         "source": {
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/39b5b05e0d6ea4d10bbb8e1511cca9de8b6a27f8eeb68b7bc0fb38db9b066e7d428ba90fcb65d64538459914f1f50c2f5beff7aee057a4eb9686a9ea7534688d48ad4470efc16748294f8c99aa7b506e144426ddce0cd672974435bb4c998d4af4c383b651195275e702893fd0fcb9ac0f13bc3074ef52e9423840739dbb239b/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www006.vipanicdn.net/streamhls/117bb4e5a8d98b33d6bb2f23364eec05/ep.12.1703387826.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=the-idolmster-million-live-episode-12"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/39b5b05e0d6ea4d10bbb8e1511cca9de8b6a27f8eeb68b7bc0fb38db9b066e7d428ba90fcb65d64538459914f1f50c2f5beff7aee057a4eb9686a9ea7534688d48ad4470efc16748294f8c99aa7b506e144426ddce0cd672974435bb4c998d4af4c383b651195275e702893fd0fcb9ac0f13bc3074ef52e9423840739dbb239b/master.m3u8"
                 }
             }
-        },
-        "isFiller": false,
-        "downloadLink": {
-            "SUBBED": "MjE3NDcy"
         },
         "captions": [
             {
@@ -741,13 +745,9 @@
                 "lang": "Thumbnails"
             }
         ],
-        "intro": {
-            "start": 44,
-            "end": 133
-        },
-        "outro": {
-            "start": 1340,
-            "end": 1425
+        "isFiller": false,
+        "downloadLink": {
+            "SUBBED": "MjE3NDcy"
         }
     }
 }

@@ -3369,23 +3369,27 @@
         }
     },
     "90": {
+        "intro": {
+            "end": 0,
+            "start": 0
+        },
+        "outro": {
+            "end": 1419,
+            "start": 1330
+        },
         "title": "One Galaxy",
         "source": {
             "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/ea90ee0e6a17c2d7a3db5a140b6a66decb516e5200d0f6d33de3e26b9e66379c53c0db865bdafc6d8f0d28cfb3d65081070b220821df987050ec16a92cad25845bdb7721453453c93a93f8883458ee5f80c3377cbaa13fb41013de5dbb447aa7639a4e1a6ff0c6e56e4aaf56591699e8569b95224861599c0e6cb9e56448705c/master.m3u8"
+                },
                 "Vid Streaming": {
                     "link": "https://www047.vipanicdn.net/streamhls/3a7434a645480a6d5059334791ff171e/ep.90.1703408981.m3u8"
                 },
                 "Awesome Stream": {
                     "link": "https://player.ryuk.to?id=yugioh-go-rush-episode-90"
-                },
-                "Vid Cloud": {
-                    "link": "https://eno.tendoloads.com/_v6/ea90ee0e6a17c2d7a3db5a140b6a66decb516e5200d0f6d33de3e26b9e66379c53c0db865bdafc6d8f0d28cfb3d65081070b220821df987050ec16a92cad25845bdb7721453453c93a93f8883458ee5f80c3377cbaa13fb41013de5dbb447aa7639a4e1a6ff0c6e56e4aaf56591699e8569b95224861599c0e6cb9e56448705c/master.m3u8"
                 }
             }
-        },
-        "isFiller": false,
-        "downloadLink": {
-            "SUBBED": "MjE3NDc2"
         },
         "captions": [
             {
@@ -3397,13 +3401,9 @@
                 "lang": "Thumbnails"
             }
         ],
-        "intro": {
-            "start": 0,
-            "end": 0
-        },
-        "outro": {
-            "start": 1330,
-            "end": 1419
+        "isFiller": false,
+        "downloadLink": {
+            "SUBBED": "MjE3NDc2"
         }
     }
 }
