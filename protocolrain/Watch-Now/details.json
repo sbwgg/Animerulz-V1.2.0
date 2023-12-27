@@ -403,8 +403,38 @@
     "12": {
         "title": "Promise: Protocol",
         "source": {
-            "SUBBED": {}
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/2fa768651f982680e2eca3cd899344cef2cdbb1772c7a4d6a46803d2dcff9c1b20ad33cd1fdf807677ef46086e61264fd4b45e68f5987b9ae35338114da8a904772221b867870616f3cc70e5129b18211df2a3c863b4aee4a7a885031fdcfbec42f0f5f8610ca38d11d2f310c63deda524ce9cecc95d4396a3c915f5850847eb/master.m3u8"
+                }
+            }
         },
-        "isFiller": false
+        "isFiller": false,
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/f4/a4/f4a4890df3d9760f1d6f5f95ff29e95c/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/f4/a4/f4a4890df3d9760f1d6f5f95ff29e95c/por-3.vtt",
+                "lang": "Portuguese - Portuguese(Brazil)"
+            },
+            {
+                "url": "https://ccb.megaresources.co/f4/a4/f4a4890df3d9760f1d6f5f95ff29e95c/spa-4.vtt",
+                "lang": "Spanish - Spanish(Latin_America)"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/8f/8fccd4c7951f4227f0b6560a5e9aa049/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ],
+        "intro": {
+            "start": 0,
+            "end": 0
+        },
+        "outro": {
+            "start": 1289,
+            "end": 1377
+        }
     }
 }

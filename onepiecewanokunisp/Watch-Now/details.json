@@ -342,8 +342,38 @@
     "11": {
         "title": "Episode 11",
         "source": {
-            "SUBBED": {}
+            "SUBBED": {
+                "Vid Cloud": {
+                    "link": "https://eno.tendoloads.com/_v6/374c93293c115f8863d021c47e93f2f66df7311bd7b8f973f05b4d415dd6690a5249b3c262c513e93acacd02d9dc223be341f7610968f6f67dd467101498190143a8bbb43e18dee6485065a7f821113e9abe6c55b46ea11b39d33cb98dd7aa73707da66d0b641d9174dab4dcb04b7877f8851527dc8abbfd6c73a838e86475b1/master.m3u8"
+                }
+            }
         },
-        "isFiller": false
+        "isFiller": false,
+        "captions": [
+            {
+                "url": "https://ccb.megaresources.co/b5/d2/b5d278a18a16c2003b52c2a01cd6f137/ara-4.vtt",
+                "lang": "Arabic"
+            },
+            {
+                "url": "https://ccb.megaresources.co/b5/d2/b5d278a18a16c2003b52c2a01cd6f137/eng-2.vtt",
+                "lang": "English"
+            },
+            {
+                "url": "https://ccb.megaresources.co/b5/d2/b5d278a18a16c2003b52c2a01cd6f137/por-3.vtt",
+                "lang": "Portuguese - Portuguese(Brazil)"
+            },
+            {
+                "url": "https://imgb.megaresources.co/_a_preview/e9/e93ca59398f5c4dc3bfdf7fb8eab971d/thumbnails/sprite.vtt",
+                "lang": "Thumbnails"
+            }
+        ],
+        "intro": {
+            "start": 0,
+            "end": 100
+        },
+        "outro": {
+            "start": 1306,
+            "end": 1396
+        }
     }
 }
